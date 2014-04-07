@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Jason Braunstein</origin>
+				<pubdate>August 2007</pubdate>
+				<title Sync="TRUE">OwnerParcel</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink Sync="TRUE"></onlink>
+				<ftname Sync="TRUE">OwnerParcel</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This dataset contains the parcel boundaries within the Agricultural and Forestal Districts in Virginia.</abstract>
+			<purpose>Statewide GIS coverage of parcels within the Agricultural and Forestal Districts in Virginia.</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>August 2007</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-78.847853</westbc>
+				<eastbc Sync="TRUE">-77.159502</eastbc>
+				<northbc Sync="TRUE">39.323255</northbc>
+				<southbc Sync="TRUE">37.751153</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">11384503.000050</leftbc><rightbc Sync="TRUE">11862191.788613</rightbc><bottombc Sync="TRUE">6595143.839333</bottombc><topbc Sync="TRUE">7164973.500485</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekey>agricutlural forestal district agriculture forestry district easement forest natural resource conservation virginia tax parcels owner</themekey>
+				<themekt>tax parcels</themekt></theme>
+			<place>
+				<placekey>Virginia</placekey>
+			</place>
+		</keywords>
+		<accconst>Data are available to all interested parties.</accconst>
+		<useconst>Data are only to be redistributed with accompanying metadata.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Jason Braunstein</cntper>
+					<cntorg>Virginia Department of Forestry</cntorg>
+				</cntperp>
+				<cntpos>GIS Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>900 Natural Resources Drive</address>
+					<address>Suite 800</address>
+					<city>Charlottesville</city>
+					<state>Va</state>
+					<postal>22903</postal>
+					<country>U.S.A</country>
+				</cntaddr>
+				<cntvoice>434-944-6555</cntvoice>
+				<cntfax>434-296-2369</cntfax>
+				<cntemail>jason.braunstein@dof.virginia.gov</cntemail>
+				<hours>8:00am- 4:45pm</hours>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.4.1420</native>
+		<natvform Sync="TRUE">Personal GeoDatabase Feature Class</natvform></idinfo>
+	<dataqual>
+		<logic>Data is believed to be logically consistent with the tax parcel data layer.  No spatial accuracy confirmation tests have been conducted.</logic>
+		<complete>All layers updated in June 1, 2007 unless noted.
+Augusta- Incomplete Ag/For District layer names given, last updated 2005.
+Clarke- Complete
+Culpeper- Last updated 2005.
+Fairfax- Incomplete Ag/For District names in the data layer.
+Fauquier- Incomplete approval and expiration dates in data.
+Frederick- Complete
+Loudoun- Complete
+Prince William- Incomplete approval dates and no expiration dates in data
+Rappahannock- Complete 
+Rockingham- Incomplete Ag/For Districts in data layer. Incomplete approval and expiration dates in data layer
+last updated 2005.
+Shenandoah- Complete
+Staunton- Complete</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>VA DOF and County data providers</origin>
+						<pubdate>2007-08-01</pubdate>
+						<title>Agricultural and Forestal Districts</title>
+						<pubinfo>
+							<pubplace>Charlottesville, VA</pubplace>
+							<publish>Virginia Department of Forestry</publish>
+						</pubinfo>
+						<othercit>Data in the form of digital boundaries were collected from Virginia counties containing Agricultural and Forestal Districts where available.  In some counties the digital formats weren't available.  This database is an ongoing project, and VA DOF will continue to make edits on Agricultural and Forestal Districts on a yearly basis.</othercit>
+					</citeinfo>
+				</srccite>
+				<typesrc>disc</typesrc>
+			</srcinfo>
+			<procstep>
+				<procdesc>All digital boundaries are projected in StatePlane Virginia North, NAD 83. Attributes were standardized and some new fields added. Refer to original datasets for the original attributes.</procdesc>
+				<procdate>on going</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Jason Braunstein</cntper>
+							<cntorg>Virginia Department of Forestry</cntorg>
+						</cntperp>
+						<cntpos>GIS Technician</cntpos>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>The Agricultural Forestal Districts parcel boundary shapefiles were obtained by different GIS Planning departments . They were then imported into a personal geodatabse using Arc 9.2.</procdesc>
+			</procstep>
+			<procstep>
+				<procdesc>Topology was then run on these parcels using the Restriction data layer and Owner Parcels data layer.  It was named AFD_Topology. The AFD_Topology properties are as follows; A cluster tolerance of 0.1 US survey feet.  The OwnerParcel and Restriction feature classes ranked 1 and 2.  The rules say the Restriction feature class Must Not Overlap.  The OwnerParcel feature class Must Not Overlap.  Finally the OwnerParcel feature class Must Cover Each Other.</procdesc>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc></procstep>
+			<procstep><srcused Sync="TRUE">D:\Cadastral\Sources\AG_FOR\restriction.xml</srcused><date Sync="TRUE">20070809</date><time Sync="TRUE">14295700</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\NG00080596\C$\Cadastral\Sources\AFD_SPS_No.mdb</srcused><date Sync="TRUE">20080623</date><time Sync="TRUE">10165200</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="OwnerParcel">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">3391</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="OwnerParcel"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">3391</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer><XYRank Sync="TRUE">1</XYRank><ZRank Sync="TRUE">1</ZRank><topoWeight Sync="TRUE">5.000000</topoWeight><validateEvents Sync="TRUE">FALSE</validateEvents><partTopoRules><topoRuleID Sync="TRUE">10</topoRuleID></partTopoRules><partTopoRules><topoRuleID Sync="TRUE">11</topoRuleID></partTopoRules></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.001248</absres>
+						<ordres Sync="TRUE">0.001248</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">survey feet</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn><lambertc><stdparll Sync="TRUE">38.033333</stdparll><stdparll Sync="TRUE">39.200000</stdparll><longcm Sync="TRUE">-78.500000</longcm><latprjo Sync="TRUE">37.666667</latprjo><feast Sync="TRUE">11482916.666667</feast><fnorth Sync="TRUE">6561666.666667</fnorth></lambertc></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_StatePlane_Virginia_North_FIPS_4501_Feet</projcsn></cordsysn></horizsys>
+		<vertdef>
+			<altsys>
+				<altres Sync="TRUE">0.000010</altres>
+				<altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="OwnerParcel">
+			<attr>
+				<attrlabl>gis_acres</attrlabl>
+				<attrdef>Digitalized Acreage</attrdef>
+				<attrdefs>VA DOF</attrdefs>
+			</attr>
+			<attr><attrlabl Sync="TRUE">ParcelID</attrlabl><attalias Sync="TRUE">ParcelID</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SHAPE_Length</attrlabl>
+				<attrdef>Length of feature in internal units.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SHAPE_Area</attrlabl>
+				<attrdef>Area of feature in internal units squared.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr><attrlabl Sync="TRUE">ParcelLocalLabel</attrlabl><attalias Sync="TRUE">ParcelLocalLabel</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">ParcelType</attrlabl><attalias Sync="TRUE">ParcelType</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">ParcelName</attrlabl><attalias Sync="TRUE">ParcelName</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">OwnerClassification</attrlabl><attalias Sync="TRUE">OwnerClassification</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">OwnerOrManagingAgency</attrlabl><attalias Sync="TRUE">OwnerOrManagingAgency</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">100</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">ParcelArea</attrlabl><attalias Sync="TRUE">ParcelArea</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">AreaType</attrlabl><attalias Sync="TRUE">AreaType</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><enttyp>
+				<enttypl Sync="TRUE">OwnerParcel</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">3391</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">Tenure</attrlabl><attalias Sync="TRUE">Tenure</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr><attrlabl Sync="TRUE">GPIN</attrlabl><attalias Sync="TRUE">GPIN</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">24</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">PIN</attrlabl><attalias Sync="TRUE">PIN</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">24</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">AdministrativeArea</attrlabl><attalias Sync="TRUE">AdministrativeArea</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">6</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">AFD_Added</attrlabl><attalias Sync="TRUE">AFD_Added</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">AFD_Withdrawl</attrlabl><attalias Sync="TRUE">AFD_Withdrawl</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">AGFOR</attrlabl><attalias Sync="TRUE">AGFOR</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">255</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">DOF</attrlabl><attalias Sync="TRUE">DOF</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">255</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>Jason Braunstein</cntper>
+					<cntorg>Virgina Department of Forestry</cntorg>
+				</cntperp>
+				<cntpos>GIS Technician</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>900 Natural Resources Drive</address>
+					<address>Suite 800</address>
+					<city>Charlottesville</city>
+					<state>Va</state>
+					<postal>22949</postal>
+					<country>U.S.A</country>
+				</cntaddr>
+				<cntvoice>434-977-6555</cntvoice>
+				<cntfax>434-296-2369</cntfax>
+				<cntemail>jason.braunstein@dof.virginia.gov</cntemail>
+				<hours>8:00am-5:00pm M-F</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>Although all data refered to in this documentation have been used by the VA DOF, no waranty, expressed or implied,  as to the accuracy, completeness, or utility of this information, nor does the fact of distribution constitute a warranty.</distliab>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20080325</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Virginia Department of Forestry</cntorg>
+					<cntper>Jason Braunstein</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>900 Natural Resources Dr.</addrtype>
+					<city>Charlottesville</city>
+					<state>Va</state>
+					<postal>22903</postal>
+					<address>Suite 800</address></cntaddr>
+				<cntvoice>434-220-9082</cntvoice>
+				<cntpos>GIS Technician</cntpos></cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20080623</CreaDate><CreaTime>10165200</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20080325</SyncDate><SyncTime>14051400</SyncTime><ModDate>20080325</ModDate><ModTime>14051400</ModTime><MetaID>{050E2F4F-3532-437D-8FD0-612F9E01DF6F}</MetaID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.4.1420</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">OwnerParcel</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">11384503.00005</westBL><eastBL Sync="TRUE">11862191.788613</eastBL><northBL Sync="TRUE">7164973.500485</northBL><southBL Sync="TRUE">6595143.839333</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-78.847853</westBL><eastBL Sync="TRUE">-77.159502</eastBL><northBL Sync="TRUE">39.323255</northBL><southBL Sync="TRUE">37.751153</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc></distorTran><distorFormat><formatName Sync="TRUE">Personal GeoDatabase Feature Class</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1983_StatePlane_Virginia_North_FIPS_4501_Feet</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="OwnerParcel"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">3391</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20080325</mdDateSt></metadata>
