@@ -1,0 +1,11 @@
+PROJECTION LAMBERT
+UNITS meters
+SPHEROID GRS1980
+DATUM NAD83
+PARAMETERS
+37 0  0.000 /* 1st standard parallel
+39 30  0.000 /* 2nd standard parallel
+-79 30  0.000 /* Central meridian
+36 0  0.000 /* Latitude of projection's origin
+0.0 /* False easting (meters)
+0.0 /* False northing (meters)
