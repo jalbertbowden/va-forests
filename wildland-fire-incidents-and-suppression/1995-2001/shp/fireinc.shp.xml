@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Virginia Department of Forestry</origin>
+				<pubdate>July 2003</pubdate>
+				<title>Virginia Wildfire Incidents, 1995 - 2001</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<ftname Sync="TRUE">fireinc</ftname><onlink>http://www.vdof.org/gis/datadownload.shtml</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This dataset contains the locations of wildfire incidents throughout Virginia as documented by the Virginia Dept. of Forestry.  Wildfires that occurred between the years 1995-2001 inclusive are contained in this database.  Generally speaking, fires occurring on federal lands are not included.</abstract>
+			<purpose>Data are collected routinely to track occurrence of wildfire in Virginia.  This dataset is used in various ways, including: 1) as an input layer in DOF's Wildfire Risk Assessment Model; 2) to identify areas of the state where fire incidents are more prevalent; 3) To examine wildfire occurrence with other geographic and tabular datasets in order to better understand the factors that contribute to wildfire incidents.</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>1/1/1995</begdate>
+					<enddate>12/31/2001</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-83.748177</westbc>
+				<eastbc Sync="TRUE">-75.371433</eastbc>
+				<northbc Sync="TRUE">39.423027</northbc>
+				<southbc Sync="TRUE">36.469274</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-366049.643117</leftbc><rightbc Sync="TRUE">355729.404911</rightbc><bottombc Sync="TRUE">60171.544948</bottombc><topbc Sync="TRUE">379909.906639</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>forestry</themekey>
+				<themekey>wildfire</themekey><themekey>fire</themekey></theme>
+			<theme>
+				<themekey>wildfire</themekey>
+				<themekey>fire</themekey>
+			</theme>
+			<place>
+				<placekey>Virginia</placekey>
+			</place>
+			<temporal>
+				<tempkey>1995</tempkey>
+				<tempkey>1996</tempkey>
+				<tempkey>1997</tempkey>
+				<tempkey>1998</tempkey>
+				<tempkey>1999</tempkey>
+				<tempkey>2000</tempkey>
+				<tempkey>2001</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>This dataset is to be acquired directly from the Virginia Dept. of Foresty only.  Distributing it to third parties is not permitted.</accconst>
+		<useconst>Use is permitted only after having accepted the Virginia Dept. of Forestry data use agreement and disclaimer for this dataset.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Alex Zendel or Mindia Brown</cntper>
+					<cntorg>Virginia Dept. of Forestry</cntorg>
+				</cntperp>
+				<cntvoice>(434) 977-6555</cntvoice>
+				<cntaddr><addrtype>mailing and physical address</addrtype><address>900 Natural Resources Drive, Suite 800</address><city>Charlottesville</city><state>VA</state><postal>22902</postal></cntaddr></cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 3; ESRI ArcCatalog 8.2.0.700</native>
+		<natvform Sync="TRUE">Shapefile</natvform><datacred>The Virginia Department of Forestry</datacred><crossref><citeinfo><title>The Virginia Department of Forestry</title><origin>The Virginia Department of Forestry</origin></citeinfo></crossref></idinfo>
+	<dataqual>
+		<complete>Practically every DOF Wildfire Incident Report for the years 1995 to 2001 inclusive was reviewed and entered into the database used to generate this layer.  Some "mutual aid" fires, fires that were primarily managed by other agencies to which DOF provided assistance, were not documented on a DOF Wildfire Incident Report and are thus not included in this dataset.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Most feature locations were generated from latitude/longitude coordinates as reported on Virginia Dept. of Forestry Wildfire Incident Reports.  Most coordinates were obtained from Virginia Dept. of Transportation county maps (varying scale) with 1 minute grids/graticules or Delorme's Virginia Gazetteer (1:150,000).  Most of the coordinates were reported in a dd mm.m' format, but several localities truncated the minutes figures to integers (zero significant figures).   If the coordinate fields on the physical fire report were missing or easily identified as erroneous, the location of the fire was estimated from the written location description if that information was sufficient.  This manual process was conducted using MapTech's Terrain Navigator (2001), Microsoft's TerraServer (http://terraserver.homeadvisor.msn.com/), TopoZone.com, ESRI's ArcExplorer or ArcGIS.
+
+Upon data entry completion, positional quality control tests were run on the fire incident points and when errors were detected, the corresponding records were flagged.  Three attribute fields representing these QC tests are included in this final fire incident database.  A value of 1 indicates that the fire failed that particular test.  First, the county in which the fire incident point occurred was compared to the county specified on the fire incident report (field = "CNTY_TEST").  Secondly, fires points that plotted in water bodies were also flagged (field = "WATER_TEST")*.  Lastly, the distance between railroad tracks** and fires reported to have been caused by a railroad was calculated.  Those that were greater than 375 meters from a railroad were flagged (field = "RR_TEST").   A summary by county of these flagged records was then tabulated.  Due to the large number of fires that failed the county test but were within close range of the intended county, those that were within 0.2 mile from the intended county were removed from the failing set (such fires are coded as "yes" in the "ALLOWABL" field.)  If the percentage of detectably erroneous fires points in a particular county was less than  than 10% error, these points were removed from this dataset.  If the error pencentage was greater than 10% then the physical fire incident reports for the failing fires were obtained and an attempt was made to manually move these points to a more accurate location if the written "location" text on the report was adequate for doing so.  For example, if a Fire Incident Report noted the location of the fire as "On the north side of the James River approximately ¼ mile west of the US29 bridge", its location could be reasonably estimated.   On the contrary, if a fire's location was reported as "at the end of county route 624" and that route has two outlets, then its location could not be estimated and it remained as a part of the failing set.  After this "correction" process, a summary on the errors by county was again run to verify that no county exceeded 10% error.  All remaining erroneous fires/records (n=413 of 9900, 4.17%) were then deleted.  The resulting, "final" database contains 9487 features/records.
+*The USGS/EPA National Hydrography Dataset waterbody data, excluding polygons where TYPE = 'Swamp/Marsh', was used in this QC test
+** 2000 US Census Tiger data used in this QC test.</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>N/A</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<procstep><procdesc>See other fields in this metadata document, such as Abstract and Data Quality</procdesc></procstep><srcinfo><srcscale>1:100k </srcscale><typesrc>Hardcopy Gazeteer maps</typesrc></srcinfo></lineage>
+		<attracc><attraccr>The attributes in this dataset are of moderate quality.  Due to data entry error or omission, many records have empty or incorrect fields.  Some effort was made to retrieve information from the original hardcopy report; however, most of the QA/QC was focused on correction of location.</attraccr></attracc></dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="fireinc">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">9487</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="fireinc"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Point</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">9487</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.001024</absres>
+						<ordres Sync="TRUE">0.001024</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn><lambertc><stdparll Sync="TRUE">37.000000</stdparll><stdparll Sync="TRUE">39.500000</stdparll><longcm Sync="TRUE">-79.500000</longcm><latprjo Sync="TRUE">36.000000</latprjo><feast Sync="TRUE">0.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></lambertc></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">USA_Contiguous_Lambert_Conformal_Conic</projcsn></cordsysn></horizsys>
+		<vertdef>
+			<altsys>
+				<altdatum>N/A</altdatum>
+				<altres>0.000010</altres>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="fireinc">
+			<enttyp>
+				<enttypl Sync="TRUE">fireinc</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">9487</enttypc></enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">FRA_ID</attrlabl>
+				<attrdef>A unique ID field created by DOF to facilitate data joins and relationships.  A summary function was run on this field to verify that duplicate values do not exist within it.</attrdef>
+				<attalias Sync="TRUE">FRA_ID</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">COUNTY_NAM</attrlabl>
+				<attrdef>The name of the county in which the incident occurred - as reported on the fire incident report at the time of data entry </attrdef>
+				<attalias Sync="TRUE">COUNTY_NAM</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Lat</attrlabl>
+				<attrdef>The latitude, in decimal degree format, as reported on the fire incident report. Some point locations were manually moved after intial QC tests and this field should not be considered the latitude of the point at its current location . </attrdef>
+				<attalias Sync="TRUE">Lat</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Long</attrlabl>
+				<attrdef>The longitude, in decimal degree format, as reported on the fire incident report. See "Latitude" field - values in this field may not truly reflect the features location. </attrdef>
+				<attalias Sync="TRUE">Long</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">FIRE_NAME</attrlabl>
+				<attrdef>The name of the fire as declared by DOF personnel. Only fires over 50 acres are typically named. </attrdef>
+				<attalias Sync="TRUE">FIRE_NAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">TOT_ACRES</attrlabl>
+				<attrdef>The total number of acres, forest or non-forest, burned during the wildfire incident </attrdef>
+				<attalias Sync="TRUE">TOT_ACRES</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">TOT_DMG</attrlabl>
+				<attrdef>The total monetary amount of damage (US Dollars) caused by the incident (frequently estimated) </attrdef>
+				<attalias Sync="TRUE">TOT_DMG</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">TOT_SAV</attrlabl>
+				<attrdef>The total monetary value (USD-frequently estimated) of the homes, buildings or other personal property that fire control efforts directly protected </attrdef>
+				<attalias Sync="TRUE">TOT_SAV</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">CLASS_DAY</attrlabl>
+				<attrdef>A 1 to 5 scale of fire danger on the day of the incident. 1 = low; 2 = moderate; 3 = high; 4 = very high; 5 = extreme. </attrdef>
+				<attalias Sync="TRUE">CLASS_DAY</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DIRECTION</attrlabl>
+				<attrdef>Wind direction during the incident.</attrdef>
+				<attalias Sync="TRUE">DIRECTION</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">SPEED</attrlabl>
+				<attrdef>The wind speed during the incident </attrdef>
+				<attalias Sync="TRUE">SPEED</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">TEMP</attrlabl>
+				<attrdef>The air temperature during the incident </attrdef>
+				<attalias Sync="TRUE">TEMP</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">RH</attrlabl>
+				<attrdef>The relative humidity during the incident </attrdef>
+				<attalias Sync="TRUE">RH</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">GEN_CAUSE</attrlabl>
+				<attrdef>The general description of the incident's cause. 1=Lightning. 2=Campfire. 3=Smoking. 4=Debris Burning. 5=Incendiary. 6=Equipment Use. 7=Railroad. 8=Children. 9=Miscellaneous </attrdef>
+				<attalias Sync="TRUE">GEN_CAUSE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">SPF_CAUSE</attrlabl>
+				<attrdef>A more specific description of the incident's cause: a=Camper. b=Hunter.c=Fisherman. d=Person in Car. e=Smoking Game. f=Woodworkers. g=Dump. h=Prescribed Burn. i=Urban Burner. j=Rural Burner. k=Farmer. l=Hot Ashes. m=mental cases. n=Utility ROW. o=Welfare Case. p=Electric Fense. q=Land Clearing. r=Children Under 7. s=Juvinile under 18. t=Railroad. u=other </attrdef>
+				<attalias Sync="TRUE">SPF_CAUSE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">OTR_CAUSE</attrlabl>
+				<attrdef>Any elaborations on the cause of the fire</attrdef>
+				<attalias Sync="TRUE">OTR_CAUSE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">FTM_Name</attrlabl>
+				<attrdef>The name of the DOF Mitigation team who reviewed and entered the data found in each record </attrdef>
+				<attalias Sync="TRUE">FTM_Name</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">NOTES</attrlabl>
+				<attrdef>Any notes made by the person indicated the "FTM_NAME" name field. </attrdef>
+				<attalias Sync="TRUE">NOTES</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">CNTY_TEST</attrlabl>
+				<attrdef>A positional quality control test. The county name from the fire incident report was compared to the county name in which the fire point plotted. Records that contained discrepancies in this comparison were coded 1. </attrdef>
+				<attalias Sync="TRUE">CNTY_TEST</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">8</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">WATER_TEST</attrlabl>
+				<attrdef>A positional quality control test. Records in this field were coded with a 1 if its point intersected polygon features from the National Hydrography Dataset where the feature type (FTYPE) &lt;&gt; 'Swamp/Marsh' </attrdef>
+				<attalias Sync="TRUE">WATER_TEST</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">CO_SOURCE</attrlabl>
+				<attrdef>A value of "FI Report" denotes that the coordinates were entered as they appear on the Fire Incident Report. However, if those coordinates were missing or obviously erroneous and the written description on the fire report was sufficient, then MapTech's Terrain Navigator 2001 (coded as "TerNav"), Miscrosoft's TerraServer (&lt;http://terraserver.homeadvisor.msn.com/&gt;) or TopoZone.com were consulted to obtain the coordinates. </attrdef>
+				<attalias Sync="TRUE">CO_SOURCE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">25</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">ALLOWABLE</attrlabl>
+				<attrdef>After the quality control county test was conducted, it became evident that a significant number of the points that did not pass this test were in close proximity to the intended county. Points that were within 0.2 miles were later deemed acceptable. One hundred fifty-three points qualified for this allowable status and value of "Yes" denotes such points. </attrdef>
+				<attalias Sync="TRUE">ALLOWABLE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">FailTest2</attrlabl>
+				<attrdef>The date on which the fire incident report was submitted </attrdef>
+				<attalias Sync="TRUE">FailTest2</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DATE_SUBM</attrlabl>
+				<attrdef>The date on which the fire was "put out" or extinguished </attrdef>
+				<attalias Sync="TRUE">DATE_SUBM</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DATE_OUT_1</attrlabl>
+				<attrdef>The date on which data were entered into the database that directly generated this point layer. </attrdef>
+				<attalias Sync="TRUE">DATE_OUT_1</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DATE_REV_1</attrlabl>
+				<attrdef>Some fires detected to have erreous locations were manually moved to an estimated location using the "location" information on the fire report. A value of 1 denotes such records. </attrdef>
+				<attalias Sync="TRUE">DATE_REV_1</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">LOC_MOVED</attrlabl>
+				<attrdef>The date on which the fire incident began </attrdef>
+				<attalias Sync="TRUE">LOC_MOVED</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DATE_STA_1</attrlabl>
+				<attrdef>Any notes made by the person indicated the "FTM_NAME" name field.</attrdef>
+				<attalias Sync="TRUE">DATE_STA_1</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">FIRE_YEAR</attrlabl>
+				<attrdef>The distance from the fire point to the nearest railroad feature in meters.  This field was a component of the quality control tests run on this dataset.  US Census Bureau 2000 TIGER railroad data used to calculate these figures.</attrdef>
+				<attalias Sync="TRUE">FIRE_YEAR</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+		</detailed>
+		<overview><dsoverv>(none)</dsoverv><eaover>testing 2
+</eaover></overview></eainfo>
+	<distinfo>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>41.635</transize>
+					<dssize Sync="TRUE">20.920</dssize><formname>ZIP</formname><filedec>Can be decompressed using many Windows compression programs such as WinZip</filedec></digtinfo>
+			</digform>
+		</stdorder>
+		<techpreq>Data can be viewed using any GIS software capable of reading ESRI shapefile vector data</techpreq><distliab>This information is provided with the understanding that it is not guaranteed to be correct or complete and conclusions drawn from such information are the sole responsibility of the user. 
+While The Virginia Department of Forestry (DOF) has attempted to ensure that this documentation is accurate and reliable, DOF does not assume liability for any damages caused by inaccuracies in these data or documentation, or as a result of the failure of the data or software to function in a particular manner. DOF makes no warranty, express or implied, as to the accuracy, completeness, or utility of this information, nor does the fact of distribution constitute a warranty. </distliab><distrib><cntinfo><cntorgp><cntorg>Virginia Department of Forestry</cntorg><cntper>Alex Zendel or Mindia Brown</cntper></cntorgp><cntaddr><addrtype>mailing and physical address</addrtype><address>900 Natural Resources Drive, Suite 800</address><city>Charlottesville</city><state>VA</state><postal>22903</postal><country>USA</country></cntaddr><cntvoice>(434) 977-6555</cntvoice></cntinfo></distrib><resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20030812</metd>
+		<metrd>20021115</metrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>The Virginia Dept. of Forestry</cntorg>
+					<cntper>Alex Zendel or Mindia Brown</cntper>
+				</cntorgp>
+				<cntpos>Fire Mitigation GIS Specialist, GIS Manager (respectively)</cntpos>
+				<cntaddr>
+					<addrtype>900 Natural Rescources Drive, Suite 800, Charlottesville</addrtype>
+					<state>Virgninia</state>
+					<postal>22903</postal>
+					<city>Charlottesville</city></cntaddr>
+				<cntvoice>(434) 977-6555</cntvoice>
+				<hours>8AM - 4:45 PM Eastern Time (US)</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+To do:
+1) delete everything above "Identification_Information" or it may not import into ArcCat.
+2) remove first two sentences of abstract. Add USFS and NPS if they want the data
+3) change online linkage
+4) remove the IMS_ID field.
+5) change IMS_Code field title to DOF_Code or delete altogether
+6) remove the coordinate fields, maybe keep the decimal degree fields so the users can have access to the location of the fire as reported on the FIRs (the point could have been moved during the QC process)
+7) remove descrepancy, new record, to delete fields
+8) delete fields: county caps, DOFGENCAUS
+<Esri><CreaDate>20030710</CreaDate><CreaTime>15063200</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20030812</SyncDate><SyncTime>08142700</SyncTime><ModDate>20030812</ModDate><ModTime>08142700</ModTime><MetaID>{BA324F54-B302-11D7-9794-00065B4AB493}</MetaID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 3; ESRI ArcCatalog 8.2.0.700</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">fireinc</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-83.748177</westBL><eastBL Sync="TRUE">-75.371433</eastBL><northBL Sync="TRUE">39.423027</northBL><southBL Sync="TRUE">36.469274</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-366049.643117</westBL><eastBL Sync="TRUE">355729.404911</eastBL><northBL Sync="TRUE">379909.906639</northBL><southBL Sync="TRUE">60171.544948</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="native"><westBL Sync="TRUE">-366049.643117</westBL><eastBL Sync="TRUE">355729.404911</eastBL><northBL Sync="TRUE">379909.906639</northBL><southBL Sync="TRUE">60171.544948</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\hnfll01\gisdata\working\Fire\Fire_Incidents\GIS DATA\DOF\fireinc.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">20.920</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">USA_Contiguous_Lambert_Conformal_Conic</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="fireinc"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">9487</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20030812</mdDateSt></metadata>

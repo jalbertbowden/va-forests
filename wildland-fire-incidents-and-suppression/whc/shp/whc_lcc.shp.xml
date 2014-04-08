@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>The Virginia Department of Forestry (DOF)</origin>
+				<pubdate>July 2003</pubdate>
+				<title>Virginia Woodland Homes Communities </title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<ftname Sync="TRUE">whc_lcc</ftname><onlink>http://www.vdof.org/gis/datadownload.shtml</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>Woodland Home Communities (hereafter WHC) as defined by DOF are clusters of homes located along forested areas at the wildland-urban interface that could possibly be damaged during a nearby wildfire incident.
+
+Methods: Members of the DOF Wildfire Mitigation Team used GIS to visually review USGS Digital Orthophoto Quarter Quadrangles (DOQQs - Digital Aerial Photography), DOF's Forest Landuse Cover (http://www.vdof.org/gis), US Census Bureau TIGER road data and, when available, building footprints provided by county level government entities to identify areas containing concentrated residential structures that could be at risk of damage during a wildfire incident - a Woodland Home Community.  To qualify as a WHC, these clusters of homes must have: 1) been located close enough to wildland fuels (primarily forested areas) to be potentially damaged by a wildfire; 2) contained greater than 10 addressable structures (auxiliary structures such as sheds, separated garages or carports, barns and stables were not counted when discernable); 3) been geographically isolatable - the community of homes must have formed a cohesive clusters - homes sparsely distributed along a through highway were not considered a WHC.</abstract>
+			<purpose>DOF generated this GIS data layer to: 1) identify areas containing concentrated residential structures that could be at risk of damage during a wildfire incident; 2) to examine the spatial relationships between these communities and DOF's Wildfire Risk Assessment and fire suppression resources such as personnel, fire trucks and hydrants; 3) to better spatially allocate these suppression resources; 4) to target communities for wildfire prevention and education programs.</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>These data were collected and compiled between January 2002 and July 2003.</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<update>This dataset will be continuously maintained and updated as necessary.  DOF staff will be visiting most of these communities over the next several years to obtain a ground assessment of a WHC?s susceptibility and vulnerability to wildfires.  The results from these assessments may necessitate changes in the attribute table, deletion of some feature or the addition of newly discovered WHCs.</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-83.664484</westbc>
+				<eastbc Sync="TRUE">-75.265943</eastbc>
+				<northbc Sync="TRUE">39.405604</northbc>
+				<southbc Sync="TRUE">36.475953</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-358915.444718</leftbc><rightbc Sync="TRUE">364919.873445</rightbc><bottombc Sync="TRUE">60863.794975</bottombc><topbc Sync="TRUE">377974.529221</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>Wildfire</themekt>
+				<themekey>Wildfire, wildland-urban interface, woodland home communities, forestry</themekey>
+			</theme>
+		</keywords>
+		<accconst>This dataset is to be acquired directly from the Virginia Dept. of Foresty only.  Distributing it to third parties is not permitted.</accconst>
+		<useconst>Use is permitted only after having accepted the Virginia Dept. of Forestry data use agreement and disclaimer for this dataset.</useconst>
+		<native Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 3; ESRI ArcCatalog 8.2.0.700</native>
+		<natvform Sync="TRUE">Shapefile</natvform><crossref><citeinfo><pubdate>August 6th, 2003</pubdate></citeinfo></crossref><ptcontac><cntinfo><cntperp><cntper>Alex Zendel or Mindia Brown</cntper><cntorg>Virginia Department of Forestry</cntorg></cntperp><cntaddr><addrtype>mailing and physical address</addrtype><address>900 Natural Resources Drive, Suite 800</address><city>Charlottesville</city><state>VA</state><postal>22903</postal><country>USA</country></cntaddr><cntvoice>(434) 977 - 6555</cntvoice><cntfax>(434) 296 - 2369</cntfax></cntinfo></ptcontac></idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo><srccite><citeinfo><pubdate>August 6, 2003</pubdate><title>Woodland Home Communities. </title><lworkcit><citeinfo><pubinfo><publish>Virginia Department of Forestry</publish></pubinfo></citeinfo></lworkcit></citeinfo></srccite><srctime><srccurr>publication date</srccurr></srctime></srcinfo><procstep><procdesc>test methods
+</procdesc></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE"></srcused><date Sync="TRUE">20030806</date><time Sync="TRUE">17432700</time></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">J:\working\Fire\Woodland Home Communities\Complete\WHC_Internal_8-6-03_lcc.shp.xml</srcused><date Sync="TRUE">20030807</date><time Sync="TRUE">16111100</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">J:\working\Fire\Woodland Home Communities\Complete\WHC_FINAL_INTERNAL</srcused><date Sync="TRUE">20030807</date><time Sync="TRUE">16214100</time></procstep></lineage>
+		<complete>Complete</complete><posacc><horizpa><horizpar>UTM coordinates of the WHC were obtained from ESRI's ArcExplorer software and digitally copied into the Microsoft Excel spreadsheet from which this data layer was generated.  </horizpar><qhorizpa><horizpae>test</horizpae></qhorizpa></horizpa><vertacc><vertaccr>N/A</vertaccr></vertacc></posacc><logic>test1</logic></dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="whc_lcc">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">4704</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="whc_lcc"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Point</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">4704</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">USA_Contiguous_Lambert_Conformal_Conic</projcsn></cordsysn><planar><planci><plance Sync="TRUE">coordinate pair</plance><plandu Sync="TRUE">meters</plandu><coordrep><absres Sync="TRUE">0.001024</absres><ordres Sync="TRUE">0.001024</ordres></coordrep></planci><mapproj><mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn><lambertc><stdparll Sync="TRUE">37.000000</stdparll><stdparll Sync="TRUE">39.500000</stdparll><longcm Sync="TRUE">-79.500000</longcm><latprjo Sync="TRUE">36.000000</latprjo><feast Sync="TRUE">0.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></lambertc></mapproj></planar></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="whc_lcc">
+			<enttyp>
+				<enttypl Sync="TRUE">whc_lcc</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">4704</enttypc></enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><attrdef>A unique identifier for each WHC.  This field was tested for duplicate entries; none were found.</attrdef><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><attrdef>Stores the coordinates of the features</attrdef><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr>
+			<attr>
+				<attrlabl Sync="TRUE">WHC_ID</attrlabl>
+				<attalias Sync="TRUE">WHC_ID</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">11</attwidth><attrdef>The Tiger Line ID of the primary road that accesses the WHC, as identified by the DOF Wildfire Mitigation Team.  The values in this field correspond with the 2000 Edition of the US Census Bureau's TIGER data.</attrdef></attr>
+			<attr>
+				<attrlabl Sync="TRUE">TLID</attrlabl>
+				<attalias Sync="TRUE">TLID</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth><attrdef>The name of the primary road found in the WHC</attrdef></attr>
+			<attr>
+				<attrlabl Sync="TRUE">PRIMARY_RD</attrlabl>
+				<attalias Sync="TRUE">PRIMARY_RD</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">28</attwidth><attrdef>The county in which the WHC is located</attrdef></attr>
+			<attr>
+				<attrlabl Sync="TRUE">COUNTY</attrlabl>
+				<attalias Sync="TRUE">COUNTY</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">12</attwidth><attrdef>The name of the WHC, if known</attrdef></attr>
+			<attr>
+				<attrlabl Sync="TRUE">COMMUNITY</attrlabl>
+				<attalias Sync="TRUE">COMMUNITY</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">36</attwidth><attrdef>Number of homes in the WHC.  Sometimes estimated.  </attrdef></attr>
+			<attr>
+				<attrlabl Sync="TRUE">NUM_HOMES</attrlabl>
+				<attalias Sync="TRUE">NUM_HOMES</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">17</attwidth><attrdef>If this record originated from the 1999 DOF WHC Inventory, this field denotes the WHC's hazard rating as assigned by the DOF staff who entered the record.  </attrdef></attr>
+			<attr>
+				<attrlabl Sync="TRUE">COM_TYPE</attrlabl>
+				<attalias Sync="TRUE">COM_TYPE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">16</attwidth><attrdef>The WHC's hazard rating  as assigned by the person listed in the MIT_NAME field.  Near the time that this database began to develop, two members of the mitigation team stated that it was  not possible to determine a preliminary hazard rating using the DOQQs.  Consequently, no guidelines or standards were established when assigning this rating, but some mitigation team members entered values into this field.  More detailed hazard ratings will be determined when these WHCs are physically inspected on the ground - WHC Hazard Assessments.</attrdef></attr>
+			<attr>
+				<attrlabl Sync="TRUE">MIT_NAME</attrlabl>
+				<attalias Sync="TRUE">MIT_NAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">14</attwidth><attrdef>Community type.  Interface: homes directly abut wildland fuels, but the fuels are not significantly disperse within the community.  Intermix: homes directly abut wildland fuels and the fuels are dispersed within the community.  Occluded: community if located along a relatively small, isolated patch of wildland fuels</attrdef></attr>
+			<attr>
+				<attrlabl Sync="TRUE">NOTES</attrlabl>
+				<attalias Sync="TRUE">NOTES</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">72</attwidth></attr>
+			<attr><attrlabl Sync="TRUE">DATE_LOG</attrlabl><attalias Sync="TRUE">DATE_LOG</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth></attr><attr><attrlabl Sync="TRUE">PID</attrlabl><attalias Sync="TRUE">PID</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">4</attwidth></attr><attr><attrlabl Sync="TRUE">FIRE_RISK</attrlabl><attalias Sync="TRUE">FIRE_RISK</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">8</attwidth></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>1.992</transize>
+					<dssize Sync="TRUE">1.292</dssize></digtinfo>
+			</digform>
+		</stdorder>
+		<distrib><cntinfo><cntperp><cntper>Alex Zendel or Mindia Brown</cntper><cntorg>Virginia Department of Forestry</cntorg></cntperp><cntvoice>(434) 977 - 6555</cntvoice><cntaddr><addrtype>mailing and physical address</addrtype><address>900 Natural Resources Drive, Suite 800</address><city>Charlottesville</city><state>Virginia</state><postal>22903</postal></cntaddr></cntinfo></distrib><distliab>This information is provided with the understanding that it is not guaranteed to be correct or complete and conclusions drawn from such information are the sole responsibility of the user. 
+
+While The Virginia Department of Forestry (DOF) has attempted to ensure that this documentation is accurate and reliable, DOF does not assume liability for any damages caused by inaccuracies in these data or documentation, or as a result of the failure of the data or software to function in a particular manner. DOF makes no warranty, express or implied, as to the accuracy, completeness, or utility of this information, nor does the fact of distribution constitute a warranty. </distliab><techpreq>Any GIS software capable of viewing ESRI shapefiles.</techpreq></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20030812</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Virginia Department of Forestry</cntorg>
+					<cntper>Alex Zendel or Mindia Brown</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>Mailing/Physical</addrtype>
+					<city>Charlottesville</city>
+					<state>Virginia</state>
+					<postal>22903</postal>
+				</cntaddr>
+				<cntvoice>(434) 977 - 6555</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20030807</CreaDate><CreaTime>16214100</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20030812</SyncDate><SyncTime>08205300</SyncTime><ModDate>20030812</ModDate><ModTime>08205300</ModTime><MetaID>{F3DE2C78-C90F-11D7-97A1-00065B4AB493}</MetaID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 3; ESRI ArcCatalog 8.2.0.700</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">whc_lcc</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-358915.444718</westBL><eastBL Sync="TRUE">364919.873445</eastBL><northBL Sync="TRUE">377974.529221</northBL><southBL Sync="TRUE">60863.794975</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-83.664484</westBL><eastBL Sync="TRUE">-75.265943</eastBL><northBL Sync="TRUE">39.405604</northBL><southBL Sync="TRUE">36.475953</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox><geoBox esriExtentType="native"><westBL Sync="TRUE">-358915.444718</westBL><eastBL Sync="TRUE">364919.873445</eastBL><northBL Sync="TRUE">377974.529221</northBL><southBL Sync="TRUE">60863.794975</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\hnfll01\gisdata\working\Fire\WHC\GIS_Data\whc_lcc.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">1.292</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">USA_Contiguous_Lambert_Conformal_Conic</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="whc_lcc"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">4704</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20030812</mdDateSt></metadata>

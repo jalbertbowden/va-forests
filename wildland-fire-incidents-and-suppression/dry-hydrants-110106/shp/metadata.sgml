@@ -1,0 +1,405 @@
+<!DOCTYPE METADATA PUBLIC "-//FGDC//DTD METADATA 2.0//EN">
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>The Virginia Department of Forestry (DOF)</origin>
+<pubdate>March 2004</pubdate>
+<title>VDOF Dry Hydrants</title>
+<geoform>vector digital data</geoform>
+<onlink>\\hnfll01\gis_data\working\Fire\Suppression\dry_hydrants\GIS\VDOFdryHydrants.mdb</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>
+Dry hydrant are a non-pressurized pipe systems permanently installed along existing lakes, ponds and streams that provides a suction supply of water to a fire department tank truck.  In rural areas, a lack of water mains and pressurized fire hydrants can sometimes impair a fire department&apos;s ability to do its job quickly and efficiently. The success of a fire department&apos;s operation hinges on the distance a truck must travel to fill-up and return to the fire. In many cases these fill-up points are often long distances from the fire and the firefighters are unable to maintain an uninterrupted water source at the scene.  The availability of a dry hydrant can drastically reduce the challenge of suppressing structure fires and wildfires occurring in rural areas.  
+
+NOTE: Some of the hydrants included in this dataset were not functional (see HydCond field) on the date they were inspected (see DateOnSite field).  Additionally, some of the waterbodies from which the hydrants draw water did not contain enough water for the hydrant to be usable (see WATERBODY field).
+
+NOTE: This dataset is currently INCOMPLETE.  Hydrants that failed quality assurance/quality control tests have been sent back to the local forestrer for correction.
+
+NOTE: This dataset does not contain pressurized hydrants (&quot;traditional&quot; hydrants attached to pressurized water main systems).  Those seeking pressurized hydrant data should contact the local/city/county GIS department(s) presiding over their area of interest.
+
+VDOF relies on geographic data regarding the location of pressurized hydrants in assessing which areas of the state are in need of dry hydrants.  If you work for an organization or government agency that maintain data on pressurized hydrants, please send the current data to alex.zendel@dof.virginia.gov or mindia.brown@dof.virginia.gov
+</abstract>
+<purpose>To provide dry hydrant locations to Virginia organizations operating at the local, county and state levels.  This dataset may be useful in assessing an area&apos;s current emergency response system and in planning the location for future dry hydrant installations</purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>1998</begdate>
+<begtime>unknown</begtime>
+<enddate>November 30, 2004</enddate>
+<endtime>unknown</endtime>
+</rngdates>
+</timeinfo>
+<current>ground condition</current>
+</timeperd>
+<status>
+<progress>In work</progress>
+<update>First update of this data set is scheduled for May 2004.  Afterwards, this dataset will be updated quarterly if additional hydrants are installed.</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-83.195503</westbc>
+<eastbc>-75.357944</eastbc>
+<northbc>39.426927</northbc>
+<southbc>36.544556</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekey>dry hydrants</themekey>
+<themekey>hydrants</themekey>
+<themekey>wildfire</themekey>
+<themekey>suppression</themekey>
+<themekey>forest protection</themekey>
+</theme>
+</keywords>
+<accconst>This dataset is to be acquired directly from the Virginia Dept. of Foresty only.  Distributing it to third parties is not permitted.</accconst>
+<useconst>Use is permitted only after having accepted the Virginia Dept. of Forestry data use agreement and disclaimer for this dataset.</useconst>
+<ptcontac>
+<cntinfo>
+<cntperp>
+<cntper>Alex Zendel or Mindia Brown</cntper>
+<cntorg>Virginia Department of Forestry</cntorg>
+</cntperp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>900 Natural Resources Drive, Suite 800</address>
+<city>Charlottesville</city>
+<state>VA</state>
+<postal>22903</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(434) 977 - 6555</cntvoice>
+<cntfax>(434) 296 - 2369</cntfax>
+</cntinfo>
+</ptcontac>
+<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.780</native>
+<crossref>
+<citeinfo></citeinfo>
+</crossref>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>Attributes were entered into a Microsoft Access database that was subsequently imported to in ArcGIS.   Features were generated from the latitude and longitude coordinates in the database and the locations were verified (see below).</attraccr>
+</attracc>
+<logic>N/A</logic>
+<complete>INCOMPLETE.  VDOF has not yet received GPS locations of dry hydrants in Hanover County from a local contractor.  Additionally, hydrants that did not pass the quality control/assurance test will be returned to local VDOF staff for verification/correction</complete>
+<posacc>
+<horizpa>
+<horizpar>Roughly half of these dry hydrant points (n = 587) were overlaid on 1m resolution aerial photography from the Virginia Base Mapping Program (VBMP - http://www.vgin.vipnet.org/VBMP/VBMPHandbook_r2.pdf) and visually inspected.  If a hydrant point was located along a visible water feature and along a visible access road, then its location was deemed accurate.   Hydrants that did not appear to be accurately located were returned to local VDOF for verification/correction. The hydrants that were not visibly inspected were those designated as &quot;Pond/Lake&quot; and less than 60 meters from the nearest water body feature in a hydrography GIS layer primarily composed of data from VBMP and supplemented with data from the National Hydrography Dataset (http://nhd.usgs.gov/).  These hydrants (n = 681) were presumed to be accurately located.</horizpar>
+<qhorizpa>
+<horizpae>test</horizpae>
+</qhorizpa>
+</horizpa>
+<vertacc>
+<vertaccr>N/A</vertaccr>
+</vertacc>
+</posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<lworkcit>
+<citeinfo>
+<pubinfo>
+<publish>Virginia Department of Forestry</publish>
+</pubinfo>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</srccite>
+<srctime>
+<srccurr>publication date</srccurr>
+</srctime>
+<srccontr>Dynamic Industries (www.DynamicIndustries.net)</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>VDOF staff working at the county level visited all hydrants in this database, with the exceptions of the hydrants where Source = &apos;Dynamic Industries&apos;, and completed paper data collection forms.  These data were entered into a Microsoft Access database.  This database was imported into ArcGIS and the point features were generated from the latitude and longitude coordinates.  The resulting feature points were then verified for accuracy (see &quot;How accurate are the geographic locations?&quot; below).  This dataset was then forward projected into its current coordinate system (see &quot;What coordinate system is used to represent geographic features?&quot;).</procdesc>
+</procstep>
+<procstep>
+<procdesc>Metadata imported.</procdesc>
+<srcused>C:\DOF\Supression\dry_hydrants\GIS\Data\VDOF\OldTemp\VDOF_DryHydrants_7-20-04.shp.xml</srcused>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>1287</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<geograph>
+<latres>0.000000</latres>
+<longres>0.000000</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>Geodetic Reference System 80</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257222</denflat>
+</geodetic>
+</horizsys>
+<vertdef>
+<altsys>
+<altres>0.000010</altres>
+<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+</altsys>
+</vertdef>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>VDOFhydrants</enttypl>
+</enttyp>
+<attr>
+<attrlabl>OBJECTID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>LAT</attrlabl>
+<attrdef>The latitude of the hydrant in decimal degrees, referenced to the North American Datum of 1983 (NAD83)</attrdef>
+</attr>
+<attr>
+<attrlabl>LONG_</attrlabl>
+<attrdef>The longitude of the hydrant in decimal degrees, referenced to the North American Datum of 1983 (NAD83).</attrdef>
+</attr>
+<attr>
+<attrlabl>HYDCOND</attrlabl>
+<attrdef>An ordinal ranking of the hydrant&apos;s condition, as assessed by the person listed in the &quot;Name&quot; field on the date in the &quot;DateOnSite&quot; field. These individuals used the following guidelines when assessing the hydrants&apos; condition:</attrdef>
+<attrdomv>
+<edom>
+<edomv>Not Usable</edomv>
+<edomvd>The hydrant was not functional on the date it was inventoried</edomvd>
+</edom>
+<edom>
+<edomv>Poor</edomv>
+<edomvd>The hydrant appeared to be usable in its state on the date it was inventoried, but it would quickly become unusable if the hydrant was not attended to.</edomvd>
+</edom>
+<edom>
+<edomv>Excellent</edomv>
+<edomvd>The hydrant appeared functional and well maintained.</edomvd>
+</edom>
+<edom>
+<edomv>Fair</edomv>
+<edomvd>The hydrant appeared functional and needed no immediate attention.</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>WATERBODY</attrlabl>
+<attrdef>The condition of the water body to which the hydrant is attached, as assessed by the person in the &quot;Name&quot; field on the date listed in the &quot;DateOnSite&quot; field. In cases where the hydrants are attached to tanks, these tanks are typically located underground and an assessment of the tank&apos;s water level may not have been possible. Those assessing condition of a hydrant&apos;s water source used the following guidelines:</attrdef>
+<attrdomv>
+<edom>
+<edomv>Dry</edomv>
+<edomvd>The water body was considered &quot;dry&quot; if the water was completely absent or close to so. The hydrant&apos;s intake pipe was exposed (out of the water).</edomvd>
+</edom>
+<edom>
+<edomv>Low</edomv>
+<edomvd>The water body was considered &quot;low&quot; if water was present, but it was insufficient for adequate hydrant functionality. The hydrant&apos;s intake pipe was exposed.</edomvd>
+</edom>
+<edom>
+<edomv>Adequate</edomv>
+<edomvd>The hydrant&apos;s intake pipe was not exposed, but the water level of the water body was far from full (a full pool in a pond/lake or high water in stream).</edomvd>
+</edom>
+<edom>
+<edomv>Full</edomv>
+<edomvd>l The hydrant&apos;s intake pipe was not exposed and the water body was at or near its full capacity</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>NAME</attrlabl>
+<attrdef>The name of the VDOF staff member who inventoried and inspected the hydrant.</attrdef>
+</attr>
+<attr>
+<attrlabl>SERIALNO</attrlabl>
+<attrdef>The serial number of the hydrant, as assigned by a contractor who installs, inspects and maintains many of the state&apos;s hydrants. These serial numbers are typically attached physically to the hydrant. This field should not be considered a unique identifier for each hydrant, as duplicates have previously been observed.</attrdef>
+</attr>
+<attr>
+<attrlabl>FIREDEPART</attrlabl>
+<attrdef>The name of the fire department that maintains the hydrant.</attrdef>
+</attr>
+<attr>
+<attrlabl>NOTES</attrlabl>
+<attrdef>Any notes made by the person who inventoried the hydrant (see &quot;Name&quot; field).</attrdef>
+</attr>
+<attr>
+<attrlabl>ACCESSID</attrlabl>
+<attrdef>An internal VDOF identifier of hydrants processed within the agency</attrdef>
+</attr>
+<attr>
+<attrlabl>FIPS_TXT</attrlabl>
+<attrdef>The Federal Information Processing Standards (FIPS) code for the county in which the hydrant is located.</attrdef>
+</attr>
+<attr>
+<attrlabl>Lat</attrlabl>
+<attrdef>The latitude of the hydrant in decimal degrees, referenced to the North American Datum of 1983 (NAD83)</attrdef>
+<attrdomv></attrdomv>
+</attr>
+<attr>
+<attrlabl>SOURCE</attrlabl>
+<attrdef>The source of the data pertaining to each hydrant</attrdef>
+<attrdomv>
+<edom>
+<edomv>VDOF</edomv>
+<edomvd>Virginia Department of Forestry</edomvd>
+</edom>
+<edom>
+<edomv>Dynamic Industries</edomv>
+<edomvd>Dynamic Industries (www.dynamicindustries.net)</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>DATEONSITE</attrlabl>
+<attrdef>The date on which the person listed in the &quot;Name&quot; field inspected and inventoried the hydrant.</attrdef>
+</attr>
+<attr>
+<attrlabl>ACCESS</attrlabl>
+<attrdef>The accessibility of the hydrant. The person inventorying each hydrant used the following guidelines when assessing each hydrant.</attrdef>
+<attrdomv>
+<edom>
+<edomv>Poor</edomv>
+<edomvd>The hydrant was not directly accessible; no emergency vehicle could drive right up to it. This condition could have been due to a washed out road, downed timber or other debris blocking the road or the complete lack of a road. If a gate existed on the access road and it was locked, the accessibility was considered &apos;poor&apos;.</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>WATBODTYPE</attrlabl>
+<attrdef>The type of waterbody to which the hydrant is attached.</attrdef>
+</attr>
+<attr>
+<attrlabl>COUNTY</attrlabl>
+<attrdef>The name of the county in which the hydrant is located.</attrdef>
+<attrdomv></attrdomv>
+</attr>
+<attr>
+<attrlabl>NOTES2</attrlabl>
+<attrdef>Additional notes about the hydrant, frequently includes a problem with the hydrant such as the lack of sign directing emergency vehicles to the hydrant&apos;s location or the presence of a locked gate.</attrdef>
+</attr>
+<attr>
+<attrlabl>WaterBody</attrlabl>
+<attrdef>The condition of the water body to which the hydrant is attached, as assessed by the person in the &quot;Name&quot; field on the date listed in the &quot;DateOnSite&quot; field.   In cases where the hydrants are attached to tanks, these tanks are typically located underground and an assessment of the tank&apos;s water level may not have been possible.  Those assessing condition of a hydrant&apos;s water source used the following guidelines:</attrdef>
+<attrdomv>
+<edom>
+<edomv>Dry</edomv>
+<edomvd>The water body was considered &quot;dry&quot; if the water was completely absent or close to so. The hydrant&apos;s intake pipe was exposed (out of the water).</edomvd>
+</edom>
+<edom>
+<edomv>Low</edomv>
+<edomvd>The water body was considered &quot;low&quot; if water was present, but it was insufficient for adequate hydrant functionality.  The hydrant&apos;s intake pipe was exposed.</edomvd>
+</edom>
+<edom>
+<edomv>Adequate</edomv>
+<edomvd>The hydrant&apos;s intake pipe was not exposed, but the water level of the water body was far from full (a full pool in a pond/lake or high water in stream).</edomvd>
+</edom>
+<edom>
+<edomv>Full</edomv>
+<edomvd>The hydrant&apos;s intake pipe was not exposed and the water body was at or near its full capacity</edomvd>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Name</attrlabl>
+<attrdef>The name of the VDOF staff member who inventoried and inspected the hydrant.</attrdef>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntperp>
+<cntper>Alex Zendel or Mindia Brown</cntper>
+<cntorg>Virginia Department of Forestry</cntorg>
+</cntperp>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>900 Natural Resources Drive, Suite 800</address>
+<city>Charlottesville</city>
+<state>Virginia</state>
+<postal>22903</postal>
+</cntaddr>
+<cntvoice>(434) 977 - 6555</cntvoice>
+</cntinfo>
+</distrib>
+<resdesc>Downloadable Data</resdesc>
+<distliab>
+This information is provided with the understanding that it is not guaranteed to be correct or complete and conclusions drawn from such information are the sole responsibility of the user. 
+
+While the Virginia Department of Forestry (DOF) has attempted to ensure that this documentation is accurate and reliable, DOF does not assume liability for any damages caused by inaccuracies in these data or documentation, or as a result of the failure of the data or software to function in a particular manner. DOF makes no warranty, express or implied, as to the accuracy, completeness, or utility of this information, nor does the fact of distribution constitute a warranty.
+</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Downloadable Zip file.  Go to www.winzip.com for free software that can open these files.</formname>
+<transize>140 KB</transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>http://www.vdof.org/gis/datadownload.shtml</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>(none)</fees>
+</stdorder>
+<techpreq>A web browser and any GIS software capable of viewing ESRI shapefiles.</techpreq>
+</distinfo>
+<metainfo>
+<metd>20061101</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Virginia Department of Forestry</cntorg>
+<cntper>Alex Zendel or Mindia Brown</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>Mailing/Physical</addrtype>
+<city>Charlottesville</city>
+<state>Virginia</state>
+<postal>22903</postal>
+</cntaddr>
+<cntvoice>(434) 977 - 6555</cntvoice>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+</metadata>
