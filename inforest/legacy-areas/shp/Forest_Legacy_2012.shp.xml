@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Virginia Department of Forestry</origin>
+				<pubdate>May 9, 2007</pubdate>
+				<title Sync="TRUE">LcForestLegacyMr</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>\\NG00091364\E$\ForestLegacy_2010\sources\FL_2010.mdb</onlink>
+				<ftname Sync="TRUE">LcForestLegacyMr</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>
+Four criteria have been recognized by Virginia's Forest Lgeacy Program (FLP) as contributors to high conservation value:
+1) Threatened by conversion to non-forest use (fragmentation and reduction in linkages)
+2) Continued production of timber and other forest commodities (local and regional economic base)
+3) Consideration of natural heritage resources (e.g. natural communities, habitat for rare, threatened, &amp; endangered species, significant geologic features)
+4) Watershed values (water quality, wetlands, riparian buffers, groundwater recharge, public water supply)
+
+Two key goals were identified as part of this analysis: (1) ensure that all four eligibility criteria are represented equally in a statewide conservation score and (2) present the data at a landscape scale. First, we identified the following priority areas as having some contribution to the four eligibility criteria:
+Streams, shorelines, and floodplain forests and forested wetlands
+Forests in headwaters and on steep slopes
+Forest protecting drinking water supplies
+Large contiguous blocks of forest; and
+Sustainable, managed working forests
+Areas of high terrestrial integrity
+Areas of high aquatic integrity
+Forests threatened by conversion
+
+We gathered GIS datasets that represent each priority area and quantified the degree to which each priority area reflected one or more of the eligibility criteria. Based on those values a weighted overlay model was developed representing conservation value.  The scale of analysis was generally 1:100,000 and was conducted at a 30-meter raster resolution. Next, statistics were run to determine the conservation value of each hydrologic unit in the state in order to present the data at a landscape scale. Finally, we identified a conservation value threshold that served as the boundary between those forestlands that do and do not qualify for the FLP.
+</abstract>
+			<purpose>The objective of this analysis is to identify forestlands in Virginia of relatively high conservation value that qualify for the Forest Legacy Program (FLP) .</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>May 5, 2007</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-83.675410</westbc>
+				<eastbc Sync="TRUE">-75.242574</eastbc>
+				<northbc Sync="TRUE">39.465827</northbc>
+				<southbc Sync="TRUE">36.541147</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-83.675410</leftbc><rightbc Sync="TRUE">-75.242574</rightbc><bottombc Sync="TRUE">36.541147</bottombc><topbc Sync="TRUE">39.465827</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>REQUIRED: Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.</themekt>
+				<themekey>forests</themekey>
+				<themekey>conservation</themekey>
+				<themekey>Forest Legacy</themekey>
+			</theme>
+			<place>
+				<placekey>Virginia</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>None</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>John A. Scrivani</cntper>
+					<cntorg>Virginia Department of Forestry</cntorg>
+				</cntperp>
+				<cntpos>Director of Resource Information</cntpos>
+				<cntvoice>434-977-6555</cntvoice>
+				<cntemail>john.scrivani@dof.virginia.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<datacred>Division of Resource Information, Virginia Department of Forestry</datacred>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.0.1770</native>
+		<natvform Sync="TRUE">File Geodatabase Feature Class</natvform></idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>\\NG00091364\E$\FL_2008_sara\ForLeg_09analysis\output_2009_04.mdb</srcused>
+				<procdate>20100111</procdate>
+				<proctime>15440800</proctime>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\shullaws\LOCALS~1\Temp\xml46E3.tmp</srcused><procdate Sync="TRUE">20101129</procdate><proctime Sync="TRUE">09273200</proctime></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="LcForestLegacyMr">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">750</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="LcForestLegacyMr"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">750</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn></cordsysn><geograph><geogunit Sync="TRUE">Decimal degrees</geogunit><latres Sync="TRUE">0.000000</latres><longres Sync="TRUE">0.000000</longres></geograph></horizsys>
+		<vertdef>
+			<altsys>
+				<altres>0.000100</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="LcForestLegacyMr">
+			<enttyp>
+				<enttypl Sync="TRUE">LcForestLegacyMr</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">750</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">OBJECTID_1</attrlabl><attalias Sync="TRUE">OBJECTID_1</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>VAHU6</attrlabl>
+				<attrdef>Hydrologic unit code</attrdef>
+				<attrdefs>Virginia NWBD</attrdefs>
+				<attalias Sync="TRUE">VAHU6</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">INTID</attrlabl><attalias Sync="TRUE">INTID</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">VAHU5</attrlabl><attalias Sync="TRUE">VAHU5</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">OBJECTID</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">POLYACRES</attrlabl><attalias Sync="TRUE">POLYACRES</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">META_ID</attrlabl><attalias Sync="TRUE">META_ID</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Shape_Leng</attrlabl><attalias Sync="TRUE">Shape_Leng</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">prcntSub</attrlabl><attalias Sync="TRUE">prcntSub</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Shape_Le_1</attrlabl><attalias Sync="TRUE">Shape_Le_1</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl>Shape_Area</attrlabl>
+				<attrdef>Area of feature in internal units squared.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape_Area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">SubAcres2</attrlabl><attalias Sync="TRUE">SubAcres2</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">notes</attrlabl><attalias Sync="TRUE">notes</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Shape_Length</attrlabl><attalias Sync="TRUE">Shape_Length</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Length of feature in internal units.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">FL7plus</attrlabl><attalias Sync="TRUE">FL7plus</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">2</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed>
+		<overview></overview>
+	</eainfo>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>13.962</transize>
+					<dssize Sync="TRUE">8.623</dssize></digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20110223</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+					<city>REQUIRED: The city of the address.</city>
+					<state>REQUIRED: The state or province of the address.</state>
+					<postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+				</cntaddr>
+				<cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20120521</CreaDate><CreaTime>08153900</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20110223</SyncDate><SyncTime>15134700</SyncTime><ModDate>20110223</ModDate><ModTime>15134700</ModTime><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20110124" Time="122520">Append DOFRelated_easementsThru2010 "Project Layers\ForestLegacy2010HUCS_FINAL" NO_TEST "OBJECTID 'OBJECTID' true false false 9 Long 0 9 ,First,#,E:\LCDB_new\MostRecentEasements\DOFRelated_easementsThru2010.shp,OBJECTID,-1,-1;INTID 'INTID' true false false 19 Double 0 0 ,First,#;VAHU5 'VAHU5' true false false 4 Text 0 0 ,First,#;VAHU6 'VAHU6' true false false 4 Text 0 0 ,First,#;POLYACRES 'POLYACRES' true false false 19 Double 0 0 ,First,#;META_ID 'META_ID' true false false 4 Text 0 0 ,First,#;Shape_Leng 'Shape_Leng' true false false 19 Double 0 0 ,First,#;prcntSub 'prcntSub' true false false 19 Double 0 0 ,First,#;Shape_Le_1 'Shape_Le_1' true false false 19 Double 0 0 ,First,#;Shape_Area 'Shape_Area' true false false 19 Double 0 0 ,First,#;SubAcres2 'SubAcres2' true false false 19 Double 0 0 ,First,#;FL7plus 'FL7plus' true false false 4 Short 0 4 ,First,#" # "Project Layers\ForestLegacy2010HUCS_FINAL"</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20110223" Time="151342">FeatureClassToFeatureClass E:\ForestLegacy_2010\sources\2010_RevisedMottledAreas_final\ForestLegacy2010HUCS_FINAL.shp E:\DoGWood\DoGWood.gdb LcForestLegacyMr # "OBJECTID 'OBJECTID' true true false 9 Long 0 9 ,First,#,E:\ForestLegacy_2010\sources\2010_RevisedMottledAreas_final\ForestLegacy2010HUCS_FINAL.shp,OBJECTID,-1,-1;INTID 'INTID' true true false 19 Double 0 0 ,First,#,E:\ForestLegacy_2010\sources\2010_RevisedMottledAreas_final\ForestLegacy2010HUCS_FINAL.shp,INTID,-1,-1;VAHU5 'VAHU5' true true false 4 Text 0 0 ,First,#,E:\ForestLegacy_2010\sources\2010_RevisedMottledAreas_final\ForestLegacy2010HUCS_FINAL.shp,VAHU5,-1,-1;VAHU6 'VAHU6' true true false 4 Text 0 0 ,First,#,E:\ForestLegacy_2010\sources\2010_RevisedMottledAreas_final\ForestLegacy2010HUCS_FINAL.shp,VAHU6,-1,-1;POLYACRES 'POLYACRES' true true false 19 Double 0 0 ,First,#,E:\ForestLegacy_2010\sources\2010_RevisedMottledAreas_final\ForestLegacy2010HUCS_FINAL.shp,POLYACRES,-1,-1;META_ID 'META_ID' true true false 4 Text 0 0 ,First,#,E:\ForestLegacy_2010\sources\2010_RevisedMottledAreas_final\ForestLegacy2010HUCS_FINAL.shp,META_ID,-1,-1;Shape_Leng 'Shape_Leng' true true false 19 Double 0 0 ,First,#,E:\ForestLegacy_2010\sources\2010_RevisedMottledAreas_final\ForestLegacy2010HUCS_FINAL.shp,Shape_Leng,-1,-1;prcntSub 'prcntSub' true true false 19 Double 0 0 ,First,#,E:\ForestLegacy_2010\sources\2010_RevisedMottledAreas_final\ForestLegacy2010HUCS_FINAL.shp,prcntSub,-1,-1;Shape_Le_1 'Shape_Le_1' true true false 19 Double 0 0 ,First,#,E:\ForestLegacy_2010\sources\2010_RevisedMottledAreas_final\ForestLegacy2010HUCS_FINAL.shp,Shape_Le_1,-1,-1;Shape_Area 'Shape_Area' true true false 19 Double 0 0 ,First,#,E:\ForestLegacy_2010\sources\2010_RevisedMottledAreas_final\ForestLegacy2010HUCS_FINAL.shp,Shape_Area,-1,-1;SubAcres2 'SubAcres2' true true false 19 Double 0 0 ,First,#,E:\ForestLegacy_2010\sources\2010_RevisedMottledAreas_final\ForestLegacy2010HUCS_FINAL.shp,SubAcres2,-1,-1;FL7plus 'FL7plus' true true false 4 Short 0 4 ,First,#,E:\ForestLegacy_2010\sources\2010_RevisedMottledAreas_final\ForestLegacy2010HUCS_FINAL.shp,FL7plus,-1,-1;notes 'notes' true true false 50 Text 0 0 ,First,#,E:\ForestLegacy_2010\sources\2010_RevisedMottledAreas_final\ForestLegacy2010HUCS_FINAL.shp,notes,-1,-1" # E:\DoGWood\DoGWood.gdb\LcForestLegacyMr</Process></lineage></DataProperties><ArcGISFormat>1.0</ArcGISFormat></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.0.1770</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">LcForestLegacyMr</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-83.67541</westBL><eastBL Sync="TRUE">-75.242574</eastBL><northBL Sync="TRUE">39.465827</northBL><southBL Sync="TRUE">36.541147</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-83.67541</westBL><eastBL Sync="TRUE">-75.242574</eastBL><northBL Sync="TRUE">39.465827</northBL><southBL Sync="TRUE">36.541147</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\NG00091364\E\DoGWood\DoGWood.gdb</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">8.623</transSize></distorTran><distorFormat><formatName Sync="TRUE">File Geodatabase Feature Class</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_North_American_1983</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="LcForestLegacyMr"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">750</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20110223</mdDateSt></metadata>
