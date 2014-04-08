@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Virginia Department of Forestry, Division of Resource Information</origin>
+				<title Sync="TRUE">gypmoth2000</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://www.dof.virginia.gov/gis/datadownload.shtml</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>Virginia Department of Forestry, Division of Resource Information</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+					</citeinfo>
+				</lworkcit>
+				<pubdate>10/1/2000</pubdate><ftname Sync="TRUE">gypmoth2000</ftname><serinfo><sername>Gypsy Moth Annual Defoliation - Virginia</sername><issue>Location of Annual Defoliation by Gypsy Moth</issue></serinfo><pubinfo><pubplace>http://gisdata.virginia.gov</pubplace><publish>Virginia Department of Forestry</publish></pubinfo></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This dataset includes polygons of tree defoliation caused by gypsy moth caterpillars.  They are delimited annually on 1:100,000 scale maps by aerial observers in small aircraft from altitudes of 1000 to 1500 feet above ground level.  Data for this layer were collected summer of 2000.</abstract>
+			<purpose>Defoliation maps are used to evaluate the efficacy of insect suppression efforts, to guide the location of ground surveys, to inform localities of pest population status and trends, and to help analyze spatial patterns and trends.</purpose>
+			<langdata Sync="TRUE">en</langdata><supplinf>All defoliation mapped during this survey was moderate to heavy.</supplinf></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates><begdate>6/1/2000</begdate><enddate>9/1/2000</enddate></rngdates></timeinfo>
+			<current>ground condition</current></timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-80.023654</westbc>
+				<eastbc Sync="TRUE">-77.647396</eastbc>
+				<northbc Sync="TRUE">39.336629</northbc>
+				<southbc Sync="TRUE">37.387789</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-45144.356100</leftbc><rightbc Sync="TRUE">159733.241600</rightbc><bottombc Sync="TRUE">155586.307800</bottombc><topbc Sync="TRUE">370316.575800</topbc></lboundng></spdom>
+		<keywords>
+			<theme><themekt>ISO Topic Catalogies</themekt><themekey>Biota</themekey></theme><theme><themekt>Common Words</themekt><themekey>Forest</themekey><themekey>Health</themekey><themekey>Gypsy</themekey><themekey>Moth</themekey><themekey>2000</themekey><themekey>Defoliation</themekey></theme><place><placekt>Virginia Jurisdiction Names</placekt><placekey>Alleghany</placekey><placekey>Amherst</placekey><placekey>Augusta</placekey><placekey>Bath</placekey><placekey>Bedford</placekey><placekey>Botetourt</placekey><placekey>Clarke</placekey><placekey>Faquier</placekey><placekey>Frederick</placekey><placekey>Loudoun</placekey><placekey>Page</placekey><placekey>Prince William</placekey><placekey>Rockbridge</placekey><placekey>Shenandoah</placekey><placekey>Warren</placekey></place></keywords>
+		<accconst>Data are available to all interested parties.</accconst>
+		<useconst>Data are only to be redistributed with accompanying metadata.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntpos>Forest Health Forester</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>900 Natural Resources Drive, Suite 800</address>
+					<city>Charlottesville</city>
+					<state>Virginia</state>
+					<postal>22903</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(434) 977-6555</cntvoice>
+				<cntfax>(434) 296-2369</cntfax>
+				<cntemail>todd.edgerton@dof.virginia.gov</cntemail>
+				<hours>8:00 AM to 4:45 PM, Monday - Friday</hours>
+				<cntperp><cntper>Todd Edgerton</cntper><cntorg>Virginia Department of Forestry, Division of Resource Information</cntorg></cntperp></cntinfo>
+		</ptcontac>
+		<datacred>Virginia Department of Forestry, Division of Resource Information.</datacred>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.3.0.1770</native>
+		<crossref>
+			<citeinfo>
+				<origin>Virginia Department of Forestry, Division of Resource Information</origin>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Virginia Department of Forestry, Division of Resource Information</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>900 Natural Resources Drive, Suite 800</address>
+							<city>Charlottesville</city>
+							<state>Virginia</state>
+							<postal>22903</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>(434) 977-6555</cntvoice>
+						<cntfax>(434) 296-2369</cntfax>
+						<hours>8:00 AM - 4:45 PM, Monday - Friday</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\Documents and Settings\edgertont\My Documents\dof_metadata_template.xml</srcused>
+			</procstep>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>\\HNFLL01\g\forest\health\Forest Health.mdb</srcused>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Documents and Settings\edgertont\Desktop\New Folder\metadata.xml</srcused><date Sync="TRUE">20070717</date><time Sync="TRUE">13340600</time></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Documents and Settings\edgertont\My Documents\Virginia Forest Pests\Gypsy Moth ALL\Gypsy (yearly shapefiles)\2007\GM_2007_VA.shp.xml</srcused><date Sync="TRUE">20070807</date><time Sync="TRUE">17105500</time></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Documents and Settings\edgertont\My Documents\Virginia Forest Pests\Gypsy Moth ALL\Gypsy (yearly shapefiles)\2007\Gypsy_2007_VA_Lambert_Conic_Conformal_NAD83.shp.xml</srcused><date Sync="TRUE">20070808</date><time Sync="TRUE">14005400</time></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Documents and Settings\edgertont\Desktop\Gypsy_2007_VA_Lambert_Conic_Conformal_NAD83.shp.xml</srcused><date Sync="TRUE">20070820</date><time Sync="TRUE">08204500</time></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Documents and Settings\edgertont\My Documents\Virginia Forest Pests\Gypsy Moth ALL\Gypsy (yearly shapefiles)\2007\Gypsy_2007_VA_Lambert_Conic_Conformal_NAD83.shp.xml</srcused><date Sync="TRUE">20070821</date><time Sync="TRUE">13590700</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE"></srcused><date Sync="TRUE">20070822</date><time Sync="TRUE">09005500</time></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Documents and Settings\edgertont\My Documents\Virginia Forest Pests\Gypsy Moth\Gypsy (yearly shapefiles)\2008\metadata.xml</srcused><date Sync="TRUE">20080722</date><time Sync="TRUE">10120000</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE"></srcused><procdate Sync="TRUE">20090324</procdate><proctime Sync="TRUE">14011500</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Documents and Settings\edgertont\Desktop\metadata.xml</srcused><procdate Sync="TRUE">20090806</procdate><proctime Sync="TRUE">09132200</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Documents and Settings\edgertont\Desktop\metadata.xml</srcused><procdate Sync="TRUE">20100401</procdate><proctime Sync="TRUE">11172100</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Documents and Settings\edgertont\Desktop\GM_template_metadata.xml</srcused><procdate Sync="TRUE">20100406</procdate><proctime Sync="TRUE">10494200</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Documents and Settings\edgertont\Desktop\gm_GISDATA\2006\gypmoth2006.shp.xml</srcused><procdate Sync="TRUE">20100406</procdate><proctime Sync="TRUE">10572900</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Documents and Settings\edgertont\Desktop\gm_GISDATA\2005\gypmoth2005.shp.xml</srcused><procdate Sync="TRUE">20100406</procdate><proctime Sync="TRUE">11083700</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Documents and Settings\edgertont\Desktop\gm_GISDATA\2001\gypmoth2001.shp.xml</srcused><procdate Sync="TRUE">20100406</procdate><proctime Sync="TRUE">11150100</proctime></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="gypmoth2000">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">137</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="gypmoth2000"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">137</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_Lambert_Conformal_Conic</projcsn></cordsysn><planar><planci><plance Sync="TRUE">coordinate pair</plance><plandu Sync="TRUE">meters</plandu><coordrep><absres Sync="TRUE">0.000000</absres><ordres Sync="TRUE">0.000000</ordres></coordrep></planci><mapproj><mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn><lambertc><stdparll Sync="TRUE">37.000000</stdparll><stdparll Sync="TRUE">39.500000</stdparll><longcm Sync="TRUE">-79.500000</longcm><latprjo Sync="TRUE">36.000000</latprjo><feast Sync="TRUE">0.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></lambertc></mapproj></planar></horizsys>
+		<vertdef>
+			<altsys>
+				<altres Sync="TRUE">0.000100</altres>
+				<altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="gypmoth2000">
+			<enttyp>
+				<enttypl Sync="TRUE">gypmoth2000</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">137</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">CONDITION</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">15</attwidth><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">SEVERITY</attrlabl><attalias Sync="TRUE">SEVERITY</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">AGENT</attrlabl><attalias Sync="TRUE">POLYID</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth></attr><attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">COUNTY</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">15</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">COUNTY</attrlabl><attalias Sync="TRUE">SCALE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">15</attwidth></attr><attr><attrlabl Sync="TRUE">SCALE</attrlabl><attalias Sync="TRUE">TYPE</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">TYPE</attrlabl><attalias Sync="TRUE">SOURCE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">15</attwidth></attr><attr><attrlabl Sync="TRUE">SOURCE</attrlabl><attalias Sync="TRUE">AREA_ACRES</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">15</attwidth><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">AREA_ACRES</attrlabl><attalias Sync="TRUE">NOTES</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">NOTES</attrlabl><attalias Sync="TRUE">FORMAT</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">45</attwidth><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">FORMAT</attrlabl><attalias Sync="TRUE">Shape_Leng</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">15</attwidth></attr><attr>
+				<attrlabl>SHAPE_Area</attrlabl>
+				<attrdef>Area of feature in internal units squared.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><attalias Sync="TRUE">Shape</attalias><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">SHAPE_Leng</attrlabl><attalias Sync="TRUE">AREA</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><attalias Sync="TRUE">Shape_Area</attalias><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">AREA</attrlabl><attalias Sync="TRUE">Yr</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">Shape_Area</attrlabl><attalias Sync="TRUE">DAMAGEID</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">Yr</attrlabl><attalias Sync="TRUE">CONDITION</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">4</attwidth></attr><attr><attrlabl Sync="TRUE">DAMAGEID</attrlabl><attalias Sync="TRUE">AGENT</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Division of Resource Information, Virginia Department of Forestry</cntorg>
+					<cntper>Todd Edgerton</cntper></cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>900 Natural Resources Drive, Suite 800</address>
+					<city>Charlottesville</city>
+					<state>Virginia</state>
+					<postal>22903</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(434) 977-6555</cntvoice>
+				<cntfax>(434) 296-2369</cntfax>
+				<hours>8:00 AM - 4:45 PM, Monday - Friday</hours>
+				<cntpos>Forest Health Forester</cntpos></cntinfo>
+		</distrib>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.007</transize>
+					<dssize Sync="TRUE">0.066</dssize></digtinfo>
+			</digform>
+		</stdorder>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20100406</metd>
+		<metc>
+			<cntinfo>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>900 Natural Resources Drive, Suite 800</address>
+					<city>Charlottesville</city>
+					<state>Virginia</state>
+					<postal>22903</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(434) 977-6555</cntvoice>
+				<cntfax>(434) 296-2369</cntfax>
+				<cntemail>todd.edgerton@dof.virginia.gov</cntemail>
+				<hours>8:00 AM - 4:45 PM, Monday - Friday</hours>
+				<cntperp><cntper>Todd Edgerton</cntper><cntorg>Division of Resource Information, Virginia Department of Forestry</cntorg></cntperp></cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20100406</CreaDate><CreaTime>11202300</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20100406</SyncDate><SyncTime>11243000</SyncTime><ModDate>20100406</ModDate><ModTime>11243000</ModTime><DataProperties><lineage><Process Name="Project_1" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project" Date="20070822" Time="090055">Project GM_2007_VA C:\temp\4todd\GM_2007_VA_Project.shp PROJCS['NAD_1983_Lambert_Conformal_Conic',GEOGCS['GCS_North_American_1983',DATUM['D_North_American_1983',SPHEROID['GRS_1980',6378137.0,298.257222101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Lambert_Conformal_Conic'],PARAMETER['False_Easting',0.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-79.5],PARAMETER['Standard_Parallel_1',37.0],PARAMETER['Standard_Parallel_2',39.5],PARAMETER['Latitude_Of_Origin',36.0],UNIT['Meter',1.0]] # PROJCS['Virginia Lambert Conformal Conic',GEOGCS['GCS_North_American_1983',DATUM['D_North_American_1983',SPHEROID['GRS_1980',6378137.0,298.257222101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Lambert_Conformal_Conic'],PARAMETER['False_Easting',0.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-79.5],PARAMETER['Standard_Parallel_1',37.0],PARAMETER['Standard_Parallel_2',39.5],PARAMETER['Scale_Factor',1.0],PARAMETER['Latitude_Of_Origin',36.0],UNIT['Meter',1.0]]</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20100401" Time="112204">FeatureClassToFeatureClass T:\forest\health\sources\gypsymoth_all.mdb\YR2009 "C:\Documents and Settings\edgertont\Desktop\gm_GISDATA\2009" gypmoth2009.shp # "Type 'Type' true true false 16 Text 0 0 ,First,#,T:\forest\health\sources\gypsymoth_all.mdb\YR2009,Type,-1,-1;Acres 'Acres' true true false 8 Double 0 0 ,First,#,T:\forest\health\sources\gypsymoth_all.mdb\YR2009,Acres,-1,-1;Date_Obser 'Date_Obser' true true false 8 Date 0 0 ,First,#,T:\forest\health\sources\gypsymoth_all.mdb\YR2009,Date_Observed,-1,-1;Comment 'Comment' true true false 255 Text 0 0 ,First,#,T:\forest\health\sources\gypsymoth_all.mdb\YR2009,Comment,-1,-1;LINKID 'LINKID' true true false 32 Text 0 0 ,First,#,T:\forest\health\sources\gypsymoth_all.mdb\YR2009,LINKID,-1,-1;YEAR_ 'YEAR_' true true false 4 Long 0 0 ,First,#,T:\forest\health\sources\gypsymoth_all.mdb\YR2009,YEAR_,-1,-1;Pattern 'Pattern' true true false 15 Text 0 0 ,First,#,T:\forest\health\sources\gypsymoth_all.mdb\YR2009,Pattern,-1,-1;SHAPE_Leng 'SHAPE_Length' false true true 8 Double 0 0 ,First,#,T:\forest\health\sources\gypsymoth_all.mdb\YR2009,SHAPE_Length,-1,-1;SHAPE_Area 'SHAPE_Area' false true true 8 Double 0 0 ,First,#,T:\forest\health\sources\gypsymoth_all.mdb\YR2009,SHAPE_Area,-1,-1" # "C:\Documents and Settings\edgertont\Desktop\gm_GISDATA\2009\gypmoth2009.shp"</Process></lineage></DataProperties><PublishStatus>Published</PublishStatus><MetaID>{7CCF9F3E-C603-489F-9FBE-7D4E9451A571}</MetaID><PublishedDocID>{76E6F00B-9D6C-47EC-A803-E496D328D175}</PublishedDocID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.3.0.1770</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">gypmoth2000</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-45144.3561</westBL><eastBL Sync="TRUE">159733.2416</eastBL><northBL Sync="TRUE">370316.5758</northBL><southBL Sync="TRUE">155586.3078</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-80.023654</westBL><eastBL Sync="TRUE">-77.647396</eastBL><northBL Sync="TRUE">39.336629</northBL><southBL Sync="TRUE">37.387789</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\NG00080598\C$\Documents and Settings\edgertont\Desktop\gm_GISDATA\2000\gypmoth2000.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.066</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1983_Lambert_Conformal_Conic</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="gypmoth2000"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">137</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20100406</mdDateSt><mdFileID Sync="TRUE">{76E6F00B-9D6C-47EC-A803-E496D328D175}</mdFileID></metadata>
