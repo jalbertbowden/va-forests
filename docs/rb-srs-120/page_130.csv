@@ -1,0 +1,58 @@
+Name: “Table 1 of 1 on page 130 of 164”,Name: “Table 1 of 1 on page 130 of 164”,Name: “Table 1 of 1 on page 130 of 164”,Name: “Table 1 of 1 on page 130 of 164”,Name: “Table 1 of 1 on page 130 of 164”,Name: “Table 1 of 1 on page 130 of 164”
+Table: 128,Table: 128,Table: 128,Table: 128,Table: 128,Table: 128
+,,,,,
+Appendix B—Data Reliability,,,,,
+The recommended intensity for blind checks,The size of the sampling error generally,The size of the sampling error generally,The size of the sampling error generally,The size of the sampling error generally,The size of the sampling error generally
+is 3 percent of the plots installed.,increases as the size of the area examined,increases as the size of the area examined,increases as the size of the area examined,increases as the size of the area examined,increases as the size of the area examined
+,"decreases. Also, as area or volume totals","decreases. Also, as area or volume totals","decreases. Also, as area or volume totals","decreases. Also, as area or volume totals","decreases. Also, as area or volume totals"
+Each variable collected by FIA is assigned,"are stratified by forest type, species,","are stratified by forest type, species,","are stratified by forest type, species,","are stratified by forest type, species,","are stratified by forest type, species,"
+an MQO and a measurement tolerance,"diameter class, ownership, or other","diameter class, ownership, or other","diameter class, ownership, or other","diameter class, ownership, or other","diameter class, ownership, or other"
+level. The MQOs are documented in the,"subunits, the sampling error may increase","subunits, the sampling error may increase","subunits, the sampling error may increase","subunits, the sampling error may increase","subunits, the sampling error may increase"
+FIA national field manual (U.S. Department,and be greatest for the smallest divisions.,and be greatest for the smallest divisions.,and be greatest for the smallest divisions.,and be greatest for the smallest divisions.,and be greatest for the smallest divisions.
+"of Agriculture 2004a, 2004b). In some","However, there may be instances where","However, there may be instances where","However, there may be instances where","However, there may be instances where","However, there may be instances where"
+instances the MQOs are a “best guess” of,a smaller component does not have a,a smaller component does not have a,a smaller component does not have a,a smaller component does not have a,a smaller component does not have a
+what experienced field crews should be,proportionately larger sampling error. This,proportionately larger sampling error. This,proportionately larger sampling error. This,proportionately larger sampling error. This,proportionately larger sampling error. This
+able to consistently achieve. Tolerances,can happen when the postdefined strata,can happen when the postdefined strata,can happen when the postdefined strata,can happen when the postdefined strata,can happen when the postdefined strata
+are somewhat arbitrary and are based on,are more homogeneous than the larger,are more homogeneous than the larger,are more homogeneous than the larger,are more homogeneous than the larger,are more homogeneous than the larger
+the ability of crews to make repeatable,"strata, thereby having a smaller variance.","strata, thereby having a smaller variance.","strata, thereby having a smaller variance.","strata, thereby having a smaller variance.","strata, thereby having a smaller variance."
+measurements or observations within the,The magnitude of the increase (where,The magnitude of the increase (where,The magnitude of the increase (where,The magnitude of the increase (where,The magnitude of the increase (where
+assigned MQO.,homogeneity is not improved over that of,homogeneity is not improved over that of,homogeneity is not improved over that of,homogeneity is not improved over that of,homogeneity is not improved over that of
+,the normal State-level sample) is depicted in,the normal State-level sample) is depicted in,the normal State-level sample) is depicted in,the normal State-level sample) is depicted in,the normal State-level sample) is depicted in
+Evaluation of field crew performance is,appendix table B.4. For specific postdefined,appendix table B.4. For specific postdefined,appendix table B.4. For specific postdefined,appendix table B.4. For specific postdefined,appendix table B.4. For specific postdefined
+accomplished by calculating the differences,strata the sampling error can be calculated,strata the sampling error can be calculated,strata the sampling error can be calculated,strata the sampling error can be calculated,strata the sampling error can be calculated
+between data collected by the field crew and,using the following formula. Sampling,using the following formula. Sampling,using the following formula. Sampling,using the following formula. Sampling,using the following formula. Sampling
+that collected by the QA crew on blind-,errors obtained by this method are only,errors obtained by this method are only,errors obtained by this method are only,errors obtained by this method are only,errors obtained by this method are only
+check plots. Results of these calculations are,approximations of reliability because this,approximations of reliability because this,approximations of reliability because this,approximations of reliability because this,approximations of reliability because this
+compared to the established MQOs. In the,process assumes constant variance across all,process assumes constant variance across all,process assumes constant variance across all,process assumes constant variance across all,process assumes constant variance across all
+"analysis of blind-check data, an observation",subdivisions of totals.,subdivisions of totals.,subdivisions of totals.,,
+is within tolerance when the difference,,,,,
+between the field crew observation and,,,,X t,
+the QA crew observation does not exceed,,,SE s = SE t,X,","
+the assigned tolerance for that variable. For,,,,s,
+"many categorical variables, the tolerance",where,where,,,
+"is “no error” allowed, so only observations",,,,,
+that are identical with the standard are,SE,SE,= sampling error for subdivision of,= sampling error for subdivision of,= sampling error for subdivision of
+,,s,,,
+within the tolerance level. Appendix,,,survey unit or State total,survey unit or State total,survey unit or State total
+tables B.1 and B.2 show the percentage of,SE,SE,= sampling error for survey unit or,= sampling error for survey unit or,= sampling error for survey unit or
+,,t,,,
+observations that were within the program,,,State total,,
+"tolerances. At this time, only the blind-",X,= 	 sum of values for the variable of,= 	 sum of values for the variable of,= 	 sum of values for the variable of,= 	 sum of values for the variable of
+check results for plot-level and tree-level,,s,interest (area or volume) for,interest (area or volume) for,interest (area or volume) for
+variables are presented.,,,subdivision of survey unit or State,subdivision of survey unit or State,subdivision of survey unit or State
+,X t = 	 total area or volume for survey unit,X t = 	 total area or volume for survey unit,X t = 	 total area or volume for survey unit,X t = 	 total area or volume for survey unit,X t = 	 total area or volume for survey unit
+Sampling Error,,,or State,,
+Sampling error is associated with the,"For example, the estimate of sampling error","For example, the estimate of sampling error","For example, the estimate of sampling error","For example, the estimate of sampling error","For example, the estimate of sampling error"
+natural and expected deviation of the,for softwood live-tree volume on public,for softwood live-tree volume on public,for softwood live-tree volume on public,for softwood live-tree volume on public,for softwood live-tree volume on public
+sample from the true population mean. This,timberland is computed as:,timberland is computed as:,timberland is computed as:,timberland is computed as:,
+deviation is susceptible to a mathematical,,,,,
+evaluation of the probability of error.,,,,"30,619.6",
+Sampling errors for State totals are based,,,SE s = 1.34%,,= 7.73%
+"on one standard deviation. That is, there",,,,920.3,
+is a 68.27 percent probability that the,,,,,
+confidence interval given for each sample,"Thus, the sampling error is 7.73 percent,","Thus, the sampling error is 7.73 percent,","Thus, the sampling error is 7.73 percent,","Thus, the sampling error is 7.73 percent,","Thus, the sampling error is 7.73 percent,"
+estimate will cover the true population,and the resulting 68.27-percent confidence,and the resulting 68.27-percent confidence,and the resulting 68.27-percent confidence,and the resulting 68.27-percent confidence,and the resulting 68.27-percent confidence
+mean (appendix table B.3),interval for softwood live-tree volume on,interval for softwood live-tree volume on,interval for softwood live-tree volume on,interval for softwood live-tree volume on,interval for softwood live-tree volume on
+,public timberland is 920.3 ± 71.1 million,public timberland is 920.3 ± 71.1 million,public timberland is 920.3 ± 71.1 million,public timberland is 920.3 ± 71.1 million,public timberland is 920.3 ± 71.1 million
+,cubic feet.,cubic feet.,,,
+110,,,,,
