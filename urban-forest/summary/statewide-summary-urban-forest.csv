@@ -1,0 +1,60 @@
+"Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.",,,,,
+,,,,,
+Virginia,,Statewide,Urban a,Community b,Urban or community c
+Population,2000,"7,078,515","5,169,955","4,367,421",n/a
+,1990,"6,187,358","4,293,443","3,951,499",n/a
+,% Change (1990-2000),14.4,20.4,10.5,n/a
+,% Total population (2000),100.0,73.0,61.7,n/a
+Total area ,km2 (2000),"110,784.7","6,329.0","8,513.0","10,555.3"
+,km2 (1990),"110,784.7","5,212.3","7,686.3","9,078.0"
+,% Change (1990-2000),0.0,21.4,10.8,16.3
+Land area ,km2 (2000),"102,554.6","6,198.3","8,063.6","10,080.9"
+,% Land area (2000),100.0,6.0,7.9,9.8
+,km2 (1990),"102,554.6","5,168.9","7,276.8","8,659.5"
+,% Land area (1990),100.0,5.0,7.1,8.4
+,% Change (1990-2000),0.0,19.9,10.8,16.4
+Population density (people/land area km2),2000,69.0,834.1,541.6,n/a
+,1990,60.3,830.6,543.0,n/a
+,% Change (1990-2000),14.4,0.4,-0.3,n/a
+Tree canopy cover (2000),km2,"55,815.8","1,788.5","2,735.0","3,476.4"
+,% Land area,54.4,28.9,33.9,34.5
+,Per capita (m2/person),"7,885.2",345.9,626.2,n/a
+,% Canopy green space d,55.4,34.7,38.5,39.0
+Total green space (2000) e,km2,"100,814.0","5,156.7","7,108.2","8,917.1"
+,% Land area,98.3,83.2,88.2,88.5
+Available green space (2000) f,km2,"45,006.7","3,369.2","4,374.5","5,442.1"
+,% Land area,43.9,54.4,54.3,54.0
+Impervious surface cover (2000),km2,"1,740.4","1,041.5",955.4,"1,163.9"
+,% Land area,1.7,16.8,11.8,11.5
+,Per capita (m2/person),245.9,201.5,218.8,n/a
+Urban tree benefits (2000),Estimated number of trees,n/a,"85,300,000","130,400,000","165,800,000"
+,Carbon,,,,
+,Carbon stored (metric tons),n/a,"16,300,000","24,900,000","31,600,000"
+,Carbon stored ($),n/a,"$371,600,000","$567,700,000","$720,500,000"
+,Carbon sequestered (metric tons/year),n/a,"537,000","820,000","1,043,000"
+,Carbon sequestered ($/year),n/a,"$12,244,000","$18,696,000","$23,780,000"
+,Pollution,,,,
+,CO removed (metric tons/year) g,n/a,216,330,419
+,CO removed ($/year),n/a,"$303,600","$464,300","$590,200"
+,NO2 removed (metric tons/year) h,n/a,"1,749","2,674","3,399"
+,NO2 removed ($/year),n/a,"$17,323,300","$26,490,500","$33,671,200"
+,O3 removed (metric tons/year) i,n/a,"7,561","11,563","14,697"
+,O3 removed ($/year),n/a,"$74,903,000","$114,540,000","$145,589,000"
+,SO2 removed (metric tons/year) j,n/a,"1,354","2,070","2,631"
+,SO2 removed ($/year),n/a,"$3,282,600","$5,019,700","$6,380,400"
+,PM10 removed (metric tons/year) k,n/a,"3,169","4,846","6,159"
+,PM10 removed ($/year),n/a,"$20,959,500","$32,050,900","$40,738,900"
+,Total pollution removal (metric tons/year),n/a,"14,050","21,480","27,310"
+,Total pollution removal ($/year),n/a,"$116,800,000","$178,600,000","$227,000,000"
+,,,,,
+a. Urban land is based on population density and was delimited using the United States Census definitions of urbanized areas and urban clusters.,,,,,
+b. Community land is based on jurisdictional or political boundaries of communities based on United States Census definitions of incorporated or census designated places.,,,,,
+"c. Urban or communities is land that is urban, community, or both. Communities may include all, some, or no urban land within their boundaries.",,,,,
+d. Canopy green space is the tree canopy cover divided by total green space.,,,,,
+e. Total green space (TGS) is total area - impervious surface cover - water.,,,,,
+"f. Available green space (AGS) is total green space - tree canopy cover (if the calculated value is less than 0, then value set at 0).",,,,,
+g. CO - carbon monoxide ,,,,,
+h. NO2 - nitrogen dioxide ,,,,,
+i. O3 - ozone,,,,,
+j. SO2 - sulfur dioxide ,,,,,
+k. PM10 - particulate matter 10 micrometers or less ,,,,,

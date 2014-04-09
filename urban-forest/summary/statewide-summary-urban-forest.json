@@ -1,0 +1,474 @@
+[
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":"",
+    "FIELD6":""
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"Virginia",
+    "FIELD2":"",
+    "FIELD3":"Statewide",
+    "FIELD4":"Urban a",
+    "FIELD5":"Community b",
+    "FIELD6":"Urban or community c"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"Population",
+    "FIELD2":"2000",
+    "FIELD3":"7,078,515",
+    "FIELD4":"5,169,955",
+    "FIELD5":"4,367,421",
+    "FIELD6":"n/a"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"1990",
+    "FIELD3":"6,187,358",
+    "FIELD4":"4,293,443",
+    "FIELD5":"3,951,499",
+    "FIELD6":"n/a"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"% Change (1990-2000)",
+    "FIELD3":"14.4",
+    "FIELD4":"20.4",
+    "FIELD5":"10.5",
+    "FIELD6":"n/a"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"% Total population (2000)",
+    "FIELD3":"100.0",
+    "FIELD4":"73.0",
+    "FIELD5":"61.7",
+    "FIELD6":"n/a"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"Total area ",
+    "FIELD2":"km2 (2000)",
+    "FIELD3":"110,784.7",
+    "FIELD4":"6,329.0",
+    "FIELD5":"8,513.0",
+    "FIELD6":"10,555.3"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"km2 (1990)",
+    "FIELD3":"110,784.7",
+    "FIELD4":"5,212.3",
+    "FIELD5":"7,686.3",
+    "FIELD6":"9,078.0"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"% Change (1990-2000)",
+    "FIELD3":"0.0",
+    "FIELD4":"21.4",
+    "FIELD5":"10.8",
+    "FIELD6":"16.3"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"Land area ",
+    "FIELD2":"km2 (2000)",
+    "FIELD3":"102,554.6",
+    "FIELD4":"6,198.3",
+    "FIELD5":"8,063.6",
+    "FIELD6":"10,080.9"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"% Land area (2000)",
+    "FIELD3":"100.0",
+    "FIELD4":"6.0",
+    "FIELD5":"7.9",
+    "FIELD6":"9.8"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"km2 (1990)",
+    "FIELD3":"102,554.6",
+    "FIELD4":"5,168.9",
+    "FIELD5":"7,276.8",
+    "FIELD6":"8,659.5"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"% Land area (1990)",
+    "FIELD3":"100.0",
+    "FIELD4":"5.0",
+    "FIELD5":"7.1",
+    "FIELD6":"8.4"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"% Change (1990-2000)",
+    "FIELD3":"0.0",
+    "FIELD4":"19.9",
+    "FIELD5":"10.8",
+    "FIELD6":"16.4"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"Population density (people/land area km2)",
+    "FIELD2":"2000",
+    "FIELD3":"69.0",
+    "FIELD4":"834.1",
+    "FIELD5":"541.6",
+    "FIELD6":"n/a"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"1990",
+    "FIELD3":"60.3",
+    "FIELD4":"830.6",
+    "FIELD5":"543.0",
+    "FIELD6":"n/a"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"% Change (1990-2000)",
+    "FIELD3":"14.4",
+    "FIELD4":"0.4",
+    "FIELD5":"-0.3",
+    "FIELD6":"n/a"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"Tree canopy cover (2000)",
+    "FIELD2":"km2",
+    "FIELD3":"55,815.8",
+    "FIELD4":"1,788.5",
+    "FIELD5":"2,735.0",
+    "FIELD6":"3,476.4"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"% Land area",
+    "FIELD3":"54.4",
+    "FIELD4":"28.9",
+    "FIELD5":"33.9",
+    "FIELD6":"34.5"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"Per capita (m2/person)",
+    "FIELD3":"7,885.2",
+    "FIELD4":"345.9",
+    "FIELD5":"626.2",
+    "FIELD6":"n/a"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"% Canopy green space d",
+    "FIELD3":"55.4",
+    "FIELD4":"34.7",
+    "FIELD5":"38.5",
+    "FIELD6":"39.0"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"Total green space (2000) e",
+    "FIELD2":"km2",
+    "FIELD3":"100,814.0",
+    "FIELD4":"5,156.7",
+    "FIELD5":"7,108.2",
+    "FIELD6":"8,917.1"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"% Land area",
+    "FIELD3":"98.3",
+    "FIELD4":"83.2",
+    "FIELD5":"88.2",
+    "FIELD6":"88.5"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"Available green space (2000) f",
+    "FIELD2":"km2",
+    "FIELD3":"45,006.7",
+    "FIELD4":"3,369.2",
+    "FIELD5":"4,374.5",
+    "FIELD6":"5,442.1"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"% Land area",
+    "FIELD3":"43.9",
+    "FIELD4":"54.4",
+    "FIELD5":"54.3",
+    "FIELD6":"54.0"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"Impervious surface cover (2000)",
+    "FIELD2":"km2",
+    "FIELD3":"1,740.4",
+    "FIELD4":"1,041.5",
+    "FIELD5":"955.4",
+    "FIELD6":"1,163.9"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"% Land area",
+    "FIELD3":"1.7",
+    "FIELD4":"16.8",
+    "FIELD5":"11.8",
+    "FIELD6":"11.5"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"Per capita (m2/person)",
+    "FIELD3":"245.9",
+    "FIELD4":"201.5",
+    "FIELD5":"218.8",
+    "FIELD6":"n/a"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"Urban tree benefits (2000)",
+    "FIELD2":"Estimated number of trees",
+    "FIELD3":"n/a",
+    "FIELD4":"85,300,000",
+    "FIELD5":"130,400,000",
+    "FIELD6":"165,800,000"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"Carbon",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":"",
+    "FIELD6":""
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"Carbon stored (metric tons)",
+    "FIELD3":"n/a",
+    "FIELD4":"16,300,000",
+    "FIELD5":"24,900,000",
+    "FIELD6":"31,600,000"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"Carbon stored ($)",
+    "FIELD3":"n/a",
+    "FIELD4":"$371,600,000",
+    "FIELD5":"$567,700,000",
+    "FIELD6":"$720,500,000"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"Carbon sequestered (metric tons/year)",
+    "FIELD3":"n/a",
+    "FIELD4":"537,000",
+    "FIELD5":"820,000",
+    "FIELD6":"1,043,000"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"Carbon sequestered ($/year)",
+    "FIELD3":"n/a",
+    "FIELD4":"$12,244,000",
+    "FIELD5":"$18,696,000",
+    "FIELD6":"$23,780,000"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"Pollution",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":"",
+    "FIELD6":""
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"CO removed (metric tons/year) g",
+    "FIELD3":"n/a",
+    "FIELD4":"216",
+    "FIELD5":"330",
+    "FIELD6":"419"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"CO removed ($/year)",
+    "FIELD3":"n/a",
+    "FIELD4":"$303,600",
+    "FIELD5":"$464,300",
+    "FIELD6":"$590,200"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"NO2 removed (metric tons/year) h",
+    "FIELD3":"n/a",
+    "FIELD4":"1,749",
+    "FIELD5":"2,674",
+    "FIELD6":"3,399"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"NO2 removed ($/year)",
+    "FIELD3":"n/a",
+    "FIELD4":"$17,323,300",
+    "FIELD5":"$26,490,500",
+    "FIELD6":"$33,671,200"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"O3 removed (metric tons/year) i",
+    "FIELD3":"n/a",
+    "FIELD4":"7,561",
+    "FIELD5":"11,563",
+    "FIELD6":"14,697"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"O3 removed ($/year)",
+    "FIELD3":"n/a",
+    "FIELD4":"$74,903,000",
+    "FIELD5":"$114,540,000",
+    "FIELD6":"$145,589,000"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"SO2 removed (metric tons/year) j",
+    "FIELD3":"n/a",
+    "FIELD4":"1,354",
+    "FIELD5":"2,070",
+    "FIELD6":"2,631"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"SO2 removed ($/year)",
+    "FIELD3":"n/a",
+    "FIELD4":"$3,282,600",
+    "FIELD5":"$5,019,700",
+    "FIELD6":"$6,380,400"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"PM10 removed (metric tons/year) k",
+    "FIELD3":"n/a",
+    "FIELD4":"3,169",
+    "FIELD5":"4,846",
+    "FIELD6":"6,159"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"PM10 removed ($/year)",
+    "FIELD3":"n/a",
+    "FIELD4":"$20,959,500",
+    "FIELD5":"$32,050,900",
+    "FIELD6":"$40,738,900"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"Total pollution removal (metric tons/year)",
+    "FIELD3":"n/a",
+    "FIELD4":"14,050",
+    "FIELD5":"21,480",
+    "FIELD6":"27,310"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"Total pollution removal ($/year)",
+    "FIELD3":"n/a",
+    "FIELD4":"$116,800,000",
+    "FIELD5":"$178,600,000",
+    "FIELD6":"$227,000,000"
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":"",
+    "FIELD6":""
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"a. Urban land is based on population density and was delimited using the United States Census definitions of urbanized areas and urban clusters.",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":"",
+    "FIELD6":""
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"b. Community land is based on jurisdictional or political boundaries of communities based on United States Census definitions of incorporated or census designated places.",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":"",
+    "FIELD6":""
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"c. Urban or communities is land that is urban, community, or both. Communities may include all, some, or no urban land within their boundaries.",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":"",
+    "FIELD6":""
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"d. Canopy green space is the tree canopy cover divided by total green space.",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":"",
+    "FIELD6":""
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"e. Total green space (TGS) is total area - impervious surface cover - water.",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":"",
+    "FIELD6":""
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"f. Available green space (AGS) is total green space - tree canopy cover (if the calculated value is less than 0, then value set at 0).",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":"",
+    "FIELD6":""
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"g. CO - carbon monoxide ",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":"",
+    "FIELD6":""
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"h. NO2 - nitrogen dioxide ",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":"",
+    "FIELD6":""
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"i. O3 - ozone",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":"",
+    "FIELD6":""
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"j. SO2 - sulfur dioxide ",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":"",
+    "FIELD6":""
+  },
+  {
+    "Table 1. Statewide summary of population, area, population density, tree canopy and impervious surface land cover, and urban tree benefits in urban, community, and urban or community areas.":"k. PM10 - particulate matter 10 micrometers or less ",
+    "FIELD2":"",
+    "FIELD3":"",
+    "FIELD4":"",
+    "FIELD5":"",
+    "FIELD6":""
+  }
+]
