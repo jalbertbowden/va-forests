@@ -1,0 +1,502 @@
+[
+  {
+    "Year":1960,
+    "Pine (MBF)":"573000",
+    "Pine (cords)":"1277001",
+    "Hardwood (MBF)":"500000",
+    "Hardwood (cords)":"437001",
+    "Value:  Pine":"$29,305,004.00",
+    "Value:  Hardwood":"$10,874,001.00",
+    "Total Value":"$40,179,005.00"
+  },
+  {
+    "Year":1961,
+    "Pine (MBF)":"517000",
+    "Pine (cords)":"1190000",
+    "Hardwood (MBF)":"508000",
+    "Hardwood (cords)":"472000",
+    "Value:  Pine":"$27,820,000.00",
+    "Value:  Hardwood":"$11,104,000.00",
+    "Total Value":"$38,924,000.00"
+  },
+  {
+    "Year":1962,
+    "Pine (MBF)":"535000",
+    "Pine (cords)":"1159001",
+    "Hardwood (MBF)":"530000",
+    "Hardwood (cords)":"526000",
+    "Value:  Pine":"$28,354,003.00",
+    "Value:  Hardwood":"$11,652,001.00",
+    "Total Value":"$40,006,004.00"
+  },
+  {
+    "Year":1963,
+    "Pine (MBF)":"557000",
+    "Pine (cords)":"1235001",
+    "Hardwood (MBF)":"627000",
+    "Hardwood (cords)":"536001",
+    "Value:  Pine":"$29,133,003.00",
+    "Value:  Hardwood":"$14,866,001.00",
+    "Total Value":"$43,999,004.00"
+  },
+  {
+    "Year":1964,
+    "Pine (MBF)":"544000",
+    "Pine (cords)":"1273001",
+    "Hardwood (MBF)":"588000",
+    "Hardwood (cords)":"610000",
+    "Value:  Pine":"$28,854,004.00",
+    "Value:  Hardwood":"$14,156,000.00",
+    "Total Value":"$43,010,004.00"
+  },
+  {
+    "Year":1965,
+    "Pine (MBF)":"530000",
+    "Pine (cords)":"1424000",
+    "Hardwood (MBF)":"605000",
+    "Hardwood (cords)":"670000",
+    "Value:  Pine":"$28,866,000.00",
+    "Value:  Hardwood":"$14,650,000.00",
+    "Total Value":"$43,516,000.00"
+  },
+  {
+    "Year":1966,
+    "Pine (MBF)":"544000",
+    "Pine (cords)":"1334000",
+    "Hardwood (MBF)":"635000",
+    "Hardwood (cords)":"673000",
+    "Value:  Pine":"$28,799,002.00",
+    "Value:  Hardwood":"$16,586,001.00",
+    "Total Value":"$45,385,003.00"
+  },
+  {
+    "Year":1967,
+    "Pine (MBF)":"515000",
+    "Pine (cords)":"1230001",
+    "Hardwood (MBF)":"602000",
+    "Hardwood (cords)":"668000",
+    "Value:  Pine":"$28,595,006.00",
+    "Value:  Hardwood":"$16,118,000.00",
+    "Total Value":"$44,713,006.00"
+  },
+  {
+    "Year":1968,
+    "Pine (MBF)":"425000",
+    "Pine (cords)":"1055000",
+    "Hardwood (MBF)":"516000",
+    "Hardwood (cords)":"671001",
+    "Value:  Pine":"$23,857,500.00",
+    "Value:  Hardwood":"$14,061,504.00",
+    "Total Value":"$37,919,004.00"
+  },
+  {
+    "Year":1969,
+    "Pine (MBF)":"517000",
+    "Pine (cords)":"996000",
+    "Hardwood (MBF)":"788000",
+    "Hardwood (cords)":"833001",
+    "Value:  Pine":"$28,188,020.00",
+    "Value:  Hardwood":"$20,994,502.00",
+    "Total Value":"$49,182,522.00"
+  },
+  {
+    "Year":1970,
+    "Pine (MBF)":"503001",
+    "Pine (cords)":"962000",
+    "Hardwood (MBF)":"716001",
+    "Hardwood (cords)":"899001",
+    "Value:  Pine":"$29,369,033.00",
+    "Value:  Hardwood":"$20,147,517.00",
+    "Total Value":"$49,516,550.00"
+  },
+  {
+    "Year":1971,
+    "Pine (MBF)":"421001",
+    "Pine (cords)":"873001",
+    "Hardwood (MBF)":"625001",
+    "Hardwood (cords)":"838000",
+    "Value:  Pine":"$27,161,036.00",
+    "Value:  Hardwood":"$21,264,015.00",
+    "Total Value":"$48,425,051.00"
+  },
+  {
+    "Year":1972,
+    "Pine (MBF)":"424001",
+    "Pine (cords)":"827001",
+    "Hardwood (MBF)":"573001",
+    "Hardwood (cords)":"846001",
+    "Value:  Pine":"$28,761,352.00",
+    "Value:  Hardwood":"$23,102,995.00",
+    "Total Value":"$51,864,347.00"
+  },
+  {
+    "Year":1973,
+    "Pine (MBF)":"463000",
+    "Pine (cords)":"844001",
+    "Hardwood (MBF)":"639000",
+    "Hardwood (cords)":"934000",
+    "Value:  Pine":"$32,277,444.00",
+    "Value:  Hardwood":"$34,340,610.00",
+    "Total Value":"$66,618,054.00"
+  },
+  {
+    "Year":1974,
+    "Pine (MBF)":"377001",
+    "Pine (cords)":"875000",
+    "Hardwood (MBF)":"630001",
+    "Hardwood (cords)":"839000",
+    "Value:  Pine":"$26,860,051.00",
+    "Value:  Hardwood":"$24,357,279.00",
+    "Total Value":"$51,217,330.00"
+  },
+  {
+    "Year":1975,
+    "Pine (MBF)":"382001",
+    "Pine (cords)":"744001",
+    "Hardwood (MBF)":"526001",
+    "Hardwood (cords)":"755001",
+    "Value:  Pine":"$25,501,077.00",
+    "Value:  Hardwood":"$25,707,419.00",
+    "Total Value":"$51,208,496.00"
+  },
+  {
+    "Year":1976,
+    "Pine (MBF)":"450000",
+    "Pine (cords)":"842000",
+    "Hardwood (MBF)":"575001",
+    "Hardwood (cords)":"988000",
+    "Value:  Pine":"$33,287,154.00",
+    "Value:  Hardwood":"$31,533,819.00",
+    "Total Value":"$64,820,973.00"
+  },
+  {
+    "Year":1977,
+    "Pine (MBF)":"535001",
+    "Pine (cords)":"845001",
+    "Hardwood (MBF)":"657000",
+    "Hardwood (cords)":"932000",
+    "Value:  Pine":"$49,389,513.00",
+    "Value:  Hardwood":"$40,003,748.00",
+    "Total Value":"$ 89,393,261.00"
+  },
+  {
+    "Year":1978,
+    "Pine (MBF)":"516000",
+    "Pine (cords)":"915001",
+    "Hardwood (MBF)":"656000",
+    "Hardwood (cords)":"927000",
+    "Value:  Pine":"$63,558,306.00",
+    "Value:  Hardwood":"$44,967,840.00",
+    "Total Value":"$108,526,146.00"
+  },
+  {
+    "Year":1979,
+    "Pine (MBF)":"532000",
+    "Pine (cords)":"932001",
+    "Hardwood (MBF)":"657001",
+    "Hardwood (cords)":"815001",
+    "Value:  Pine":"$64,752,357.00",
+    "Value:  Hardwood":"$38,796,330.00",
+    "Total Value":"$103,548,687.00"
+  },
+  {
+    "Year":1980,
+    "Pine (MBF)":"524000",
+    "Pine (cords)":"1112001",
+    "Hardwood (MBF)":"600001",
+    "Hardwood (cords)":"1081001",
+    "Value:  Pine":"$64,439,717.00",
+    "Value:  Hardwood":"$36,901,950.00",
+    "Total Value":"$101,341,667.00"
+  },
+  {
+    "Year":1981,
+    "Pine (MBF)":"468000",
+    "Pine (cords)":"1108001",
+    "Hardwood (MBF)":"595001",
+    "Hardwood (cords)":"1305001",
+    "Value:  Pine":"$61,261,947.00",
+    "Value:  Hardwood":"$41,747,989.00",
+    "Total Value":"$103,009,936.00"
+  },
+  {
+    "Year":1982,
+    "Pine (MBF)":"498000",
+    "Pine (cords)":"1193001",
+    "Hardwood (MBF)":"598000",
+    "Hardwood (cords)":"1226001",
+    "Value:  Pine":"$73,294,014.00",
+    "Value:  Hardwood":"$43,300,424.00",
+    "Total Value":"$116,594,438.00"
+  },
+  {
+    "Year":1983,
+    "Pine (MBF)":"607000",
+    "Pine (cords)":"1179001",
+    "Hardwood (MBF)":"684800",
+    "Hardwood (cords)":"1517000",
+    "Value:  Pine":"$91,567,332.00",
+    "Value:  Hardwood":"$55,609,995.00",
+    "Total Value":"$147,177,327.00"
+  },
+  {
+    "Year":1984,
+    "Pine (MBF)":"591000",
+    "Pine (cords)":"1343001",
+    "Hardwood (MBF)":"692001",
+    "Hardwood (cords)":"1323001",
+    "Value:  Pine":"$ 80,490,710.00",
+    "Value:  Hardwood":"$49,677,169.00",
+    "Total Value":"$130,167,879.00"
+  },
+  {
+    "Year":1985,
+    "Pine (MBF)":"568000",
+    "Pine (cords)":"1112000",
+    "Hardwood (MBF)":"591001",
+    "Hardwood (cords)":"1260000",
+    "Value:  Pine":"$77,112,288.00",
+    "Value:  Hardwood":"$42,536,420.00",
+    "Total Value":"$119,648,708.00"
+  },
+  {
+    "Year":1986,
+    "Pine (MBF)":"561794",
+    "Pine (cords)":"1141999",
+    "Hardwood (MBF)":"658669",
+    "Hardwood (cords)":"948484",
+    "Value:  Pine":"$75,610,265.00",
+    "Value:  Hardwood":"$47,394,454.00",
+    "Total Value":"$123,004,719.00"
+  },
+  {
+    "Year":1987,
+    "Pine (MBF)":"577561",
+    "Pine (cords)":"1237658",
+    "Hardwood (MBF)":"731060",
+    "Hardwood (cords)":"967506",
+    "Value:  Pine":"$88,591,580.00",
+    "Value:  Hardwood":"$60,806,931.00",
+    "Total Value":"$149,398,241.00"
+  },
+  {
+    "Year":1988,
+    "Pine (MBF)":"552521",
+    "Pine (cords)":"1194715",
+    "Hardwood (MBF)":"705887",
+    "Hardwood (cords)":"1137348",
+    "Value:  Pine":"$87,350,051.00",
+    "Value:  Hardwood":"$66,832,141.00",
+    "Total Value":"$154,182,192.00"
+  },
+  {
+    "Year":1989,
+    "Pine (MBF)":"528587",
+    "Pine (cords)":"1379723",
+    "Hardwood (MBF)":"709589",
+    "Hardwood (cords)":"1070604",
+    "Value:  Pine":"$90,861,682.00",
+    "Value:  Hardwood":"$78,169,632.00",
+    "Total Value":"$169,031,314.00"
+  },
+  {
+    "Year":1990,
+    "Pine (MBF)":"485293",
+    "Pine (cords)":"1362907",
+    "Hardwood (MBF)":"734968",
+    "Hardwood (cords)":"1009615",
+    "Value:  Pine":"$75,471,468.00",
+    "Value:  Hardwood":"$71,198,901.00",
+    "Total Value":"$146,670,369.00"
+  },
+  {
+    "Year":1991,
+    "Pine (MBF)":"484969",
+    "Pine (cords)":"1361622",
+    "Hardwood (MBF)":"680062",
+    "Hardwood (cords)":"949820",
+    "Value:  Pine":"$80,250,407.00",
+    "Value:  Hardwood":"$68,644,645.00",
+    "Total Value":"$148,895,052.00"
+  },
+  {
+    "Year":1992,
+    "Pine (MBF)":"520231",
+    "Pine (cords)":"1589033",
+    "Hardwood (MBF)":"694271",
+    "Hardwood (cords)":"1057342",
+    "Value:  Pine":"$91,992,919.00",
+    "Value:  Hardwood":"$80,943,473.00",
+    "Total Value":"$172,936,392.00"
+  },
+  {
+    "Year":1993,
+    "Pine (MBF)":"583526",
+    "Pine (cords)":"1665029",
+    "Hardwood (MBF)":"745956",
+    "Hardwood (cords)":"1159007",
+    "Value:  Pine":"$99,510,193.00",
+    "Value:  Hardwood":"$96,937,107.00",
+    "Total Value":"$196,447,300.00"
+  },
+  {
+    "Year":1994,
+    "Pine (MBF)":"624036",
+    "Pine (cords)":"1803869",
+    "Hardwood (MBF)":"831145",
+    "Hardwood (cords)":"1199103",
+    "Value:  Pine":"$114,371,475.00",
+    "Value:  Hardwood":"$102,860,396.00",
+    "Total Value":"$217,231,871.00"
+  },
+  {
+    "Year":1995,
+    "Pine (MBF)":"550188",
+    "Pine (cords)":"1721420",
+    "Hardwood (MBF)":"736094",
+    "Hardwood (cords)":"1140031",
+    "Value:  Pine":"$122,709,128.00",
+    "Value:  Hardwood":"$105,973,707.00",
+    "Total Value":"$228,682,835.00"
+  },
+  {
+    "Year":1996,
+    "Pine (MBF)":"531,712",
+    "Pine (cords)":"1,881,849",
+    "Hardwood (MBF)":"772,103",
+    "Hardwood (cords)":"1,200,661",
+    "Value:  Pine":"$137,078,113.00",
+    "Value:  Hardwood":"$125,803,764.00",
+    "Total Value":"$262,881,877.00"
+  },
+  {
+    "Year":1997,
+    "Pine (MBF)":"614,766",
+    "Pine (cords)":"2,104,606",
+    "Hardwood (MBF)":"810,087",
+    "Hardwood (cords)":"1,290,478",
+    "Value:  Pine":"$170,883,014.00",
+    "Value:  Hardwood":"$136,083,402.00",
+    "Total Value":"$306,966,416.00"
+  },
+  {
+    "Year":1998,
+    "Pine (MBF)":"634,829",
+    "Pine (cords)":"1,970,331",
+    "Hardwood (MBF)":"800,805",
+    "Hardwood (cords)":"1,465,329",
+    "Value:  Pine":"$178,269,048.00",
+    "Value:  Hardwood":"$134,003,258.00",
+    "Total Value":"$312,272,306.00"
+  },
+  {
+    "Year":1999,
+    "Pine (MBF)":"673,167",
+    "Pine (cords)":"1,770,434",
+    "Hardwood (MBF)":"811,665",
+    "Hardwood (cords)":"1322892",
+    "Value:  Pine":"$205,729,698.74",
+    "Value:  Hardwood":"$139,368,346.27",
+    "Total Value":"$345,098,045.01"
+  },
+  {
+    "Year":2000,
+    "Pine (MBF)":"569774",
+    "Pine (cords)":"1782808",
+    "Hardwood (MBF)":"807141",
+    "Hardwood (cords)":"1309282",
+    "Value:  Pine":"$148,391,226.27",
+    "Value:  Hardwood":"$129,614,968.29",
+    "Total Value":"$278,006,194.55"
+  },
+  {
+    "Year":2001,
+    "Pine (MBF)":"578,986",
+    "Pine (cords)":"1,633,594",
+    "Hardwood (MBF)":"724,082",
+    "Hardwood (cords)":"1,206,112",
+    "Value:  Pine":"$120,148,244.21",
+    "Value:  Hardwood":"$106,774,644.88",
+    "Total Value":"$226,922,889.08"
+  },
+  {
+    "Year":2002,
+    "Pine (MBF)":"557,491",
+    "Pine (cords)":"1,593,944",
+    "Hardwood (MBF)":"750,557",
+    "Hardwood (cords)":"1,246,681",
+    "Value:  Pine":"$141,654,764.49",
+    "Value:  Hardwood":"$148,822,307.40",
+    "Total Value":"$290,477,071.89"
+  },
+  {
+    "Year":2003,
+    "Pine (MBF)":"536,751",
+    "Pine (cords)":"1,819,102",
+    "Hardwood (MBF)":"664,232",
+    "Hardwood (cords)":"1,282,006",
+    "Value:  Pine":"$134,406,527.49",
+    "Value:  Hardwood":"$127,391,990.66",
+    "Total Value":"$261,798,518.15"
+  },
+  {
+    "Year":2004,
+    "Pine (MBF)":"577,678",
+    "Pine (cords)":"1,783,325",
+    "Hardwood (MBF)":"708091",
+    "Hardwood (cords)":"1,417,120",
+    "Value:  Pine":"$147,547,411.66",
+    "Value:  Hardwood":"$136,592,333.09",
+    "Total Value":"$284,139,744.74"
+  },
+  {
+    "Year":2005,
+    "Pine (MBF)":"632,290",
+    "Pine (cords)":"1,807,407",
+    "Hardwood (MBF)":"658,052",
+    "Hardwood (cords)":"1,469,618",
+    "Value:  Pine":"$158,862,907.31",
+    "Value:  Hardwood":"$116,586,273.93",
+    "Total Value":"$275,449,181.24"
+  },
+  {
+    "Year":2006,
+    "Pine (MBF)":"592,160",
+    "Pine (cords)":"2,023,229",
+    "Hardwood (MBF)":"833,065",
+    "Hardwood (cords)":"1,420,965",
+    "Value:  Pine":"$155,010,483.18",
+    "Value:  Hardwood":"$191,906,371.44",
+    "Total Value":"$346,916,854.62"
+  },
+  {
+    "Year":2007,
+    "Pine (MBF)":"543982",
+    "Pine (cords)":"2,225,805",
+    "Hardwood (MBF)":"594,268",
+    "Hardwood (cords)":"1,410,628",
+    "Value:  Pine":"$138,587,637.73",
+    "Value:  Hardwood":"$125,999,092.46",
+    "Total Value":"$264,586,730.19"
+  },
+  {
+    "Year":2008,
+    "Pine (MBF)":"494,902.00",
+    "Pine (cords)":"2,462,874.00",
+    "Hardwood (MBF)":"657,372.00",
+    "Hardwood (cords)":"1,138,088.00",
+    "Value:  Pine":"$118,409,196",
+    "Value:  Hardwood":"$88,676,663",
+    "Total Value":"$207,085,859"
+  },
+  {
+    "Year":2009,
+    "Pine (MBF)":"405,982.07",
+    "Pine (cords)":"2,383,729.98",
+    "Hardwood (MBF)":"529,094.05",
+    "Hardwood (cords)":"1,006,523.73",
+    "Value:  Pine":"$114,329,177.45",
+    "Value:  Hardwood":"$94,118,851.02",
+    "Total Value":"$208,448,028.47"
+  }
+]
