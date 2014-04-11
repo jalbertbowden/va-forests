@@ -1,0 +1,76 @@
+Virginia 2011 created from FS_FIADB on 10DEC2013
+SUMMARY TABLES
+Table 998—Area of forest land/timberland by forest-type group 
+Table 998.1—Area of forest land/timberland by forest-type group/forest-types
+Table 999— Number/Vol/GRM on forest land by species group 
+Table 999.1— Number/Vol/GRM on timberland by species group 
+Table 999.2— Number/Vol/GRM of sawtimber on timberland by species group 
+AREA
+Table 1—Percentage of area by land status
+Table 1.1—Area by unit and land status
+Table 2—Area of forest land by ownership class and land status 
+Table 3—Area of forest land by forest-type group and site productivity class
+Table 3.1—Area of timberland by forest-type group and site productivity class
+Table 4—Area of forest land by forest-type group and ownership group 
+Table 4.1—Area of timberland by forest-type group and ownership group 
+Table 5—Area of forest land by forest-type group and stand-size class
+Table 6—Area of forest land by forest-type group and stand age class
+Table 6.1—Area of timberland by forest-type group and stand age class
+Table 7—Area of forest land by forest-type group and stand origin
+Table 7.1—Area of timberland by forest-type group and stand origin
+CHNG Table 8—Area of forest land disturbed annually by forest-type group and disturbance class
+CHNG Table 8.1—Area of timberland disturbed annually by forest-type group and disturbance class
+CHNG Table 8.2.1—Area of forest land treated annually by forest-type group and treatment class (cutting)
+CHNG Table 8.2.2—Area of forest land treated annually by forest-type group and treatment class (regeneration)
+CHNG Table 8.3.1—Area of timberland treated annually by forest-type group and treatment class (cutting)
+CHNG Table 8.3.2—Area of timberland treated annually by forest-type group and treatment class (regeneration)
+Table 9—Area of timberland by forest-type group and stand-size class
+NUMBER/VOLUME TREES
+Table 10—Number of live trees on forest land by species group and diameter class
+Table 10.1—Number of live trees on timberland by species group and diameter class
+Table 11—Number of growing-stock trees on timberland by species group and diameter class
+Table 12—Net volume of live trees on forest land by ownership class and land status 
+Table 13—Net volume of live trees on forest land by forest-type group and stand-size class
+Table 13.1—Net volume of live trees on timberland by forest-type group and stand-size class
+Table 14—Net volume of live trees on forest land by species group and ownership group 
+Table 14.1—Net volume of live trees on timberland by species group and ownership group 
+Table 15—Net volume of live trees on forest land by species group and diameter class
+Table 15.1—Net volume of live trees on timberland by species group and diameter class
+Table 16—Net volume of live trees on forest land by forest-type group and stand origin
+Table 16.1—Net volume of live trees on timberland by forest-type group and stand origin
+Table 17—Net volume of growing-stock trees on timberland by species group and diameter class
+Table 18—Net volume of growing-stock trees on timberland by species group and ownership group
+Table 19—Net volume of sawtimber trees on timberland by species group and diameter class
+Table 20—Net volume of sawtimber trees on timberland by species group and ownership group 
+WEIGHT
+Table 21—Aboveground dry weight of live trees on forestland by ownership class and land status 
+Table 21.1—Aboveground green weight of live trees on forestland by ownership class and land status 
+Table 22—Aboveground dry weight of live trees on forest land by species group and diameter class
+Table 22.1—Aboveground dry weight of live trees on timberland by species group and diameter class
+Table 22.2—Aboveground green weight of live trees on forest land by species group and diameter class
+Table 22.3—Aboveground green weight of live trees on timberland by species group and diameter class
+Table 22.4—Merchantable dry weight of live trees on forest land by species group and diameter class
+Table 22.5—Merchantable dry weight of live trees on timberland by species group and diameter class
+Table 23—Total carbon of live trees on forestland by ownership class and land status 
+"GROWTH, REMOVALS AND MORTALITY"
+Table 24—Average annual net growth of live trees by ownership class and land status 
+Table 25—Average annual net growth of live trees on forest land by forest-type group and stand-size class 
+Table 25.1—Average annual net growth of live trees on timberland by forest-type group and stand-size class 
+Table 26—Average annual net growth of live trees on forest land by species group and ownership group  
+Table 26.1—Average annual net growth of live trees on timberland by species group and ownership group  
+Table 27—Average annual net growth of growing-stock trees on timberland by species group and ownership group  
+Table 27.1—Average annual net growth of sawtimber on timberland by species group and ownership group  
+Table 28—Average annual net mortality of live trees by ownership class and land status 
+Table 29—Average annual mortality of live trees on forest land by forest-type group and stand-size class 
+Table 29.1—Average annual mortality of live trees on timberland by forest-type group and stand-size class 
+Table 30—Average annual mortality of live trees on forest land by species group and ownership group  
+Table 30.1—Average annual mortality of live trees on timberland by species group and ownership group  
+Table 31—Average annual mortality of growing-stock trees on timberland by species group and ownership group  
+Table 31.1—Average annual mortality of sawtimber on timberland by species group and ownership group  
+Table 32—Average annual net removals of live trees by ownership class and land status 
+Table 33—Average annual removals of live trees on forest land by forest-type group and stand-size class 
+Table 33.1—Average annual removals of live trees on timberland by forest-type group and stand-size class 
+Table 34—Average annual removals of live trees on forest land by species group and ownership group  
+Table 34.1—Average annual removals of live trees on timberland by species group and ownership group  
+Table 35—Average annual removals of growing-stock trees on timberland by species group and ownership group  
+Table 35.1—Average annual removals of sawtimber on timberland by species group and ownership group  

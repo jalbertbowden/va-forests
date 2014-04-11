@@ -1,0 +1,55 @@
+Name: “Table 1 of 1 on page 66 of 92”,Name: “Table 1 of 1 on page 66 of 92”,Name: “Table 1 of 1 on page 66 of 92”,Name: “Table 1 of 1 on page 66 of 92”,Name: “Table 1 of 1 on page 66 of 92”,Name: “Table 1 of 1 on page 66 of 92”,Name: “Table 1 of 1 on page 66 of 92”,Name: “Table 1 of 1 on page 66 of 92”,Name: “Table 1 of 1 on page 66 of 92”,Name: “Table 1 of 1 on page 66 of 92”
+Table: 66,Table: 66,Table: 66,Table: 66,Table: 66,Table: 66,Table: 66,Table: 66,Table: 66,Table: 66
+,,,,,,,,,
+,Appendix B—Data Reliability,Appendix B—Data Reliability,Appendix B—Data Reliability,Appendix B—Data Reliability,,,,,
+,,,,,can happen when the postdefined strata,can happen when the postdefined strata,can happen when the postdefined strata,can happen when the postdefined strata,can happen when the postdefined strata
+"Table B.3—Statistical reliability for Virginia, 2007","Table B.3—Statistical reliability for Virginia, 2007","Table B.3—Statistical reliability for Virginia, 2007","Table B.3—Statistical reliability for Virginia, 2007",,are more homogeneous than the larger,are more homogeneous than the larger,are more homogeneous than the larger,are more homogeneous than the larger,are more homogeneous than the larger
+,,,,,"strata, thereby having a smaller variance.","strata, thereby having a smaller variance.","strata, thereby having a smaller variance.","strata, thereby having a smaller variance.","strata, thereby having a smaller variance."
+,Sample estimate,Sample estimate,Sample estimate,,,,,,
+,and 68.27 percent,and 68.27 percent,and 68.27 percent,Sampling,For specific postdefined strata the sampling,For specific postdefined strata the sampling,For specific postdefined strata the sampling,For specific postdefined strata the sampling,For specific postdefined strata the sampling
+Item,confidence interval,confidence interval,confidence interval,error,error can be calculated using the following,error can be calculated using the following,error can be calculated using the following,error can be calculated using the following,error can be calculated using the following
+,,,,percent,formula. Sampling errors obtained by,formula. Sampling errors obtained by,formula. Sampling errors obtained by,formula. Sampling errors obtained by,formula. Sampling errors obtained by
+,,,,,this method are only approximations of,this method are only approximations of,this method are only approximations of,this method are only approximations of,this method are only approximations of
+"Forest land (1,000 acres)",,,,,reliability because this process assumes,reliability because this process assumes,reliability because this process assumes,reliability because this process assumes,reliability because this process assumes
+State,"15,724.8",±,105.4,0.7,constant variance across all subdivisions,constant variance across all subdivisions,constant variance across all subdivisions,constant variance across all subdivisions,constant variance across all subdivisions
+Coastal Plain,"3,701.0",±,53.3,1.4,of totals.,of totals.,,,
+Southern Piedmont,"3,741.7",±,47.5,1.3,,,,,
+Northern Piedmont,"2,502.9",±,50.3,2.0,,,,,
+Northern Mountains,"2,713.5",±,36.6,1.4,,,SE,= SE,X t
+Southern Mountains,"3,065.6",±,46.0,1.5,,,S,t,X S
+All live volume on forest land a,,,,,,,,,
+Inventory,"32,812.1",±,436.4,1.3,where,,,,
+Softwoods,"7,530.2",±,240.2,3.2,,,,,
+Hardwoods,"25,281.9",±,404.5,1.6,,SEs = sampling error for subdivision of,SEs = sampling error for subdivision of,SEs = sampling error for subdivision of,SEs = sampling error for subdivision of
+,,,,,,survey unit or State total,survey unit or State total,survey unit or State total,survey unit or State total
+All live volume on timberlanda,,,,,,,,,
+Inventory,"31,698.7",±,440.6,1.4,,"SE = sampling error for survey unit or
+t","SE = sampling error for survey unit or
+t","SE = sampling error for survey unit or
+t","SE = sampling error for survey unit or
+t"
+Softwoods,"7,408.6",±,240.0,3.2,,State total,State total,,
+Hardwoods,"24,290.1",±,403.2,1.7,,,,,
+Net annual growth,"1,030.4",±,30.6,3.0,,Xs = 	sum of values for the variable of,Xs = 	sum of values for the variable of,Xs = 	sum of values for the variable of,Xs = 	sum of values for the variable of
+Softwoods,398.9,±,20.5,5.1,,interest (area or volume) for,interest (area or volume) for,interest (area or volume) for,interest (area or volume) for
+Hardwoods,631.5,±,22.0,3.5,,subdivision of survey unit or State,subdivision of survey unit or State,subdivision of survey unit or State,subdivision of survey unit or State
+Annual removals,827.5,±,59.7,7.2,,,,,
+Softwoods,340.6,±,36.2,10.6,,X t = 	 total area or volume for survey unit,X t = 	 total area or volume for survey unit,X t = 	 total area or volume for survey unit,X t = 	 total area or volume for survey unit
+Hardwoods,487.0,±,39.6,8.1,,or State,or State,,
+Annual mortality,286.0,±,13.1,4.6,,,,,
+Softwoods,96.6,±,8.4,8.7,"For example, the estimate of sampling error","For example, the estimate of sampling error","For example, the estimate of sampling error","For example, the estimate of sampling error","For example, the estimate of sampling error"
+Hardwoods,189.3,±,10.1,5.3,for softwood live-tree volume on public,for softwood live-tree volume on public,for softwood live-tree volume on public,for softwood live-tree volume on public,for softwood live-tree volume on public
+a,,,,,forest land is computed as:,forest land is computed as:,forest land is computed as:,forest land is computed as:,
+Million cubic feet.,,,,,,,,,
+,The size of the sampling error generally,The size of the sampling error generally,The size of the sampling error generally,The size of the sampling error generally,,,,"7,530.2",
+,,,,,,SE,= 3.19,,= 8.43
+,increases as the size of the area examined,increases as the size of the area examined,increases as the size of the area examined,increases as the size of the area examined,,s,s,"1,079.5",
+,"decreases. Also, as area or volume totals","decreases. Also, as area or volume totals","decreases. Also, as area or volume totals","decreases. Also, as area or volume totals",,,,,
+,"are stratified by forest type, species,","are stratified by forest type, species,","are stratified by forest type, species,","are stratified by forest type, species,",,,,,
+,"diameter class, ownership, or other","diameter class, ownership, or other","diameter class, ownership, or other","diameter class, ownership, or other","Thus, the sampling error is 8.43 percent,","Thus, the sampling error is 8.43 percent,","Thus, the sampling error is 8.43 percent,","Thus, the sampling error is 8.43 percent,","Thus, the sampling error is 8.43 percent,"
+,"subunits, the sampling error may increase","subunits, the sampling error may increase","subunits, the sampling error may increase","subunits, the sampling error may increase",and the resulting 68.27-percent confidence,and the resulting 68.27-percent confidence,and the resulting 68.27-percent confidence,and the resulting 68.27-percent confidence,and the resulting 68.27-percent confidence
+,and be greatest for the smallest divisions.,and be greatest for the smallest divisions.,and be greatest for the smallest divisions.,and be greatest for the smallest divisions.,interval for softwood live-tree volume on,interval for softwood live-tree volume on,interval for softwood live-tree volume on,interval for softwood live-tree volume on,interval for softwood live-tree volume on
+,"However, there may be instances where","However, there may be instances where","However, there may be instances where","However, there may be instances where","public forest land is 1,079.5 ± 91.0 million","public forest land is 1,079.5 ± 91.0 million","public forest land is 1,079.5 ± 91.0 million","public forest land is 1,079.5 ± 91.0 million","public forest land is 1,079.5 ± 91.0 million"
+,a smaller component does not have a,a smaller component does not have a,a smaller component does not have a,a smaller component does not have a,cubic feet.,cubic feet.,,,
+,proportionately larger sampling error. This,proportionately larger sampling error. This,proportionately larger sampling error. This,proportionately larger sampling error. This,,,,,
+54,,,,,,,,,

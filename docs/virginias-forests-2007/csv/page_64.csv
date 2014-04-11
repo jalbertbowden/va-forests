@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 64 of 92”,Name: “Table 1 of 1 on page 64 of 92”,Name: “Table 1 of 1 on page 64 of 92”,Name: “Table 1 of 1 on page 64 of 92”,Name: “Table 1 of 1 on page 64 of 92”
+Table: 64,Table: 64,Table: 64,Table: 64,Table: 64
+,,,,
+Appendix B—Data Reliability,,,,
+Table B.1—Results of plot- and condition-level blind checks for Virginia and the southern,Table B.1—Results of plot- and condition-level blind checks for Virginia and the southern,Table B.1—Results of plot- and condition-level blind checks for Virginia and the southern,Table B.1—Results of plot- and condition-level blind checks for Virginia and the southern,Table B.1—Results of plot- and condition-level blind checks for Virginia and the southern
+regiona,,,,
+,,Southern,,Southern
+Variable,Virginia,region,Virginia,region
+,percent within,percent within,number of,
+,,tolerance,observations,
+Plot-level variables,,,,
+Distance to agriculture,71,67,7,136
+Distance to road,86,72,7,136
+Distance to urban,57,57,7,136
+Latitude,100,89,7,161
+Longitude,100,83,7,161
+Number of accessible forest land conditions,100,96,7,136
+Plot in correct county,100,100,7,172
+Plot status,100,100,7,173
+Sample kind,100,100,7,170
+Condition-level variables,,,,
+Condition status,100,100,10,257
+Reserved status,100,100,10,206
+Owner group,90,99,10,206
+Forest type,60,78,10,204
+Forest-type group,80,86,10,204
+Stand-size class,70,84,10,206
+Regeneration status,100,97,10,206
+Tree density,100,100,10,206
+Owner class,70,96,10,206
+Stand age,40,50,10,204
+Disturbance 1,100,91,10,206
+Treatment 1,100,93,10,206
+Physiographic class,90,80,10,206
+Present land use,100,98,10,206
+Stand structure,80,92,10,206
+Operability,80,83,10,206
+Site class,90,83,10,206
+Fire,100,96,10,206
+Grazing,100,97,10,206
+a Results are for data collected under manual 3.0 where available.,a Results are for data collected under manual 3.0 where available.,,,
+52,,,,
