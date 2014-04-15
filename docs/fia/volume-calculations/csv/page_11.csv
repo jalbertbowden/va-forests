@@ -1,0 +1,80 @@
+Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”,Name: “Table 1 of 1 on page 11 of 20”
+Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,,,,,,,,,,,,,,,,,,,,,,,Page 11 of 20.,Page 11 of 20.,
+Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,,,,,,,,
+Region,States,,,,,,,,,,,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,,,,,Observed,Observed,Reference:
+,,,,,,,,,"VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )",items:,items:,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,"( x1 , x 2 ,... x n )","( x1 , x 2 ,... x n )",
+North,"IA, IL, IN,",VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,,(1 − e b3 x1b 4,(1 − e b3 x1b 4,(1 − e b3 x1b 4,(1 − e b3 x1b 4,(1 − e b3 x1b 4,),,,,,x1 = DBH,x1 = DBH,Hahn &
+Central,"KS, MO, NE,",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Hansen,"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,=SI,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,
+,SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1991
+North,"MI, MN, ND,",VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,,,,,,,,,,,,,,,,,x1 = DBH,x1 = DBH,"Hahn, 1984"
+Central,WI, ( b, ( b,+ b,+ b,+ b,x,,+ b,+ b,h,h,+ b,+ b,x,,2,+ b,+ b,x,2 h,2 h,+ ,+ ,,,,x,=SI,
+,,,,0,,,1,1,,,2,s,,3,3,1,,,,4,1,s,,,,,,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,, b,h,,2,+ b,+ b,+ b,h,x,2,+ b,+ b,x,x,2,h,3,+,,,, b, b, b,,,x,=,7;
+,,,5,s,,,,6,s,,3,,7,7,1,,s,,,,,,,,17,17,,3,3,
+,,,,x,2,h,2,x,)( b,)( b,,+ b,,x,,),,,,,,,,,,,,Sfwd,Sfwd,
+,,b 8,b 8,1,,s,,3,,,9,,10,10,1,,,,,,,,,,,,,,,
+,,+,,,,+,+,,,,+,+,,,+,+,,,,,,,,,,,,x 3 =,x 3 =,9;
+,,b,b,x,x,,,b,h,,,b,x,x,,,b,,,,,,,,,,,,,
+,,,18,18,1,,,19,19,s,,,20,3,,,,21,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hdwd,Hdwd,
+,,where h s,where h s,where h s,where h s,where h s,where h s,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,x 4 =BA,x 4 =BA,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,b15,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11",( b12 x1 ),( b12 x1 ),),b13,x,"b14
+2","b14
+2", 1 . 00001 −, 1 . 00001 −, 1 . 00001 −, 1 . 00001 −, 1 . 00001 −, 1 . 00001 −, 1 . 00001 −,x,3,,"x b16
+4",,
+,,,,,,,,,,,,,,,,,,,,,,,,,x,x,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,
+North-,All states in,,,,,,,,,,,,,,,,b,,,,b,b,b,b,,,,,,"Scott, 1979"
+,,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,+ b2 x1,+ b2 x1,+ b2 x1,+ b2 x1,,3,+ b4 x1,+ b4 x1,+ b4 x1,"5 
+x 2","5 
+x 2",6,,,,"x= dbh
+1","x= dbh
+1",
+,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,
+eastern,the region,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,x 2 =,x 2 =,sawlog
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,height,height,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,(height to 7”,(height to 7”,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,or 9”,or 9”,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,diameter,diameter,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,outside,outside,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,bark),bark),
+RMRS,"Eastern MT,",Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),,,,,,,,,,x 1,= dbh,"Myers, 1964"
+,"Eastern WY,",VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,,,+,,,,2,,,,,,,,,x,= ht,RM-8
+,,,,,,,,,,,,,( b 42,( b 42,( b 42,b 43 x1,b 43 x1,b 43 x1,x 2 ),x 2 ),,,,,,,,2,,
+,SD (SPP=PP),,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),,,,,,,,,,,,,,
+,,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,,,+,,,,2,,,,,,,,,,,
+,,,,,,,,,,,,,( b 45,( b 45,( b 45,b 46 x1,b 46 x1,b 46 x1,x 2 ),x 2 ),,,,,,,,,,
+RMRS,"Western WY,",Young Growth,Young Growth,Young Growth,Young Growth,Young Growth,Young Growth,Young Growth,Young Growth,Young Growth,Young Growth,(x12 x 2 Lt b 47 ),(x12 x 2 Lt b 47 ),(x12 x 2 Lt b 47 ),(x12 x 2 Lt b 47 ),(x12 x 2 Lt b 47 ),(x12 x 2 Lt b 47 ),(x12 x 2 Lt b 47 ),,,,,,,,,,x 1,= dbh,"Edminster,"
+,"CO, NV, UT",,,,,,,,,,,,,,,,,,,,,,,,,,,x,= ht,"Beeson, and"
+,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,
+,,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,,,+,,,,,,,,,,,,,2,,
+,,,,,,,,,,,,,( b 48,( b 48,( b 48,b 49 x1,b 49 x1,b 49 x1,x 2 ),x 2 ),,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Metcalf,"
+,(SPP=PP),Old Growth,Old Growth,Old Growth,Old Growth,Old Growth,Old Growth,Old Growth,Old Growth,,2,2,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,(x1,(x1,x 2 Ge b 47 ),x 2 Ge b 47 ),x 2 Ge b 47 ),x 2 Ge b 47 ),x 2 Ge b 47 ),,,,,,,,,,,,,,1980
+,,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,( b 50 + b 51x12 x 2 ),( b 50 + b 51x12 x 2 ),( b 50 + b 51x12 x 2 ),( b 50 + b 51x12 x 2 ),( b 50 + b 51x12 x 2 ),( b 50 + b 51x12 x 2 ),( b 50 + b 51x12 x 2 ),( b 50 + b 51x12 x 2 ),,,,,,,,,,Myers and
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Edminster,"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1972
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Edminster,"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Mowrer,"

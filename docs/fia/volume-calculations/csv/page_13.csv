@@ -1,0 +1,55 @@
+Name: “Table 1 of 1 on page 13 of 20”,Name: “Table 1 of 1 on page 13 of 20”,Name: “Table 1 of 1 on page 13 of 20”,Name: “Table 1 of 1 on page 13 of 20”,Name: “Table 1 of 1 on page 13 of 20”,Name: “Table 1 of 1 on page 13 of 20”,Name: “Table 1 of 1 on page 13 of 20”,Name: “Table 1 of 1 on page 13 of 20”,Name: “Table 1 of 1 on page 13 of 20”,Name: “Table 1 of 1 on page 13 of 20”,Name: “Table 1 of 1 on page 13 of 20”,Name: “Table 1 of 1 on page 13 of 20”,Name: “Table 1 of 1 on page 13 of 20”,Name: “Table 1 of 1 on page 13 of 20”,Name: “Table 1 of 1 on page 13 of 20”
+Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13
+,,,,,,,,,,,,,,
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,,,,,,,,Page 13 of 20.,Page 13 of 20.
+Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,,,,
+Region,States,,,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,,,Observed,Observed,Reference:
+,,,"VOLBFNET = f ( x1 , x 2 ,... x n )","VOLBFNET = f ( x1 , x 2 ,... x n )","VOLBFNET = f ( x1 , x 2 ,... x n )","VOLBFNET = f ( x1 , x 2 ,... x n )","VOLBFNET = f ( x1 , x 2 ,... x n )","VOLBFNET = f ( x1 , x 2 ,... x n )","VOLBFNET = f ( x1 , x 2 ,... x n )","VOLBFNET = f ( x1 , x 2 ,... x n )",,items:,items:,
+,,,,,,,,,,,,"( x1 , x 2 ,... x n )","( x1 , x 2 ,... x n )",
+North,"IA, IL,",VOLBFNET = VOLBFGRS (1 − (b5,VOLBFNET = VOLBFGRS (1 − (b5,VOLBFNET = VOLBFGRS (1 − (b5,VOLBFNET = VOLBFGRS (1 − (b5,VOLBFNET = VOLBFGRS (1 − (b5,VOLBFNET = VOLBFGRS (1 − (b5,VOLBFNET = VOLBFGRS (1 − (b5,VOLBFNET = VOLBFGRS (1 − (b5,VOLBFNET = VOLBFGRS (1 − (b5,+ b6 x1 )),x1 = dbh,x1 = dbh,Hahn and
+Central,"IN, KS,",,,,,,,,,,,,,"Hansen,"
+,,b 5,and b 6,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,,,
+,"MO, NE,",,,,,,,,,,,,,1991
+,SD,,,,,,,,,,,,,
+North,"MI, MN,",VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),x1 = dbh,x1 = dbh,"Hahn, 1984"
+Central,"ND, WI",,,,,,,,,,,,,
+,,b 22 is species-tree class specific,b 22 is species-tree class specific,b 22 is species-tree class specific,b 22 is species-tree class specific,b 22 is species-tree class specific,b 22 is species-tree class specific,b 22 is species-tree class specific,b 22 is species-tree class specific,,,,,
+North-,All states,,,,,,,,,"x
+1",,x,= percent,"Scott, 1979"
+,,VOLBFNET = VOLBFGRS (1 −,VOLBFNET = VOLBFGRS (1 −,VOLBFNET = VOLBFGRS (1 −,VOLBFNET = VOLBFGRS (1 −,VOLBFNET = VOLBFGRS (1 −,VOLBFNET = VOLBFGRS (1 −,VOLBFNET = VOLBFGRS (1 −,VOLBFNET = VOLBFGRS (1 −,,),1,1,
+eastern,in the,,,,,,,,,100,,cull in sawlog,cull in sawlog,
+,region,,,,,,,,,,,,,
+RMRS,All states,VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),x 1,= dbh,Region 3
+,in the,where:,,,,,,,,,,,,
+,region,,,,,,,,,,,,,
+,,(Live Growing Stock,(Live Growing Stock,(Live Growing Stock,(Live Growing Stock,(Live Growing Stock,,,,,,,,
+,Old,,,,,,,,,,,,,
+,,,Trees – Timber Species),Trees – Timber Species),Trees – Timber Species),Trees – Timber Species),Trees – Timber Species),Trees – Timber Species),,,,,,
+,Design,,,,,,,,,,,,,
+,,,,,,(eTB,− eTB1)b,− eTB1)b,,,,,,
+,,,,,,,,59,,,,,,
+,,BMERCH =,BMERCH =,BMERCH =,,,,,+ b,,,,,
+,,,,,,(,,),,60,,,,
+,,,,,,,,TC1,,,,,,
+,,,,,,,,−,,,,,,
+,,,,,,1,,e,,,,,,
+,,,,, SCALER  b 61, SCALER  b 61, SCALER  b 61,,,,,,,
+,,TB =,−  ABS,−  ABS,,, ,,,,,,,
+,,,,, FLEXB, FLEXB, ,,,,,,,
+,,SCALER =  (40 . − X1 )  − 1 .,SCALER =  (40 . − X1 )  − 1 .,SCALER =  (40 . − X1 )  − 1 .,SCALER =  (40 . − X1 )  − 1 .,SCALER =  (40 . − X1 )  − 1 .,SCALER =  (40 . − X1 )  − 1 .,,,,,,,
+,,,,,,39,,,,,,,,
+,,FLEXB =,FLEXB =,FLEXB =,−,,,,,,,,,
+,,,,,b 62,1 .,,,,,,,,
+,,TB1 = -  ABS,TB1 = -  ABS,TB1 = -  ABS,,1 .,,  ,,,,,,
+,,,,, FLEXB  , FLEXB  ,,,,,,,,
+,,(Salvable Dead Trees),(Salvable Dead Trees),(Salvable Dead Trees),(Salvable Dead Trees),(Salvable Dead Trees),(Salvable Dead Trees),,,,,,,
+,,BMERCH = .50,BMERCH = .50,BMERCH = .50,BMERCH = .50,BMERCH = .50,,,,,,,,
+,,(Nonsalvable Dead Trees),(Nonsalvable Dead Trees),(Nonsalvable Dead Trees),(Nonsalvable Dead Trees),(Nonsalvable Dead Trees),(Nonsalvable Dead Trees),(Nonsalvable Dead Trees),,,,,,
+,,BMERCH = .25,BMERCH = .25,BMERCH = .25,BMERCH = .25,BMERCH = .25,,,,,,,,
+,,(Rough Trees),(Rough Trees),(Rough Trees),,,,,,,,,,
+,,BMERCH = .25,BMERCH = .25,BMERCH = .25,BMERCH = .25,BMERCH = .25,,,,,,,,
+,,(Rotten Trees),(Rotten Trees),(Rotten Trees),,,,,,,,,,
+,,BMERCH = .25,BMERCH = .25,BMERCH = .25,BMERCH = .25,BMERCH = .25,,,,,,,,
+RMRS,All states,VOLBFNET = VOLBFGRS (1-x 5 ),VOLBFNET = VOLBFGRS (1-x 5 ),VOLBFNET = VOLBFGRS (1-x 5 ),VOLBFNET = VOLBFGRS (1-x 5 ),VOLBFNET = VOLBFGRS (1-x 5 ),VOLBFNET = VOLBFGRS (1-x 5 ),VOLBFNET = VOLBFGRS (1-x 5 ),VOLBFNET = VOLBFGRS (1-x 5 ),VOLBFNET = VOLBFGRS (1-x 5 ),,x 5,= rotten,
+,in the,,,,,,,,,,,and missing,and missing,
+,region,,,,,,,,,,,proportion,proportion,

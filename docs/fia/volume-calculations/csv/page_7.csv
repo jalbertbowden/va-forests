@@ -1,0 +1,58 @@
+Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”,Name: “Table 1 of 1 on page 7 of 20”
+Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7
+,,,,,,,,,,,,,,,,,,,,,
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,,,,,,,,,,,,,Page 7 of 20.,
+Table A3.2 Sound cubic-foot volume,Table A3.2 Sound cubic-foot volume,Table A3.2 Sound cubic-foot volume,Table A3.2 Sound cubic-foot volume,Table A3.2 Sound cubic-foot volume,Table A3.2 Sound cubic-foot volume,,,,,,,,,,,,,,,,
+Region,States,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,"f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )",Observed,Observed,Reference:
+,,,,,,,,,,,,,,,,,,,"items: ( x1 , x 2 ,... x n )","items: ( x1 , x 2 ,... x n )",
+North,"IA, IL,",,,,,,,,,,,(b,+ b,min ( x,min ( x,,", b",)) ,x= dbh1,x= dbh1,Hahn and
+,,,,,,,,,,,,5,6,6,,1,1,7,,,
+,,,,,=,,,,,−,−,,,,,,,,,,
+,,VOLCFSND,VOLCFSND,VOLCFSND,VOLCFGRS  1,VOLCFGRS  1,VOLCFGRS  1,VOLCFGRS  1,VOLCFGRS  1,VOLCFGRS  1,,,,,,,,,,,
+Central,"IN, KS,",,,,,,,,,,,,,100,100,,,,,,"Hansen,"
+,"MO,",,,,,,,,,,,,,,,,,,,,1991
+,"NE, SD",b 5,", b 6",and b 7,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,,,,,,
+North,"MI, MN,",,,,,,,,,,,b,,,,,,,,,"Hahn,"
+,,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,17,),,,,,,,,
+Central,"ND, WI",,,,,,,,,,,100,,,,,,,,,1984
+,,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,,,,,,,,,,
+North-,All,,,,,,,,,,,x1,,,,,,,x,= percent rotten,"Scott,"
+,,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,,),,,,,,1,,
+eastern,states in,,,,,,,,,,,100,,,,,,,cull in bole,cull in bole,1981
+,the,,,,,,,,,,,,,,,,,,,,
+,region,,,,,,,,,,,,,,,,,,,,
+RMRS,All (Old,VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),,,,X 1,= dbh,Region 3
+,design),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),,,,x 4,= percent rotten,
+,,,,, (,,,,),,,,,,,,,,and missing,and missing,
+,,,,,,TC −,TC −,TC −,TC1,,,,,,,,,,,,
+,,,,,,e,,e,,b28 ,,,,,,,,,,,
+,,CMERCH =,CMERCH =,CMERCH =,,,,,,+ b,,,,,,,,,,,
+,,,,,,,(,,),,29,,,,,,,,,,
+,,,,,,,,,TC1,,,,,,,,,,,,
+,,,,,,,,−,,,,,,,,,,,,,
+,,,,,,,1,e,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,"constants,","constants,",
+,,,,, SCALER  , SCALER  , SCALER  , SCALER  ,"b 
+31",,,,, (40. − X, (40. − X,) ,) ,,,,
+,,TC =,TC =,−  ABS,,,, ,,SCALER =,SCALER =,SCALER =,SCALER =,,,1, − 1 .,,coefficients &,coefficients &,
+,,,,, FLEXC, FLEXC, FLEXC, ,,,,,,,39,,,,,,
+,,,,,,,,,,,,,,,,,,,exponents are,exponents are,
+,,,,,,,,,,,,,,,−, b 31, b 31,,species specific,species specific,
+,,,,,,,,,,,,,,,1.,,,,,,
+,,FLEXC =,FLEXC =,FLEXC =,b 30 − 1 .,b 30 − 1 .,,,,TC1 = - ,TC1 = - ,TC1 = - ,ABS,ABS,, , ,,,,
+,,,,,,,,,,,,,, FLEXC  , FLEXC  , FLEXC  , FLEXC  ,,,,
+,,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,,,,,,,,
+,,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,,,,,,
+,,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,,,,,,,,,,
+,,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,,,,,,,,,,
+,,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,1 −,X 4,,,,,,,,
+,,,,,,,,,,,,,100,,,,,,,,
+RMRS,All,VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),,,,,,,X 5 = rotten and,X 5 = rotten and,
+,(Mapped,,,,,,,,,,,,,,,,,,missing proportion,missing proportion,
+,design),,,,,,,,,,,,,,,,,,,,
+SRS,All,VOLCFSND = VOLCFGR/F,VOLCFSND = VOLCFGR/F,VOLCFSND = VOLCFGR/F,VOLCFSND = VOLCFGR/F,VOLCFSND = VOLCFGR/F,VOLCFSND = VOLCFGR/F,VOLCFSND = VOLCFGR/F,VOLCFSND = VOLCFGR/F,,,,,,,,,,F = total/gross,F = total/gross,"Royer,"
+,states in,,,+,−,−,− 2,− 2,− 1,,,,,,,,,,volume factor,volume factor,2001
+,,F = ( b5,F = ( b5,b6 ( x1,,3),3),),(pole and sawtimber),(pole and sawtimber),(pole and sawtimber),(pole and sawtimber),(pole and sawtimber),(pole and sawtimber),(pole and sawtimber),,,,,,
+,the,,,,,,,,,,,,,,,,,,,,
+,region,or F = ( b5,or F = ( b5,or F = ( b5,+ b6 x12,+ b6 x12,( bole − lenght )) − 1 (saplings),( bole − lenght )) − 1 (saplings),( bole − lenght )) − 1 (saplings),( bole − lenght )) − 1 (saplings),( bole − lenght )) − 1 (saplings),( bole − lenght )) − 1 (saplings),( bole − lenght )) − 1 (saplings),( bole − lenght )) − 1 (saplings),( bole − lenght )) − 1 (saplings),,,,,,
+PNW,All,VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),,,,,,,X 5 = rotten and,X 5 = rotten and,"USDA,"

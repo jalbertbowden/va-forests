@@ -1,0 +1,45 @@
+Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”,Name: “Table 1 of 1 on page 10 of 20”
+Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10
+,,,,,,,,,,,,,,,,,,
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,,,,,,,,,,,Page 10 of 20.,Page 10 of 20.,
+Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,,,,,,,,,
+Region,States,,,,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,,,,,Observed,Observed,Reference:
+,,,,"VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )",,,items:,items:,
+,,,,,,,,,,,,,,,,"( x1 , x 2 ,... x n )","( x1 , x 2 ,... x n )",
+North,"IA, IL, IN,",,,,,,,,,(b,+ b,+ b,min ( x,", b",)) ,x= dbh1,x= dbh1,Hahn and
+,,,,,,,,,,5,,6,,1,7,,,
+,,=  −VOLCSNET  VOLCSGRS  1,=  −VOLCSNET  VOLCSGRS  1,=  −VOLCSNET  VOLCSGRS  1,=  −VOLCSNET  VOLCSGRS  1,=  −VOLCSNET  VOLCSGRS  1,=  −VOLCSNET  VOLCSGRS  1,=  −VOLCSNET  VOLCSGRS  1,=  −VOLCSNET  VOLCSGRS  1,,,,,,,,,
+Central,"KS, MO,",,,,,,,,,,,,100,,,,,"Hansen,"
+,"NE, SD",,,,,,,,,,,,,,,,,1991
+,,b 5,", b 6",and b 7,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,,,,,
+North,"MI, MN,",,,,,,,,,b,,,,,,,,"Hahn,"
+,,VOLCSNET = VOLCSGRS (1 −,VOLCSNET = VOLCSGRS (1 −,VOLCSNET = VOLCSGRS (1 −,VOLCSNET = VOLCSGRS (1 −,VOLCSNET = VOLCSGRS (1 −,VOLCSNET = VOLCSGRS (1 −,VOLCSNET = VOLCSGRS (1 −,VOLCSNET = VOLCSGRS (1 −,17,),,,,,,,
+Central,"ND, WI",,,,,,,,,100,,,,,,,,1984
+,,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,,,,,,,,,
+North-,All states,VOLCSNET = VOLCFNET (1 − x1 ),VOLCSNET = VOLCFNET (1 − x1 ),VOLCSNET = VOLCFNET (1 − x1 ),VOLCSNET = VOLCFNET (1 − x1 ),VOLCSNET = VOLCFNET (1 − x1 ),VOLCSNET = VOLCFNET (1 − x1 ),VOLCSNET = VOLCFNET (1 − x1 ),VOLCSNET = VOLCFNET (1 − x1 ),VOLCSNET = VOLCFNET (1 − x1 ),,,,,,x1 = portion,x1 = portion,"Scott, 1981"
+eastern,in the,,,,,,,,,,,,,,,of volume in,of volume in,
+,region,,,,,,,,,,,,,,,upper stem,upper stem,
+RMRS,All states,IF (x 1,≤ 42 ) VOLCSNET =,≤ 42 ) VOLCSNET =,≤ 42 ) VOLCSNET =,≤ 42 ) VOLCSNET =,≤ 42 ) VOLCSNET =,,,,,,,,,x 1,= dbh,Jensen and
+,(Timber,,,,,(,,)b,,,,,,,,,,"Homeyer,"
+,,,,,,,−,34,,,,,,,,,,
+,,,,,,42,x,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,VOLCFSND,VOLCFSND,VOLCFSND,−,,1,,,,,,,,,,,
+,,,,,b,b,,,,,,,,,,,,
+,,,,,32,33,,,,,,,,,,,,1971
+,species),,,,,,33,,,,,,,,,,,
+,,IF (x 1,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,,,,
+RMRS,All states,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,,,,TOP = 3,TOP = 3,"Chojnacky,"
+,(Woodland,,,,,b,(TOP − 1 . 5 )b39,(TOP − 1 . 5 )b39,(TOP − 1 . 5 )b39,(TOP − 1 . 5 )b39,(TOP − 1 . 5 )b39,,,,,x 1,= dbh,1987
+,species),RATIO = 1 − ,RATIO = 1 − ,RATIO = 1 − ,RATIO = 1 − ,38,,,,,,,,,,,,
+,,,,,,,,,,,,b,,,,x,= 0;,
+,,,,,,( b,+ b,x,+ b,x,),40,,,,5,,
+,,,,,,35,36,1,,37,5,,,,,,,
+,,,,,,,,,,,,,,,,multiple,multiple,
+,,,,,,,,,,,,,,,,stems,stems,
+,,,,,,,,,,,,,,,,= 1; single,= 1; single,
+,,,,,,,,,,,,,,,,stem,stem,
+SRS,All states,,,,,,,,(+,(+,,,−,− 2 ),,,,"Royer,"
+,,VOLCSNET = VOLCFSND,VOLCSNET = VOLCFSND,VOLCSNET = VOLCFSND,VOLCSNET = VOLCFSND,VOLCSNET = VOLCFSND,VOLCSNET = VOLCFSND,VOLCSNET = VOLCFSND,b7,b8 ( x1,b8 ( x1,b8 ( x1,5),,,,,
+,in the,,,,,,,,,,,,,,,,,2001
+,region,,,,,,,,,,,,,,,,,

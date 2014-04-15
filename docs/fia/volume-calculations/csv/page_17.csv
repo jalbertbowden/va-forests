@@ -1,0 +1,32 @@
+Name: “Table 1 of 1 on page 17 of 20”,Name: “Table 1 of 1 on page 17 of 20”,Name: “Table 1 of 1 on page 17 of 20”,Name: “Table 1 of 1 on page 17 of 20”,Name: “Table 1 of 1 on page 17 of 20”,Name: “Table 1 of 1 on page 17 of 20”,Name: “Table 1 of 1 on page 17 of 20”
+Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17
+,,,,,,
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,Page 17 of 20.
+Table A3.8 Merchantable stem biomass oven-dry weight for live trees,Table A3.8 Merchantable stem biomass oven-dry weight for live trees,Table A3.8 Merchantable stem biomass oven-dry weight for live trees,Table A3.8 Merchantable stem biomass oven-dry weight for live trees,Table A3.8 Merchantable stem biomass oven-dry weight for live trees,Table A3.8 Merchantable stem biomass oven-dry weight for live trees,
+Region,States,Form of the model:,Form of the model:,Observed,Observed,Reference:
+,,"DRYBIOM = f ( x1 , x 2 ,... x n )","DRYBIOM = f ( x1 , x 2 ,... x n )",items:,items:,
+,,,,"( x1 , x 2 ,... x n )","( x1 , x 2 ,... x n )",
+North,All states,DRYBIOM = (b1,+ x1b2 ) x 2 b4,x1 = dbh,x1 = dbh,"Hahn, 1984"
+Central,in the,,,,,
+,,,,x,=,
+,,,,2,2,
+,region,,,,,
+,,,,VOLCFGRS,VOLCFGRS,
+North-,All states,DRYBIOM = (1 − ( b1,+ b2 ) ) x1,x1 =,x1 =,"Wharton & Griffith,"
+eastern,in the,,,,,1998
+,,,,DRYBIOT,DRYBIOT,
+,region,,,,,
+RMRS,All states,DRYBIOM = x 1 b 1 (b 2,+ 1),x 1,=,Van Hooser and
+,in the,for Timber species with,for Timber species with,VOLCFGRS,VOLCFGRS,"Chojnacky, 1983"
+,region,,,,,
+,,dbh ≥ 5.0”,,,,
+,,species dependant,,,,
+RMRS,All states,DRYBIOM = b 3,,,,Van Hooser and
+,in the,for Timber species with,for Timber species with,,,"Chojnacky, 1983"
+,region,,,,,
+,,dbh ≥ 5.0”,,,,
+,,species and dbh dependant,species and dbh dependant,,,
+RMRS,All states,DRYBIOM = various model,DRYBIOM = various model,,,"Chojnacky,"
+,in the,forms,,,,"1993,1985,"
+,region,,,,,"1994,1992, & 1984"
+SRS,,,,,,

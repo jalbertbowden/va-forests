@@ -1,0 +1,823 @@
+,FIA Volume Calculations,
+Tree-level attributes are variables associated with individual trees tallied on,Tree-level attributes are variables associated with individual trees tallied on,Tree-level attributes are variables associated with individual trees tallied on
+FIA ground plots.,Various expressions of tree volume and weight are among,Various expressions of tree volume and weight are among
+the most basic statistics reported by FIA.,Tree volumes and weights are not,Tree volumes and weights are not
+"directly measured in the field, but computed from other variables that are","directly measured in the field, but computed from other variables that are","directly measured in the field, but computed from other variables that are"
+"measured (e.g, species and DBH).",The functions used to compute these,The functions used to compute these
+values are typically regression or mathematical models that have been,values are typically regression or mathematical models that have been,values are typically regression or mathematical models that have been
+developed by state or region.,Commonly reported volume and weight,Commonly reported volume and weight
+statistics are defined below:,,
+VOLCFGRS (Gross cubic-foot volume).,The total volume inside bark of the,The total volume inside bark of the
+central stem of a tree 5.0 inches diameter or larger from a 1-foot stump to a,central stem of a tree 5.0 inches diameter or larger from a 1-foot stump to a,central stem of a tree 5.0 inches diameter or larger from a 1-foot stump to a
+minimum 4-inch top d.o.b. or to where the central stem breaks into limbs all of,minimum 4-inch top d.o.b. or to where the central stem breaks into limbs all of,minimum 4-inch top d.o.b. or to where the central stem breaks into limbs all of
+which are less than 4.0 inches d.o.b. Includes rotten/missing and form cull.,which are less than 4.0 inches d.o.b. Includes rotten/missing and form cull.,which are less than 4.0 inches d.o.b. Includes rotten/missing and form cull.
+VOLCFSND (Sound cubic-foot volume).,The volume of sound wood in the,The volume of sound wood in the
+central stem of a tree 5.0 inches diameter or larger from a 1-foot stump to a,central stem of a tree 5.0 inches diameter or larger from a 1-foot stump to a,central stem of a tree 5.0 inches diameter or larger from a 1-foot stump to a
+"minimum 4-inch top d.o.b., or to where the central stem breaks into limbs all","minimum 4-inch top d.o.b., or to where the central stem breaks into limbs all","minimum 4-inch top d.o.b., or to where the central stem breaks into limbs all"
+of which are less than 4.0 inches d.o.b.,"Form cull is included, rotten/missing","Form cull is included, rotten/missing"
+cull is excluded.,,
+VOLCSGRS (Gross cubic-foot volume in the sawlog portion).,VOLCSGRS (Gross cubic-foot volume in the sawlog portion).,The gross
+volume of wood in the central stem of a commercial species tree of sawtimber,volume of wood in the central stem of a commercial species tree of sawtimber,volume of wood in the central stem of a commercial species tree of sawtimber
+"size (9.0 inches DBH minimum for softwoods, 11.0 inches DBH minimum for","size (9.0 inches DBH minimum for softwoods, 11.0 inches DBH minimum for","size (9.0 inches DBH minimum for softwoods, 11.0 inches DBH minimum for"
+hardwoods) from a 1-foot stump to a minimum top d.o.b. (7.0 inches for,hardwoods) from a 1-foot stump to a minimum top d.o.b. (7.0 inches for,hardwoods) from a 1-foot stump to a minimum top d.o.b. (7.0 inches for
+"softwoods, 9.0 inches for hardwoods) or to where the central stem breaks into","softwoods, 9.0 inches for hardwoods) or to where the central stem breaks into","softwoods, 9.0 inches for hardwoods) or to where the central stem breaks into"
+"limbs, all of which are less than the minimum top d.o.b.","limbs, all of which are less than the minimum top d.o.b.",
+FIA Statistical & Analysis Methods,Page 2 of 20.
+VOLCSNET (Net cubic-foot volume in the sawlog portion).,The net volume of
+wood in the central stem of a commercial species tree of sawtimber size (9.0,wood in the central stem of a commercial species tree of sawtimber size (9.0
+"inches DBH minimum for softwoods, 11.0 inches DBH minimum for","inches DBH minimum for softwoods, 11.0 inches DBH minimum for"
+hardwoods) from a 1-foot stump to a minimum top d.o.b. (7.0 inches for,hardwoods) from a 1-foot stump to a minimum top d.o.b. (7.0 inches for
+"softwoods, 9.0 inches for hardwoods) or to where the central stem breaks into","softwoods, 9.0 inches for hardwoods) or to where the central stem breaks into"
+"limbs, all of which are less than the minimum top d.o.b.",Form cull and
+rotten/missing cull are excluded.,
+VOLBFGRS (Gross board-foot volume in the sawlog portion).,The gross
+volume of wood in the central stem of a commercial species tree of sawtimber,volume of wood in the central stem of a commercial species tree of sawtimber
+"size (9.0 inches DBH minimum for softwoods, 11.0 inches DBH minimum for","size (9.0 inches DBH minimum for softwoods, 11.0 inches DBH minimum for"
+hardwoods) from a 1-foot stump to a minimum top d.o.b. (7.0 inches for,hardwoods) from a 1-foot stump to a minimum top d.o.b. (7.0 inches for
+"softwoods, 9.0 inches for hardwoods) or to where the central stem breaks into","softwoods, 9.0 inches for hardwoods) or to where the central stem breaks into"
+limbs all of which are less than the minimum top d.o.b. Volume is based on,limbs all of which are less than the minimum top d.o.b. Volume is based on
+International 1/4-inch rule.,
+VOLBFNET (Net board-foot volume in the sawlog portion).,The net volume of
+wood in the central stem of a commercial species tree of sawtimber size (9.0,wood in the central stem of a commercial species tree of sawtimber size (9.0
+"inches DBH minimum for softwoods, 11.0 inches DBH minimum for","inches DBH minimum for softwoods, 11.0 inches DBH minimum for"
+hardwoods) from a 1-foot stump to a minimum top d.o.b. (7.0 inches for,hardwoods) from a 1-foot stump to a minimum top d.o.b. (7.0 inches for
+"softwoods, 9.0 inches for hardwoods) or to where the central stem breaks into","softwoods, 9.0 inches for hardwoods) or to where the central stem breaks into"
+limbs all of which are less than the minimum top d.o.b. Volume is based on,limbs all of which are less than the minimum top d.o.b. Volume is based on
+International 1/4-inch rule.,Form cull and rotten/missing cull are excluded.
+DRYBIOT (Total gross biomass oven-dry weight for live trees).,The total
+"above-ground oven-dry biomass of a tree 1.0 inch diameter or larger,","above-ground oven-dry biomass of a tree 1.0 inch diameter or larger,"
+including all tops and limbs (but excluding foliage).,
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,,,,,,,,,,,,,,,,,,,,,Page 3 of 20.,Page 3 of 20.,
+,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,DRYBIOM (Merchantable stem biomass oven-dry weight for live trees).,The
+,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or,total gross oven-dry biomass (including bark) of a tree 5.0 inches DBH or
+,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.,larger from a 1-foot stump to a minimum 4-inch top d.o.b. of the central stem.
+,Let,"f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,","f ( X ikt ) be a function that computes the desired tree-level value (volume,"
+,"weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of","weight, etc.) of tally tree t in condition k on plot i, where X ikt is the array of"
+,"measured attributes x 1 ,x 2 ,x 3 ...x n","measured attributes x 1 ,x 2 ,x 3 ...x n","measured attributes x 1 ,x 2 ,x 3 ...x n","measured attributes x 1 ,x 2 ,x 3 ...x n","measured attributes x 1 ,x 2 ,x 3 ...x n","measured attributes x 1 ,x 2 ,x 3 ...x n","measured attributes x 1 ,x 2 ,x 3 ...x n","measured attributes x 1 ,x 2 ,x 3 ...x n","measured attributes x 1 ,x 2 ,x 3 ...x n","measured attributes x 1 ,x 2 ,x 3 ...x n","measured attributes x 1 ,x 2 ,x 3 ...x n","measured attributes x 1 ,x 2 ,x 3 ...x n","measured attributes x 1 ,x 2 ,x 3 ...x n","measured attributes x 1 ,x 2 ,x 3 ...x n","measured attributes x 1 ,x 2 ,x 3 ...x n","measured attributes x 1 ,x 2 ,x 3 ...x n",for that tree.,for that tree.,for that tree.,for that tree.,for that tree.,for that tree.,for that tree.,for that tree.,Appendix Tables A3.1 to A3.8,Appendix Tables A3.1 to A3.8,Appendix Tables A3.1 to A3.8,Appendix Tables A3.1 to A3.8,Appendix Tables A3.1 to A3.8
+,"present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","present the form of the function f ( X ikt ) , the data items in the array","X ikt , and","X ikt , and"
+,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following,the states in which the function is used along with references for the following
+,attributes listed and defined below.,attributes listed and defined below.,attributes listed and defined below.,attributes listed and defined below.,attributes listed and defined below.,attributes listed and defined below.,attributes listed and defined below.,attributes listed and defined below.,attributes listed and defined below.,attributes listed and defined below.,attributes listed and defined below.,attributes listed and defined below.,attributes listed and defined below.,attributes listed and defined below.,attributes listed and defined below.,attributes listed and defined below.,attributes listed and defined below.,"Unless otherwise noted, The b values in","Unless otherwise noted, The b values in","Unless otherwise noted, The b values in","Unless otherwise noted, The b values in","Unless otherwise noted, The b values in","Unless otherwise noted, The b values in","Unless otherwise noted, The b values in","Unless otherwise noted, The b values in","Unless otherwise noted, The b values in","Unless otherwise noted, The b values in","Unless otherwise noted, The b values in","Unless otherwise noted, The b values in"
+,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the,these tables are regression parameter estimates and the x values are the
+,observed attributes.,observed attributes.,observed attributes.,observed attributes.,observed attributes.,observed attributes.,observed attributes.,,,,,,,,,,,,,,,,,,,,,,
+Table A3.1 Gross cubic-foot volume,Table A3.1 Gross cubic-foot volume,Table A3.1 Gross cubic-foot volume,Table A3.1 Gross cubic-foot volume,Table A3.1 Gross cubic-foot volume,Table A3.1 Gross cubic-foot volume,Table A3.1 Gross cubic-foot volume,Table A3.1 Gross cubic-foot volume,Table A3.1 Gross cubic-foot volume,Table A3.1 Gross cubic-foot volume,,,,,,,,,,,,,,,,,,,,
+Region,States,,,,,,,,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,,,,,,Observed,Observed,Reference:,Reference:
+,,,,,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,,"f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )",,,items:,items:,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,"( x1 , x 2 ,... x n )","( x1 , x 2 ,... x n )",,
+North,"IA, IL, IN,",VOLCFGRS = b1 ( x 2 ) b2,VOLCFGRS = b1 ( x 2 ) b2,VOLCFGRS = b1 ( x 2 ) b2,VOLCFGRS = b1 ( x 2 ) b2,VOLCFGRS = b1 ( x 2 ) b2,VOLCFGRS = b1 ( x 2 ) b2,VOLCFGRS = b1 ( x 2 ) b2,VOLCFGRS = b1 ( x 2 ) b2,VOLCFGRS = b1 ( x 2 ) b2,VOLCFGRS = b1 ( x 2 ) b2,VOLCFGRS = b1 ( x 2 ) b2,VOLCFGRS = b1 ( x 2 ) b2,VOLCFGRS = b1 ( x 2 ) b2,VOLCFGRS = b1 ( x 2 ) b2,VOLCFGRS = b1 ( x 2 ) b2,(1 − e b3 x1b 4,(1 − e b3 x1b 4,(1 − e b3 x1b 4,(1 − e b3 x1b 4,(1 − e b3 x1b 4,),,,,x1 = DBH,x1 = DBH,Hahn &,Hahn &
+Central,"KS,",,,,,,,,,,,,,,,,,,,,,,,,,,,"Hansen,","Hansen,"
+,,,,,,,,,,,,,,,,,,,,,,,,,,x 2 =SI,x 2 =SI,,
+,"MO, NE,",,,,,,,,,,,,,,,,,,,,,,,,,,,1991,
+,SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+North,"MI, MN,",VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,,,,,,,,,,,,,,,,x1 = DBH,x1 = DBH,"Hahn, 1984","Hahn, 1984"
+Central,"ND, WI",,+,,,+,+,,+,+,,2,+,,2,,,+,,2,+,,,2,+,,,,
+,,(b,,b,x,,b,4,4,b,x,,b x,b x,,h,h,b,h,,,b,h,4,,,,,
+,,0,,1,1,1,,2,,,3,1,,4,1,,4,,5,4,,6,4,,,x 2 =SI,x 2 =SI,,
+,,b x,2h,,3,+ b x,+ b x,,2h,2,4 )(b,4 )(b,+ b,+ b,x,),),,,,,,,,,,,,
+,,7,1,4,,,8,1,4,,,9,,10,,1,,,,,,,,,,x 3 =BA,x 3 =BA,,
+,,where h4,where h4,where h4,where h4,where h4,where h4,= predicted BL =,= predicted BL =,= predicted BL =,= predicted BL =,= predicted BL =,= predicted BL =,= predicted BL =,= predicted BL =,= predicted BL =,= predicted BL =,= predicted BL =,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,b15,,,,,
+,,"4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11",( − b12 x1 ),( − b12 x1 ),( − b12 x1 ),),b13,x,"b14
+2", 1 . 00001 −, 1 . 00001 −, 1 . 00001 −, 1 . 00001 −, 1 . 00001 −, 1 . 00001 −,4. 0 ,4. 0 ,,"x b16
+3",,,,
+,,,,,,,,,,,,,,,,,,,,,,x,x,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,
+North-,All states,,,,,,,,,,,,,,,b,b,,,,b,,b,,,,,"Scott, 1981","Scott, 1981"
+,,VOLCFGRS = b,VOLCFGRS = b,VOLCFGRS = b,VOLCFGRS = b,VOLCFGRS = b,VOLCFGRS = b,VOLCFGRS = b,VOLCFGRS = b,VOLCFGRS = b,VOLCFGRS = b,,+ b,+ b,x,,3,+ b,+ b,x,,5 x,,6,,"x= DBH
+1","x= DBH
+1",,
+,,,,,,,,,,,,1,,2,,1,,,,4,1,,2,,,,,,
+eastern,in the,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,x 2 =bole ht,x 2 =bole ht,,
+,region,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RMRS,Eastern,IF (x 12,IF (x 12,IF (x 12,IF (x 12,x 2,"
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ",x 1 = dbh,x 1 = dbh,"Myers, 1964","Myers, 1964"
+,MT &,,,,,,,,,,,,,,,,,,,,,,,,,,,RM-8,
+,,,,,,,,,,,,,,,,,,,,,,,,,,x,= ht,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,,
+,,IF (x,IF (x,,2,x,≥ b,≥ b,≥ b,) VOLCFGRS =,) VOLCFGRS =,) VOLCFGRS =,) VOLCFGRS =,) VOLCFGRS =,) VOLCFGRS =,) VOLCFGRS =,) VOLCFGRS =,) VOLCFGRS =,) VOLCFGRS =,) VOLCFGRS =,) VOLCFGRS =,+,+,,2,,,,
+,"WY,",,,1,,2,,,0,0,,,,,,,,,,,( b 3,( b 3,b 4 x1,b 4 x1,x 2 ),,,,
+,SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,,Page 4 of 20.
+,(SPP=PP),,,,,,
+RMRS,Western,IF (x 12,IF (x 12,x 2,"
+    ",x 1 = dbh,"Edminster,"
+,"WY,",,,,,x 2 = ht,"Beeson, and"
+,"CO, NV,",IF (x 1,2,x 2,≥ b0 ) VOLCFGRS = ( b 8 + b 9 x12 x 2 ),,"Metcalf,"
+,UT,,,,,,1980
+,(All,,,,,,Myers and
+,species,,,,,,"Edminster,"
+,,,,,,,1972
+,except,,,,,,
+,woodland),,,,,,"Edminster,"
+,,,,,,,"Mowrer,"
+,,,,,,,"Hinds, 1982"
+,,,,,,,"Myers, 1964"
+,,,,,,,RM-6
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,,,,,,,,,,,,,,,,,Page 5 of 20.,Page 5 of 20.
+Table A3.1 Gross cubic-foot volume (continued),Table A3.1 Gross cubic-foot volume (continued),Table A3.1 Gross cubic-foot volume (continued),Table A3.1 Gross cubic-foot volume (continued),Table A3.1 Gross cubic-foot volume (continued),Table A3.1 Gross cubic-foot volume (continued),Table A3.1 Gross cubic-foot volume (continued),Table A3.1 Gross cubic-foot volume (continued),Table A3.1 Gross cubic-foot volume (continued),Table A3.1 Gross cubic-foot volume (continued),Table A3.1 Gross cubic-foot volume (continued),Table A3.1 Gross cubic-foot volume (continued),Table A3.1 Gross cubic-foot volume (continued),Table A3.1 Gross cubic-foot volume (continued),,,,,,,,,,,
+RMRS,Western MT,Western MT,,,,,,,,,,,,, , b15, b15,,,    ,,x 1 = dbh,x 1 = dbh,"Moisen,"
+,(SPP=PP),(SPP=PP),VOLCFGRS,VOLCFGRS,VOLCFGRS,VOLCFGRS,=,,V1,,−,,V1  b13  ,V1  b13  ,V1  b13  ,,,x1,16,  ,,,,unpublished
+,,,,,,,,,,,,,,,  b14 ,  b14 ,,,,   ,,x 2 = ht,x 2 = ht,
+,Montana,Montana,,,,,,,,,,,,,,,,,,,,,,
+,,,where V,where V,where V,=,,,x,b11 ,b11 ,b11 ,x b212,,,,,,,,,,,
+,"(SPP=DF,","(SPP=DF,",,,,1,b10 ,b10 ,1,,,,,,,,,,,,,,,
+,"GF,",,,,,,,,,,,,,,,,,,,,,,,
+,"LP,WL,WP)","LP,WL,WP)",,,,,,,,,,,,,,,,,,,,,,
+RMRS,ID (All,ID (All,IF (x 12,IF (x 12,x 2,"
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ","
+    ",x 1 = dbh,x 1 = dbh,"Kemp, 1957"
+,species,species,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,x,= ht,
+,,,,,,,,,,,,,,,,,,,,,,2,2,
+,,,IF (x,2,x,≥ b,),,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,,+,2,2,,,
+,except,except,1,,2,,17,,,,,,,,,,,( b 20,,b 21x1,x 2 ),,,
+,woodland,woodland,,,,,,,,,,,,,,,,,,,,,,
+,species),species),,,,,,,,,,,,,,,,,,,,,,
+,MT,(All,,,,,,,,,,,,,,,,,,,,,,
+,species,species,,,,,,,,,,,,,,,,,,,,,,
+,except,except,,,,,,,,,,,,,,,,,,,,,,
+,"DF, GF, LP,","DF, GF, LP,",,,,,,,,,,,,,,,,,,,,,,
+,"PP, WL,","PP, WL,",,,,,,,,,,,,,,,,,,,,,,
+,WP &,WP &,,,,,,,,,,,,,,,,,,,,,,
+,woodland,woodland,,,,,,,,,,,,,,,,,,,,,,
+,species),species),,,,,,,,,,,,,,,,,,,,,,
+,"AZ, NM","AZ, NM",,,,,,,,,,,,,,,,,,,,,,
+,(Cottonwood),(Cottonwood),,,,,,,,,,,,,,,,,,,,,,
+RMRS,"AZ, NM","AZ, NM",VOLCFGRS = V t,VOLCFGRS = V t,VOLCFGRS = V t,VOLCFGRS = V t,VOLCFGRS = V t,VOLCFGRS = V t,VOLCFGRS = V t,VOLCFGRS = V t,– V u,– V u,– V u,,,,,,,,,x 1 = dbh,x 1 = dbh,Hann and
+,(All species,(All species,where:,where:,where:,V t,V t,= ( b 26 + b 27 x12 x 2 ),= ( b 26 + b 27 x12 x 2 ),= ( b 26 + b 27 x12 x 2 ),= ( b 26 + b 27 x12 x 2 ),= ( b 26 + b 27 x12 x 2 ),= ( b 26 + b 27 x12 x 2 ),= ( b 26 + b 27 x12 x 2 ),= ( b 26 + b 27 x12 x 2 ),,,,,,,x 2 = ht,x 2 = ht,"Bare, 1978"
+,except,except,,,,,,,,,,,,,,,,,,,,,,with
+,,,,,,,,,,,,,,,,,,,,,,x 3 = 4;,x 3 = 4;,
+,,,,,,V,,=,=,,,+,,,"3
+x 3",x 2 ,+,,2,,,,,modification
+,woodland,woodland,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,u,,,b,,,b,,,,b,x,,,,,,
+,,,,,,,,,,22,22,22,23 ,23 ,b 24,,,25,1,,,top,top,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,species and,species and,,,,,,,,,,,,x 1,x 1,,,,,,,diameter,diameter,for ES &
+,Cottonwood),Cottonwood),,,,,,,,,,,,,,,,,,,,,,DF
+RMRS,All woodland,All woodland,VOLCFGRS = various model forms,VOLCFGRS = various model forms,VOLCFGRS = various model forms,VOLCFGRS = various model forms,VOLCFGRS = various model forms,VOLCFGRS = various model forms,VOLCFGRS = various model forms,VOLCFGRS = various model forms,VOLCFGRS = various model forms,VOLCFGRS = various model forms,VOLCFGRS = various model forms,VOLCFGRS = various model forms,VOLCFGRS = various model forms,VOLCFGRS = various model forms,VOLCFGRS = various model forms,VOLCFGRS = various model forms,VOLCFGRS = various model forms,,,,,"Chojnacky,"
+,species,species,,,,,,,,,,,,,,,,,,,,,,"1988, 1986,"
+,,,,,,,,,,,,,,,,,,,,,,,,"1988, 1985,"
+,,,,,,,,,,,,,,,,,,,,,,,,& 1994
+,,,,,,,,,,,,,,,,,,,,,,,,Pillsbury &
+,,,,,,,,,,,,,,,,,,,,,,,,"Kirkley,"
+,,,,,,,,,,,,,,,,,,,,,,,,1983
+SRS,All states in,All states in,VOLCFGRS = b1,VOLCFGRS = b1,VOLCFGRS = b1,VOLCFGRS = b1,VOLCFGRS = b1,VOLCFGRS = b1,VOLCFGRS = b1,,+ b2 ( x12 x 2 ),+ b2 ( x12 x 2 ),+ b2 ( x12 x 2 ),+ b2 ( x12 x 2 ),+ b2 ( x12 x 2 ),,,,,,,x 1 = dbh,x 1 = dbh,"Royer, 2001"
+,the region,the region,,,,,,,,,,,,,,,,,,,,x,=,
+,,,x 2 = b3,x 2 = b3,+ b4 (log10 ( x1 ) ) if x 2,+ b4 (log10 ( x1 ) ) if x 2,+ b4 (log10 ( x1 ) ) if x 2,+ b4 (log10 ( x1 ) ) if x 2,+ b4 (log10 ( x1 ) ) if x 2,+ b4 (log10 ( x1 ) ) if x 2,+ b4 (log10 ( x1 ) ) if x 2,+ b4 (log10 ( x1 ) ) if x 2,+ b4 (log10 ( x1 ) ) if x 2,+ b4 (log10 ( x1 ) ) if x 2,+ b4 (log10 ( x1 ) ) if x 2,,not measured,not measured,not measured,not measured,not measured,b2o le ht,b2o le ht,
+,,,or,,,,,,,,,,,,,,,,,,,x 3 =,x 3 =,
+,,,VOLCFGRS = b1,VOLCFGRS = b1,VOLCFGRS = b1,VOLCFGRS = b1,VOLCFGRS = b1,VOLCFGRS = b1,VOLCFGRS = b1,,+ b2 ( x12 x 3 ),+ b2 ( x12 x 3 ),+ b2 ( x12 x 3 ),+ b2 ( x12 x 3 ),+ b2 ( x12 x 3 ),,,,,,,total ht,total ht,
+,,,x 3 = b3,x 3 = b3,+ b4 x 2,+ b4 x 2,+ b4 x 2,+ b5 x1− 2,+ b5 x1− 2,+ b5 x1− 2,+ b5 x1− 2,+ b5 x1− 2,if x 3,if x 3,if x 3,not measured,not measured,not measured,not measured,not measured,,,,
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,,,,,,,,,,,,Page 6 of 20.,Page 6 of 20.
+PNW,All states,"44 different models (24 softwood, 20","44 different models (24 softwood, 20","44 different models (24 softwood, 20","44 different models (24 softwood, 20","44 different models (24 softwood, 20","44 different models (24 softwood, 20","44 different models (24 softwood, 20","44 different models (24 softwood, 20","44 different models (24 softwood, 20","44 different models (24 softwood, 20","44 different models (24 softwood, 20","44 different models (24 softwood, 20","44 different models (24 softwood, 20","44 different models (24 softwood, 20",,x 1 = dbh,x 1 = dbh,"USDA,"
+,,hardwood),hardwood),hardwood),hardwood),hardwood),,,,,,,,,,,x,=,2000
+,,These models all have different forms and,These models all have different forms and,These models all have different forms and,These models all have different forms and,These models all have different forms and,These models all have different forms and,These models all have different forms and,These models all have different forms and,These models all have different forms and,These models all have different forms and,These models all have different forms and,These models all have different forms and,These models all have different forms and,These models all have different forms and,These models all have different forms and,total ht,total ht,
+,,parameter values.,parameter values.,parameter values.,parameter values.,parameter values.,parameter values.,parameter values.,,,,,,,,,x,=,
+,,Basic models are for,Basic models are for,Basic models are for,Basic models are for,Basic models are for,Basic models are for,Basic models are for,Basic models are for,,,,,,,,basal,basal,
+,,CVTS (total volume including tops and,CVTS (total volume including tops and,CVTS (total volume including tops and,CVTS (total volume including tops and,CVTS (total volume including tops and,CVTS (total volume including tops and,CVTS (total volume including tops and,CVTS (total volume including tops and,CVTS (total volume including tops and,CVTS (total volume including tops and,CVTS (total volume including tops and,CVTS (total volume including tops and,CVTS (total volume including tops and,CVTS (total volume including tops and,,area,area,
+,,stumps),stumps),stumps),stumps),,,,,,,,,,,,,,
+,,"CVT (volume above stump, including top) or","CVT (volume above stump, including top) or","CVT (volume above stump, including top) or","CVT (volume above stump, including top) or","CVT (volume above stump, including top) or","CVT (volume above stump, including top) or","CVT (volume above stump, including top) or","CVT (volume above stump, including top) or","CVT (volume above stump, including top) or","CVT (volume above stump, including top) or","CVT (volume above stump, including top) or","CVT (volume above stump, including top) or","CVT (volume above stump, including top) or","CVT (volume above stump, including top) or","CVT (volume above stump, including top) or",,,
+,,VOLCFGRS (volume above stump to 4”,VOLCFGRS (volume above stump to 4”,VOLCFGRS (volume above stump to 4”,VOLCFGRS (volume above stump to 4”,VOLCFGRS (volume above stump to 4”,VOLCFGRS (volume above stump to 4”,VOLCFGRS (volume above stump to 4”,VOLCFGRS (volume above stump to 4”,VOLCFGRS (volume above stump to 4”,VOLCFGRS (volume above stump to 4”,VOLCFGRS (volume above stump to 4”,VOLCFGRS (volume above stump to 4”,VOLCFGRS (volume above stump to 4”,VOLCFGRS (volume above stump to 4”,VOLCFGRS (volume above stump to 4”,,,
+,,top).,top).,top).,,,,,,,,,,,,,,,
+,,In all case the TARIF value is computed and,In all case the TARIF value is computed and,In all case the TARIF value is computed and,In all case the TARIF value is computed and,In all case the TARIF value is computed and,In all case the TARIF value is computed and,In all case the TARIF value is computed and,In all case the TARIF value is computed and,In all case the TARIF value is computed and,In all case the TARIF value is computed and,In all case the TARIF value is computed and,In all case the TARIF value is computed and,In all case the TARIF value is computed and,In all case the TARIF value is computed and,In all case the TARIF value is computed and,,,
+,,used,used,,,,,,,,,,,,,,,,
+,,convert to between these values and,convert to between these values and,convert to between these values and,convert to between these values and,convert to between these values and,convert to between these values and,convert to between these values and,convert to between these values and,convert to between these values and,convert to between these values and,convert to between these values and,convert to between these values and,convert to between these values and,convert to between these values and,,,,
+,,"VOLCFSND, and","VOLCFSND, and","VOLCFSND, and","VOLCFSND, and","VOLCFSND, and","VOLCFSND, and","VOLCFSND, and",,,,,,,,,,,
+,,is also used to estimated sawtimber volume.,is also used to estimated sawtimber volume.,is also used to estimated sawtimber volume.,is also used to estimated sawtimber volume.,is also used to estimated sawtimber volume.,is also used to estimated sawtimber volume.,is also used to estimated sawtimber volume.,is also used to estimated sawtimber volume.,is also used to estimated sawtimber volume.,is also used to estimated sawtimber volume.,is also used to estimated sawtimber volume.,is also used to estimated sawtimber volume.,is also used to estimated sawtimber volume.,is also used to estimated sawtimber volume.,is also used to estimated sawtimber volume.,,,
+,,One example from the 44 different models is,One example from the 44 different models is,One example from the 44 different models is,One example from the 44 different models is,One example from the 44 different models is,One example from the 44 different models is,One example from the 44 different models is,One example from the 44 different models is,One example from the 44 different models is,One example from the 44 different models is,One example from the 44 different models is,One example from the 44 different models is,One example from the 44 different models is,One example from the 44 different models is,One example from the 44 different models is,,,
+,,presented here.,presented here.,presented here.,presented here.,presented here.,,,,,,,,,,,,,
+,,Log 10 (CVTS) =,Log 10 (CVTS) =,Log 10 (CVTS) =,Log 10 (CVTS) =,Log 10 (CVTS) =,Log 10 (CVTS) =,,,,,,,,,,,,
+,,b1,+ b2 log( x1 ) log( x 2 ) − b3 log( x1 ) 2,+ b2 log( x1 ) log( x 2 ) − b3 log( x1 ) 2,+ b2 log( x1 ) log( x 2 ) − b3 log( x1 ) 2,+ b2 log( x1 ) log( x 2 ) − b3 log( x1 ) 2,+ b2 log( x1 ) log( x 2 ) − b3 log( x1 ) 2,+ b2 log( x1 ) log( x 2 ) − b3 log( x1 ) 2,+ b2 log( x1 ) log( x 2 ) − b3 log( x1 ) 2,+ b2 log( x1 ) log( x 2 ) − b3 log( x1 ) 2,+ b2 log( x1 ) log( x 2 ) − b3 log( x1 ) 2,+ b2 log( x1 ) log( x 2 ) − b3 log( x1 ) 2,+ b2 log( x1 ) log( x 2 ) − b3 log( x1 ) 2,+ b2 log( x1 ) log( x 2 ) − b3 log( x1 ) 2,+,,,,
+,,b4 log( x1 ) + b5 log( x 2 ) + b6 log( x 2 ) 2,b4 log( x1 ) + b5 log( x 2 ) + b6 log( x 2 ) 2,b4 log( x1 ) + b5 log( x 2 ) + b6 log( x 2 ) 2,b4 log( x1 ) + b5 log( x 2 ) + b6 log( x 2 ) 2,b4 log( x1 ) + b5 log( x 2 ) + b6 log( x 2 ) 2,b4 log( x1 ) + b5 log( x 2 ) + b6 log( x 2 ) 2,b4 log( x1 ) + b5 log( x 2 ) + b6 log( x 2 ) 2,b4 log( x1 ) + b5 log( x 2 ) + b6 log( x 2 ) 2,b4 log( x1 ) + b5 log( x 2 ) + b6 log( x 2 ) 2,b4 log( x1 ) + b5 log( x 2 ) + b6 log( x 2 ) 2,b4 log( x1 ) + b5 log( x 2 ) + b6 log( x 2 ) 2,b4 log( x1 ) + b5 log( x 2 ) + b6 log( x 2 ) 2,b4 log( x1 ) + b5 log( x 2 ) + b6 log( x 2 ) 2,,,,,
+,,TARIF =,TARIF =,TARIF =,TARIF =,TARIF =,,,,,,,,,,,,,
+,,,,,,,,,b7 CVTS,b7 CVTS,b7 CVTS,,,,,,,,
+,, , ,,+,+,,,,x1,,   (,   (,   (,+,) −,,,
+,,,b,,1,b,exp,b,,,,,,x,b,b,,,
+,, ,8 ,8 ,,9,,10,10,,,,,3,11,12 ,,,
+,, ,,,,,,, 10 . 0    , 10 . 0    , 10 . 0    , 10 . 0    , 10 . 0    ,,,,,,
+,,,,,,,TARIF ( x,TARIF ( x,TARIF ( x,TARIF ( x,TARIF ( x,+ b,+ b,),,,,,
+,,,,,,,,,,,3,,13,13,,,,,
+,,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,VOLCFGRS =,,,,,,,,,,,,,
+,,,,,,,,,,b,,,,,,,,,
+,,,,,,,,,,14,,,,,,,,,
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,,,,,,,,,,,,,Page 7 of 20.,
+Table A3.2 Sound cubic-foot volume,Table A3.2 Sound cubic-foot volume,Table A3.2 Sound cubic-foot volume,Table A3.2 Sound cubic-foot volume,Table A3.2 Sound cubic-foot volume,Table A3.2 Sound cubic-foot volume,,,,,,,,,,,,,,,,
+Region,States,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,Form of the model: VOLCFSND =,"f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )","f ( x1 , x 2 ,... x n )",Observed,Observed,Reference:
+,,,,,,,,,,,,,,,,,,,"items: ( x1 , x 2 ,... x n )","items: ( x1 , x 2 ,... x n )",
+North,"IA, IL,",,,,,,,,,,,(b,+ b,min ( x,min ( x,,", b",)) ,x= dbh1,x= dbh1,Hahn and
+,,,,,,,,,,,,5,6,6,,1,1,7,,,
+,,,,,=,,,,,−,−,,,,,,,,,,
+,,VOLCFSND,VOLCFSND,VOLCFSND,VOLCFGRS  1,VOLCFGRS  1,VOLCFGRS  1,VOLCFGRS  1,VOLCFGRS  1,VOLCFGRS  1,,,,,,,,,,,
+Central,"IN, KS,",,,,,,,,,,,,,100,100,,,,,,"Hansen,"
+,"MO,",,,,,,,,,,,,,,,,,,,,1991
+,"NE, SD",b 5,", b 6",and b 7,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,,,,,,
+North,"MI, MN,",,,,,,,,,,,b,,,,,,,,,"Hahn,"
+,,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,17,),,,,,,,,
+Central,"ND, WI",,,,,,,,,,,100,,,,,,,,,1984
+,,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,,,,,,,,,,
+North-,All,,,,,,,,,,,x1,,,,,,,x,= percent rotten,"Scott,"
+,,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,VOLCFSND = VOLCFGRS (1 −,,),,,,,,1,,
+eastern,states in,,,,,,,,,,,100,,,,,,,cull in bole,cull in bole,1981
+,the,,,,,,,,,,,,,,,,,,,,
+,region,,,,,,,,,,,,,,,,,,,,
+RMRS,All (Old,VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),VOLCFSND = VOLCFGRS(CMERCH),,,,X 1,= dbh,Region 3
+,design),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),(Live Growing Stock Trees – Timber Species),,,,x 4,= percent rotten,
+,,,,, (,,,,),,,,,,,,,,and missing,and missing,
+,,,,,,TC −,TC −,TC −,TC1,,,,,,,,,,,,
+,,,,,,e,,e,,b28 ,,,,,,,,,,,
+,,CMERCH =,CMERCH =,CMERCH =,,,,,,+ b,,,,,,,,,,,
+,,,,,,,(,,),,29,,,,,,,,,,
+,,,,,,,,,TC1,,,,,,,,,,,,
+,,,,,,,,−,,,,,,,,,,,,,
+,,,,,,,1,e,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,"constants,","constants,",
+,,,,, SCALER  , SCALER  , SCALER  , SCALER  ,"b 
+31",,,,, (40. − X, (40. − X,) ,) ,,,,
+,,TC =,TC =,−  ABS,,,, ,,SCALER =,SCALER =,SCALER =,SCALER =,,,1, − 1 .,,coefficients &,coefficients &,
+,,,,, FLEXC, FLEXC, FLEXC, ,,,,,,,39,,,,,,
+,,,,,,,,,,,,,,,,,,,exponents are,exponents are,
+,,,,,,,,,,,,,,,−, b 31, b 31,,species specific,species specific,
+,,,,,,,,,,,,,,,1.,,,,,,
+,,FLEXC =,FLEXC =,FLEXC =,b 30 − 1 .,b 30 − 1 .,,,,TC1 = - ,TC1 = - ,TC1 = - ,ABS,ABS,, , ,,,,
+,,,,,,,,,,,,,, FLEXC  , FLEXC  , FLEXC  , FLEXC  ,,,,
+,,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,(Salvable Dead Trees) CMERCH = .65,,,,,,,,
+,,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,(Nonsalvable Dead Trees) CMERCH = .25,,,,,,
+,,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,(Rough Trees) CMERCH = .33,,,,,,,,,,
+,,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,(Rotten Trees) CMERCH = .25,,,,,,,,,,
+,,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,(Woodland Species) CMERCH =,1 −,X 4,,,,,,,,
+,,,,,,,,,,,,,100,,,,,,,,
+RMRS,All,VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),,,,,,,X 5 = rotten and,X 5 = rotten and,
+,(Mapped,,,,,,,,,,,,,,,,,,missing proportion,missing proportion,
+,design),,,,,,,,,,,,,,,,,,,,
+SRS,All,VOLCFSND = VOLCFGR/F,VOLCFSND = VOLCFGR/F,VOLCFSND = VOLCFGR/F,VOLCFSND = VOLCFGR/F,VOLCFSND = VOLCFGR/F,VOLCFSND = VOLCFGR/F,VOLCFSND = VOLCFGR/F,VOLCFSND = VOLCFGR/F,,,,,,,,,,F = total/gross,F = total/gross,"Royer,"
+,states in,,,+,−,−,− 2,− 2,− 1,,,,,,,,,,volume factor,volume factor,2001
+,,F = ( b5,F = ( b5,b6 ( x1,,3),3),),(pole and sawtimber),(pole and sawtimber),(pole and sawtimber),(pole and sawtimber),(pole and sawtimber),(pole and sawtimber),(pole and sawtimber),,,,,,
+,the,,,,,,,,,,,,,,,,,,,,
+,region,or F = ( b5,or F = ( b5,or F = ( b5,+ b6 x12,+ b6 x12,( bole − lenght )) − 1 (saplings),( bole − lenght )) − 1 (saplings),( bole − lenght )) − 1 (saplings),( bole − lenght )) − 1 (saplings),( bole − lenght )) − 1 (saplings),( bole − lenght )) − 1 (saplings),( bole − lenght )) − 1 (saplings),( bole − lenght )) − 1 (saplings),( bole − lenght )) − 1 (saplings),,,,,,
+PNW,All,VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),VOLCFSND = VOLCFGRS (1-x 5 ),,,,,,,X 5 = rotten and,X 5 = rotten and,"USDA,"
+FIA Statistical & Analysis Methods,Page 8 of 20.,
+states,missing proportion,2000
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,,,,,,,,,,,,,,,,,,,,Page 9 of 20.,Page 9 of 20.,Page 9 of 20.,
+Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,Table A3.3 Gross cubic-foot volume in the sawlog portion,,,,,,,,,,
+Region,States,,,,,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,,,,,,,Observed items:,Observed items:,Observed items:,Observed items:,Reference:
+,,,,,"VOLCSGRS = f ( x1 , x 2 ,... x n )","VOLCSGRS = f ( x1 , x 2 ,... x n )","VOLCSGRS = f ( x1 , x 2 ,... x n )","VOLCSGRS = f ( x1 , x 2 ,... x n )","VOLCSGRS = f ( x1 , x 2 ,... x n )","VOLCSGRS = f ( x1 , x 2 ,... x n )","VOLCSGRS = f ( x1 , x 2 ,... x n )","VOLCSGRS = f ( x1 , x 2 ,... x n )","VOLCSGRS = f ( x1 , x 2 ,... x n )","VOLCSGRS = f ( x1 , x 2 ,... x n )","VOLCSGRS = f ( x1 , x 2 ,... x n )","VOLCSGRS = f ( x1 , x 2 ,... x n )","VOLCSGRS = f ( x1 , x 2 ,... x n )","VOLCSGRS = f ( x1 , x 2 ,... x n )","VOLCSGRS = f ( x1 , x 2 ,... x n )","VOLCSGRS = f ( x1 , x 2 ,... x n )",,,,,"( x1 , x 2 ,... x n )","( x1 , x 2 ,... x n )",,,
+North,"IA, IL, IN,",VOLCSGRS =,VOLCSGRS =,VOLCSGRS =,VOLCSGRS =,VOLCSGRS =,VOLCSGRS =,,,,,,,,,,,,,,,,,,x1,= 7; ( sfwd ),= 7; ( sfwd ),,Hahn and
+Central,"KS, MO,",,,,,,,,,,,,( x,( x,− 4 )( x,− 4 )( x,− 4 )( x,− 4 )( x,2,+ 4 2 ),+ 4 2 ),+ 4 2 ),,,x1,= 9; ( hdwd ),= 9; ( hdwd ),,"Hansen,"
+,"NE, SD",VOLCFGRS − . 005454,VOLCFGRS − . 005454,VOLCFGRS − . 005454,VOLCFGRS − . 005454,VOLCFGRS − . 005454,VOLCFGRS − . 005454,VOLCFGRS − . 005454,VOLCFGRS − . 005454,VOLCFGRS − . 005454,VOLCFGRS − . 005454,VOLCFGRS − . 005454,,1,,,,,1,,,,,,,,,,1991
+,,,,,,,,,,,,,,,,,,2 b8,,,,,,,,,,,
+North,"MI, MN,",VOLCSGRS =,VOLCSGRS =,VOLCSGRS =,VOLCSGRS =,VOLCSGRS =,VOLCSGRS =,,,,,,,,,,,,,,,,,,x1 = dbh,x1 = dbh,,,"Hahn,"
+Central,"ND, WI",,,,,,,,,,,,,,,,,,,,,,,,,,,,1984
+,,( b0,+ b1 x1,+ b1 x1,+ b1 x1,+ b2 x 3,+ b2 x 3,+ b2 x 3,+ b3 x1,+ b3 x1,+ b3 x1,2,+ b4 x1,+ b4 x1,+ b4 x1,+ b4 x1,2,h s,+ b5 h s,+ b5 h s,+ b5 h s,2,,,x 2 = site index,x 2 = site index,x 2 = site index,,
+,,+ b,h,x,2,+ b,x,2,h,3,+ b,+ b,x,2,h,2,x,)( b,,+ b,+ b,+ b,x,),x,= 7; SW,,,
+,,6,s,3,,7,7,1,s,,,8,1,,s,,,3,9,,10,10,1,1,3,,x,=,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,
+,,where h s,where h s,where h s,where h s,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,= height to the top of the sawlog,x 3,"= 
+9; HW",,,
+,,,,,,,,,,,,,,,,,,,,,,,,,all live basal,all live basal,,,
+,,,,,,,,,,,,,,,,,,,,,,,b15,,,,,,
+,,,,,,,,,,,,,,,,,,,,x,,,,,area,area,,,
+,,"4 . 5 + b (1 − e ( b12 x1 ) ) b13
+11","4 . 5 + b (1 − e ( b12 x1 ) ) b13
+11","4 . 5 + b (1 − e ( b12 x1 ) ) b13
+11","4 . 5 + b (1 − e ( b12 x1 ) ) b13
+11","4 . 5 + b (1 − e ( b12 x1 ) ) b13
+11","4 . 5 + b (1 − e ( b12 x1 ) ) b13
+11","4 . 5 + b (1 − e ( b12 x1 ) ) b13
+11","4 . 5 + b (1 − e ( b12 x1 ) ) b13
+11","4 . 5 + b (1 − e ( b12 x1 ) ) b13
+11","x b14  1 . 00001 −
+2","x b14  1 . 00001 −
+2","x b14  1 . 00001 −
+2","x b14  1 . 00001 −
+2","x b14  1 . 00001 −
+2","x b14  1 . 00001 −
+2","x b14  1 . 00001 −
+2","x b14  1 . 00001 −
+2","x b14  1 . 00001 −
+2",,3,,,"x b16
+4",,,,,
+,,,,,,,,,,,,,,,,,,,,x,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,
+North-,All states,VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),VOLCSGRS = VOLCFGRS (1 − x1 ),,,,,,x1 = portion of,x1 = portion of,x1 = portion of,,"Scott, 1981"
+eastern,in the,,,,,,,,,,,,,,,,,,,,,,,,volume in upper,volume in upper,volume in upper,volume in upper,
+,region,,,,,,,,,,,,,,,,,,,,,,,,stem,stem,,,
+RMRS,All states,IF (x 1,IF (x 1,≤ 42 ) VOLCSGRS =,≤ 42 ) VOLCSGRS =,≤ 42 ) VOLCSGRS =,≤ 42 ) VOLCSGRS =,≤ 42 ) VOLCSGRS =,≤ 42 ) VOLCSGRS =,≤ 42 ) VOLCSGRS =,≤ 42 ) VOLCSGRS =,≤ 42 ) VOLCSGRS =,≤ 42 ) VOLCSGRS =,≤ 42 ) VOLCSGRS =,≤ 42 ) VOLCSGRS =,,,,,,,,,,x 1,= dbh,,,Jensen and
+,(Timber,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Homeyer,"
+,,,,,,,,,,,(,,,,)b,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,34,,,,,,,,,,,,,
+,species),VOLCFGRS  b 32 − b 33,VOLCFGRS  b 32 − b 33,VOLCFGRS  b 32 − b 33,VOLCFGRS  b 32 − b 33,VOLCFGRS  b 32 − b 33,VOLCFGRS  b 32 − b 33,VOLCFGRS  b 32 − b 33,VOLCFGRS  b 32 − b 33,VOLCFGRS  b 32 − b 33,"42 − x1 
+33","42 − x1 
+33","42 − x1 
+33","42 − x1 
+33",,,,,,,,,,,,,,,1971
+,,IF (x 1,IF (x 1,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,> 42 ) VOLCSGRS = VOLCFGRS *,,,,,
+,,b 35,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RMRS,All states,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,VOLCSGRS = VOLCFGRS * RATIO,,,TOP = 3,TOP = 3,x 1,=,"Chojnacky,"
+,(Woodland,,,,,,,,,b,(TOP − 1. 5 )b39,(TOP − 1. 5 )b39,(TOP − 1. 5 )b39,(TOP − 1. 5 )b39,(TOP − 1. 5 )b39,(TOP − 1. 5 )b39,(TOP − 1. 5 )b39,(TOP − 1. 5 )b39,(TOP − 1. 5 )b39,,,,,,dbh,dbh,,,1987
+,species),RATIO = 1 − ,RATIO = 1 − ,RATIO = 1 − ,RATIO = 1 − ,RATIO = 1 − ,RATIO = 1 − ,RATIO = 1 − ,,,38,,,,,,,,,b40,,,,,x 5,= 0; multiple,= 0; multiple,= 0; multiple,
+,,,,,,,,,,,+,+,,,,+,+,,,,,,,,,,,,
+,,,,,,,,,,,,b,,x,,,b,b,x,),,,,,,,,,
+,,,,,,,, ( b35, ( b35, ( b35,,,36,36,1,,,37,5,,,,,,stems,stems,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,= 1; single,= 1; single,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,stem,stem,,,
+SRS,All states,VOLCSGRS =,VOLCSGRS =,VOLCSGRS =,VOLCSGRS =,VOLCSGRS =,VOLCSGRS =,,,,,,,,,,,,,,,,,,,,,,"Royer,"
+,in the,,,,,,(+,(+,(+,,,,−,−,,− 2 ),− 2 ),,,,,,,,,,,,2001
+,,VOLCFGRS,VOLCFGRS,VOLCFGRS,VOLCFGRS,VOLCFGRS,b7,b7,,b8 ( x1,b8 ( x1,b8 ( x1,,5),5),,,,,,,,,,,,,,
+,region,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,,,,,,,,,,,Page 10 of 20.,Page 10 of 20.,
+Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,Table A3.4 Net cubic-foot volume in the sawlog portion,,,,,,,,,
+Region,States,,,,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,,,,,Observed,Observed,Reference:
+,,,,"VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )","VOLCSNET = f ( x1 , x 2 ,... x n )",,,items:,items:,
+,,,,,,,,,,,,,,,,"( x1 , x 2 ,... x n )","( x1 , x 2 ,... x n )",
+North,"IA, IL, IN,",,,,,,,,,(b,+ b,+ b,min ( x,", b",)) ,x= dbh1,x= dbh1,Hahn and
+,,,,,,,,,,5,,6,,1,7,,,
+,,=  −VOLCSNET  VOLCSGRS  1,=  −VOLCSNET  VOLCSGRS  1,=  −VOLCSNET  VOLCSGRS  1,=  −VOLCSNET  VOLCSGRS  1,=  −VOLCSNET  VOLCSGRS  1,=  −VOLCSNET  VOLCSGRS  1,=  −VOLCSNET  VOLCSGRS  1,=  −VOLCSNET  VOLCSGRS  1,,,,,,,,,
+Central,"KS, MO,",,,,,,,,,,,,100,,,,,"Hansen,"
+,"NE, SD",,,,,,,,,,,,,,,,,1991
+,,b 5,", b 6",and b 7,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,,,,,
+North,"MI, MN,",,,,,,,,,b,,,,,,,,"Hahn,"
+,,VOLCSNET = VOLCSGRS (1 −,VOLCSNET = VOLCSGRS (1 −,VOLCSNET = VOLCSGRS (1 −,VOLCSNET = VOLCSGRS (1 −,VOLCSNET = VOLCSGRS (1 −,VOLCSNET = VOLCSGRS (1 −,VOLCSNET = VOLCSGRS (1 −,VOLCSNET = VOLCSGRS (1 −,17,),,,,,,,
+Central,"ND, WI",,,,,,,,,100,,,,,,,,1984
+,,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,b 17 is species-tree class specific,,,,,,,,,
+North-,All states,VOLCSNET = VOLCFNET (1 − x1 ),VOLCSNET = VOLCFNET (1 − x1 ),VOLCSNET = VOLCFNET (1 − x1 ),VOLCSNET = VOLCFNET (1 − x1 ),VOLCSNET = VOLCFNET (1 − x1 ),VOLCSNET = VOLCFNET (1 − x1 ),VOLCSNET = VOLCFNET (1 − x1 ),VOLCSNET = VOLCFNET (1 − x1 ),VOLCSNET = VOLCFNET (1 − x1 ),,,,,,x1 = portion,x1 = portion,"Scott, 1981"
+eastern,in the,,,,,,,,,,,,,,,of volume in,of volume in,
+,region,,,,,,,,,,,,,,,upper stem,upper stem,
+RMRS,All states,IF (x 1,≤ 42 ) VOLCSNET =,≤ 42 ) VOLCSNET =,≤ 42 ) VOLCSNET =,≤ 42 ) VOLCSNET =,≤ 42 ) VOLCSNET =,,,,,,,,,x 1,= dbh,Jensen and
+,(Timber,,,,,(,,)b,,,,,,,,,,"Homeyer,"
+,,,,,,,−,34,,,,,,,,,,
+,,,,,,42,x,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,VOLCFSND,VOLCFSND,VOLCFSND,−,,1,,,,,,,,,,,
+,,,,,b,b,,,,,,,,,,,,
+,,,,,32,33,,,,,,,,,,,,1971
+,species),,,,,,33,,,,,,,,,,,
+,,IF (x 1,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,> 42 ) VOLCSNET = VOLCFSND * b 35,,,,
+RMRS,All states,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,VOLCSNET = VOLCFSND * RATIO,,,,TOP = 3,TOP = 3,"Chojnacky,"
+,(Woodland,,,,,b,(TOP − 1 . 5 )b39,(TOP − 1 . 5 )b39,(TOP − 1 . 5 )b39,(TOP − 1 . 5 )b39,(TOP − 1 . 5 )b39,,,,,x 1,= dbh,1987
+,species),RATIO = 1 − ,RATIO = 1 − ,RATIO = 1 − ,RATIO = 1 − ,38,,,,,,,,,,,,
+,,,,,,,,,,,,b,,,,x,= 0;,
+,,,,,,( b,+ b,x,+ b,x,),40,,,,5,,
+,,,,,,35,36,1,,37,5,,,,,,,
+,,,,,,,,,,,,,,,,multiple,multiple,
+,,,,,,,,,,,,,,,,stems,stems,
+,,,,,,,,,,,,,,,,= 1; single,= 1; single,
+,,,,,,,,,,,,,,,,stem,stem,
+SRS,All states,,,,,,,,(+,(+,,,−,− 2 ),,,,"Royer,"
+,,VOLCSNET = VOLCFSND,VOLCSNET = VOLCFSND,VOLCSNET = VOLCFSND,VOLCSNET = VOLCFSND,VOLCSNET = VOLCFSND,VOLCSNET = VOLCFSND,VOLCSNET = VOLCFSND,b7,b8 ( x1,b8 ( x1,b8 ( x1,5),,,,,
+,in the,,,,,,,,,,,,,,,,,2001
+,region,,,,,,,,,,,,,,,,,
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,,,,,,,,,,,,,,,,,,,,,,,Page 11 of 20.,Page 11 of 20.,
+Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,Table A3.5 Gross board-foot volume in the sawlog portion,,,,,,,,
+Region,States,,,,,,,,,,,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,,,,,Observed,Observed,Reference:
+,,,,,,,,,"VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )","VOLBFGRS = f ( x1 , x 2 ,... x n )",items:,items:,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,"( x1 , x 2 ,... x n )","( x1 , x 2 ,... x n )",
+North,"IA, IL, IN,",VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,VOLBFGRS = b1 ( x 2 ) b2,,(1 − e b3 x1b 4,(1 − e b3 x1b 4,(1 − e b3 x1b 4,(1 − e b3 x1b 4,(1 − e b3 x1b 4,),,,,,x1 = DBH,x1 = DBH,Hahn &
+Central,"KS, MO, NE,",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Hansen,"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,=SI,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,
+,SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1991
+North,"MI, MN, ND,",VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,,,,,,,,,,,,,,,,,x1 = DBH,x1 = DBH,"Hahn, 1984"
+Central,WI, ( b, ( b,+ b,+ b,+ b,x,,+ b,+ b,h,h,+ b,+ b,x,,2,+ b,+ b,x,2 h,2 h,+ ,+ ,,,,x,=SI,
+,,,,0,,,1,1,,,2,s,,3,3,1,,,,4,1,s,,,,,,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,, b,h,,2,+ b,+ b,+ b,h,x,2,+ b,+ b,x,x,2,h,3,+,,,, b, b, b,,,x,=,7;
+,,,5,s,,,,6,s,,3,,7,7,1,,s,,,,,,,,17,17,,3,3,
+,,,,x,2,h,2,x,)( b,)( b,,+ b,,x,,),,,,,,,,,,,,Sfwd,Sfwd,
+,,b 8,b 8,1,,s,,3,,,9,,10,10,1,,,,,,,,,,,,,,,
+,,+,,,,+,+,,,,+,+,,,+,+,,,,,,,,,,,,x 3 =,x 3 =,9;
+,,b,b,x,x,,,b,h,,,b,x,x,,,b,,,,,,,,,,,,,
+,,,18,18,1,,,19,19,s,,,20,3,,,,21,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hdwd,Hdwd,
+,,where h s,where h s,where h s,where h s,where h s,where h s,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,= estimated SL =,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,x 4 =BA,x 4 =BA,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,b15,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11","4 . 5 + b (1 − e
+11",( b12 x1 ),( b12 x1 ),),b13,x,"b14
+2","b14
+2", 1 . 00001 −, 1 . 00001 −, 1 . 00001 −, 1 . 00001 −, 1 . 00001 −, 1 . 00001 −, 1 . 00001 −,x,3,,"x b16
+4",,
+,,,,,,,,,,,,,,,,,,,,,,,,,x,x,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,
+North-,All states in,,,,,,,,,,,,,,,,b,,,,b,b,b,b,,,,,,"Scott, 1979"
+,,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,VOLBFGRS = b,+ b2 x1,+ b2 x1,+ b2 x1,+ b2 x1,,3,+ b4 x1,+ b4 x1,+ b4 x1,"5 
+x 2","5 
+x 2",6,,,,"x= dbh
+1","x= dbh
+1",
+,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,
+eastern,the region,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,x 2 =,x 2 =,sawlog
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,height,height,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,(height to 7”,(height to 7”,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,or 9”,or 9”,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,diameter,diameter,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,outside,outside,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,bark),bark),
+RMRS,"Eastern MT,",Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),Young Growth (x12 x 2 Lt b 41 ),,,,,,,,,,x 1,= dbh,"Myers, 1964"
+,"Eastern WY,",VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,,,+,,,,2,,,,,,,,,x,= ht,RM-8
+,,,,,,,,,,,,,( b 42,( b 42,( b 42,b 43 x1,b 43 x1,b 43 x1,x 2 ),x 2 ),,,,,,,,2,,
+,SD (SPP=PP),,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),Old Growth (x12 x 2 Ge b 44 ),,,,,,,,,,,,,,
+,,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,,,+,,,,2,,,,,,,,,,,
+,,,,,,,,,,,,,( b 45,( b 45,( b 45,b 46 x1,b 46 x1,b 46 x1,x 2 ),x 2 ),,,,,,,,,,
+RMRS,"Western WY,",Young Growth,Young Growth,Young Growth,Young Growth,Young Growth,Young Growth,Young Growth,Young Growth,Young Growth,Young Growth,(x12 x 2 Lt b 47 ),(x12 x 2 Lt b 47 ),(x12 x 2 Lt b 47 ),(x12 x 2 Lt b 47 ),(x12 x 2 Lt b 47 ),(x12 x 2 Lt b 47 ),(x12 x 2 Lt b 47 ),,,,,,,,,,x 1,= dbh,"Edminster,"
+,"CO, NV, UT",,,,,,,,,,,,,,,,,,,,,,,,,,,x,= ht,"Beeson, and"
+,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,
+,,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,,,+,,,,,,,,,,,,,2,,
+,,,,,,,,,,,,,( b 48,( b 48,( b 48,b 49 x1,b 49 x1,b 49 x1,x 2 ),x 2 ),,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Metcalf,"
+,(SPP=PP),Old Growth,Old Growth,Old Growth,Old Growth,Old Growth,Old Growth,Old Growth,Old Growth,,2,2,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,(x1,(x1,x 2 Ge b 47 ),x 2 Ge b 47 ),x 2 Ge b 47 ),x 2 Ge b 47 ),x 2 Ge b 47 ),,,,,,,,,,,,,,1980
+,,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,( b 50 + b 51x12 x 2 ),( b 50 + b 51x12 x 2 ),( b 50 + b 51x12 x 2 ),( b 50 + b 51x12 x 2 ),( b 50 + b 51x12 x 2 ),( b 50 + b 51x12 x 2 ),( b 50 + b 51x12 x 2 ),( b 50 + b 51x12 x 2 ),,,,,,,,,,Myers and
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Edminster,"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1972
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Edminster,"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Mowrer,"
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,,,,,,,,,,,Page 12 of 20.,Page 12 of 20.,
+,,,,,,,,,,,,,,,,,,"Hinds, 1982"
+,,,,,,,,,,,,,,,,,,"Myers, 1964"
+,,,,,,,,,,,,,,,,,,RM-6
+RMRS,Idaho (All,Young Growth,(x12 x 2 Lt b 52 ),(x12 x 2 Lt b 52 ),,,,,,,,,,,,x 1,= dbh,"Kemp, 1957"
+,species),,,,,,,,,,,,,,,,,
+,,VOLBFGRS =,VOLBFGRS =,+,2,,,,,,,,,,,x 2,= ht,
+,,,,( b 53,b 54 x1,x 2 ),,,,,,,,,,,,
+,"AZ, NM",,,,,,,,,,,,,,,,,
+,,Old Growth,(x12 x 2 Ge b 52 ),(x12 x 2 Ge b 52 ),,,,,,,,,,,,,,
+,(Cottonwood),,,,,,,,,,,,,,,,,
+,Montana (All,VOLBFGRS =,VOLBFGRS =,( b 53 + b 54 x1,( b 53 + b 54 x1,x 2 ),,,,,,,,,,,,
+,species,,,,,,,,,,,,,,,,,
+,except PP in,,,,,,,,,,,,,,,,,
+,Eastern MT,,,,,,,,,,,,,,,,,
+,and,,,,,,,,,,,,,,,,,
+,woodland,,,,,,,,,,,,,,,,,
+,species),,,,,,,,,,,,,,,,,
+RMRS,"AZ, NM",VOLBFGRS = VOLCFGRS b 55 − b 56,VOLBFGRS = VOLCFGRS b 55 − b 56,VOLBFGRS = VOLCFGRS b 55 − b 56,VOLBFGRS = VOLCFGRS b 55 − b 56,VOLBFGRS = VOLCFGRS b 55 − b 56,VOLBFGRS = VOLCFGRS b 55 − b 56,VOLBFGRS = VOLCFGRS b 55 − b 56,− b 57,− b 57,−,b58,b58,,,x 1,= dbh,Hann and
+,,,,,,,,x1,x,2,,x,3,,,,,"Bare, 1978"
+,(All species,,,,,,,,1,,,1,1,,,,,
+,except,,,,,,,,,,,,,,,,,with
+,woodland,,,,,,,,,,,,,,,,,modification
+,species and,,,,,,,,,,,,,,,,,for ES &
+,Cottonwood),,,,,,,,,,,,,,,,,DF
+RMRS,All woodland,VOLBFGRS = various model forms,VOLBFGRS = various model forms,VOLBFGRS = various model forms,VOLBFGRS = various model forms,VOLBFGRS = various model forms,VOLBFGRS = various model forms,VOLBFGRS = various model forms,,,,,,,,,,"Chojnacky,"
+,species,,,,,,,,,,,,,,,,,"1988, 1986,"
+,,,,,,,,,,,,,,,,,,"1988, 1985,"
+,,,,,,,,,,,,,,,,,,& 1994
+,,,,,,,,,,,,,,,,,,Pillsbury &
+,,,,,,,,,,,,,,,,,,"Kirkley,"
+,,,,,,,,,,,,,,,,,,1983
+SRS,All states in,,,,,,,,,,,,,,,x 1,= dbh,"Royer, 2001"
+,,VOLBFGRS = VOLCFGRS ,VOLBFGRS = VOLCFGRS ,VOLBFGRS = VOLCFGRS ,VOLBFGRS = VOLCFGRS ,VOLBFGRS = VOLCFGRS ,b3,+ b (1 − 14,+ b (1 − 14,+ b (1 − 14,+ b (1 − 14,,,) ,=,,,
+,the region,,,,,,,,,,,x1,x1,,,,,
+,,(b1,+ b( x2 x  ) ) b2  1 2  3,+ b(1 − 14,+ b(1 − 14,x1,) ,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+PNW,,Softwoods:,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,,,,,,,,,,,x 1,= dbh,"USDA,"
+,,b15,+ b16 log( x1TARIF ) + b17 x1,+ b16 log( x1TARIF ) + b17 x1,+ b16 log( x1TARIF ) + b17 x1,+ b18 TARIF 2,+ b18 TARIF 2,+ b18 TARIF 2,+ b18 TARIF 2,+ b18 TARIF 2,+,+,,"19
+2",,,,
+,,,,,,,,,,,,,x,,,,,
+,,,,,,,,,,,,,,1,,,,
+,,Hardwoods:,VOLBFGRS =,VOLBFGRS =,VOLBFGRS =,,,,,,,,,,,,,
+,, b23,+ b24 log ( x1TARIF ) + b25 x1,+ b24 log ( x1TARIF ) + b25 x1,+ b24 log ( x1TARIF ) + b25 x1,+ b24 log ( x1TARIF ) + b25 x1,+ b26 TARIF 2,+ b26 TARIF 2,+ b26 TARIF 2,+ b26 TARIF 2,+ b26 TARIF 2,+ b26 TARIF 2,+,+,"b27
+2",,,
+,,,,,,,,,,,,,,,x,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,1,,,
+,,((b20,− b21b2( 2x1 − 6 . 0 ),)(VOLCFGRS )) (b28,)(VOLCFGRS )) (b28,)(VOLCFGRS )) (b28,)(VOLCFGRS )) (b28,+ b29,+ b29,(b3( 0x1 − 9. 5 ),(b3( 0x1 − 9. 5 ),(b3( 0x1 − 9. 5 ),(b3( 0x1 − 9. 5 ),(b3( 0x1 − 9. 5 ),)),,,
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,,,,,,,,Page 13 of 20.,Page 13 of 20.
+Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,Table A3.6 Net board-foot volume in the sawlog portion,,,,
+Region,States,,,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,,,Observed,Observed,Reference:
+,,,"VOLBFNET = f ( x1 , x 2 ,... x n )","VOLBFNET = f ( x1 , x 2 ,... x n )","VOLBFNET = f ( x1 , x 2 ,... x n )","VOLBFNET = f ( x1 , x 2 ,... x n )","VOLBFNET = f ( x1 , x 2 ,... x n )","VOLBFNET = f ( x1 , x 2 ,... x n )","VOLBFNET = f ( x1 , x 2 ,... x n )","VOLBFNET = f ( x1 , x 2 ,... x n )",,items:,items:,
+,,,,,,,,,,,,"( x1 , x 2 ,... x n )","( x1 , x 2 ,... x n )",
+North,"IA, IL,",VOLBFNET = VOLBFGRS (1 − (b5,VOLBFNET = VOLBFGRS (1 − (b5,VOLBFNET = VOLBFGRS (1 − (b5,VOLBFNET = VOLBFGRS (1 − (b5,VOLBFNET = VOLBFGRS (1 − (b5,VOLBFNET = VOLBFGRS (1 − (b5,VOLBFNET = VOLBFGRS (1 − (b5,VOLBFNET = VOLBFGRS (1 − (b5,VOLBFNET = VOLBFGRS (1 − (b5,+ b6 x1 )),x1 = dbh,x1 = dbh,Hahn and
+Central,"IN, KS,",,,,,,,,,,,,,"Hansen,"
+,,b 5,and b 6,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,are species-tree class specific,,,
+,"MO, NE,",,,,,,,,,,,,,1991
+,SD,,,,,,,,,,,,,
+North,"MI, MN,",VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),VOLBFNET = VOLBFGRS (1 − b22 x1 ),x1 = dbh,x1 = dbh,"Hahn, 1984"
+Central,"ND, WI",,,,,,,,,,,,,
+,,b 22 is species-tree class specific,b 22 is species-tree class specific,b 22 is species-tree class specific,b 22 is species-tree class specific,b 22 is species-tree class specific,b 22 is species-tree class specific,b 22 is species-tree class specific,b 22 is species-tree class specific,,,,,
+North-,All states,,,,,,,,,"x
+1",,x,= percent,"Scott, 1979"
+,,VOLBFNET = VOLBFGRS (1 −,VOLBFNET = VOLBFGRS (1 −,VOLBFNET = VOLBFGRS (1 −,VOLBFNET = VOLBFGRS (1 −,VOLBFNET = VOLBFGRS (1 −,VOLBFNET = VOLBFGRS (1 −,VOLBFNET = VOLBFGRS (1 −,VOLBFNET = VOLBFGRS (1 −,,),1,1,
+eastern,in the,,,,,,,,,100,,cull in sawlog,cull in sawlog,
+,region,,,,,,,,,,,,,
+RMRS,All states,VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),VOLBFNET = VOLBFGRS(BMERCH),x 1,= dbh,Region 3
+,in the,where:,,,,,,,,,,,,
+,region,,,,,,,,,,,,,
+,,(Live Growing Stock,(Live Growing Stock,(Live Growing Stock,(Live Growing Stock,(Live Growing Stock,,,,,,,,
+,Old,,,,,,,,,,,,,
+,,,Trees – Timber Species),Trees – Timber Species),Trees – Timber Species),Trees – Timber Species),Trees – Timber Species),Trees – Timber Species),,,,,,
+,Design,,,,,,,,,,,,,
+,,,,,,(eTB,− eTB1)b,− eTB1)b,,,,,,
+,,,,,,,,59,,,,,,
+,,BMERCH =,BMERCH =,BMERCH =,,,,,+ b,,,,,
+,,,,,,(,,),,60,,,,
+,,,,,,,,TC1,,,,,,
+,,,,,,,,−,,,,,,
+,,,,,,1,,e,,,,,,
+,,,,, SCALER  b 61, SCALER  b 61, SCALER  b 61,,,,,,,
+,,TB =,−  ABS,−  ABS,,, ,,,,,,,
+,,,,, FLEXB, FLEXB, ,,,,,,,
+,,SCALER =  (40 . − X1 )  − 1 .,SCALER =  (40 . − X1 )  − 1 .,SCALER =  (40 . − X1 )  − 1 .,SCALER =  (40 . − X1 )  − 1 .,SCALER =  (40 . − X1 )  − 1 .,SCALER =  (40 . − X1 )  − 1 .,,,,,,,
+,,,,,,39,,,,,,,,
+,,FLEXB =,FLEXB =,FLEXB =,−,,,,,,,,,
+,,,,,b 62,1 .,,,,,,,,
+,,TB1 = -  ABS,TB1 = -  ABS,TB1 = -  ABS,,1 .,,  ,,,,,,
+,,,,, FLEXB  , FLEXB  ,,,,,,,,
+,,(Salvable Dead Trees),(Salvable Dead Trees),(Salvable Dead Trees),(Salvable Dead Trees),(Salvable Dead Trees),(Salvable Dead Trees),,,,,,,
+,,BMERCH = .50,BMERCH = .50,BMERCH = .50,BMERCH = .50,BMERCH = .50,,,,,,,,
+,,(Nonsalvable Dead Trees),(Nonsalvable Dead Trees),(Nonsalvable Dead Trees),(Nonsalvable Dead Trees),(Nonsalvable Dead Trees),(Nonsalvable Dead Trees),(Nonsalvable Dead Trees),,,,,,
+,,BMERCH = .25,BMERCH = .25,BMERCH = .25,BMERCH = .25,BMERCH = .25,,,,,,,,
+,,(Rough Trees),(Rough Trees),(Rough Trees),,,,,,,,,,
+,,BMERCH = .25,BMERCH = .25,BMERCH = .25,BMERCH = .25,BMERCH = .25,,,,,,,,
+,,(Rotten Trees),(Rotten Trees),(Rotten Trees),,,,,,,,,,
+,,BMERCH = .25,BMERCH = .25,BMERCH = .25,BMERCH = .25,BMERCH = .25,,,,,,,,
+RMRS,All states,VOLBFNET = VOLBFGRS (1-x 5 ),VOLBFNET = VOLBFGRS (1-x 5 ),VOLBFNET = VOLBFGRS (1-x 5 ),VOLBFNET = VOLBFGRS (1-x 5 ),VOLBFNET = VOLBFGRS (1-x 5 ),VOLBFNET = VOLBFGRS (1-x 5 ),VOLBFNET = VOLBFGRS (1-x 5 ),VOLBFNET = VOLBFGRS (1-x 5 ),VOLBFNET = VOLBFGRS (1-x 5 ),,x 5,= rotten,
+,in the,,,,,,,,,,,and missing,and missing,
+,region,,,,,,,,,,,proportion,proportion,
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,Page 14 of 20.
+,(Mapped,,,,,
+,Design),,,,,
+SRS,All states,VOLBFNET =,,,,"Royer,"
+,in the,,,,,2001
+,region,VOLCFSND  b9,+ b10 (1 − 1,x,) ,
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,,,,,,,,,,,,,,Page 15 of 20.
+Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,Table A3.7 Total gross biomass oven-dry weight for live trees,,,
+Region,States,,,,,,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,Form of the model:,,,Observed,Observed,Reference:
+,,,,,"DRYBIOT = f ( x1 , x 2 ,... x n )","DRYBIOT = f ( x1 , x 2 ,... x n )","DRYBIOT = f ( x1 , x 2 ,... x n )","DRYBIOT = f ( x1 , x 2 ,... x n )","DRYBIOT = f ( x1 , x 2 ,... x n )","DRYBIOT = f ( x1 , x 2 ,... x n )","DRYBIOT = f ( x1 , x 2 ,... x n )","DRYBIOT = f ( x1 , x 2 ,... x n )","DRYBIOT = f ( x1 , x 2 ,... x n )","DRYBIOT = f ( x1 , x 2 ,... x n )","DRYBIOT = f ( x1 , x 2 ,... x n )","DRYBIOT = f ( x1 , x 2 ,... x n )",,items:,items:,
+,,,,,,,,,,,,,,,,,,"( x1 , x 2 ,... x n )","( x1 , x 2 ,... x n )",
+North,All states in,For DBH ≥ 5.0”DRYBIOT,For DBH ≥ 5.0”DRYBIOT,For DBH ≥ 5.0”DRYBIOT,For DBH ≥ 5.0”DRYBIOT,For DBH ≥ 5.0”DRYBIOT,For DBH ≥ 5.0”DRYBIOT,For DBH ≥ 5.0”DRYBIOT,For DBH ≥ 5.0”DRYBIOT,For DBH ≥ 5.0”DRYBIOT,For DBH ≥ 5.0”DRYBIOT,For DBH ≥ 5.0”DRYBIOT,For DBH ≥ 5.0”DRYBIOT,For DBH ≥ 5.0”DRYBIOT,,,,x1 = DBH,x1 = DBH,"Hahn, 1984"
+Central,the region,,,,,,,,,,,,,,,,,,,
+,,=,,,+ (+,+ (+,+ (+,+ (+,,,),,,+,,2,,,,and
+,,,x,b,,b,b,,x,b,x,b,b,b,x,,b,,,
+,,,,,,,,,,,,,,,,,,x,=,
+,,,2,4,,,1,,1,2,,2,5,3,1,,4,2,2,
+,,,,,,,,,,,,,,,,,,,,"Smith, 1985"
+,,"For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ",,,,VOLCFGRS,VOLCFGRS,
+,,,(x b,(x b,,+ (b,+ (b,+ 5b,+ 5b,+ 5b,)x,b,b,+ b,5 2 b,5 2 b,),x 3 =,x 3 =,
+,,=,,3,4,,1,,,2,,3,5,3,,,4,b7,,
+,,,,,,,,,b,5b7,5b7,,,,,,"bx
+6  1",VOLCFGRS,VOLCFGRS,
+,,,,,,,,,,6,,,,,,,,of a 5” DBH,of a 5” DBH,
+,,,,,,,,,,,,,,,,,,tree,tree,
+North-,All states in,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,,,,x1 = dbh,x1 = dbh,Wharton &
+eastern,the region,,(+,(+,,,),,,,,,,,,,,,,"Griffith,"
+,,= e,= e,.b1,b2 ln( x1 ),b2 ln( x1 ),b2 ln( x1 ),b,,or,,,,,,,,,,
+,,,,(. log,(. log,( b,)+ b,log,,( x,) ),,,,,,,,,1998
+,,= 10,= 10,,10,1,,2,10,1,b4 or,b4 or,b4 or,,,,,,,
+,,= 2 . 2046 (b1,= 2 . 2046 (b1,= 2 . 2046 (b1,= 2 . 2046 (b1,= 2 . 2046 (b1,= 2 . 2046 (b1,+ b2 25 . 4 x1,+ b2 25 . 4 x1,+ b2 25 . 4 x1,+ b2 25 . 4 x1,+ b2 25 . 4 x1,+ b2 25 . 4 x1,+ b3 (25 . 4 x1 )2 )b4,+ b3 (25 . 4 x1 )2 )b4,+ b3 (25 . 4 x1 )2 )b4,+ b3 (25 . 4 x1 )2 )b4,,,
+,,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,,,,
+,,b 4,is DBH class dependent,is DBH class dependent,is DBH class dependent,is DBH class dependent,is DBH class dependent,is DBH class dependent,is DBH class dependent,is DBH class dependent,is DBH class dependent,is DBH class dependent,is DBH class dependent,is DBH class dependent,,,,,,
+,,"For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ",,,,,,,,,,,
+,,,,,,,,,(. 95595 + 2 . 42640 ln( x) )1,(. 95595 + 2 . 42640 ln( x) )1,(. 95595 + 2 . 42640 ln( x) )1,(. 95595 + 2 . 42640 ln( x) )1,(. 95595 + 2 . 42640 ln( x) )1,(. 95595 + 2 . 42640 ln( x) )1,(. 95595 + 2 . 42640 ln( x) )1,,,,,
+,,DRYBIOT = e,DRYBIOT = e,DRYBIOT = e,DRYBIOT = e,DRYBIOT = e,DRYBIOT = e,DRYBIOT = e,,,,,,,,,,,,
+RMRS,All states in,DRYBIOT =,DRYBIOT =,DRYBIOT =,DRYBIOT =,DRYBIOT =,DRYBIOT =,,,,,,,,,,,x 1,= dbh,Van Hooser
+,the region,DRYBIOM + 193 . 5 − (43 . 5412 X12 ) + 3. 1659 X12,DRYBIOM + 193 . 5 − (43 . 5412 X12 ) + 3. 1659 X12,DRYBIOM + 193 . 5 − (43 . 5412 X12 ) + 3. 1659 X12,DRYBIOM + 193 . 5 − (43 . 5412 X12 ) + 3. 1659 X12,DRYBIOM + 193 . 5 − (43 . 5412 X12 ) + 3. 1659 X12,DRYBIOM + 193 . 5 − (43 . 5412 X12 ) + 3. 1659 X12,DRYBIOM + 193 . 5 − (43 . 5412 X12 ) + 3. 1659 X12,DRYBIOM + 193 . 5 − (43 . 5412 X12 ) + 3. 1659 X12,DRYBIOM + 193 . 5 − (43 . 5412 X12 ) + 3. 1659 X12,DRYBIOM + 193 . 5 − (43 . 5412 X12 ) + 3. 1659 X12,DRYBIOM + 193 . 5 − (43 . 5412 X12 ) + 3. 1659 X12,DRYBIOM + 193 . 5 − (43 . 5412 X12 ) + 3. 1659 X12,DRYBIOM + 193 . 5 − (43 . 5412 X12 ) + 3. 1659 X12,DRYBIOM + 193 . 5 − (43 . 5412 X12 ) + 3. 1659 X12,DRYBIOM + 193 . 5 − (43 . 5412 X12 ) + 3. 1659 X12,,,,and
+,(Timber,for Pines with dbh ≥ 5.0,for Pines with dbh ≥ 5.0,for Pines with dbh ≥ 5.0,for Pines with dbh ≥ 5.0,for Pines with dbh ≥ 5.0,for Pines with dbh ≥ 5.0,for Pines with dbh ≥ 5.0,for Pines with dbh ≥ 5.0,for Pines with dbh ≥ 5.0,for Pines with dbh ≥ 5.0,for Pines with dbh ≥ 5.0,for Pines with dbh ≥ 5.0,,,,,,,"Chojnacky,"
+,species),,,,,,,,,,,,,,,,,,,1983
+,,DRYBIOT =,DRYBIOT =,DRYBIOT =,DRYBIOT =,DRYBIOT =,DRYBIOT =,,,,,,,,,,,,,
+,,DRYBIOM + . 191 + (2 . 0304 X1 ) + (. 7031X12,DRYBIOM + . 191 + (2 . 0304 X1 ) + (. 7031X12,DRYBIOM + . 191 + (2 . 0304 X1 ) + (. 7031X12,DRYBIOM + . 191 + (2 . 0304 X1 ) + (. 7031X12,DRYBIOM + . 191 + (2 . 0304 X1 ) + (. 7031X12,DRYBIOM + . 191 + (2 . 0304 X1 ) + (. 7031X12,DRYBIOM + . 191 + (2 . 0304 X1 ) + (. 7031X12,DRYBIOM + . 191 + (2 . 0304 X1 ) + (. 7031X12,DRYBIOM + . 191 + (2 . 0304 X1 ) + (. 7031X12,DRYBIOM + . 191 + (2 . 0304 X1 ) + (. 7031X12,DRYBIOM + . 191 + (2 . 0304 X1 ) + (. 7031X12,DRYBIOM + . 191 + (2 . 0304 X1 ) + (. 7031X12,DRYBIOM + . 191 + (2 . 0304 X1 ) + (. 7031X12,DRYBIOM + . 191 + (2 . 0304 X1 ) + (. 7031X12,),,,,
+,,for other conifers with dbh ≥ 5.0,for other conifers with dbh ≥ 5.0,for other conifers with dbh ≥ 5.0,for other conifers with dbh ≥ 5.0,for other conifers with dbh ≥ 5.0,for other conifers with dbh ≥ 5.0,for other conifers with dbh ≥ 5.0,for other conifers with dbh ≥ 5.0,for other conifers with dbh ≥ 5.0,for other conifers with dbh ≥ 5.0,for other conifers with dbh ≥ 5.0,for other conifers with dbh ≥ 5.0,for other conifers with dbh ≥ 5.0,for other conifers with dbh ≥ 5.0,for other conifers with dbh ≥ 5.0,,,,
+,,DRYBIOT = DRYBIOM + (129. 69 P − . 05 )2. 2046,DRYBIOT = DRYBIOM + (129. 69 P − . 05 )2. 2046,DRYBIOT = DRYBIOM + (129. 69 P − . 05 )2. 2046,DRYBIOT = DRYBIOM + (129. 69 P − . 05 )2. 2046,DRYBIOT = DRYBIOM + (129. 69 P − . 05 )2. 2046,DRYBIOT = DRYBIOM + (129. 69 P − . 05 )2. 2046,DRYBIOT = DRYBIOM + (129. 69 P − . 05 )2. 2046,DRYBIOT = DRYBIOM + (129. 69 P − . 05 )2. 2046,DRYBIOT = DRYBIOM + (129. 69 P − . 05 )2. 2046,DRYBIOT = DRYBIOM + (129. 69 P − . 05 )2. 2046,DRYBIOT = DRYBIOM + (129. 69 P − . 05 )2. 2046,DRYBIOT = DRYBIOM + (129. 69 P − . 05 )2. 2046,DRYBIOT = DRYBIOM + (129. 69 P − . 05 )2. 2046,DRYBIOT = DRYBIOM + (129. 69 P − . 05 )2. 2046,DRYBIOT = DRYBIOM + (129. 69 P − . 05 )2. 2046,DRYBIOT = DRYBIOM + (129. 69 P − . 05 )2. 2046,,,
+,,where: P = ePrime,where: P = ePrime,where: P = ePrime,where: P = ePrime,where: P = ePrime,where: P = ePrime,where: P = ePrime,where: P = ePrime,where: P = ePrime,,,,,,,,,,
+,,,Prime =,Prime =,Prime =,Prime =,"  
+− 1 ABS   ","  
+− 1 ABS   ","  
+− 1 ABS   ","  
+− 1 ABS   ","  
+− 1 ABS   ",X1,X1," 3 . 5
+ − 1 .  1 . 56    "," 3 . 5
+ − 1 .  1 . 56    "," 3 . 5
+ − 1 .  1 . 56    ",,,,
+,,,,,,,,,,  27 . 56 ,  27 . 56 ,  27 . 56 ,  27 . 56 ,,,,,,,
+,,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,,,,
+,,DRYBIOT = DRYBIOM,DRYBIOT = DRYBIOM,DRYBIOT = DRYBIOM,DRYBIOT = DRYBIOM,DRYBIOT = DRYBIOM,DRYBIOT = DRYBIOM,DRYBIOT = DRYBIOM,DRYBIOT = DRYBIOM,DRYBIOT = DRYBIOM,DRYBIOT = DRYBIOM,DRYBIOT = DRYBIOM,DRYBIOT = DRYBIOM,,,,,,,
+,,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,for hardwoods with dbh ≥ 5.0,,,,
+RMRS,All states in,DRYBIOT = various model forms,DRYBIOT = various model forms,DRYBIOT = various model forms,DRYBIOT = various model forms,DRYBIOT = various model forms,DRYBIOT = various model forms,DRYBIOT = various model forms,DRYBIOT = various model forms,DRYBIOT = various model forms,DRYBIOT = various model forms,DRYBIOT = various model forms,DRYBIOT = various model forms,DRYBIOT = various model forms,DRYBIOT = various model forms,DRYBIOT = various model forms,,,,"Chojnacky,"
+,the region,,,,,,,,,,,,,,,,,,,1993 INT-
+,(Woodland,,,,,,,,,,,,,,,,,,,RB-332 Nov.
+,species),,,,,,,,,,,,,,,,,,,1984
+,,,,,,,,,,,,,,,,,,,,"Chojnacky,"
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,,,,,,,,,,,,,Page 16 of 20.,Page 16 of 20.
+,,,,,,,,,,,,,,,,,,,1985
+,,,,,,,,,,,,,,,,,,,"Chojnacky,"
+,,,,,,,,,,,,,,,,,,,1994
+,,,,,,,,,,,,,,,,,,,GTR-RM-
+,,,,,,,,,,,,,,,,,,,"218, April"
+,,,,,,,,,,,,,,,,,,,1992
+SRS,All states in,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,For DBH ≥ 5.0” DRYBIOT,,x 1 = DBH,"Royer, 2001"
+,the region,,,,,,,,,,,,,b,b,,,x 2 = Bole ht,
+,,= b,+ b,+ b,x,2 ,2 ,b,+ b,+ b,x,x,+,,5,,or,,
+,,1,,,2,1,,3,,,4,2,,x,2,,,x 3 = Total ht,
+,,,,,,,,,,,,,,,,b5,,,
+,,,,,,,,,,,,,, , ,,,,
+,,=,,,2 ,,+,+,,,+,"b
+4","b
+4",,,,,,
+,,b,,x,,b,,b,x,x,,,,,,,,,
+,,1 ,1 ,1,,2,,,3,2,,2x1,2x1, , ,,,,
+,,,,,,,,,,,,,, , ,,,,
+,,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,,
+,,"For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ","For DBH 
+    ",,,
+,,=,+,+,,2,2,,,,,=,=,,(2,(2,,)b2,
+,,b1,,b2 x1,b2 x1,b2 x1,x 3,x 3,or,or,,,b1,b1,x1,x1,,x 3,
+,,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,model form is species dependent,,
+FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,FIA Statistical & Analysis Methods,,,,Page 17 of 20.
+Table A3.8 Merchantable stem biomass oven-dry weight for live trees,Table A3.8 Merchantable stem biomass oven-dry weight for live trees,Table A3.8 Merchantable stem biomass oven-dry weight for live trees,Table A3.8 Merchantable stem biomass oven-dry weight for live trees,Table A3.8 Merchantable stem biomass oven-dry weight for live trees,Table A3.8 Merchantable stem biomass oven-dry weight for live trees,
+Region,States,Form of the model:,Form of the model:,Observed,Observed,Reference:
+,,"DRYBIOM = f ( x1 , x 2 ,... x n )","DRYBIOM = f ( x1 , x 2 ,... x n )",items:,items:,
+,,,,"( x1 , x 2 ,... x n )","( x1 , x 2 ,... x n )",
+North,All states,DRYBIOM = (b1,+ x1b2 ) x 2 b4,x1 = dbh,x1 = dbh,"Hahn, 1984"
+Central,in the,,,,,
+,,,,x,=,
+,,,,2,2,
+,region,,,,,
+,,,,VOLCFGRS,VOLCFGRS,
+North-,All states,DRYBIOM = (1 − ( b1,+ b2 ) ) x1,x1 =,x1 =,"Wharton & Griffith,"
+eastern,in the,,,,,1998
+,,,,DRYBIOT,DRYBIOT,
+,region,,,,,
+RMRS,All states,DRYBIOM = x 1 b 1 (b 2,+ 1),x 1,=,Van Hooser and
+,in the,for Timber species with,for Timber species with,VOLCFGRS,VOLCFGRS,"Chojnacky, 1983"
+,region,,,,,
+,,dbh ≥ 5.0”,,,,
+,,species dependant,,,,
+RMRS,All states,DRYBIOM = b 3,,,,Van Hooser and
+,in the,for Timber species with,for Timber species with,,,"Chojnacky, 1983"
+,region,,,,,
+,,dbh ≥ 5.0”,,,,
+,,species and dbh dependant,species and dbh dependant,,,
+RMRS,All states,DRYBIOM = various model,DRYBIOM = various model,,,"Chojnacky,"
+,in the,forms,,,,"1993,1985,"
+,region,,,,,"1994,1992, & 1984"
+SRS,,,,,,
+FIA Statistical & Analysis Methods,Page 18 of 20.
+"Chojnacky, D. C. 1984. Volume and biomass for curlleaf cercocarpus in Nevada. Res.","Chojnacky, D. C. 1984. Volume and biomass for curlleaf cercocarpus in Nevada. Res."
+"Bul. INT-332. USDA, Forest Service, Intermountain Forest And Range","Bul. INT-332. USDA, Forest Service, Intermountain Forest And Range"
+Experiment Station.,
+"Chojnacky, D. C. 1985. Pinyon-Juniper volume equations for the central rocky mountain","Chojnacky, D. C. 1985. Pinyon-Juniper volume equations for the central rocky mountain"
+"states. Res. Pap. INT-339. USDA, Forest Service, Intermountain Forest And","states. Res. Pap. INT-339. USDA, Forest Service, Intermountain Forest And"
+Range Experiment Station.,
+"Chojnacky, D. C. 1986. Pinyon-juniper volume equations for Arizona Hualapai and","Chojnacky, D. C. 1986. Pinyon-juniper volume equations for Arizona Hualapai and"
+"Havasupai Indian Reservations. Res. Bul. INT-363. USDA, Forest Service,","Havasupai Indian Reservations. Res. Bul. INT-363. USDA, Forest Service,"
+Intermountain Forest And Range Experiment Station.,
+"Chojnacky, D. C. 1987. Estimating singleleaf pinyon and Utah juniper volumes for","Chojnacky, D. C. 1987. Estimating singleleaf pinyon and Utah juniper volumes for"
+several utilization standards.WJAF 2(2).,
+"Chojnacky, D. C. 1988. Juniper, pinyon, oak and mesquite volume equations for","Chojnacky, D. C. 1988. Juniper, pinyon, oak and mesquite volume equations for"
+"Arizona. Res. Bul. INT-391. USDA, Forest Service, Intermountain Forest And","Arizona. Res. Bul. INT-391. USDA, Forest Service, Intermountain Forest And"
+Range Experiment Station.,
+"Chojnacky, D. C. 1988. Woodland volume equations for Arizona Fort Apache and San","Chojnacky, D. C. 1988. Woodland volume equations for Arizona Fort Apache and San"
+"Carlos Indian Reservations. Res. Bul. INT-379. USDA, Forest Service,","Carlos Indian Reservations. Res. Bul. INT-379. USDA, Forest Service,"
+Intermountain Forest And Range Experiment Station.,
+"Chojnacky, D. C. 1992. Estimating volume and biomass for dryland oak species. GTR","Chojnacky, D. C. 1992. Estimating volume and biomass for dryland oak species. GTR"
+"RM218. USDA, Forest Service, Intermountain Forest And Range Experiment","RM218. USDA, Forest Service, Intermountain Forest And Range Experiment"
+Station.,
+"Chojnacky, D. C. 1993. Converting wood volume to biomass for",pinyon and juniper.
+"Res. Note INT-411. USDA, Forest Service, Intermountain Forest And Range","Res. Note INT-411. USDA, Forest Service, Intermountain Forest And Range"
+Experiment Station.,
+"Chojnacky, D. C. 1994. Volume equations for New Mexico’s pinyon-juniper dryland","Chojnacky, D. C. 1994. Volume equations for New Mexico’s pinyon-juniper dryland"
+"forests. Res. Pap. INT-471. USDA, Forest Service, Intermountain Forest And","forests. Res. Pap. INT-471. USDA, Forest Service, Intermountain Forest And"
+Range Experiment Station.,
+"Edminster, C. B., Beeson, R. T. and Metcalf, G. B. 1980. Volume tables and point-","Edminster, C. B., Beeson, R. T. and Metcalf, G. B. 1980. Volume tables and point-"
+sampling factors for ponderosa pine in the front range of Colorado. Res. Pap.,sampling factors for ponderosa pine in the front range of Colorado. Res. Pap.
+"RM-218. USDA, Forest Service, Intermountain Forest And Range Experiment","RM-218. USDA, Forest Service, Intermountain Forest And Range Experiment"
+Station.,
+"Edminster, C.B., Mowrer, H. T. and Hinds, T. E. 1982. Volume tables and point-","Edminster, C.B., Mowrer, H. T. and Hinds, T. E. 1982. Volume tables and point-"
+"sampling factors for aspen in Colorado Res. Pap. RM-232. USDA, Forest","sampling factors for aspen in Colorado Res. Pap. RM-232. USDA, Forest"
+"Service, Intermountain Forest And Range Experiment Station.","Service, Intermountain Forest And Range Experiment Station."
+"Hahn, J. T.","and Hansen, M. H. 1991. Cubic and board foot volume models for the"
+Central States. NJAF 8:47-57.,
+"Hahn, J. T. 1984. Tree volume and biomass equations for the Lake States. Res. Pap.","Hahn, J. T. 1984. Tree volume and biomass equations for the Lake States. Res. Pap."
+"NC-250. USDA, Forest Service, North Central Forest Experiment Station,","NC-250. USDA, Forest Service, North Central Forest Experiment Station,"
+"Hann, D.W. and Bare, B. B. 1978. Comprehensive tree volume equations for major","Hann, D.W. and Bare, B. B. 1978. Comprehensive tree volume equations for major"
+species of New Mexico and Arizona: II.,Tables for unforked trees. Res. Pap.
+"INT-210. USDA, Forest Service, Intermountain Forest And Range Experiment","INT-210. USDA, Forest Service, Intermountain Forest And Range Experiment"
+Station.,
+FIA Statistical & Analysis Methods,Page 19 of 20.
+"Jensen, C. E. and Homeyer, J. W. 1971. Matchacurve-2 for algebraic transformations to","Jensen, C. E. and Homeyer, J. W. 1971. Matchacurve-2 for algebraic transformations to"
+"describe curves of the class X. Res. Pap. INT-106. USDA, Forest Service,","describe curves of the class X. Res. Pap. INT-106. USDA, Forest Service,"
+Intermountain Forest And Range Experiment Station.,Intermountain Forest And Range Experiment Station.
+"Kemp, P.D. 1958. Unpublished report on file at USDA, Forest Service, Rocky Mountain","Kemp, P.D. 1958. Unpublished report on file at USDA, Forest Service, Rocky Mountain"
+"Research Station, Interior West Resource Inventory, Monitoring, and Evaluation","Research Station, Interior West Resource Inventory, Monitoring, and Evaluation"
+"Program, Ogden, UT.",
+"Moisen, G. G. 1990. Volume equations for timber species in western Montana and","Moisen, G. G. 1990. Volume equations for timber species in western Montana and"
+"northern Idaho. Unpublished report on file at USDA, Forest Service, Rocky","northern Idaho. Unpublished report on file at USDA, Forest Service, Rocky"
+"Mountain Research Station, Interior West Resource Inventory, Monitoring, and","Mountain Research Station, Interior West Resource Inventory, Monitoring, and"
+"Evaluation Program, Ogden, UT.",
+"Myers, C. A. and Edminster, C. B. 1972. Volume tables and point-sampling factors for","Myers, C. A. and Edminster, C. B. 1972. Volume tables and point-sampling factors for"
+"engelmann spruce in Colorado and Wyoming, 1972. Res. Pap. RM-95. USDA,","engelmann spruce in Colorado and Wyoming, 1972. Res. Pap. RM-95. USDA,"
+"Forest Service, Intermountain Forest And Range Experiment Station.","Forest Service, Intermountain Forest And Range Experiment Station."
+"Myers, C.A. 1964. Volume tables and point-sampling factors for lodgepole pine in","Myers, C.A. 1964. Volume tables and point-sampling factors for lodgepole pine in"
+"Colorado and Wyoming. Res. Pap. RM-6. USDA, Forest Service, Intermountain","Colorado and Wyoming. Res. Pap. RM-6. USDA, Forest Service, Intermountain"
+Forest And Range Experiment Station.,
+"Myers, C.A. 1964. Volume tables and point-sampling factors for ponderosa pine in the","Myers, C.A. 1964. Volume tables and point-sampling factors for ponderosa pine in the"
+"Black Hills. Res. Pap. RM-8. USDA, Forest Service, Intermountain Forest And","Black Hills. Res. Pap. RM-8. USDA, Forest Service, Intermountain Forest And"
+Range Experiment Station.,
+"Pillsbury, N., Kirkley, M., 1983, A memo from Charles L. Bolsinger to Tom Farrenkopf.","Pillsbury, N., Kirkley, M., 1983, A memo from Charles L. Bolsinger to Tom Farrenkopf."
+"January 3, 1983.",
+"Royer, L. 2001. Personal communications with Larry Royer, USDA/FS SRS FIA, 828-","Royer, L. 2001. Personal communications with Larry Royer, USDA/FS SRS FIA, 828-"
+"257-4370, lroyer@fs.fed.us",
+"Scott, C. T. 1979. Northeastern Forest Survey Board-Foot Volume Equations. Research","Scott, C. T. 1979. Northeastern Forest Survey Board-Foot Volume Equations. Research"
+Note,"NE-271. USDA, Forest Service, Northeastern Research Station, 4p."
+"Scott, C. T. 1981. Northeastern Forest Survey Revised Cubic-Foot Volume Equations.","Scott, C. T. 1981. Northeastern Forest Survey Revised Cubic-Foot Volume Equations."
+Research Note,"NE-304. USDA, Forest Service, Northeastern Research Station,"
+4p.,
+Smith W. B. 1985. Factors and equations to estimate forest biomass in the North,Smith W. B. 1985. Factors and equations to estimate forest biomass in the North
+"Central Region. Res. Pap. NC-268. USDA, Forest Service, North Central Forest","Central Region. Res. Pap. NC-268. USDA, Forest Service, North Central Forest"
+"Experiment Station,",
+Smith W. B. 1985. Factors and equations to estimate forest biomass in the North,Smith W. B. 1985. Factors and equations to estimate forest biomass in the North
+"Central Region. Res. Pap. NC-268. USDA, Forest Service, North Central Forest","Central Region. Res. Pap. NC-268. USDA, Forest Service, North Central Forest"
+"Experiment Station, 6p.",
+"USDA, 2000, Western Oregon 1995-1997, August 15, 2000, a CD available from","USDA, 2000, Western Oregon 1995-1997, August 15, 2000, a CD available from"
+USDA/FS PNW Research at http://www.fs.fed.us/pnw/fia/,USDA/FS PNW Research at http://www.fs.fed.us/pnw/fia/
+"Van Hooser, D. D. and Chojnacky, D. C. 1983. Whole tree volume estimates for the","Van Hooser, D. D. and Chojnacky, D. C. 1983. Whole tree volume estimates for the"
+"rocky mountain states. Res. Bul. INT-29. USDA, Forest Service, Intermountain","rocky mountain states. Res. Bul. INT-29. USDA, Forest Service, Intermountain"
+Forest And Range Experiment Station.,
+FIA Statistical & Analysis Methods,Page 20 of 20.
+"Wharton, E. H. and Griffith, D. M. 1998. Estimating total forest biomass in Maine, 1995.","Wharton, E. H. and Griffith, D. M. 1998. Estimating total forest biomass in Maine, 1995."
+Resource Bull.,"NE-142. USDA, Forest Service, Northeastern Research Station,"
+50p.,

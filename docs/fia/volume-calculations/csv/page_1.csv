@@ -1,0 +1,27 @@
+Name: “Table 1 of 1 on page 1 of 20”,Name: “Table 1 of 1 on page 1 of 20”,Name: “Table 1 of 1 on page 1 of 20”
+Table: 1,Table: 1,Table: 1
+,,
+,FIA Volume Calculations,
+Tree-level attributes are variables associated with individual trees tallied on,Tree-level attributes are variables associated with individual trees tallied on,Tree-level attributes are variables associated with individual trees tallied on
+FIA ground plots.,Various expressions of tree volume and weight are among,Various expressions of tree volume and weight are among
+the most basic statistics reported by FIA.,Tree volumes and weights are not,Tree volumes and weights are not
+"directly measured in the field, but computed from other variables that are","directly measured in the field, but computed from other variables that are","directly measured in the field, but computed from other variables that are"
+"measured (e.g, species and DBH).",The functions used to compute these,The functions used to compute these
+values are typically regression or mathematical models that have been,values are typically regression or mathematical models that have been,values are typically regression or mathematical models that have been
+developed by state or region.,Commonly reported volume and weight,Commonly reported volume and weight
+statistics are defined below:,,
+VOLCFGRS (Gross cubic-foot volume).,The total volume inside bark of the,The total volume inside bark of the
+central stem of a tree 5.0 inches diameter or larger from a 1-foot stump to a,central stem of a tree 5.0 inches diameter or larger from a 1-foot stump to a,central stem of a tree 5.0 inches diameter or larger from a 1-foot stump to a
+minimum 4-inch top d.o.b. or to where the central stem breaks into limbs all of,minimum 4-inch top d.o.b. or to where the central stem breaks into limbs all of,minimum 4-inch top d.o.b. or to where the central stem breaks into limbs all of
+which are less than 4.0 inches d.o.b. Includes rotten/missing and form cull.,which are less than 4.0 inches d.o.b. Includes rotten/missing and form cull.,which are less than 4.0 inches d.o.b. Includes rotten/missing and form cull.
+VOLCFSND (Sound cubic-foot volume).,The volume of sound wood in the,The volume of sound wood in the
+central stem of a tree 5.0 inches diameter or larger from a 1-foot stump to a,central stem of a tree 5.0 inches diameter or larger from a 1-foot stump to a,central stem of a tree 5.0 inches diameter or larger from a 1-foot stump to a
+"minimum 4-inch top d.o.b., or to where the central stem breaks into limbs all","minimum 4-inch top d.o.b., or to where the central stem breaks into limbs all","minimum 4-inch top d.o.b., or to where the central stem breaks into limbs all"
+of which are less than 4.0 inches d.o.b.,"Form cull is included, rotten/missing","Form cull is included, rotten/missing"
+cull is excluded.,,
+VOLCSGRS (Gross cubic-foot volume in the sawlog portion).,VOLCSGRS (Gross cubic-foot volume in the sawlog portion).,The gross
+volume of wood in the central stem of a commercial species tree of sawtimber,volume of wood in the central stem of a commercial species tree of sawtimber,volume of wood in the central stem of a commercial species tree of sawtimber
+"size (9.0 inches DBH minimum for softwoods, 11.0 inches DBH minimum for","size (9.0 inches DBH minimum for softwoods, 11.0 inches DBH minimum for","size (9.0 inches DBH minimum for softwoods, 11.0 inches DBH minimum for"
+hardwoods) from a 1-foot stump to a minimum top d.o.b. (7.0 inches for,hardwoods) from a 1-foot stump to a minimum top d.o.b. (7.0 inches for,hardwoods) from a 1-foot stump to a minimum top d.o.b. (7.0 inches for
+"softwoods, 9.0 inches for hardwoods) or to where the central stem breaks into","softwoods, 9.0 inches for hardwoods) or to where the central stem breaks into","softwoods, 9.0 inches for hardwoods) or to where the central stem breaks into"
+"limbs, all of which are less than the minimum top d.o.b.","limbs, all of which are less than the minimum top d.o.b.",
