@@ -1,0 +1,57 @@
+Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”
+Table: 27,Table: 27,Table: 27,Table: 27,Table: 27,Table: 27,Table: 27,Table: 27,Table: 27,Table: 27,Table: 27,Table: 27,Table: 27,Table: 27
+,,,,,,,,,,,,,
+"Table C1—Buildings at NAVSTA Norfolk, by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk, by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk, by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk, by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk, by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk, by facility category, 2000—con.",,,,,,,,
+,,,,,,,,Area,,,,,
+,,,,,,,,,,,,,Fac-
+,,,Prop,,,,,,,,,Con- ility,Con- ility
+Seq,,Facility,record,,Year,,,,,,Spec,struc cate-,struc cate-
+no.,,number,number Facility name,number Facility name,built,,Total,Adeq,Inadeq,Substd,area,type,gory
+271,0,X134,200193,Warehouse,1940,1,"176,723",0,0,"176,723",,P,400
+272,0,X137,200195,Warehouse,1940,1,"58,804","58,804",0,0,,P,400
+273,0,W128,200566,Warehouse,1941,1,"57,248","57,248",0,0,,S,400
+274,0,CEP126,200876,Outfitting/soap,1970,1,"8,640","8,640",0,0,,P,400
+275,0,CEP204,201094,Outfitting/soap,1983,2,"9,446","9,446",0,0,,P,400
+276,0,W154,201216,Shed,1941,1,224,224,0,0,,T,400
+277,0,CEP156,201292,Cold storage warehouse,1975,1,"238,274","151,674","86,600",0,,P,400
+278,0,X380,201310,General storage shed,1983,1,"58,717","58,717",0,0,,P,400
+279,0,W148,201634,Warehouse,1998,1,"141,400","141,400",0,0,,P,400
+280,0,NM25,220041,Storage inert,1942,1,"10,000","10,000",0,0,,P,400
+281,0,NM33,220048,Storehouse inert,1943,1,"10,000","10,000",0,0,,P,400
+282,0,NM45,220052,Inert storehouse,1943,1,"1,500",0,"1,500",0,,P,400
+283,0,V52,220060,Aviation storehouse,1942,1,"62,992","62,992",0,0,,P,400
+284,0,SP83,220129,Maintenance aircraft spares storage,1942,1,"61,779","24,517","34,762","2,500",,P,400
+285,0,SP236,220155,Supply storehouse,1954,1,"113,760","113,760",0,0,,P,400
+286,0,SP237,220156,Aviation warehouse/packaging-crating,1954,1,"76,617","76,617",0,0,,P,400
+287,0,V146,220277,Warehouse,1970,1,"23,150","23,150",0,0,,P,400
+288,0,V88,220394,Warehouse,1944,4,"259,415","235,217",527,"23,671",,P,400
+289,0,V147,220399,Warehouse,1971,3,"179,630","179,630",0,0,,P,400
+290,0,LP167,220401,Warehouse/aircraft,1971,2,"151,798","151,798",0,0,,P,400
+291,0,1556,240017,Shore intermediate maintenance facility,1994,2,"106,043","106,043",0,0,AG,P,400
+292,0,80,240041,Integrated logistics overhaul/outfitting,1919,1,"12,000","12,000",0,0,AG,P,400
+293,0,168,240080,Storage,1942,1,"10,251",0,0,"10,251",AG,P,400
+294,0,LF50,280012,Hazardous materials storage,1989,2,"12,219","12,219",0,0,,P,400
+295,-,CD20,200044,General storage shed,1990,1,"49,491","49,491",0,0,,P,400
+296,-,CD21,200047,General storage shed,1990,1,"40,044","40,044",0,0,,P,400
+297,-,CD22,200049,General storage shed,1990,1,"15,390","15,390",0,0,,P,400
+298,-,Y108,200051,Warehouse,1991,1,"161,757","161,757",0,0,,P,400
+299,-,Z103,200057,Warehouse,1919,6,"313,434",0,0,"313,434",,P,400
+300,-,SP113,200090,Bachelor enlisted quarters warehouse,1998,1,"12,080","12,080",0,0,,P,400
+301,-,Z206,200124,Cylinder shed,1945,1,"37,499","37,499",0,0,,S,400
+302,-,W131,200126,Warehouse,1941,1,"49,920",0,0,"49,920",,S,400
+303,-,Z107,200127,Warehouse,1920,3,"422,980",0,0,"422,980",,P,400
+304,-,Y100A,200138,Warehouse-shops,1939,1,"132,500","132,500",0,0,,P,400
+305,-,X136,200194,Warehouse,1940,1,"190,707",0,0,"190,707",,P,400
+306,-,W131A,200536,Yard office,1941,1,120,0,120,0,,S,400
+307,-,162ZG,220489,General warehouse,1958,1,"20,000","20,000",0,0,ZG,P,400
+308,-,63,240027,Recompression storage,1918,1,"8,745","8,745",0,0,AG,P,400
+309,-,65,240029,Shore intermediate maintenance facility,1918,1,"9,128",0,"9,128",0,AG,P,400
+310,-,75,240036,Integrate log OH & outfit,1918,1,"9,950",0,"9,950",0,AG,P,400
+311,-,81,240042,Shore intermediate maintenance facility,1919,1,"12,000","12,000",0,0,AG,P,400
+312,-,84,240044,Integrate log OH & outfit,1919,1,"10,000",0,0,"10,000",AG,P,400
+313,-,86,240046,Integrate log OH & outfit,1920,1,"10,000",0,"10,000",0,AG,P,400
+314,-,87,240047,Integrate log OH & outfit,1919,1,"10,000","10,000",0,0,AG,P,400
+315,-,88,240048,Integrate log OH & outfit,1919,1,"10,000",0,0,"10,000",AG,P,400
+316,-,89,240049,Integrate log OH & outfit,1919,1,"16,077",0,"16,077",0,AG,S,400
+317,-,152,240068,Hazardous flammables storage,1934,1,800,800,0,0,AG,P,400
+24,,,,,,,,,,,,,

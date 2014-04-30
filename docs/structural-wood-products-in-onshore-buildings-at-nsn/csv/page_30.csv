@@ -1,0 +1,58 @@
+Name: “Table 1 of 1 on page 30 of 35”,Name: “Table 1 of 1 on page 30 of 35”,Name: “Table 1 of 1 on page 30 of 35”,Name: “Table 1 of 1 on page 30 of 35”,Name: “Table 1 of 1 on page 30 of 35”,Name: “Table 1 of 1 on page 30 of 35”,Name: “Table 1 of 1 on page 30 of 35”,Name: “Table 1 of 1 on page 30 of 35”,Name: “Table 1 of 1 on page 30 of 35”,Name: “Table 1 of 1 on page 30 of 35”,Name: “Table 1 of 1 on page 30 of 35”,Name: “Table 1 of 1 on page 30 of 35”,Name: “Table 1 of 1 on page 30 of 35”
+Table: 29,Table: 29,Table: 29,Table: 29,Table: 29,Table: 29,Table: 29,Table: 29,Table: 29,Table: 29,Table: 29,Table: 29,Table: 29
+,,,,,,,,,,,,
+"Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.",,,,,,,,
+,,,,,,,Area,,,,,
+,,,,,,,,,,,,Fac-
+,,,Prop,,,,,,,,Con-,ility
+Seq,,Facility,record,Year,,,,,,Spec,struc cate-,struc cate-
+no.,,number,number Facility name,built,,Total,Adeq,Inadeq,Substd,area,type,gory
+365,+,LP37,220087 Office building,1943,1,798,798,0,0,,P,600
+366,+,SP47,220115 Administration headquarters,1943,2,"21,446",0,"21,446",0,,P,600
+367,+,SP48,220116 Administration headquarters,1943,2,"21,446",0,"21,446",0,,P,600
+368,+,SP64,220122 Administration headquarters,1942,2,"26,764",0,"26,764",0,,P,600
+369,+,SP65,220123 Administration space,1942,2,"20,070",0,"20,070",0,,P,600
+370,+,SP122,220136 Applied instruction,1943,1,"1,994",0,"1,994",0,,T,600
+371,+,SP129,220138 Administration building,1943,2,"7,128",0,"7,128",0,,T,600
+372,+,S29,220334 Old dispensary administration building 1941,220334 Old dispensary administration building 1941,2,"41,506","41,506",0,0,,P,600
+373,+,V9,220391 Offices,1919,1,"8,160","5,237",0,"2,923",,P,600
+374,+,12,240004 Ship services support,1902,1,"10,000","10,000",0,0,AG,P,600
+375,+,14,240193 Ship service support,1907,1,"10,791","10,791",0,0,AG,S,600
+376,+,10,240290 Telephone exchange building,1918,1,"2,179",0,"2,179",0,AG,S,600
+377,0,Z133,200064 Administration,1945,5,"299,660","299,660",0,0,,P,600
+378,0,L28,"200077 Administration, training",1942,2,"53,570",0,"49,778","3,792",,P,600
+379,0,H9,200079 Fitness center,1945,1,"7,462","7,462",0,0,,P,600
+380,0,CEP170,200108 Pierside procurement facility,1989,1,"3,000","3,000",0,0,,P,600
+381,0,Q71,200109 Pierside procurement facility,1988,1,"3,000","3,000",0,0,,P,600
+382,0,Z357,200290 Administration,1954,2,"9,696",0,"9,696",0,,P,600
+383,0,W62,200589 Yard office/maintenance shop,1949,1,"2,756","2,756",0,0,,P,600
+384,0,Z86,200871 Administration,1941,2,"14,472",0,"14,472",0,,P,600
+385,0,N23,200965 Naval command,1907,2,"21,120","21,120",0,0,,P,600
+386,0,A48,201035 Administration,1942,3,"60,021","40,850","19,171",0,,P,600
+387,0,N21,201069 Administration headquarters,1907,2,"21,281",0,"21,281",0,,T,600
+388,0,A50,201075 Legal clinic,1943,3,"42,553","42,553",0,0,,P,600
+389,0,V29,220056 Administrative office,1929,3,"98,717","98,717",0,0,,P,600
+390,0,V82,220067 Administration,1943,2,"10,763","10,763",0,0,,P,600
+391,0,U111,220273 Family advocacy building,1969,2,"18,640","18,640",0,0,,P,600
+392,0,V48,220393 Flag housing office,1941,1,"2,408",0,0,"2,408",,P,600
+393,0,SP12,220421 Naval air reserve building,1986,2,"16,319",0,"16,319",0,,P,600
+394,0,SP91,220424 Naval safety center,1987,3,"45,351","45,351",0,0,,P,600
+395,0,277,240217 Fire training/special operations,1955,1,"26,146","21,569","4,577",0,AG,P,600
+396,0,M113,250406 Public works administration,1967,1,"3,300","3,300",0,0,,P,600
+397,-,SIDE1,200379 Unaccompanied enlisted personnel hous. 1958,200379 Unaccompanied enlisted personnel hous. 1958,3,"39,942",0,0,"39,942",,P,600
+398,-,SP233,200934 Administration/helicopter training,1952,1,"18,600","18,600",0,0,,P,600
+399,-,Q99,201607 Metals recovery yard,1984,1,"2,000",0,0,"2,000",,P,600
+400,-,1470,202027 YMCA (Portsmouth),1916,3,"21,445",0,0,"21,445",YM,P,600
+401,-,SP69,220128 Electronics maintenance shop,1991,1,"2,160","2,160",0,0,,P,600
+402,-,8,240002 Administrative office,1899,1,"5,000","5,000",0,0,AG,P,600
+403,-,169,"240081 Administration, naval undersea warfare",1942,1,"10,251","10,251",0,0,AG,P,600
+404,-,189,240100 Administration building,1942,1,"2,116",0,0,"2,116",AG,P,600
+405,-,319,240227 Administrative office,1955,1,286,0,286,0,AG,P,600
+406,-,SP86G,280340 Administrative office,1998,1,441,441,0,0,,P,600
+407,+,G29,200011 Museum/memorial building,1907,2,"9,346","9,346",0,0,,P,700
+408,+,G29C,200013 Museum storage/shop,1944,2,"3,108","3,108",0,0,,S,700
+409,+,A51,200027 Unaccomp. enlisted personnel housing 1943,200027 Unaccomp. enlisted personnel housing 1943,2,"25,632","25,632",0,0,,S,700
+410,+,A52,200028 Unaccomp. enlisted personnel housing 1943,200028 Unaccomp. enlisted personnel housing 1943,2,"24,478","24,478",0,0,,S,700
+411,+,A54,200030 Unaccomp. enlisted personnel housing 1943,200030 Unaccomp. enlisted personnel housing 1943,2,"18,080","18,080",0,0,,S,700
+412,+,C7,200045 Chapel,1942,2,"22,038","22,038",0,0,,P,700
+26,,,,,,,,,,,,

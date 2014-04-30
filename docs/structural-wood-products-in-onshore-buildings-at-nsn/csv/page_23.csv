@@ -1,0 +1,57 @@
+Name: “Table 1 of 1 on page 23 of 35”,Name: “Table 1 of 1 on page 23 of 35”,Name: “Table 1 of 1 on page 23 of 35”,Name: “Table 1 of 1 on page 23 of 35”,Name: “Table 1 of 1 on page 23 of 35”,Name: “Table 1 of 1 on page 23 of 35”,Name: “Table 1 of 1 on page 23 of 35”,Name: “Table 1 of 1 on page 23 of 35”,Name: “Table 1 of 1 on page 23 of 35”,Name: “Table 1 of 1 on page 23 of 35”,Name: “Table 1 of 1 on page 23 of 35”,Name: “Table 1 of 1 on page 23 of 35”,Name: “Table 1 of 1 on page 23 of 35”,Name: “Table 1 of 1 on page 23 of 35”
+Table: 22,Table: 22,Table: 22,Table: 22,Table: 22,Table: 22,Table: 22,Table: 22,Table: 22,Table: 22,Table: 22,Table: 22,Table: 22,Table: 22
+,,,,,,,,,,,,,
+"Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.",,,,,,,,
+,,,,,,,,Area,Area,,,,
+,,,Prop,,,,,,,,,Con-,
+Seq,,Facility,record,,Year,,,,,,Spec,struc,Facility
+no.,,number,number Facility name,number Facility name,built,,Total,Adeq,Inadeq,Substd,area,type,category
+35,0,CEP113,200997,Reg/pub/issue office,1966,1,"15,476","15,476",0,0,,P,100
+36,0,LP210,201039,Terminal building,2000,2,"63,600","63,600",0,0,,P,100
+37,0,CEP166,201144,Operational trainer building,1986,3,"45,317","45,317",0,0,,P,100
+38,0,CEP172,201159,Diesel/dyno trainer facility,1989,2,"3,343","3,343",0,0,,P,100
+39,0,CEP171,201160,Firefighting/training facility,1990,2,"20,460","20,460",0,0,,P,100
+40,0,W388,201608,Operations/sampling/test building,1984,1,"6,720","6,720",0,0,,P,100
+41,0,R43,220000,Fire station no. 2,1942,2,"6,654","6,654",0,0,,S,100
+42,0,V50,220058,Boathouse,1942,2,"3,423","3,423",0,0,,P,100
+43,0,V64,220064,Photography,1942,2,"26,638",0,0,"26,638",,P,100
+44,0,LP1,220071,Operations communication,1940,3,"20,195",0,"20,195",0,,P,100
+45,0,LP17,220081,Pumphouse gasoline,1941,4,"1,141","1,141",0,0,,P,100
+46,0,LP19,220082,Pol opn/sampling/test building,1941,1,269,269,0,0,,P,100
+47,0,LP44,220092,Valve-meter house,1943,1,"1,394","1,394",0,0,,P,100
+48,0,LP54,220093,Office-oil pumphouse,1944,1,"1,980","1,980",0,0,,P,100
+49,0,SP383,220100,Helicopter training,1989,2,"29,280","29,280",0,0,,P,100
+50,0,SP238,220148,Defense mapping,1953,1,"6,000","6,000",0,0,,P,100
+51,0,SP241,220149,Aircraft spares storage,1953,1,"14,820",0,"14,820",0,,S,100
+52,0,SP235,220151,Substation,1953,1,154,0,154,0,,P,100
+53,0,LP25,220153,Lox cart storage shed,1983,1,600,600,0,0,,S,100
+54,0,SP12A,220154,Lox cart storage shed,1983,1,768,768,0,0,,S,100
+55,0,LP84,220161,Terminal building,1956,1,"18,957",0,"18,957",0,,S,100
+56,0,SP254,220164,Applied instruction building,1957,2,"27,476","15,486","11,990",0,,P,100
+57,0,SP256,220166,Training,1958,2,"25,509","25,509",0,0,,P,100
+58,0,SP257,220167,Weapons training/office,1958,2,"11,480","11,480",0,0,,P,100
+59,0,LP82,220173,Courier service detachment,1957,1,"3,945","3,945",0,0,,P,100
+60,0,NM71,220174,Air operations transmitter,1957,1,"9,792","9,792",0,0,,P,100
+61,0,NM74,220177,Air operations receiver,1957,1,702,702,0,0,,P,100
+62,0,LP166,220276,Fire and crash station,1969,1,"12,960","11,770",0,"1,190",,P,100
+63,0,U117,220284,Fleet meteorology,1973,1,"27,632","27,632",0,0,,P,100
+64,0,U119,220286,Modulator building,1972,1,128,128,0,0,,P,100
+65,0,SP362,220302,Lamps weapons trainer,1974,1,"3,250","3,250",0,0,,P,100
+66,0,LAG110,220317,Helicopter control tower,1976,4,"2,011",0,0,"2,011",,P,100
+67,0,SP366,220325,E2c operational flight training,1977,2,"8,869","8,869",0,0,,P,100
+68,0,SP367,220337,Aviation technical training,1980,2,"26,530","26,530",0,0,,P,100
+69,0,NM154,220348,Reaction force facility,1978,1,"2,304",96,"2,208",0,,P,100
+70,0,NM176,220360,Ordinance operations,1980,1,"8,040","8,040",0,0,,P,100
+71,0,LP205,220363,Air freight terminal,1980,1,"61,750","61,750",0,0,,P,100
+72,0,SP77,220370,TACAN building,1982,1,506,506,0,0,,P,100
+73,0,SP381,220375,Training complex,1983,3,"68,647","68,647",0,0,,P,100
+74,0,LP117,220387,Air cargo terminal,1973,1,"34,749",0,"34,749",0,,P,100
+75,0,SP364,220425,H-2 lamps training facility,1988,1,"15,300","15,300",0,0,,P,100
+76,0,SP124,220432,Aviation physiology training,1990,1,"21,000","21,000",0,0,,P,100
+77,0,M51,250078,Communication center/800kv,1953,2,"93,291","93,291",0,0,,P,100
+78,0,M125,250543,Calibration laboratory,1974,1,"1,000",0,0,"1,000",,P,100
+79,0,2083,250627,Telephone exchange,1944,1,504,0,504,0,,P,100
+80,0,W150A,250658,Telephone cable house,1943,1,176,176,0,0,,P,100
+81,-,W61,200213,Pumphouse,1942,1,"2,036",0,0,"2,036",,P,100
+82,-,W69,200214,Pumphouse,1931,1,"1,972","1,972",0,0,,P,100
+,,,,,,,,,,,,,19

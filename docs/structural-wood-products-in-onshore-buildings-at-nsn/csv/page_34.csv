@@ -1,0 +1,58 @@
+Name: “Table 1 of 1 on page 34 of 35”,Name: “Table 1 of 1 on page 34 of 35”,Name: “Table 1 of 1 on page 34 of 35”,Name: “Table 1 of 1 on page 34 of 35”,Name: “Table 1 of 1 on page 34 of 35”,Name: “Table 1 of 1 on page 34 of 35”,Name: “Table 1 of 1 on page 34 of 35”,Name: “Table 1 of 1 on page 34 of 35”,Name: “Table 1 of 1 on page 34 of 35”,Name: “Table 1 of 1 on page 34 of 35”,Name: “Table 1 of 1 on page 34 of 35”,Name: “Table 1 of 1 on page 34 of 35”,Name: “Table 1 of 1 on page 34 of 35”,Name: “Table 1 of 1 on page 34 of 35”
+Table: 33,Table: 33,Table: 33,Table: 33,Table: 33,Table: 33,Table: 33,Table: 33,Table: 33,Table: 33,Table: 33,Table: 33,Table: 33,Table: 33
+,,,,,,,,,,,,,
+"Table C1—Buildings at NAVSTA Norfolk by facility category, 200—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 200—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 200—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 200—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 200—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 200—con.",,,,,,,,
+,,,,,,,,Area,,,,,
+,,,,,,,,,,,,,Fac-
+,,,Prop,,,,,,,,,Con-,ility
+Seq,,Facility,record,,Year,,,,,,Spec,struc,cate-
+no.,,number,number Facility name,number Facility name,built,,Total,Adeq,Inadeq,Substd,area,type,gory
+556,-,A,220311,Bus stop shelter (a),1951,1,156,156,0,0,,P,700
+557,-,B,220313,Bus stop shelter (b),1952,1,109,109,0,0,,P,700
+558,-,C,220314,Bus stop shelter (c),1956,1,758,758,0,0,,S,700
+559,-,D,220329,Bus shelter/gate 4 (d),1973,1,320,320,0,0,,P,700
+560,-,E,220330,Bus stop shelter (e),1960,1,84,84,0,0,,P,700
+561,-,F,220332,Bus stop shelter (f),1942,1,162,162,0,0,,T,700
+562,-,91,240051,Public toilet,1919,1,780,0,780,0,AG,S,700
+563,-,94,240052,Public toilet,1943,1,361,361,0,0,AG,P,700
+564,-,305,240151,Police station,1943,1,972,0,972,0,AG,S,700
+565,-,262,240168,Main gate sentry house,1943,1,72,0,0,72,AG,P,700
+566,-,224,240200,Magazine,1954,1,512,0,512,0,AG,T,700
+567,-,271,240202,Fire station,1953,1,"4,024","4,024",0,0,AG,P,700
+568,-,280,240210,Cradock gate sentry house,1952,1,126,0,126,0,AG,S,700
+569,-,357,240263,Fire station,1968,1,"2,214",0,"2,214",0,AG,S,700
+570,-,383,240320,Fire station,1977,1,160,0,160,0,AG,P,700
+571,-,SP310,280087,Public restroom,1999,1,731,731,0,0,,P,700
+572,-,NM114,280088,Public restroom,1999,1,809,809,0,0,,P,700
+573,+,DS32,201073,Sewage pump station,1981,1,198,198,0,0,YD,P,800
+574,+,DS29,201077,Backflow prevention/shelter,1981,1,24,24,0,0,,P,800
+575,+,DS30,201079,Water tank shelter,1981,1,504,504,0,0,YD,S,800
+576,0,LAG115,200586,Marina sewage pumphouse,1990,1,144,144,0,0,,P,800
+577,0,X368,200931,Generator house/62.5 kV,1955,1,294,294,0,0,,P,800
+578,0,DS28,201076,Magnetic flow meter/shelter,1981,1,28,28,0,0,,P,800
+579,0,LP23,220010,Metal shop,1986,3,"88,738",0,"88,738",0,,P,800
+580,0,NM72,220175,Standby generator plant,1957,1,384,384,0,0,,P,800
+581,0,NM75,220178,Standby generator plant,1957,1,176,176,0,0,,P,800
+582,0,NM79,220195,Gatehouse,1958,1,117,0,0,117,,P,800
+583,0,LP112,220203,Standby generator building,1960,1,759,759,0,0,,P,800
+584,0,LP209,220336,Standby generator building,1981,1,"1,171","1,171",0,0,,P,800
+585,0,NM155,220349,Entry control facility,1978,1,400,400,0,0,,P,800
+586,-,W147,200137,Generator house 387 kV,1996,1,484,484,0,0,,P,800
+587,-,NM81A,220450,Standby generator building,1997,1,200,200,0,0,,P,800
+588,-,157,220473,District pipeline facility,1955,1,87,87,0,0,ZG,P,800
+589,-,158,220474,District pipeline facility,1953,1,87,87,0,0,ZG,P,800
+590,-,P121,220481,Small generator building,1959,1,176,176,0,0,ZG,P,800
+591,-,161ZG,220485,Standby generator,1958,1,"1,302","1,302",0,0,ZG,P,800
+592,-,165,220496,Water pumping station,1958,1,"1,456","1,456",0,0,ZG,P,800
+593,-,172,220500,Gravel packed well,1956,1,150,150,0,0,ZG,P,800
+594,-,173ZG,220501,Gravel packed well,1958,1,150,150,0,0,ZG,P,800
+595,-,174,220502,Gravel packed well,1958,1,150,150,0,0,ZG,P,800
+596,-,175,220503,Gravel packed well,1958,1,150,150,0,0,ZG,P,800
+597,-,176ZG,220504,Gravel packed well,1958,1,150,150,0,0,ZG,P,800
+598,-,360,240297,Guard tower,1970,1,144,0,144,0,AG,P,800
+599,-,CEP213,280081,"Guard tower, east side",1972,1,64,64,0,0,,S,800
+600,-,CEP211,280082,"Guard tower, north side",1972,1,64,64,0,0,,S,800
+601,-,CEP212,280083,"Guard tower, northwest side",1972,1,64,64,0,0,,S,800
+602,-,Q11,280084,Pier #11 security building,1992,1,496,496,0,0,,P,800
+603,-,Q12,280085,Pier #12 security building,1992,1,496,496,0,0,,P,800
+30,,,,,,,,,,,,,

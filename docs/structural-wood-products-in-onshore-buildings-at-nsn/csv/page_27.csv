@@ -1,0 +1,58 @@
+Name: “Table 1 of 1 on page 27 of 35”,Name: “Table 1 of 1 on page 27 of 35”,Name: “Table 1 of 1 on page 27 of 35”,Name: “Table 1 of 1 on page 27 of 35”,Name: “Table 1 of 1 on page 27 of 35”,Name: “Table 1 of 1 on page 27 of 35”,Name: “Table 1 of 1 on page 27 of 35”,Name: “Table 1 of 1 on page 27 of 35”,Name: “Table 1 of 1 on page 27 of 35”,Name: “Table 1 of 1 on page 27 of 35”,Name: “Table 1 of 1 on page 27 of 35”,Name: “Table 1 of 1 on page 27 of 35”,Name: “Table 1 of 1 on page 27 of 35”,Name: “Table 1 of 1 on page 27 of 35”
+Table: 26,Table: 26,Table: 26,Table: 26,Table: 26,Table: 26,Table: 26,Table: 26,Table: 26,Table: 26,Table: 26,Table: 26,Table: 26,Table: 26
+,,,,,,,,,,,,,
+"Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.",,,,,,,,
+,,,,,,,,Area,,,,,
+,,,,,,,,,,,,,Fac-
+,,,Prop,,,,,,,,,Con-,ility
+Seq,,Facility,record,,Year,,,,,,Spec,struc,cate-
+no.,,number,number,Facility name,built,,Total,Adeq,Inadeq,Substd,area,type,gory
+223,-,43,240194,Ship services support,1912,1,"4,877","4,877",0,0,AG,S,200
+224,-,51,240195,Ships/spares storage (misc),1918,2,"10,120","10,120",0,0,AG,T,200
+225,-,201,240196,Shore intermediate maintenance facility,1942,1,"15,146","15,146",0,0,AG,P,200
+226,-,194,240203,Ships spares storage (misc),1942,1,"1,580",0,"1,580",0,AG,S,200
+227,-,130,240204,SIMA,1919,1,"5,746",0,"5,746",0,AG,S,200
+228,-,278,240208,Shore intermediate maintenance facility,1954,1,"5,820","5,820",0,0,AG,S,200
+229,-,279,240209,Shore intermediate maintenance facility,1954,1,"5,820","5,820",0,0,AG,S,200
+230,-,272,240211,Ships/spares storage (misc),1953,1,"1,920",0,"1,920",0,AG,S,200
+231,-,273,240212,Ships services support,1953,1,81,81,0,0,AG,P,200
+232,-,274,240213,Paint locker,1953,1,81,81,0,0,AG,P,200
+233,-,55,240226,Shore intermediate maintenance facility,1917,1,"12,500",0,"12,500",0,AG,T,200
+234,-,356,240262,Shore intermediate maintenance facility,1968,1,"1,080",0,"1,080",0,AG,S,200
+235,-,1458,240300,Ground house,1972,1,132,132,0,0,AG,P,200
+236,-,1456,240301,Ground building,1972,1,38,38,0,0,AG,P,200
+237,-,500,240325,Waterfront service support,1988,1,970,970,0,0,AG,P,200
+238,-,501,240326,Waterfront service support,1989,1,970,970,0,0,AG,P,200
+239,-,502,240327,Waterfront service support,1989,1,970,970,0,0,AG,P,200
+240,-,503,240328,Waterfront service support,1989,1,970,970,0,0,AG,P,200
+241,-,504,240329,Ocean construction,1989,1,970,970,0,0,AG,P,200
+242,-,247,240334,Waterfront service support,1989,1,"4,492","4,492",0,0,AG,P,200
+243,-,248,240335,Shore intermediate maintenance facility,1989,1,"4,858",0,"4,858",0,AG,P,200
+244,-,RDYSTR1 280002,RDYSTR1 280002,Maintenance ships ready storage,1987,0,"101,966","101,966",0,0,DH,P,200
+245,-,39,280014,Warehouse,1913,1,"7,300",0,"7,300",0,AG,S,200
+246,-,CEP198,280086,Controlled industrial facility,1998,2,"42,717","42,717",0,0,,P,200
+247,-,254,280148,Electronics spares/misc storage,1945,1,156,0,156,0,AG,P,200
+248,0,CEP177,200981,NISO forensic lab/visitor center,1970,1,"8,235","2,766","2,140","3,329",,P,300
+249,0,V53,220061,"Storehouse, offices",1942,3,"175,101","88,391",667,"86,043",,P,300
+250,0,U132,220390,Administrative office,1958,1,"109,031","109,031",0,0,,P,300
+251,0,CEP210,280073,Fleet digital communications test facility,1986,1,"2,346","2,346",0,0,,P,300
+252,+,X70,200143,Storage /administration,1942,1,"43,600","6,200","37,400",0,,P,400
+253,+,X16,200191,Warehouse,1940,1,"58,245","58,245",0,0,,T,400
+254,+,NM52,220054,Inert storehouse,1944,1,151,0,151,0,,P,400
+255,+,LP26,220083,Engine component storage,1943,1,"120,600","120,600",0,0,,P,400
+256,+,SP89,220132,General warehouse,1943,1,"120,000","0 120,000","0 120,000",0,,S,400
+257,+,LP73,220147,Converter house,1950,1,144,0,144,0,,P,400
+258,0,SP86A,200038,General storage shed,1990,1,"16,800","16,800",0,0,,P,400
+259,0,SP86B,200039,General purpose warehouse,1990,1,"21,000","21,000",0,0,,P,400
+260,0,SP86C,200040,General purpose warehouse,1990,1,"21,000","21,000",0,0,,P,400
+261,0,SP86D,200041,General purpose warehouse,1990,1,"21,000","21,000",0,0,,P,400
+262,0,SP86E,200042,General purpose warehouse,1990,1,"21,000","21,000",0,0,,P,400
+263,0,SP86F,200043,General purpose warehouse.,1990,1,"21,000","21,000",0,0,,P,400
+264,0,Z101,200059,Warehouse,1919,6,"352,922",0,0,"352,922",,P,400
+265,0,X218,200061,Flammables warehouse,1983,1,"81,154","81,154",0,0,,P,400
+266,0,W127,200132,Warehouse,1941,1,"223,489","223,489",0,0,,S,400
+267,0,W135,200133,Transit shed,1942,1,"278,124","278,124",0,0,,P,400
+268,0,W143,200136,Warehouse,1943,6,"1,828,868","1,774,483","22,750","31,635",,P,400
+269,0,CD8,200163,Biohazardous waste,1996,1,320,320,0,0,,P,400
+270,0,X132,200192,Warehouse,1940,5,"367,452","352,452",0,"15,000",,P,400
+,,,,,,,,,,,,,23

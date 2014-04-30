@@ -1,0 +1,57 @@
+Name: “Table 1 of 1 on page 29 of 35”,Name: “Table 1 of 1 on page 29 of 35”,Name: “Table 1 of 1 on page 29 of 35”,Name: “Table 1 of 1 on page 29 of 35”,Name: “Table 1 of 1 on page 29 of 35”,Name: “Table 1 of 1 on page 29 of 35”,Name: “Table 1 of 1 on page 29 of 35”,Name: “Table 1 of 1 on page 29 of 35”,Name: “Table 1 of 1 on page 29 of 35”,Name: “Table 1 of 1 on page 29 of 35”,Name: “Table 1 of 1 on page 29 of 35”,Name: “Table 1 of 1 on page 29 of 35”,Name: “Table 1 of 1 on page 29 of 35”,Name: “Table 1 of 1 on page 29 of 35”
+Table: 28,Table: 28,Table: 28,Table: 28,Table: 28,Table: 28,Table: 28,Table: 28,Table: 28,Table: 28,Table: 28,Table: 28,Table: 28,Table: 28
+,,,,,,,,,,,,,
+"Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.",,,,,,,,
+,,,,,,,,Area,,,,,
+,,,,,,,,,,,,,Fac-
+,,,Prop,,,,,,,,,Con-,ility
+Seq,,Facility,record,,Year,,,,,,Spec,struc,cate-
+no.,,number,number Facility name,number Facility name,built,,Total,Adeq,Inadeq,Substd,area,type,gory
+318,-,153,240069,Hazardous flammables storage,1934,1,800,800,0,0,AG,P,400
+319,-,154,240070,Hazardous flammables storage,1934,1,800,800,0,0,AG,P,400
+320,-,155AG,240071,Hazardous flammables storage,1934,1,800,800,0,0,AG,P,400
+321,-,160AG,240072,General warehouse Navy,1942,1,"1,250","1,250",0,0,AG,P,400
+322,-,161AG,240073,Integrate log OH & outfit,1942,1,"1,250","1,250",0,0,AG,P,400
+323,-,162,240074,Integrate log OH & outfit,1942,1,"1,250","1,250",0,0,AG,P,400
+324,-,163AG,240075,Hazardous flammables storage,1942,1,"1,250","1,250",0,0,AG,P,400
+325,-,173AG,240085,DLA-DRMO precious metals,1942,1,"5,151","5,151",0,0,AG,P,400
+326,-,177,240089,Naval undersea warfare warehouse,1942,1,"5,151","5,151",0,0,AG,P,400
+327,-,188,240099,Integrate log OH & outfit,1942,1,"11,461",0,0,"11,461",AG,P,400
+328,-,198,240105,Hazardous materials storage(PCB),1942,1,"5,151",0,"5,151",0,AG,P,400
+329,-,207,240111,Integrate log OH & outfit,1942,1,165,165,0,0,AG,P,400
+330,-,208,240112,Integrate log OH & outfit,1942,1,165,165,0,0,AG,P,400
+331,-,215,240118,Integrate log oh & outfit,1943,1,"1,600",0,"1,600",0,AG,S,400
+332,-,234,240131,Integrate log OH & outfit,1943,1,"1,161",0,"1,161",0,AG,P,400
+333,-,241,240137,Miscellaneous storage,1944,1,144,0,144,0,AG,P,400
+334,-,242,240138,Storage,1944,1,144,0,144,0,AG,P,400
+335,-,243,240139,Storage,1944,1,144,0,144,0,AG,P,400
+336,-,251,240145,Bunker,1945,1,"1,134","1,134",0,0,AG,P,400
+337,-,258,240167,General warehouse,1947,1,432,432,0,0,AG,S,400
+338,-,269,240180,Disposal/salvage/scrap building,1953,1,468,0,468,0,AG,S,400
+339,-,159,240183,General warehouse Navy,1942,1,"1,250","1,250",0,0,AG,P,400
+340,-,190,240201,Integrate log OH & outfit,1942,1,"21,714",0,"21,714",0,AG,P,400
+341,-,275,240214,Integrate log OH & outfit,1953,1,81,0,81,0,AG,P,400
+342,-,276,240215,Integrate log OH & outfit,1953,1,81,0,81,0,AG,P,400
+343,-,M1,240292,Integrate log OH & outfit,1918,1,"51,750",0,"51,750",0,AG,S,400
+344,-,M2,240293,Old warehouse,1918,1,"16,000",0,"16,000",0,AG,S,400
+345,-,M3,240294,Integrate log OH & outfit,1918,1,"6,200",0,"6,200",0,AG,S,400
+346,-,M4,240295,Warehouse,1918,1,"13,420",0,"13,420",0,AG,S,400
+347,-,M5,240296,Warehouse,1918,1,"37,200",0,"37,200",0,AG,S,400
+348,-,401,240321,Disposal/salvage/scrap building,1988,1,"1,572","1,572",0,0,AG,P,400
+349,-,400,240331,Disposal/salvage/scrap building,1989,1,"2,000","2,000",0,0,AG,P,400
+350,-,CEP174,280339,Maintenance shed,1980,1,300,0,0,300,,S,400
+351,0,CD2,201048,Medical clinic,1978,1,"65,800","65,800",0,0,,P,500
+352,0,CD3,201070,Dental clinic,1981,2,"67,400","67,400",0,0,,P,500
+353,0,CD4,201071,Dental support center,1981,1,"12,200","12,200",0,0,,P,500
+354,0,U121,220389,Veterinary clinic,1948,1,"2,992","2,992",0,0,,S,500
+355,+,W153,200129,Administration building,1943,1,"1,477",0,"1,477",0,,P,600
+356,+,KBB,200285,Administration building,1940,2,"90,364","68,414",0,"21,950",,P,600
+357,+,KN,200534,Unaccompied enlisted female housing,1939,2,"23,983","23,983",0,0,,P,600
+358,+,IA,200547,Administration building,1932,2,"21,200",0,"21,200",0,,P,600
+359,+,IE,200548,Administration building,1932,2,"21,185",0,"21,185",0,,P,600
+360,+,W5,200585,Administration building,1920,3,"25,591","20,852",0,"4,739",,P,600
+361,+,A67,200693,Red Cross/02P-SFD,1944,2,"17,627",0,0,"17,627",,S,600
+362,+,X71,200962,Submarine monitoring,1942,2,"4,250",0,"4,250",0,,P,600
+363,+,N26,200964,Headquarters/cafe/post office,1941,3,"170,660","21,780","83,409","65,471",,P,600
+364,+,T26,220018,Administration building,1932,3,"73,274","2,099",0,"71,175",,P,600
+,,,,,,,,,,,,,25

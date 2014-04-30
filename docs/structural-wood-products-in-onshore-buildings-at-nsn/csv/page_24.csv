@@ -1,0 +1,56 @@
+Name: “Table 1 of 1 on page 24 of 35”,Name: “Table 1 of 1 on page 24 of 35”,Name: “Table 1 of 1 on page 24 of 35”,Name: “Table 1 of 1 on page 24 of 35”,Name: “Table 1 of 1 on page 24 of 35”,Name: “Table 1 of 1 on page 24 of 35”,Name: “Table 1 of 1 on page 24 of 35”,Name: “Table 1 of 1 on page 24 of 35”,Name: “Table 1 of 1 on page 24 of 35”,Name: “Table 1 of 1 on page 24 of 35”,Name: “Table 1 of 1 on page 24 of 35”,Name: “Table 1 of 1 on page 24 of 35”,Name: “Table 1 of 1 on page 24 of 35”
+Table: 23,Table: 23,Table: 23,Table: 23,Table: 23,Table: 23,Table: 23,Table: 23,Table: 23,Table: 23,Table: 23,Table: 23,Table: 23
+,,,,,,,,,,,,
+"Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.","Table C1—Buildings at NAVSTA Norfolk by facility category, 2000—con.",,,,,,,,
+,,,,,,,Area,Area,,,,
+,,,Prop,,,,,,,,Con-,
+Seq,,Facility,record,Year,,,,,,Spec,struc,Facility
+no.,,number,number Facility name,built,,Total,Adeq,Inadeq,Substd,area,type,category
+83,-,LP66,220007 Dispatchers office,1984,1,192,192,0,0,,T,100
+84,-,LP116,220423 NAVMTO transit storage,1988,1,"2,400",0,"2,400",0,,P,100
+85,-,SP234A,220439 Lox storage facility,1991,1,288,288,0,0,,P,100
+86,-,P116,220478 Remote receiver building,1959,1,702,702,0,0,ZG,P,100
+87,-,160,220484 Control tower,1958,1,441,441,0,0,ZG,P,100
+88,-,6AG,240000 Ship services support,1899,1,"5,000","5,000",0,0,AG,P,100
+89,-,209,240113 Applied instruction,1942,1,165,165,0,0,AG,P,100
+90,-,202,240120 Ship services support,1942,1,"3,931",0,"3,931",0,AG,P,100
+91,-,240,240136 Applied instruction,1944,2,"2,467",0,"2,467",0,AG,P,100
+92,-,307,240150 Waverly Sykes environment,1943,1,"7,381","7,381",0,0,AG,S,100
+93,-,318,240152 Transmitter building,1943,1,"2,169",0,"2,169",0,AG,P,100
+94,-,358,240264 Transmitter building,1969,1,220,0,220,0,AG,P,100
+95,-,295,240330 Telephone exchange building,1989,1,100,100,0,0,AG,P,100
+96,-,510,242106 Applied instruction,1989,1,"1,920","1,920",0,0,AG,P,100
+97,+,KCC,200286 Officer’s shop,1942,1,"4,904","4,904",0,0,,P,200
+98,+,W130,200936 Warehouse/admin/training,1941,2,"65,178","61,178",0,"4,000",,S,200
+99,+,CEP200,201096 Shore intermediate maintenance,1983,2,"205,633","205,633",0,0,,P,200
+100,+,V10,220055 Small craft boathouse,1919,1,500,0,500,0,,S,200
+101,+,LP2,220072 Hangar/maintenance,1941,2,"64,992",0,"64,992",0,,P,200
+102,+,LP3,220073 Hangar/maintenance,1941,2,"66,846",0,0,"66,846",,P,200
+103,+,LP4,220074 Hangar/maintenance,1941,2,"65,921",0,"65,921",0,,P,200
+104,+,LP10,220077 Flammables storehouse,1942,1,492,0,492,0,,P,200
+105,+,LP12,220078 Hangar/maintenance,1941,2,"69,730",0,"69,730",0,,P,200
+106,+,LP13,220079 Hangar/maintenance,1941,2,"66,846",0,"66,846",0,,P,200
+107,+,LP14,220080 Airframes shop,1942,2,"64,200",0,"64,200",0,,P,200
+108,+,LP32,220086 Flammable storehouse,1942,1,392,0,392,0,,P,200
+109,+,SP1,220098 Hangar/maintenance,1941,2,"108,840","0 108,840","0 108,840",0,,P,200
+110,+,SP2,220099 Helo hangar/maintenance,1941,2,"107,426",0,"0 107,426","0 107,426",,P,200
+111,+,SP10,220106 Recip engine repair shop,1941,1,"10,442",0,"10,442",0,,P,200
+112,+,SP31,220110 Hangar/maintenance,1942,2,"104,579","0 104,579","0 104,579",0,,P,200
+113,+,SP67,220125 Driver education,1942,1,"1,280",0,"1,280",0,,S,200
+114,+,U106,220235 Exchange sign shop,1965,1,964,0,964,0,,P,200
+115,+,SP313,220269 Engineering maintenance,1969,1,"10,800",0,"10,800",0,,P,200
+116,+,V47,220392 Construction equipment,1941,1,"34,922",0,"34,922",0,,P,200
+117,+,47,241019 Overhaul shop,1916,1,"22,680",0,"22,680",0,AG,T,200
+118,0,CEP209,200091 SIMA expansion building,1998,2,"44,765","44,765",0,0,,P,200
+119,0,CEP57,200111 POV processing facility,1988,1,"4,916","4,916",0,0,,P,200
+120,0,CEP160,200960 Fleet landing bldg,1966,2,"15,873","15,873",0,0,,P,200
+121,0,Z216,201021 Warehouse,1945,1,"3,280",0,"3,280",0,,P,200
+122,0,LF59,220006 Helicopter maintenance hangar,1988,2,"69,356","69,356",0,0,,P,200
+123,0,LP6,220075 Flammables storehouse,1942,1,225,0,225,0,,P,200
+124,0,LP8,220076 Flammable storehouse,1942,1,220,0,220,0,,P,200
+125,0,LP28,220084 Flammables storehouse,1942,1,126,0,126,0,,P,200
+126,0,LP30,220085 Ammunition ready locker,1942,1,126,0,126,0,,P,200
+127,0,LP61,220095 Equipment storage,1944,1,973,0,0,973,,T,200
+128,0,LP65,220096 Refueling vehicle shop,1945,1,"1,169",0,"1,169",0,,P,200
+129,0,SP5,220101 Flammables storehouse,1942,1,222,0,222,0,,P,200
+20,,,,,,,,,,,,
