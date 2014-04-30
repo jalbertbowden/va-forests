@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 20 of 84”,Name: “Table 1 of 1 on page 20 of 84”,Name: “Table 1 of 1 on page 20 of 84”,Name: “Table 1 of 1 on page 20 of 84”
+Table: 19,Table: 19,Table: 19,Table: 19
+,,,
+Analysis Methods,,,
+"Table 3: Data sets used in the watershed analysis, by attribute (Appendix B).","Table 3: Data sets used in the watershed analysis, by attribute (Appendix B).","Table 3: Data sets used in the watershed analysis, by attribute (Appendix B).",
+Attribute,Datasets,Datasets,Source
+Forest land,1992 National Landcover Dataset,1992 National Landcover Dataset,U.S. Geological Survey 1999
+Agricultural land by watershed,1992 National Landcover Dataset,1992 National Landcover Dataset,U.S. Geological Survey 1999
+Riparian forest cover by watershed,"1:100,000-scale National Hydrography","1:100,000-scale National Hydrography",Hatfield 2005
+,"Dataset, buffered to 30 meters","Dataset, buffered to 30 meters",
+Road density,2002 Bureau of Transportation Statistics (BTS),2002 Bureau of Transportation Statistics (BTS),U.S. Department of Transportation 2002
+,Roads,,
+Soil erodibility,"STATSGO Soil Dataset, kffact","STATSGO Soil Dataset, kffact",Miller and White 1998
+Housing density by watershed,Housing density in 2000,,Theobald 2004
+Surface drinking water consumers,Public Drinking Water System (PWS),Public Drinking Water System (PWS),U.S. Environmental Protection Agency
+per unit area,Consumers by eight-digit HUC; City,Consumers by eight-digit HUC; City,2005
+,Drinking water consumers for New York,Drinking water consumers for New York,
+,"City, Philadelphia, St. Louis, St. Paul, and","City, Philadelphia, St. Louis, St. Paul, and",
+,Washington DC,,
+Private forest by watershed,"Protected Areas Database, Version 4;","Protected Areas Database, Version 4;",Conservation Biology Institute 2006;
+,Wisconsin Stewardship Data,Wisconsin Stewardship Data,"U.S. Geological Survey, Upper Midwest"
+,,,Environmental Sciences Center 2005
+,Housing density in 2000 and 2030,Housing density in 2000 and 2030,Theobald 2004
+Development pressure per unit area,,,
+Step 1: Calculate Ability to Produce,Step 1: Calculate Ability to Produce,watershed. Each of the six attributes was rated from 1,watershed. Each of the six attributes was rated from 1
+Clean Water (APCW),,to 4 (low to very high) based on scientifically accepted,to 4 (low to very high) based on scientifically accepted
+,,standards (Table 4). Where standards or parameters were,standards (Table 4). Where standards or parameters were
+APCW Index by 30-meter pixels,,"not available, the data was divided into quartiles for the","not available, the data was divided into quartiles for the"
+The APCW Index characterized a variety of biophysical,The APCW Index characterized a variety of biophysical,purpose of analysis.,purpose of analysis.
+conditions in each watershed known to influence water,conditions in each watershed known to influence water,The six attributes were summed to determine the APCW,The six attributes were summed to determine the APCW
+quality. This index of water quality and watershed,quality. This index of water quality and watershed,Index for each 30-meter grid cell:,Index for each 30-meter grid cell:
+"integrity uses six attributes: forest land, agricultural land,","integrity uses six attributes: forest land, agricultural land,",,
+"riparian forest cover, road density, soil erodibility, and","riparian forest cover, road density, soil erodibility, and",F + A + R + D + S + H = APCW,F + A + R + D + S + H = APCW
+housing density. Many other activities such as industrial,housing density. Many other activities such as industrial,"where,",
+"pollution and mining, and natural variables such as","pollution and mining, and natural variables such as",,
+"climate change, floods, and fires, can also impact water","climate change, floods, and fires, can also impact water",F = Forest land (percent),F = Forest land (percent)
+quality. The evaluation of source water threats beyond,quality. The evaluation of source water threats beyond,A = Agricultural land (percent),A = Agricultural land (percent)
+traditional land use were not within the scope of this,traditional land use were not within the scope of this,R = Riparian forest cover (percent),R = Riparian forest cover (percent)
+study but would be of value in more detailed source,study but would be of value in more detailed source,,
+water analyses.,,D = Road density (quartiles),D = Road density (quartiles)
+"The forest land, agricultural land, and riparian forest","The forest land, agricultural land, and riparian forest",S = Soil erodibility (k factor),S = Soil erodibility (k factor)
+buffer data were summarized by watershed and,buffer data were summarized by watershed and,"H = Housing density (acres per housing unit, in 2000), and","H = Housing density (acres per housing unit, in 2000), and"
+"converted to a 30-meter spatial grid. The soil erodibility,","converted to a 30-meter spatial grid. The soil erodibility,",APCW = Ability to Produce Clean Water,APCW = Ability to Produce Clean Water
+"road density, and housing density data were kept in their","road density, and housing density data were kept in their",,
+original 30-meter grid format and not summarized by,original 30-meter grid format and not summarized by,The resulting index has a total potential value of 6 to 24.,The resulting index has a total potential value of 6 to 24.
+"10 | Forests, Water, and People",,,

@@ -1,0 +1,25 @@
+Name: “Table 1 of 1 on page 59 of 84”,Name: “Table 1 of 1 on page 59 of 84”,Name: “Table 1 of 1 on page 59 of 84”,Name: “Table 1 of 1 on page 59 of 84”,Name: “Table 1 of 1 on page 59 of 84”,Name: “Table 1 of 1 on page 59 of 84”
+Table: 58,Table: 58,Table: 58,Table: 58,Table: 58,Table: 58
+,,,,,
+,,,,,Appendix B
+Agricultural land,5. The percent of the watershed that is agricultural land,5. The percent of the watershed that is agricultural land,5. The percent of the watershed that is agricultural land,5. The percent of the watershed that is agricultural land,5. The percent of the watershed that is agricultural land
+Data Source: Same as for percent forested land.,was calculated by dividing the acreage of agricultural,was calculated by dividing the acreage of agricultural,was calculated by dividing the acreage of agricultural,was calculated by dividing the acreage of agricultural,was calculated by dividing the acreage of agricultural
+,land by the total watershed land acreage. The results,land by the total watershed land acreage. The results,land by the total watershed land acreage. The results,land by the total watershed land acreage. The results,land by the total watershed land acreage. The results
+Description: Same as for percent forested land.,were saved in the attribute field Per_AG.,were saved in the attribute field Per_AG.,were saved in the attribute field Per_AG.,were saved in the attribute field Per_AG.,
+GIS Process:,6. The percent agricultural land was reclassified into the,6. The percent agricultural land was reclassified into the,6. The percent agricultural land was reclassified into the,6. The percent agricultural land was reclassified into the,6. The percent agricultural land was reclassified into the
+"1. The raw, downloaded NLCD GeoTiffs were converted to",four categories summarized in Table 1. The results were,four categories summarized in Table 1. The results were,four categories summarized in Table 1. The results were,four categories summarized in Table 1. The results were,four categories summarized in Table 1. The results were
+GRID using ArcInfo workstation.,saved in the attribute field Per_A,saved in the attribute field Per_A,saved in the attribute field Per_A,,
+"2. Once each state file was a GRID, all the GRIDs were",Excerpt 2 from Table B-1,Excerpt 2 from Table B-1,,,
+"merged to create a single GRID, nlcd92_huc.",,Scoring for 30-meter grid cell,Scoring for 30-meter grid cell,Scoring for 30-meter grid cell,Scoring for 30-meter grid cell
+3. Agricultural Land was summarized using grid values,Attribute,Low,Moderate,High,Very High
+61 Orchard/Vineyard; 71 Grasslands/Herbaceous;,,(1 point),(2 points),(3 points),(4 points)
+81 Pasture/Hay; 82 Row Crops; 83 Small Grains; 84,Percent,,,,
+Fallow; 85 Urban/Recreational Grasses. The GRID was,agricultural,>30,21 – 30,10 – 20,"
+    "
+reclassified so all agricultural land grid codes equaled,land (A),,,,
+"“1” and all other grid codes equaled “0,” nlcd_ag.",,,,,
+"4. Using the “Tabulate Areas” function, the acreage of",7. The HUC_NA shapefile was converted to a raster data,7. The HUC_NA shapefile was converted to a raster data,7. The HUC_NA shapefile was converted to a raster data,7. The HUC_NA shapefile was converted to a raster data,7. The HUC_NA shapefile was converted to a raster data
+agricultural land in each watershed was computed.,"set with a pixel size of 30 m, and the value field was set","set with a pixel size of 30 m, and the value field was set","set with a pixel size of 30 m, and the value field was set","set with a pixel size of 30 m, and the value field was set","set with a pixel size of 30 m, and the value field was set"
+The resulting table was then joined to the HUC_NA,to the attribute Per_AG_R.,to the attribute Per_AG_R.,to the attribute Per_AG_R.,,
+shapefile.,Result: See following map.,Result: See following map.,,,
+,,,"Forests, Water, and People | 49","Forests, Water, and People | 49","Forests, Water, and People | 49"

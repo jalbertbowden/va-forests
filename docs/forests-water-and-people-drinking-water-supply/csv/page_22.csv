@@ -1,0 +1,48 @@
+Name: “Table 1 of 1 on page 22 of 84”,Name: “Table 1 of 1 on page 22 of 84”,Name: “Table 1 of 1 on page 22 of 84”,Name: “Table 1 of 1 on page 22 of 84”,Name: “Table 1 of 1 on page 22 of 84”
+Table: 21,Table: 21,Table: 21,Table: 21,Table: 21
+,,,,
+Analysis Methods,,,,
+"Table 4: Biophysical characterization for 30-meter pixels, by attribute and ability to produce clean water (APCW).","Table 4: Biophysical characterization for 30-meter pixels, by attribute and ability to produce clean water (APCW).","Table 4: Biophysical characterization for 30-meter pixels, by attribute and ability to produce clean water (APCW).","Table 4: Biophysical characterization for 30-meter pixels, by attribute and ability to produce clean water (APCW).","Table 4: Biophysical characterization for 30-meter pixels, by attribute and ability to produce clean water (APCW)."
+Higher scores indicate greater ability to produce clean water.,Higher scores indicate greater ability to produce clean water.,Higher scores indicate greater ability to produce clean water.,,
+Attribute,,,Scoring for 30-meter grid cell,
+,Low,Moderate,High,Very high
+,(1 point),(2 points),(3 points),(4 points)
+Percent forest land (F),0 – 24,25 – 49,50 – 75,>75
+Percent agricultural land (A),>30,21 – 30,10 – 20,"
+    "
+Percent riparian forest cover (R),0 – 29,30 – 50,51 – 70,>70
+Road density (D; quartiles),75 – 100th,50 – 74th,25 – 49th,0 – 24th
+,percentile,percentile,percentile,percentile
+Soil erodibility (S; k factor),>0.34,0.28 – 0.34,0.2 – 0.28,0 – 0.2
+Housing density (H; acres per,"
+    ",0.6 – 5.0 acres/,5.0 – 20.0 acres/unit (east),> 20.0 acres/unit (east)
+housing unit in 2000),unit,unit,5.0 – 40.0 acres/unit (west),> 40.0 acres/unit (west)
+Total APCW,,,Potential value 6 – 24,
+Note: Letters in parentheses correspond to the equation in the text. For more detailed information on any of the above data,Note: Letters in parentheses correspond to the equation in the text. For more detailed information on any of the above data,Note: Letters in parentheses correspond to the equation in the text. For more detailed information on any of the above data,Note: Letters in parentheses correspond to the equation in the text. For more detailed information on any of the above data,Note: Letters in parentheses correspond to the equation in the text. For more detailed information on any of the above data
+"layers, please refer to the technical information in appendix B.","layers, please refer to the technical information in appendix B.","layers, please refer to the technical information in appendix B.",,
+Mean APCW for Watersheds,,,"Connecticut (reservoirs managed by Aquarion Water),","Connecticut (reservoirs managed by Aquarion Water),"
+The APCW values were averaged to create a mean APCW,The APCW values were averaged to create a mean APCW,The APCW values were averaged to create a mean APCW,"metropolitan Boston, MA (Quabbin and Wachusett","metropolitan Boston, MA (Quabbin and Wachusett"
+"for a watershed. This mean was divided into 10 quantiles,","for a watershed. This mean was divided into 10 quantiles,","for a watershed. This mean was divided into 10 quantiles,","Reservoirs), and Springfield, MO—water consumers were","Reservoirs), and Springfield, MO—water consumers were"
+with the 1st quantile receiving a score of 10 (very high) and,with the 1st quantile receiving a score of 10 (very high) and,with the 1st quantile receiving a score of 10 (very high) and,allocated to reservoirs in relation to their storage volume,allocated to reservoirs in relation to their storage volume
+the 10 th quantile receiving a score of 1 (low) (Table 5).,the 10 th quantile receiving a score of 1 (low) (Table 5).,the 10 th quantile receiving a score of 1 (low) (Table 5).,and contribution to the total system capacity. The result,and contribution to the total system capacity. The result
+,,,for all watersheds and water supply systems was divided,for all watersheds and water supply systems was divided
+,,,into 10 quantiles and combined with the APCW quantiles,into 10 quantiles and combined with the APCW quantiles
+Step 2: Add Data on Drinking Water,Step 2: Add Data on Drinking Water,Step 2: Add Data on Drinking Water,"to yield a potential composite score of 2 to 20 (Figure 3,","to yield a potential composite score of 2 to 20 (Figure 3,"
+"Step 2 combined the results of Step 1, the watershed’s","Step 2 combined the results of Step 1, the watershed’s","Step 2 combined the results of Step 1, the watershed’s",Step 3: Add Data on Private Forest,Step 3: Add Data on Private Forest
+"mean Ability to Produce Clean Water, with water use data","mean Ability to Produce Clean Water, with water use data","mean Ability to Produce Clean Water, with water use data",Land,
+from the U.S. Environmental Protection Agency’s (EPA),from the U.S. Environmental Protection Agency’s (EPA),from the U.S. Environmental Protection Agency’s (EPA),Step 3 combines the results of Step 2 with the percent,Step 3 combines the results of Step 2 with the percent
+Surface Drinking Water Information System (SDWIS).,Surface Drinking Water Information System (SDWIS).,Surface Drinking Water Information System (SDWIS).,of private forests in the watershed to highlight those,of private forests in the watershed to highlight those
+Selecting only surface water consumers (reservoirs and,Selecting only surface water consumers (reservoirs and,Selecting only surface water consumers (reservoirs and,private forest areas important for surface water drinking,private forest areas important for surface water drinking
+"streams), the total number of drinking water consumers","streams), the total number of drinking water consumers","streams), the total number of drinking water consumers",supply. The private forest database was derived using a,supply. The private forest database was derived using a
+was summed for each eight-digit watershed and divided,was summed for each eight-digit watershed and divided,was summed for each eight-digit watershed and divided,subset of the Conservation Biology Institute’s Protected,subset of the Conservation Biology Institute’s Protected
+by the watershed area. For cities that use large river,by the watershed area. For cities that use large river,by the watershed area. For cities that use large river,Areas database and an updated Wisconsin dataset (U.S.,Areas database and an updated Wisconsin dataset (U.S.
+"or lake intakes, such as Philadelphia, St. Louis, St. Paul,","or lake intakes, such as Philadelphia, St. Louis, St. Paul,","or lake intakes, such as Philadelphia, St. Louis, St. Paul,",Geological Survey 2005). Only permanently protected,Geological Survey 2005). Only permanently protected
+"Chicago, and Washington, DC, the number of drinking","Chicago, and Washington, DC, the number of drinking","Chicago, and Washington, DC, the number of drinking","lands (Federal, State, county, local, or permanent","lands (Federal, State, county, local, or permanent"
+water consumers was allocated among all upstream,water consumers was allocated among all upstream,water consumers was allocated among all upstream,conservation easements) were considered “protected;”,conservation easements) were considered “protected;”
+watersheds in relation to the drainage area that,watersheds in relation to the drainage area that,watersheds in relation to the drainage area that,"all other lands were considered unprotected, having","all other lands were considered unprotected, having"
+contributes water to the point of intake or diversion. For,contributes water to the point of intake or diversion. For,contributes water to the point of intake or diversion. For,the potential to be developed. The percent private,the potential to be developed. The percent private
+cities with municipal systems with multiple reservoirs in,cities with municipal systems with multiple reservoirs in,cities with municipal systems with multiple reservoirs in,"forest by watershed was divided into 10 quantiles, and","forest by watershed was divided into 10 quantiles, and"
+different eight-digit watersheds—including the New York,different eight-digit watersheds—including the New York,different eight-digit watersheds—including the New York,then combined with the results of Step 2 to yield a total,then combined with the results of Step 2 to yield a total
+"City Watershed (Croton and Catskill/Delaware systems),","City Watershed (Croton and Catskill/Delaware systems),","City Watershed (Croton and Catskill/Delaware systems),","potential of 3 to 30 (Figure 3, Table 5).","potential of 3 to 30 (Figure 3, Table 5)."
+Bridgeport and surrounding communities in southwestern,Bridgeport and surrounding communities in southwestern,Bridgeport and surrounding communities in southwestern,,
+"12 | Forests, Water, and People",,,,

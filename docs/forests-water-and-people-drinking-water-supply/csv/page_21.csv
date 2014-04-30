@@ -1,0 +1,43 @@
+Name: “Table 1 of 1 on page 21 of 84”,Name: “Table 1 of 1 on page 21 of 84”
+Table: 20,Table: 20
+,
+,Analysis Methods
+The APCW attributes are surrogates for important,"Agricultural land by watershed: Agricultural land use,"
+watershed characteristics that influence water yield,"especially row crops, typically generates more substantial"
+and water quality. The goal of this project was not to,changes in water yield and quality in relation to watershed
+"make deterministic predictions of changes in nutrient,","area (de la Cretaz and Barten 2007, Chapters 7 and 9)."
+"sediment, or other nonpoint source pollutant loading",The proportional areas reflect these thresholds and were
+"or flow regime, but rather to rank the 540 watersheds",successfully tested during a decade of earlier work in the
+in the study area on a common scale. This ranking,Chesapeake Bay watershed.
+required the normalization of several attributes to enable,Riparian forest cover by watershed: The area and continuity
+"objective comparison on a unit area basis (i.e., very large",of riparian forest cover directly influences water quality in
+watersheds were not “advantaged” and comparatively,ways that parallel the effects of forest cover at the
+small watersheds were not “disadvantaged”). This,"watershed scale (de la Cretaz and Barten 2007, Chapter 5)."
+normalization produced a sufficient range of numerical,
+variation in scores and more clearly identified critical,Road density: Road density is the surrogate layer for
+watersheds. Characteristics of critical watersheds are a,“development” and the addition of impervious surfaces
+"very high APCW, a large number of water consumers (per",and pollution sources to watersheds. Since there is
+"unit area), a large proportion of private forest land (that",neither detailed spatial data nor a consistent relationship
+is potentially available for development and conversion,"between development, streamflow, and water quality,"
+"to other land uses), and a high rate of forest conversion",a straightforward quartile division was used to score
+projected for 2030 (Stein and others 2005).,watersheds.
+"The scoring (i.e., low, moderate, high, very high) of the",Soil erodibility: The soil erodibility layer uses commonly
+APCW layer was derived from a comprehensive review,accepted categories within the USDA Natural Resouces
+"of salient literature (de la Cretaz and Barten 2007, Ice and",Conservation Service’s National Soils Database to
+Stednick 2004; National Research Council 2000 Stein,represent the likelihood that—other characteristics being
+and others 2005) and results of the Northeastern Area,equal—the combined effects of soil texture and structure
+State and Private Forestry’s Spatial Analysis Project and,"influence surface erosion, sediment transport, and water"
+the Chesapeake Bay Resource Lands Assessment (U.S.,quality degradation.
+"Department of Agriculture, Forest Service 2006, U.S.",Housing density by watershed: The housing density layer
+Geological Survey 2000).,used for this analysis was based on past and current
+The following is an explanation of the basis for the APCW,"statistics on housing density and population, road density,"
+scores.,"past growth patterns, and locations of urban areas. The"
+,same model was used in the Forests on the Edge study
+Forest land: Long-term watershed studies have shown,"(Stein and others 2005), which was based on research"
+that 20 to 30 percent of the catchment area must,published in a peer-reviewed article in Ecology and
+be treated (or forest biomass harvested) to produce,"Society (Theobald 2005). To date, Theobald’s housing"
+measurable water yield increases and associated water,density research has been used in three research reports
+"quality changes. Hence, the “very high” score was","published by the Forest Service (Stein and others 2005,"
+defined as 75-100% forested—and the other scores were,"2006, 2007)."
+apportioned equally.,
+,"Forests, Water, and People | 11"

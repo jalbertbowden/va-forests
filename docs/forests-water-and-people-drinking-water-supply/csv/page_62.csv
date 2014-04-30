@@ -1,0 +1,21 @@
+Name: “Table 1 of 1 on page 62 of 84”,Name: “Table 1 of 1 on page 62 of 84”,Name: “Table 1 of 1 on page 62 of 84”,Name: “Table 1 of 1 on page 62 of 84”,Name: “Table 1 of 1 on page 62 of 84”,Name: “Table 1 of 1 on page 62 of 84”,Name: “Table 1 of 1 on page 62 of 84”
+Table: 61,Table: 61,Table: 61,Table: 61,Table: 61,Table: 61,Table: 61
+,,,,,,
+Appendix B,Appendix B,,,,,
+Road density,Road density,3. The line density function had to be run in sections due,3. The line density function had to be run in sections due,3. The line density function had to be run in sections due,3. The line density function had to be run in sections due,3. The line density function had to be run in sections due
+Data Source: U.S. Department of Transportation. 2002.,Data Source: U.S. Department of Transportation. 2002.,"to file size; therefore, each final line density grid had to","to file size; therefore, each final line density grid had to","to file size; therefore, each final line density grid had to","to file size; therefore, each final line density grid had to","to file size; therefore, each final line density grid had to"
+Bureau of Transportation Statistics (BTS): Roads. http://,Bureau of Transportation Statistics (BTS): Roads. http://,"be merged together. Where two grids overlapped, the","be merged together. Where two grids overlapped, the","be merged together. Where two grids overlapped, the","be merged together. Where two grids overlapped, the","be merged together. Where two grids overlapped, the"
+"seamless.usgs.gov/ (December 1, 2006)","seamless.usgs.gov/ (December 1, 2006)",average line density was computed.,average line density was computed.,average line density was computed.,average line density was computed.,
+Description: This data set portrays a Bureau of,Description: This data set portrays a Bureau of,"4. The results were sorted into four quartiles, and","4. The results were sorted into four quartiles, and","4. The results were sorted into four quartiles, and","4. The results were sorted into four quartiles, and","4. The results were sorted into four quartiles, and"
+Transportation Statistics overview of the road networks,Transportation Statistics overview of the road networks,reclassified with values 1-4.,reclassified with values 1-4.,reclassified with values 1-4.,,
+"for all 50 States, the District of Columbia, and Puerto Rico.","for all 50 States, the District of Columbia, and Puerto Rico.",Excerpt 4 from Table B-1,Excerpt 4 from Table B-1,Excerpt 4 from Table B-1,,
+GIS Process:,GIS Process:,,Scoring for 30-meter grid cell,Scoring for 30-meter grid cell,Scoring for 30-meter grid cell,Scoring for 30-meter grid cell
+1. Removed ferry routes from road layer Feature Class,1. Removed ferry routes from road layer Feature Class,Attribute,Low,Moderate,High,Very High
+"Code (FCC) A65, A66, A68, and A69.","Code (FCC) A65, A66, A68, and A69.",,(1 point),(2 points),(3 points),(4 points)
+2. Ran “Line Density” function in ArcInfo. Parameters were,2. Ran “Line Density” function in ArcInfo. Parameters were,Road,,,,
+set as follows:,set as follows:,"density (D,",75 – 100th,50 – 74th,25 – 49 th,0 – 24th
+,Cell size = 30 m,quartiles),percentile percentile percentile percentile,percentile percentile percentile percentile,percentile percentile percentile percentile,percentile percentile percentile percentile
+,Search radius = 564.3326 m (to equal a search area,,,,,
+,of 1 km2),Result: See following map.,Result: See following map.,Result: See following map.,,
+,Units = square kilometer,,,,,
+"52 | Forests, Water, and People","52 | Forests, Water, and People",,,,,

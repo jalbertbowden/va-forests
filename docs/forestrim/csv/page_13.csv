@@ -1,0 +1,41 @@
+Name: “Table 1 of 1 on page 13 of 16”,Name: “Table 1 of 1 on page 13 of 16”,Name: “Table 1 of 1 on page 13 of 16”,Name: “Table 1 of 1 on page 13 of 16”
+Table: 13,Table: 13,Table: 13,Table: 13
+,,,
+,,Virginia Department of Forestry,
+Locator Map,Locator Map,,
+ForestRIM displays a “locator map” at the bottom of the ForestRIM,ForestRIM displays a “locator map” at the bottom of the ForestRIM,ForestRIM displays a “locator map” at the bottom of the ForestRIM,
+screen in order to show the Map Window location relative to the entire,screen in order to show the Map Window location relative to the entire,screen in order to show the Map Window location relative to the entire,
+"state, or relative to a more localized area.","state, or relative to a more localized area.",Toggle between State and,
+Local to see the difference. Note that sometimes you will be zoomed in,Local to see the difference. Note that sometimes you will be zoomed in,Local to see the difference. Note that sometimes you will be zoomed in,
+to such a small area that you will no longer be able to make out the red,to such a small area that you will no longer be able to make out the red,to such a small area that you will no longer be able to make out the red,
+location extent box on the Locator Map.,location extent box on the Locator Map.,,
+Saving Map Views,Saving Map Views,,
+ForestRIM has a Tab Window set aside for you to save your Map View.,ForestRIM has a Tab Window set aside for you to save your Map View.,ForestRIM has a Tab Window set aside for you to save your Map View.,"In other words, once you"
+"have chosen various layers to display in your map, and/or you have added any desired","have chosen various layers to display in your map, and/or you have added any desired","have chosen various layers to display in your map, and/or you have added any desired","have chosen various layers to display in your map, and/or you have added any desired"
+"annotation, you can save that map view and come back to it later. ForestRIM remembers the","annotation, you can save that map view and come back to it later. ForestRIM remembers the","annotation, you can save that map view and come back to it later. ForestRIM remembers the","annotation, you can save that map view and come back to it later. ForestRIM remembers the"
+"zoom extent of your map, and any of the layers/annotations that you had visible at the time you","zoom extent of your map, and any of the layers/annotations that you had visible at the time you","zoom extent of your map, and any of the layers/annotations that you had visible at the time you","zoom extent of your map, and any of the layers/annotations that you had visible at the time you"
+saved the map view.,saved the map view.,,
+Saving a Map View,Saving a Map View,,
+1),Create a map to save by choosing some layers and,Create a map to save by choosing some layers and,
+,optionally adding annotation.,,
+2),Click on the Views Tab from the ForestRIM Tab,Click on the Views Tab from the ForestRIM Tab,
+,Window at the right.,,
+3),Click Save Current View.,,
+4),The Tab Window will prompt you to give a name to the,The Tab Window will prompt you to give a name to the,
+,Map View you intend to save. Type this name into the,Map View you intend to save. Type this name into the,
+,Description box.,"Also, you have the option of saving",
+,the annotations visible at the time you choose to save,the annotations visible at the time you choose to save,
+,the map view.,Uncheck the Save Annotation,
+,Visibility box if you do not want annotations saved as,Visibility box if you do not want annotations saved as,
+,part of that Map View.,,
+5),CAUTION: you might have annotations ‘visible’ (i.e.,CAUTION: you might have annotations ‘visible’ (i.e.,
+,“on”) that are outside the zoom extent of the map you,“on”) that are outside the zoom extent of the map you,
+,are about to save. These other annotations will be,are about to save. These other annotations will be,
+,"saved if the Save Annotation Visibility box is checked, and the features will be represented in","saved if the Save Annotation Visibility box is checked, and the features will be represented in","saved if the Save Annotation Visibility box is checked, and the features will be represented in"
+,the legend of any exported maps you might make. You may want to go into the Edit Tool and,the legend of any exported maps you might make. You may want to go into the Edit Tool and,the legend of any exported maps you might make. You may want to go into the Edit Tool and
+,“turn off” all of the annotations not relevant to this map before saving the Map View.,“turn off” all of the annotations not relevant to this map before saving the Map View.,“turn off” all of the annotations not relevant to this map before saving the Map View.
+6),Click the Save View button,,
+7),The Saved Views box shows a list of all saved views.,The Saved Views box shows a list of all saved views.,"To delete this (or any) Map View,"
+,simply click on the red X icon under the Delete heading.,simply click on the red X icon under the Delete heading.,
+8),"To return to a saved map view, click on its name in the Saved Views box.","To return to a saved map view, click on its name in the Saved Views box.","To return to a saved map view, click on its name in the Saved Views box."
+,,- 13 -,

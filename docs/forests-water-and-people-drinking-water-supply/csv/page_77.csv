@@ -1,0 +1,22 @@
+Name: “Table 1 of 1 on page 77 of 84”,Name: “Table 1 of 1 on page 77 of 84”,Name: “Table 1 of 1 on page 77 of 84”,Name: “Table 1 of 1 on page 77 of 84”
+Table: 76,Table: 76,Table: 76,Table: 76
+,,,
+,,,­­­­Appendix B
+3. The 15 value classes were reclassified into four housing,3. The 15 value classes were reclassified into four housing,3. The 15 value classes were reclassified into four housing,"4. Using the “Combine” function in ArcInfo, the values of"
+"density classes: rural, exurban, suburban, and urban,","density classes: rural, exurban, suburban, and urban,","density classes: rural, exurban, suburban, and urban,",the 2000 Housing density data set were combined with
+where:,,,the 2030 housing density data set. Look at the output
+,,,"data set, areas that increased in housing density were"
+"West (eight States, west of and including Ohio)","West (eight States, west of and including Ohio)","West (eight States, west of and including Ohio)",extracted and reclassified as “development pressure.”
+Rural:,1 – 6,= 4,Note: Areas that increased from suburban to urban
+Exurban:,7 – 10,= 3,and areas where housing density was not predicted to
+Suburban: 	 11 – 12,Suburban: 	 11 – 12,= 2,change were not included in the final data set.
+Urban:,13 – 15 	 = 1,13 – 15 	 = 1,
+,,,5. The acreage of areas experiencing “development
+"East (12 States, east of, but not including Ohio (does","East (12 States, east of, but not including Ohio (does","East (12 States, east of, but not including Ohio (does",pressure” was calculated for each watershed and
+include the Big Sandy Watershed)),include the Big Sandy Watershed)),include the Big Sandy Watershed)),divided the land acreage of the watershed. This
+Rural:,1 – 8,= 4,“development pressure per unit area” fraction
+Exurban:,9 – 10,= 3,was split into 10 quantiles and given a value of 1
+Suburban: 	 11 – 12,Suburban: 	 11 – 12,= 2,(low development pressure) through 10 (very high
+Urban:,13 – 15 	 = 1,13 – 15 	 = 1,development pressure; see Table B-4)
+,,,Result: See following map.
+,,,"Forests, Water, and People | 67"

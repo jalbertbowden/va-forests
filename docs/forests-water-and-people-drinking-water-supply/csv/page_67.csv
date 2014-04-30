@@ -1,0 +1,17 @@
+Name: “Table 1 of 1 on page 67 of 84”
+Table: 66
+""
+Appendix B
+Step 1 composite score: Mean APCW for watersheds
+Data Source: Ability to Produce Clean Water (APCW)
+Index by 30-m pixels
+Description: See previous step.
+GIS Process
+"1. Using the “zonal statistics as table” function in ArcInfo,"
+the average APCW score was computed for each
+watershed.
+2. The average scores were split into 10 quantiles and
+"reclassified with a value of 1 – 10, with 1 being the"
+lowest APCW and 10 the highest (See Table B-2.)
+Result: See following map.
+"Forests, Water, and People | 57"

@@ -1,0 +1,45 @@
+Name: “Table 1 of 1 on page 73 of 84”,Name: “Table 1 of 1 on page 73 of 84”
+Table: 72,Table: 72
+,
+,­­­­Appendix B
+proceed without interference or are mimicked through,"assessments (see below) correspond to “Federal regions,”"
+"management. Examples: national parks, nature preserves,","which are groupings of contiguous States. Thus, the"
+wilderness areas.,reliability of the data is greatest at the State or multi-State
+GAP Code 2: An area having permanent protection,level. The statistical accuracy of the data is known only
+from conversion of natural land cover and a mandated,for the region. The land cover data files are provided as a
+management plan in operation to maintain a primarily,“Geo-TIFF’’ for each State.
+"natural state, but which may receive uses or management",GIS Process:
+practices that degrade the quality of existing natural,1. The Protected Areas Database (PAD) contains properties
+"communities, including suppression of natural","that are not permanently protected; therefore, several"
+"disturbance. Examples: State parks, national wildlife",polygons were removed before percent private forest
+"refuges, national recreation areas.",was calculated.
+GAP Code 3: An area having permanent protection from,Properties retained:
+conversion of natural land cover for the majority of the,
+"area, but subject to extractive uses of either a broad,","All State, Federal, local, and county lands were"
+"low-intensity type (e.g., logging) or localized intense",considered permanently protected regardless
+"type (e.g., mining). It also confers protection to federally",of gap code (State and county parks and wildlife
+listed endangered and threatened species throughout,management areas are GAP code 4).
+"the area. Examples: national forests, most Bureau of Land",Properties removed:
+"Management land, wildlife management areas.",Ownerships with a GAP code of 4 or above were
+GAP Code 4: There are no known public or private,"removed, as were Gap codes of 3 that were"
+institutional mandates or legally recognized easements or,designated as private industrial or private non-
+deed restrictions held by the managing entity to prevent,industrial forest.
+conversion of natural habitat types to anthropogenic,2. Using the final edited PAD shapefile as the ERASE
+habitat types. The area generally allows conversion to,"template, all the protected areas were erased from the"
+unnatural land cover throughout.,analysis area resulting in a layer of private land.
+Data Source: U.S. Geological Survey (USGS). 1999.,3. The private land shapefile was used as a mask to clip
+"1992 National land cover data set. Sioux Falls, SD. http://","the nlcd_for GRID (1992 forest land), to achieve a grid of"
+edcwww.cr.usgs.gov/programs/lccp/nationallandcover.,"private forest, pri_for."
+"html (August 10, 2007)",
+,4. To determine the acreage of private forest land in each
+Description: The National Land Cover Data set was,"watershed, the “tabulated areas” function was run using"
+compiled from Landsat satellite TM imagery (circa 1992),the pri_for GRID and HUC_NA polygon shapefile.
+with a spatial resolution of 30 meters and supplemented,
+by various ancillary data (where available). The analysis,5. The acreage of private forest was then divided by the
+and interpretation of the satellite imagery was conducted,total land acreage of the watershed to get the percent
+"using large, sometimes multi-State image mosaics (i.e.,",private forest by watershed.
+up to 18 Landsat scenes). Using a relatively small number,6. The results were split into 10 quantiles and given values
+"of aerial photographs for “ground truth,” the thematic",of 1 through 10 (see Table B-3).
+interpretations were necessarily conducted from a,Result: See following map.
+"spatially broad perspective. Furthermore, the accuracy",
+,"Forests, Water, and People | 63"

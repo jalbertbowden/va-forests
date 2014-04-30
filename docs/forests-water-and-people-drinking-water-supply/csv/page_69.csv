@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 69 of 84”,Name: “Table 1 of 1 on page 69 of 84”,Name: “Table 1 of 1 on page 69 of 84”
+Table: 68,Table: 68,Table: 68
+,,
+,,Appendix B
+Surface drinking water consumers per unit,Surface drinking water consumers per unit,"4. For the major cities with river intakes (Philadelphia, St."
+area,,"Louis, Cincinnati, St. Paul, Minneapolis, Washington,"
+,,"DC), their consumers were assigned to the eight-digit"
+Data Source: U.S. Environmental Protection Agency. 2005.,Data Source: U.S. Environmental Protection Agency. 2005.,"watershed immediately upstream, not the entire"
+Public drinking water system (PWS) consumers by 8-digit,Public drinking water system (PWS) consumers by 8-digit,"Delaware, Mississippi and Missouri, Ohio, Mississippi,"
+HUC (data extracted from Safe Drinking Water Information,HUC (data extracted from Safe Drinking Water Information,or Potomac watershed above their respective intakes.
+th,th,
+System (SDWIS) in the 4,quarter of 2004). http://www.,"In other words, it overstates the importance of the"
+"epa.gov/enviro/html/sdwis/sdwis_ov.html (August 10,","epa.gov/enviro/html/sdwis/sdwis_ov.html (August 10,",nearby watersheds while failing to “credit” the other
+2007) This information is proprietary. To request access,2007) This information is proprietary. To request access,(nested) upstream watersheds. Each city was evaluated
+"and permission to this spatial dataset, contact the U.S. EPA","and permission to this spatial dataset, contact the U.S. EPA",separately:
+"Office of Wetlands, Oceans and Watersheds (OWOW) at","Office of Wetlands, Oceans and Watersheds (OWOW) at",
+202-566-1300.,,a. Cincinnati—The water consumers were prorated
+,,over the subwatersheds along the main stem Ohio
+Description: The public drinking water supply systems,Description: The public drinking water supply systems,River.
+"regulated by the EPA, and delegated states and tribes,","regulated by the EPA, and delegated states and tribes,",
+provide drinking water to 90 percent of Americans. These,provide drinking water to 90 percent of Americans. These,"b. St. Louis—same rationale, except the distribution"
+"public drinking water supply systems, which may be","public drinking water supply systems, which may be",of water users was limited to the Mississippi
+"publicly or privately owned, serve at least 25 people or 15","publicly or privately owned, serve at least 25 people or 15",tributaries that are largely in Missouri and the
+service connections for at least 60 days per year.,service connections for at least 60 days per year.,Missouri River “corridor.”
+GIS Process:,,"c. Philadelphia and Washington, DC, were distributed"
+,,on the basis of subwatershed area.
+1. The Public Drinking Water System (PWS) data from,1. The Public Drinking Water System (PWS) data from,
+the Safe Drinking Water Information System (SDWIS),the Safe Drinking Water Information System (SDWIS),5. New York City watersheds were corrected using current
+"database catalogs all drinking water intakes, including","database catalogs all drinking water intakes, including",NYCDEP daily drinking water supply estimates.
+groundwater wells. Only surface water intakes (code =,groundwater wells. Only surface water intakes (code =,6. The water consumers were summed by HUC and
+SW) were considered.,,divided by watershed land acreage.
+2. Overlaying the 540 watershed boundaries over the,2. Overlaying the 540 watershed boundaries over the,7. The watershed results were split into 10 quantiles and
+"drinking water intakes, each intake was attributed","drinking water intakes, each intake was attributed",given a value 1 through 10 (table B-2).
+"with the proper eight-digit watershed code, in which it","with the proper eight-digit watershed code, in which it",Result: See following map.
+resides. Intakes that fell within a watershed boundary,resides. Intakes that fell within a watershed boundary,
+but obtain their water from the one of the five Great,but obtain their water from the one of the five Great,
+Lakes or the St. Lawrence River were not included.,Lakes or the St. Lawrence River were not included.,
+3. The remaining intakes were evaluated by public water,3. The remaining intakes were evaluated by public water,
+supply system. If a public water supply system spanned,supply system. If a public water supply system spanned,
+"two watersheds, the total number of consumers was","two watersheds, the total number of consumers was",
+divided by 2 and half put in each watershed.,divided by 2 and half put in each watershed.,
+,,"Forests, Water, and People | 59"

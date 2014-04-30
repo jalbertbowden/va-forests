@@ -1,0 +1,45 @@
+Name: “Table 1 of 1 on page 12 of 16”,Name: “Table 1 of 1 on page 12 of 16”,Name: “Table 1 of 1 on page 12 of 16”,Name: “Table 1 of 1 on page 12 of 16”,Name: “Table 1 of 1 on page 12 of 16”,Name: “Table 1 of 1 on page 12 of 16”
+Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12
+,,,,,
+,,,Virginia Department of Forestry,Virginia Department of Forestry,Virginia Department of Forestry
+Using Quick Zoom,Using Quick Zoom,,,,
+1),Choose the county or city you want to zoom to from,Choose the county or city you want to zoom to from,Choose the county or city you want to zoom to from,Choose the county or city you want to zoom to from,
+,the drop-down list.,,,,
+2),Click the Go! button.,,,,
+3),ForestRIM will zoom to your requested county or city,ForestRIM will zoom to your requested county or city,ForestRIM will zoom to your requested county or city,ForestRIM will zoom to your requested county or city,
+,in the Map Window.,,,,
+Using Fixed Zoom,Using Fixed Zoom,,,,
+1),Click the desired zoom level from the Fixed Zoom list in the Zoom Window.,Click the desired zoom level from the Fixed Zoom list in the Zoom Window.,Click the desired zoom level from the Fixed Zoom list in the Zoom Window.,Click the desired zoom level from the Fixed Zoom list in the Zoom Window.,Click the desired zoom level from the Fixed Zoom list in the Zoom Window.
+2),"Using the center point of your initial map extent,","Using the center point of your initial map extent,","Using the center point of your initial map extent,",,
+,ForestRIM will zoom into (or out to) your requested,ForestRIM will zoom into (or out to) your requested,ForestRIM will zoom into (or out to) your requested,ForestRIM will zoom into (or out to) your requested,
+,zoom level.,,,,
+3),The list below describes how much area is shown in,The list below describes how much area is shown in,The list below describes how much area is shown in,The list below describes how much area is shown in,
+,the Map Window at each of the zoom scales in the,the Map Window at each of the zoom scales in the,the Map Window at each of the zoom scales in the,the Map Window at each of the zoom scales in the,
+,Fixed Zoom list.,,,,
+,,,Approximate “Footprint” on,Approximate “Footprint” on,Approximate “Footprint” on
+,,Zoom Level,ground represented in,ground represented in,ground represented in
+,,,,Map Window,Map Window
+,,1:100k,,"74,000 acres","74,000 acres"
+,,1:64k,,"30,300 acres","30,300 acres"
+,,1:24k,,"4,200 acres","4,200 acres"
+,,1:12k,,"1,050 acres","1,050 acres"
+,,1” = 1320’,,"1,850 acres","1,850 acres"
+,,1” = 660’,,465 acres,465 acres
+Using Set Scale,Using Set Scale,,,,
+1),You can choose any scale you want by using,You can choose any scale you want by using,,,
+,the Set Scale function in the Zoom Window.,the Set Scale function in the Zoom Window.,,,
+,Set Scale uses what is called “absolute scale”,Set Scale uses what is called “absolute scale”,,,
+,"where a ratio, like 1:24,000 means that 1","where a ratio, like 1:24,000 means that 1",,,
+,"measurement unit on the map equals 24,000","measurement unit on the map equals 24,000",,,
+,measurement units on the ground (e.g. 1 inch,measurement units on the ground (e.g. 1 inch,,,
+,"on the map = 24,000 inches on the ground, 1","on the map = 24,000 inches on the ground, 1",,,
+,"meter on the map = 24,000 meters on the","meter on the map = 24,000 meters on the",,,
+,"ground, etc.). This absolute scale can be converted to a “relative scale” if you prefer to think","ground, etc.). This absolute scale can be converted to a “relative scale” if you prefer to think","ground, etc.). This absolute scale can be converted to a “relative scale” if you prefer to think","ground, etc.). This absolute scale can be converted to a “relative scale” if you prefer to think","ground, etc.). This absolute scale can be converted to a “relative scale” if you prefer to think"
+,"of scale in different measurement units. Again, 1:24,000 is a ratio, so","of scale in different measurement units. Again, 1:24,000 is a ratio, so","of scale in different measurement units. Again, 1:24,000 is a ratio, so","of scale in different measurement units. Again, 1:24,000 is a ratio, so","of scale in different measurement units. Again, 1:24,000 is a ratio, so"
+,"1 inch / 24,000 inches",x,12 inches / 1 foot,or,1 inch = 2000 feet
+,"1 inch / 12,000 inches",x,12 inches / 1 foot,or,1 inch = 1000 feet
+2),"To zoom to a particular scale, just type in the desired absolute scale, and click the Go! button","To zoom to a particular scale, just type in the desired absolute scale, and click the Go! button","To zoom to a particular scale, just type in the desired absolute scale, and click the Go! button","To zoom to a particular scale, just type in the desired absolute scale, and click the Go! button","To zoom to a particular scale, just type in the desired absolute scale, and click the Go! button"
+,to its right.,"If you have a relative scale, you will have to first convert to an absolute scale. For","If you have a relative scale, you will have to first convert to an absolute scale. For","If you have a relative scale, you will have to first convert to an absolute scale. For","If you have a relative scale, you will have to first convert to an absolute scale. For"
+,"example, if you wanted the map scale to be 1” = 6,000’, then you would type 72000 into the","example, if you wanted the map scale to be 1” = 6,000’, then you would type 72000 into the","example, if you wanted the map scale to be 1” = 6,000’, then you would type 72000 into the","example, if you wanted the map scale to be 1” = 6,000’, then you would type 72000 into the","example, if you wanted the map scale to be 1” = 6,000’, then you would type 72000 into the"
+,Set Scale box before clicking the Go! button.,Set Scale box before clicking the Go! button.,,,
+,,,- 12 -,,

@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 4 of 16”,Name: “Table 1 of 1 on page 4 of 16”,Name: “Table 1 of 1 on page 4 of 16”,Name: “Table 1 of 1 on page 4 of 16”
+Table: 4,Table: 4,Table: 4,Table: 4
+,,,
+,,Virginia Department of Forestry,
+Using ForestRIM,Using ForestRIM,,
+Setting Up ForestRIM for your Computer,Setting Up ForestRIM for your Computer,Setting Up ForestRIM for your Computer,
+"ForestRIM has a Tab set aside for you to calibrate the application to your monitor size, and to","ForestRIM has a Tab set aside for you to calibrate the application to your monitor size, and to","ForestRIM has a Tab set aside for you to calibrate the application to your monitor size, and to","ForestRIM has a Tab set aside for you to calibrate the application to your monitor size, and to"
+customize the desired level of compression you want to use to receive the map images.,customize the desired level of compression you want to use to receive the map images.,customize the desired level of compression you want to use to receive the map images.,customize the desired level of compression you want to use to receive the map images.
+"Because monitors vary (in size, resolution, etc.), the screen calibration ensures that scales and","Because monitors vary (in size, resolution, etc.), the screen calibration ensures that scales and","Because monitors vary (in size, resolution, etc.), the screen calibration ensures that scales and","Because monitors vary (in size, resolution, etc.), the screen calibration ensures that scales and"
+measurements are accurate relative to your particular screen.,measurements are accurate relative to your particular screen.,measurements are accurate relative to your particular screen.,Note: ForestRIM displays best
+with minimum screen size of 17 inches and monitor resolution set to 1024 x 768.,with minimum screen size of 17 inches and monitor resolution set to 1024 x 768.,with minimum screen size of 17 inches and monitor resolution set to 1024 x 768.,You can still
+"use ForestRIM with other sizes and settings, but you may need to scroll the window to access the","use ForestRIM with other sizes and settings, but you may need to scroll the window to access the","use ForestRIM with other sizes and settings, but you may need to scroll the window to access the","use ForestRIM with other sizes and settings, but you may need to scroll the window to access the"
+parts of the screen.,parts of the screen.,,
+"ForestRIM uses compression software called AirZip Accelerator, which allows you to sacrifice","ForestRIM uses compression software called AirZip Accelerator, which allows you to sacrifice","ForestRIM uses compression software called AirZip Accelerator, which allows you to sacrifice","ForestRIM uses compression software called AirZip Accelerator, which allows you to sacrifice"
+image quality for download speed. At any time during your ForestRIM session you can alter the,image quality for download speed. At any time during your ForestRIM session you can alter the,image quality for download speed. At any time during your ForestRIM session you can alter the,image quality for download speed. At any time during your ForestRIM session you can alter the
+"speed with which you receive the image, giving you maximum flexibility.","speed with which you receive the image, giving you maximum flexibility.","speed with which you receive the image, giving you maximum flexibility.",AirZip Accelerator is
+very good at preserving quality for vector data and USGS topo quads. The map image will suffer,very good at preserving quality for vector data and USGS topo quads. The map image will suffer,very good at preserving quality for vector data and USGS topo quads. The map image will suffer,very good at preserving quality for vector data and USGS topo quads. The map image will suffer
+most with layers like Hillshade and aerial photos.,most with layers like Hillshade and aerial photos.,most with layers like Hillshade and aerial photos.,
+Calibrating ForestRIM to your Screen,Calibrating ForestRIM to your Screen,,
+1),Click on the Setup Tab from the ForestRIM Tab Window,Click on the Setup Tab from the ForestRIM Tab Window,
+,at the right.,,
+2),Click Calibrate.,,
+3),A pop-up window will appear. Take a ruler with,A pop-up window will appear. Take a ruler with,
+,centimeter divisions and measure the length of the line.,centimeter divisions and measure the length of the line.,
+,Type this number into the Length box.,,
+4),Click the Calibrate button.,,
+Using AirZip Accelerator,Using AirZip Accelerator,,
+1),To use this optional function you must download the plug-in,To use this optional function you must download the plug-in,
+,"from the System Requirements page, which you can access","from the System Requirements page, which you can access",
+,from www.ForestRIM.org.,,
+2),Click the Setup Tab from the ForestRIM Tab Window at the,Click the Setup Tab from the ForestRIM Tab Window at the,
+,right.,,
+3),Scroll down to the AirZip Configuration.,If you want to learn,
+,"more about this technology click the text that reads, Click","more about this technology click the text that reads, Click",
+,here to learn more.,,
+4),"When you first begin, the default is for ForestRIM to deliver the","When you first begin, the default is for ForestRIM to deliver the",
+,"maps without any compression (or acceleration), which is the","maps without any compression (or acceleration), which is the",
+,Pass-thru option. If and when you want to see the map un-,Pass-thru option. If and when you want to see the map un-,
+,"degraded, click Pass-thru.",,
+5),"To receive the image at the lowest level of acceleration, click","To receive the image at the lowest level of acceleration, click",
+,"Good Compression for 56k modems, or click Still More for","Good Compression for 56k modems, or click Still More for",
+,,- 4 -,

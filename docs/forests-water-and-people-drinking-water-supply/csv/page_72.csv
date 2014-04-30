@@ -1,0 +1,44 @@
+Name: “Table 1 of 1 on page 72 of 84”,Name: “Table 1 of 1 on page 72 of 84”,Name: “Table 1 of 1 on page 72 of 84”,Name: “Table 1 of 1 on page 72 of 84”
+Table: 71,Table: 71,Table: 71,Table: 71
+,,,
+­­­­Appendix B,,,
+Step 3: Add Data on Private Forest Land,Step 3: Add Data on Private Forest Land,,
+Step 3 combines the results of Step 2 with the watershed’s,,,
+percent private forest to highlight those areas important,,,
+for surface water drinking supply that contain private,,,
+forest lands. The private forest database was derived using,,,
+a subset of the Conservation Biology Institute’s Protected,,,
+Areas database and an updated Wisconsin data set. Only,,,
+"permanently protected lands (Federal, State, county, local,",,,
+or permanent conservation easements) were considered,,,
+"“protected,” all other lands were considered unprotected,",,,
+having the potential to be developed. The percent private,,,
+forest by watershed was divided into 10 quantiles and,,,
+then combined with the results of Step 2 to yield a total,,,
+score of 3 – 30.,,,
+Table B-3: Prioritization method for Step 3 for eight-digit HUC watersheds in the 20-State study area.,Table B-3: Prioritization method for Step 3 for eight-digit HUC watersheds in the 20-State study area.,Table B-3: Prioritization method for Step 3 for eight-digit HUC watersheds in the 20-State study area.,
+,,Scoring for 30-meter grid cell,
+Attribute,Low,High/moderate,High
+,(1 point),(2-9 points),(10 points)
+Step 2 = Importance of watersheds for drinking water,,See results from Step 2,
+PF = Private Forest (%),10 th quantile,2nd – 9 th quantile,1st quantile
+"(For example, 90 th percentile and higher = 1st quantile = 10; 80 th to 89 th percentile = 2nd quantile = 9; 70 th to 79 th","(For example, 90 th percentile and higher = 1st quantile = 10; 80 th to 89 th percentile = 2nd quantile = 9; 70 th to 79 th","(For example, 90 th percentile and higher = 1st quantile = 10; 80 th to 89 th percentile = 2nd quantile = 9; 70 th to 79 th","(For example, 90 th percentile and higher = 1st quantile = 10; 80 th to 89 th percentile = 2nd quantile = 9; 70 th to 79 th"
+percentile = 3rd quantile = 8; ...),,,
+Step 2 Composite Score,,,
+See results from Step 2.,,,
+Private forest,,,
+Data Source: Conservation Biology Institute. 2006. CBI,eastern and 5 western U.S. States. Polygons are assigned,eastern and 5 western U.S. States. Polygons are assigned,eastern and 5 western U.S. States. Polygons are assigned
+"Protected Areas Database, Version 4. [CD-ROM] Corvallis,","with a GAP Analysis Program (GAP) code of 1, 2, 3, or 4","with a GAP Analysis Program (GAP) code of 1, 2, 3, or 4","with a GAP Analysis Program (GAP) code of 1, 2, 3, or 4"
+"OR. http://www.consbio.org (August 10, 2007).","and IUCN category of I through VI, N/A or Unknown. We","and IUCN category of I through VI, N/A or Unknown. We","and IUCN category of I through VI, N/A or Unknown. We"
+"U.S. Geological Survey, Upper Midwest Environmental",added an additional GAP code of 5 to designate bodies of,added an additional GAP code of 5 to designate bodies of,added an additional GAP code of 5 to designate bodies of
+Sciences Center. 2005. Gap Analysis Program—Wisconsin,"water. MN GAP has assigned some additional GAP codes,","water. MN GAP has assigned some additional GAP codes,","water. MN GAP has assigned some additional GAP codes,"
+"Stewardship Data. [Digital Data] La Crosse, WI.","which are described in their metadata file. Additionally,","which are described in their metadata file. Additionally,","which are described in their metadata file. Additionally,"
+,"the database contains information about parcel type,","the database contains information about parcel type,","the database contains information about parcel type,"
+Description: The original CBI Protected Areas Database,"ownership, size, and protection level.","ownership, size, and protection level.",
+(PAD) was the product of a collaborative effort between,,,
+the Conservation Biology Institute and World Wildlife,GAP Code 1: An area having permanent protection,GAP Code 1: An area having permanent protection,GAP Code 1: An area having permanent protection
+"Fund, USA. The second and third versions of the PAD",from conversion of natural land cover and a mandated,from conversion of natural land cover and a mandated,from conversion of natural land cover and a mandated
+represent updates of the first database. This fourth version,management plan in operation to maintain a natural,management plan in operation to maintain a natural,management plan in operation to maintain a natural
+of the PAD specifically includes a complete update of 20,state within which disturbance events (of natural,state within which disturbance events (of natural,state within which disturbance events (of natural
+,"type, frequency, intensity, and legacy) are allowed to","type, frequency, intensity, and legacy) are allowed to","type, frequency, intensity, and legacy) are allowed to"
+"62 | Forests, Water, and People",,,

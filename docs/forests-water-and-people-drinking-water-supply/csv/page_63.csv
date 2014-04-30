@@ -1,0 +1,20 @@
+Name: “Table 1 of 1 on page 63 of 84”,Name: “Table 1 of 1 on page 63 of 84”,Name: “Table 1 of 1 on page 63 of 84”,Name: “Table 1 of 1 on page 63 of 84”,Name: “Table 1 of 1 on page 63 of 84”,Name: “Table 1 of 1 on page 63 of 84”,Name: “Table 1 of 1 on page 63 of 84”
+Table: 62,Table: 62,Table: 62,Table: 62,Table: 62,Table: 62,Table: 62
+,,,,,,
+,,,,,,Appendix B
+Soil erodibility,"4. Reclassified the grid, where","4. Reclassified the grid, where","4. Reclassified the grid, where",,,
+"Data Source: Miller, Douglas A.; White, Richard A. (NRCS)",Kffact =,,,,,
+1998. STATSGO: A conterminous United States multi-,a.,0-0.2,=,4,,
+layer soil characteristics data set for regional climate,b.,0.2-0.28,=,3,,
+and hydrology modeling. www.soilinfo.psu.edu/index.,c.,0.28-0.34,=,2,,
+"cgi?soil_data&conus (December 1, 2006)",d.,>0.34,=,1,,
+GIS Process:,Excerpt 5 from Table B-1,Excerpt 5 from Table B-1,Excerpt 5 from Table B-1,,,
+1. Clipped the STATSGO mapunit coverage to the HUC_NA,,,,,,
+boundary,,,Scoring for 30-meter grid cell,Scoring for 30-meter grid cell,Scoring for 30-meter grid cell,Scoring for 30-meter grid cell
+2. Joined the mu_kfact table to the clipped STATSGO,Attribute,Low,Moderate,Moderate,High,Very High
+shapefile.,,(1 point),(2 points),(2 points),(3 points),(4 points)
+3. Converted shape to raster using the kffact field as the,Soilerodibility,,,,0.2 –,
+,,>0.34,0.28 – 0.34,0.28 – 0.34,,0 – 0.2
+grid value.,"(S, k factor)",,,,0.28,
+,Result: See following map.,Result: See following map.,Result: See following map.,,,
+,,,,"Forests, Water, and People | 53","Forests, Water, and People | 53","Forests, Water, and People | 53"

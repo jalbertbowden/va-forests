@@ -1,0 +1,19 @@
+Name: “Table 1 of 1 on page 55 of 84”,Name: “Table 1 of 1 on page 55 of 84”
+Table: 54,Table: 54
+,
+,Appendix B
+Analysis Area,
+"Data Source: U.S. Geological Survey. 1994. 1:250,000-scale",GIS Process:
+hydrologic units of the United States. Open-File Report,1. All watersheds (HUCs) that touched the 20 states in the
+"94-0236. Reston, VA. http://water.usgs.gov/GIS/metadata/",Northeastern United States were selected and a new
+"usgswrd/XML/huc250k.xml (August 10, 2007)","polygon data layer, HUC_NA, was created. Note: Some"
+Description: This data set is based on the Hydrologic,"of the HUCs only partially fall within the study area,"
+Unit Maps published by the U.S. Geological Survey,"however, for the purpose of this project, the hydrologic"
+"Office of Water Data Coordination, together with the list",boundary was used rather than the administrative
+"descriptions and name of region, subregion, accounting","one. Watersheds that are considered water bodies (i.e.,"
+"units, and cataloging unit. The hydrologic units are","Great Lakes, Chesapeake Bay, and Delaware Bay) were"
+encoded with an eight-digit number that indicates the,eliminated from the final HUC data layer. A total of 540
+"hydrologic region (first two digits), hydrologic subregion",eight-digit HUC watersheds resulted in the Analysis
+"(second two digits), accounting unit (third two digits), and",Area for this project.
+cataloging unit (fourth two digits).,Result: See following map.
+,"Forests, Water, and People | 45"

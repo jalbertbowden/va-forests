@@ -1,0 +1,30 @@
+Name: “Table 1 of 1 on page 68 of 84”,Name: “Table 1 of 1 on page 68 of 84”,Name: “Table 1 of 1 on page 68 of 84”,Name: “Table 1 of 1 on page 68 of 84”
+Table: 67,Table: 67,Table: 67,Table: 67
+,,,
+­­­­Appendix B,,,
+Step 2: Add Data on Drinking Water Consumers,Step 2: Add Data on Drinking Water Consumers,Step 2: Add Data on Drinking Water Consumers,
+(See Analysis Methods section of main report),(See Analysis Methods section of main report),"river intakes, including Philadelphia, St. Louis, St. Paul,","river intakes, including Philadelphia, St. Louis, St. Paul,"
+"Step 2 combined the results of Step 1, the Ability to","Step 2 combined the results of Step 1, the Ability to","and Washington, DC, the drinking water consumers were","and Washington, DC, the drinking water consumers were"
+"Produce Clean Water, with water use data from the U.S.","Produce Clean Water, with water use data from the U.S.",redistributed among the upstream watersheds. The New,redistributed among the upstream watersheds. The New
+Environmental Protection Agency’s (EPA) Surface Drinking,Environmental Protection Agency’s (EPA) Surface Drinking,York City Watershed was individually calculated using the,York City Watershed was individually calculated using the
+Water Information System (SDWIS). The ability to produce,Water Information System (SDWIS). The ability to produce,latest drinking water consumer data from the water utility.,latest drinking water consumer data from the water utility.
+"clean water was divided into 10 quantiles, with the 1st","clean water was divided into 10 quantiles, with the 1st",The total number of drinking water consumers for each,The total number of drinking water consumers for each
+quantile receiving a score of 10 and the 10 th quantile,quantile receiving a score of 10 and the 10 th quantile,watershed was then divided by the watershed area. This,watershed was then divided by the watershed area. This
+receiving a score of 1.,,result was divided into 10 quantiles and combined with,result was divided into 10 quantiles and combined with
+,,the APCW to yield a total score ranging from 2 to 20.,the APCW to yield a total score ranging from 2 to 20.
+Selecting only surface water consumers (reservoirs,Selecting only surface water consumers (reservoirs,,
+"and streams), the total drinking water consumers was","and streams), the total drinking water consumers was",,
+summed for each eight-digit watershed and divided by,summed for each eight-digit watershed and divided by,,
+the watershed area. For large city watersheds that use,the watershed area. For large city watersheds that use,,
+Table B-2: Prioritization method for Step 2 for eight-digit HUC watersheds in the 20-State study area.,Table B-2: Prioritization method for Step 2 for eight-digit HUC watersheds in the 20-State study area.,Table B-2: Prioritization method for Step 2 for eight-digit HUC watersheds in the 20-State study area.,
+,,Scoring for 30-meter grid cell,
+Attribute,Low,Moderate/High,Very High
+,(1 point),(2-9 points),(10 points)
+Step 1 = Mean APCW for Watersheds,10 th quantile,2nd – 9 thquantile,1st quantile
+DW = surface drinking water consumers,,2nd – 9 th,
+,10 th quantile,quantile,1st quantile
+(90 th percentile and higher = 1st quantile = 10; 80 th to 89 th percentile = 2nd quantile = 9; 70 th to 79 th percentile = 3rd,(90 th percentile and higher = 1st quantile = 10; 80 th to 89 th percentile = 2nd quantile = 9; 70 th to 79 th percentile = 3rd,(90 th percentile and higher = 1st quantile = 10; 80 th to 89 th percentile = 2nd quantile = 9; 70 th to 79 th percentile = 3rd,(90 th percentile and higher = 1st quantile = 10; 80 th to 89 th percentile = 2nd quantile = 9; 70 th to 79 th percentile = 3rd
+quantile = 8 ...),,,
+Step 1 composite score,,,
+See result from Step 1.,,,
+"58 | Forests, Water, and People",,,

@@ -1,0 +1,53 @@
+Name: “Table 1 of 1 on page 64 of 84”,Name: “Table 1 of 1 on page 64 of 84”,Name: “Table 1 of 1 on page 64 of 84”,Name: “Table 1 of 1 on page 64 of 84”,Name: “Table 1 of 1 on page 64 of 84”,Name: “Table 1 of 1 on page 64 of 84”,Name: “Table 1 of 1 on page 64 of 84”,Name: “Table 1 of 1 on page 64 of 84”,Name: “Table 1 of 1 on page 64 of 84”,Name: “Table 1 of 1 on page 64 of 84”,Name: “Table 1 of 1 on page 64 of 84”,Name: “Table 1 of 1 on page 64 of 84”
+Table: 63,Table: 63,Table: 63,Table: 63,Table: 63,Table: 63,Table: 63,Table: 63,Table: 63,Table: 63,Table: 63,Table: 63
+,,,,,,,,,,,
+Appendix B,Appendix B,,,,,,,,,,
+Housing density,Housing density,15 classes (acres/unit),15 classes (acres/unit),15 classes (acres/unit),15 classes (acres/unit),15 classes (acres/unit),15 classes (acres/unit),15 classes (acres/unit),,,
+"Data Source: Theobald, David M. 2004. Housing density","Data Source: Theobald, David M. 2004. Housing density","1: 
+    ","1: 
+    ","1: 
+    ","1: 
+    ",,,,,,
+"in 2000 and 2030. [Digital Data]. Fort Collins, CO: Colorado","in 2000 and 2030. [Digital Data]. Fort Collins, CO: Colorado","2: 309 – 1,235","2: 309 – 1,235","2: 309 – 1,235","2: 309 – 1,235","2: 309 – 1,235","2: 309 – 1,235",,,,
+"State University, Natural Resource Ecology Lab.","State University, Natural Resource Ecology Lab.",3: 165 – 274,3: 165 – 274,3: 165 – 274,3: 165 – 274,3: 165 – 274,,,,,
+Description: This raster data set shows housing density in,Description: This raster data set shows housing density in,4: 80 – 154,4: 80 – 154,4: 80 – 154,4: 80 – 154,4: 80 – 154,,,,,
+"2000, based on 2000 U.S. Census Bureau block (SF1) data","2000, based on 2000 U.S. Census Bureau block (SF1) data",5: 50 – 77,5: 50 – 77,5: 50 – 77,5: 50 – 77,,,,,,
+sets developed by the Natural Resource Ecology Lab.,sets developed by the Natural Resource Ecology Lab.,6: 40 – 50,6: 40 – 50,6: 40 – 50,6: 40 – 50,,,,,,
+,,7: 30 – 40,7: 30 – 40,7: 30 – 40,7: 30 – 40,,,,,,
+"To reduce the overall file size, the continuous values","To reduce the overall file size, the continuous values",8: 20 – 30,8: 20 – 30,8: 20 – 30,8: 20 – 30,,,,,,
+"(in units per hectare * 1,000) were reclassified into the","(in units per hectare * 1,000) were reclassified into the",9: 10 – 20,9: 10 – 20,9: 10 – 20,9: 10 – 20,,,,,,
+following: Code: Units per hectare,following: Code: Units per hectare,10: 5 – 10,10: 5 – 10,10: 5 – 10,,,,,,,
+,1: ≤1,11: 1.7 – 5,11: 1.7 – 5,11: 1.7 – 5,,,,,,,
+,2: 2 – 8,12: 0.6 – 1.7,12: 0.6 – 1.7,12: 0.6 – 1.7,12: 0.6 – 1.7,,,,,,
+,3: 9 – 15,13: 0.25 – 0.6,13: 0.25 – 0.6,13: 0.25 – 0.6,13: 0.25 – 0.6,13: 0.25 – 0.6,,,,,
+,4: 16 – 31,14: 0.1 – 0.25,14: 0.1 – 0.25,14: 0.1 – 0.25,14: 0.1 – 0.25,14: 0.1 – 0.25,,,,,
+,5: 32 – 49,15: > 0.10,15: > 0.10,15: > 0.10,,,,,,,
+,6: 50 – 62,3. The 15 value classes were reclassified into four housing,3. The 15 value classes were reclassified into four housing,3. The 15 value classes were reclassified into four housing,3. The 15 value classes were reclassified into four housing,3. The 15 value classes were reclassified into four housing,3. The 15 value classes were reclassified into four housing,3. The 15 value classes were reclassified into four housing,3. The 15 value classes were reclassified into four housing,3. The 15 value classes were reclassified into four housing,3. The 15 value classes were reclassified into four housing
+,7: 63 – 82,"density classes: rural, exurban, suburban, and urban,","density classes: rural, exurban, suburban, and urban,","density classes: rural, exurban, suburban, and urban,","density classes: rural, exurban, suburban, and urban,","density classes: rural, exurban, suburban, and urban,","density classes: rural, exurban, suburban, and urban,","density classes: rural, exurban, suburban, and urban,","density classes: rural, exurban, suburban, and urban,","density classes: rural, exurban, suburban, and urban,","density classes: rural, exurban, suburban, and urban,"
+,8: 83 – 124,where:,where:,,,,,,,,
+,9: 125 – 247,"West (eight States, west of and including Ohio)","West (eight States, west of and including Ohio)","West (eight States, west of and including Ohio)","West (eight States, west of and including Ohio)","West (eight States, west of and including Ohio)","West (eight States, west of and including Ohio)","West (eight States, west of and including Ohio)","West (eight States, west of and including Ohio)","West (eight States, west of and including Ohio)",
+,10: 248 – 494,Rural:,,,1 – 6,1 – 6,1 – 6,,= 4,,
+,"11: 495 – 1,454",Exurban:,Exurban:,,7 – 10,7 – 10,7 – 10,,= 3,,
+,"12: 1,455 – 4,118",Suburban:,Suburban:,Suburban:,11 – 12,11 – 12,11 – 12,11 – 12,= 2,,
+,"13: 4,119 – 9,884",Urban:,Urban:,,13 – 15,13 – 15,13 – 15,13 – 15,= 1,,
+,"14: 9,885 – 24,711","East (12 States, east of, but not including Ohio (does","East (12 States, east of, but not including Ohio (does","East (12 States, east of, but not including Ohio (does","East (12 States, east of, but not including Ohio (does","East (12 States, east of, but not including Ohio (does","East (12 States, east of, but not including Ohio (does","East (12 States, east of, but not including Ohio (does","East (12 States, east of, but not including Ohio (does","East (12 States, east of, but not including Ohio (does","East (12 States, east of, but not including Ohio (does"
+,"15: 24,712 – 9,999,999",include the Big Sandy Watershed),include the Big Sandy Watershed),include the Big Sandy Watershed),include the Big Sandy Watershed),include the Big Sandy Watershed),include the Big Sandy Watershed),include the Big Sandy Watershed),include the Big Sandy Watershed),,
+GIS Process:,GIS Process:,Rural:,,,1 – 8,1 – 8,1 – 8,,= 4,,
+1. The raw 2000 housing density data was clipped to the,1. The raw 2000 housing density data was clipped to the,Exurban:,Exurban:,,9 – 10,9 – 10,9 – 10,,= 3,,
+,analysis area and resampled from a 100-m grid to a,Suburban:,Suburban:,,11,–,12,,= 2,,
+,30-m grid.,Urban:,,,13,–,15,,= 1,,
+2. The raw grid values in units per hectare were converted,2. The raw grid values in units per hectare were converted,Excerpt 6 from Table B-1,Excerpt 6 from Table B-1,Excerpt 6 from Table B-1,Excerpt 6 from Table B-1,Excerpt 6 from Table B-1,Excerpt 6 from Table B-1,Excerpt 6 from Table B-1,,,
+,to acres/unit using the following formula:,,,,,,,Scoring for 30-meter grid cell,Scoring for 30-meter grid cell,Scoring for 30-meter grid cell,Scoring for 30-meter grid cell
+,"((units/ha)/1,000) * 1 ha/2.47 acres = units/acre (invert) =",Attribute,Attribute,,,Low,Low,,Moderate,High,Very High
+,"acres/unit, so the 15 classes equaled:",,,,(1 point),(1 point),(1 point),(1 point),(2 points),(3 points),(4 points)
+,,Housing density,Housing density,Housing density,,"
+    ","
+    ","
+    ",0.6 – 5.0,5.0 – 20.0,> 20.0
+,,"(H, acres per","(H, acres per","(H, acres per",acre/unit,acre/unit,acre/unit,acre/unit,acres/unit,acres/unit,acres/unit
+,,housing unit in,housing unit in,housing unit in,,,,,,(east),(east)
+,,2000),,,,,,,,5.0 – 40.0,> 40.0
+,,,,,,,,,,acres/unit,acres/unit
+,,,,,,,,,,(west),(west)
+,,Result: See following map.,Result: See following map.,Result: See following map.,Result: See following map.,Result: See following map.,Result: See following map.,Result: See following map.,Result: See following map.,,
+"54 | Forests, Water, and People","54 | Forests, Water, and People",,,,,,,,,,

@@ -1,0 +1,48 @@
+Name: “Table 1 of 1 on page 19 of 84”,Name: “Table 1 of 1 on page 19 of 84”
+Table: 18,Table: 18
+,
+,Analysis Methods
+ANALYSIS METHODS,
+The study used a GIS-based process and a series of maps to create a watershed condition index,The study used a GIS-based process and a series of maps to create a watershed condition index
+"based on physical and biological attributes. Using a multi-step process, this index was then used","based on physical and biological attributes. Using a multi-step process, this index was then used"
+"to compare watersheds across the 20 States and District of Columbia, in terms of their ability","to compare watersheds across the 20 States and District of Columbia, in terms of their ability"
+"to produce clean water. Through regional maps, this analysis also accomplishes the following:","to produce clean water. Through regional maps, this analysis also accomplishes the following:"
+quantifies the magnitude and scope of forest-dependent drinking water supplies and their,quantifies the magnitude and scope of forest-dependent drinking water supplies and their
+dependence on private forests; and identifies watersheds that are threatened by land use change,dependence on private forests; and identifies watersheds that are threatened by land use change
+or that are in need of forest management to sustain and improve forests that protect water,or that are in need of forest management to sustain and improve forests that protect water
+supplies.,
+To score the importance of,consistent data between units of analysis but small
+watersheds across the 20-State study,enough to identify priorities based on localized variations.
+"area, four indices were developed for",The HUCs also facilitate the identification of problems
+each watershed:,and opportunities by hydrological boundaries rather than
+1. Ability to produce clean drinking,political ones. Within the study area are 540 separate
+water,HUC-8 watersheds. Where watersheds fell partly outside
+,"the political boundary of the study area, however, the"
+2. Importance for drinking water,entire watershed area was included in the analysis.
+supply,
+,"To maintain consistency across the 20-state area, nine"
+3. Dependence on unprotected,"standard nation-wide datasets were collected, scored,"
+private forest land for drinking,and overlaid to create the indices. While more current
+water supply,"data was available for several states, this method used"
+4. Threat of forest conversion or,a seamless dataset to avoid dramatic changes from
+"need for management, to sustain",one State to another. A variety of other data sets were
+and improve forest conditions to,"evaluated but were not used, due to problems identified"
+protect drinking water supply,"with data consistency or appropriate scale. For example,"
+,the percent of impaired streams data provided by the U.S.
+Each index was created by overlaying,Environmental Protection Agency were considered. Due
+spatial data in a Geographic,"to wide variations in State reporting of impaired streams,"
+Information System (GIS) (Figure,"however, the layer was not included in this analysis"
+3). Data layers were given equal,(Table 3).
+weight in the overlay process to,
+avoid potential bias; all resources,
+were considered equally important.,
+Each dataset was converted into,
+a 30-meter resolution spatial,
+grid and then summarized by,
+watershed. Watersheds with eight-,
+digit Hydrologic Unit Codes (HUCs),
+developed by the U.S. Geological,
+Survey were selected as the summary,
+"units of the analysis, because",
+they were large enough to ensure,
+,"Forests, Water, and People | 9"

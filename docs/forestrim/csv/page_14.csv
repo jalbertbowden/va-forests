@@ -1,0 +1,32 @@
+Name: “Table 1 of 1 on page 14 of 16”,Name: “Table 1 of 1 on page 14 of 16”
+Table: 14,Table: 14
+,
+,Virginia Department of Forestry
+Search Map Features,
+ForestRIM allows you to learn more about features within queryable layers by searching at a,ForestRIM allows you to learn more about features within queryable layers by searching at a
+"point, along a line, or within an area you define.",A queryable layer is one where the map features
+(like roads) have associated information stored in a table (like road name). A separate window,(like roads) have associated information stored in a table (like road name). A separate window
+will display the items found in the map and allow you to view the detailed data (from the table) for,will display the items found in the map and allow you to view the detailed data (from the table) for
+"each item, meanwhile the found items will be highlighted in the map window. You will also be able","each item, meanwhile the found items will be highlighted in the map window. You will also be able"
+"to zoom in on a single item, or zoom to all found items.","to zoom in on a single item, or zoom to all found items."
+"You can even use the results of your spatial search to perform another, secondary, spatial","You can even use the results of your spatial search to perform another, secondary, spatial"
+search. The geographic area defined by your initial search results can be used to find items in,search. The geographic area defined by your initial search results can be used to find items in
+"another layer, or you can buffer your initial search and find items in another layer within that","another layer, or you can buffer your initial search and find items in another layer within that"
+buffer.,
+Performing a Search,
+15) Click the Search tab in the ForestRIM window on,15) Click the Search tab in the ForestRIM window on
+the right.,
+16) Follow the instructions that appear in the box below,16) Follow the instructions that appear in the box below
+"the tab, shown at left.",
+"17) In Step 1, you will select one layer from the layers","17) In Step 1, you will select one layer from the layers"
+list by clicking on its name. (Use CNTRL + click to,list by clicking on its name. (Use CNTRL + click to
+select multiple layers).,
+"18) In Step 2, you will choose a tool to find items.",You
+"have four methods available: point, box, polygon, or","have four methods available: point, box, polygon, or"
+line.,"As you float your mouse over each icon, it will"
+tell you what tool you are looking at.,
+"19) Once you choose a tool, go into the map window and click a point, or draw a line, box, or","19) Once you choose a tool, go into the map window and click a point, or draw a line, box, or"
+polygon depending on your tool choice.,
+"20) The features that ForestRIM finds will be highlighted in the map window, and a pop-up","20) The features that ForestRIM finds will be highlighted in the map window, and a pop-up"
+window will display the data associated with each item or items found. (See figures.),window will display the data associated with each item or items found. (See figures.)
+,- 14 -

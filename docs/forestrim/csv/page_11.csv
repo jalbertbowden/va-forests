@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 11 of 16”,Name: “Table 1 of 1 on page 11 of 16”,Name: “Table 1 of 1 on page 11 of 16”
+Table: 11,Table: 11,Table: 11
+,,
+,Virginia Department of Forestry,
+"Note: this name will be used to keep track of the polygon, so avoid using the same name for","Note: this name will be used to keep track of the polygon, so avoid using the same name for","Note: this name will be used to keep track of the polygon, so avoid using the same name for"
+more than one polygon.,more than one polygon.,
+"If you want to include the description you just entered as a label on the map, click the Show","If you want to include the description you just entered as a label on the map, click the Show","If you want to include the description you just entered as a label on the map, click the Show"
+Description box.,"If you want the polygon’s acreage displayed, make sure the Show","If you want the polygon’s acreage displayed, make sure the Show"
+Acreage box is checked (un-check it if you do not want acreage displayed).,Acreage box is checked (un-check it if you do not want acreage displayed).,Acreage box is checked (un-check it if you do not want acreage displayed).
+"Next choose whether you want your polygon to have an outline, or border.","Next choose whether you want your polygon to have an outline, or border.",The default is to
+"have one, but ForestRIM will draw your polygon without a border if you un-check the Show","have one, but ForestRIM will draw your polygon without a border if you un-check the Show","have one, but ForestRIM will draw your polygon without a border if you un-check the Show"
+"Border box. If using, type in a border width and choose border color and type from the drop-","Border box. If using, type in a border width and choose border color and type from the drop-","Border box. If using, type in a border width and choose border color and type from the drop-"
+down boxes. Next choose whether you want your polygon to be hollow or filled in with color,down boxes. Next choose whether you want your polygon to be hollow or filled in with color,down boxes. Next choose whether you want your polygon to be hollow or filled in with color
+"or patterns. If you want a hollow polygon, un-check the Fill Polygon box. If using, choose a","or patterns. If you want a hollow polygon, un-check the Fill Polygon box. If using, choose a","or patterns. If you want a hollow polygon, un-check the Fill Polygon box. If using, choose a"
+fill color and type.,"Choose the density of your fill pattern, and choose the transparency","Choose the density of your fill pattern, and choose the transparency"
+"(between 0 and 100%). Click Add Polygon to add your shape to the map, or click Cancel to","(between 0 and 100%). Click Add Polygon to add your shape to the map, or click Cancel to","(between 0 and 100%). Click Add Polygon to add your shape to the map, or click Cancel to"
+undo your addition.,undo your addition.,
+Editing Map Annotation,Editing Map Annotation,
+14) Once you have added map annotations to your map you have the option of,14) Once you have added map annotations to your map you have the option of,14) Once you have added map annotations to your map you have the option of
+"changing the symbology, hiding it for later use, zooming to it, or deleting it. To","changing the symbology, hiding it for later use, zooming to it, or deleting it. To","changing the symbology, hiding it for later use, zooming to it, or deleting it. To"
+"perform any of these edits at any time, click the Edit Annotation Tool.","perform any of these edits at any time, click the Edit Annotation Tool.",
+"The Tab Window will display the annotations you have drawn, categorized by Type.","The Tab Window will display the annotations you have drawn, categorized by Type.","The Tab Window will display the annotations you have drawn, categorized by Type."
+For each item there is a check box that indicates if the annotation is visible or not (check,For each item there is a check box that indicates if the annotation is visible or not (check,For each item there is a check box that indicates if the annotation is visible or not (check
+"means it is visible, no check means it is not visible).","means it is visible, no check means it is not visible).",
+Click the magnifying glass next to an annotation feature and ForestRIM will zoom,Click the magnifying glass next to an annotation feature and ForestRIM will zoom,Click the magnifying glass next to an annotation feature and ForestRIM will zoom
+the map to the extent of that annotation.,the map to the extent of that annotation.,
+Click the red X icon if you want to permanently delete the annotation feature (an,Click the red X icon if you want to permanently delete the annotation feature (an,Click the red X icon if you want to permanently delete the annotation feature (an
+additional warning pop-up window will ask you to confirm that you want to delete,additional warning pop-up window will ask you to confirm that you want to delete,additional warning pop-up window will ask you to confirm that you want to delete
+the item).,,
+Click the note-page icon to access the symbology page.,Click the note-page icon to access the symbology page.,This is where you can
+change any of the symbology attributes for that annotation.,change any of the symbology attributes for that annotation.,
+"The edit symbology pages will vary depending on whether you are altering a point, line,","The edit symbology pages will vary depending on whether you are altering a point, line,","The edit symbology pages will vary depending on whether you are altering a point, line,"
+"polygon or text. However, they are almost identical to the pages where you initially chose","polygon or text. However, they are almost identical to the pages where you initially chose","polygon or text. However, they are almost identical to the pages where you initially chose"
+symbology.,"Click the Update Polygon button (or Update Line, Point, Text, etc.) to make","Click the Update Polygon button (or Update Line, Point, Text, etc.) to make"
+the symbology changes.,the symbology changes.,
+Additional Zoom Functions,Additional Zoom Functions,
+ForestRIM offers multiple ways of navigating to your,ForestRIM offers multiple ways of navigating to your,
+place of interest.,The Zoom window at the bottom of the,
+ForestRIM application includes tools for you to 1) zoom,ForestRIM application includes tools for you to 1) zoom,
+"using an absolute scale, 2) zoom using a set of","using an absolute scale, 2) zoom using a set of",
+"predefined scales, or 3) zoom to the extent of a county.","predefined scales, or 3) zoom to the extent of a county.",
+,- 11 -,

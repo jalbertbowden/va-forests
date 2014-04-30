@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 9 of 16”,Name: “Table 1 of 1 on page 9 of 16”,Name: “Table 1 of 1 on page 9 of 16”,Name: “Table 1 of 1 on page 9 of 16”,Name: “Table 1 of 1 on page 9 of 16”
+Table: 9,Table: 9,Table: 9,Table: 9,Table: 9
+,,,,
+,,Virginia Department of Forestry,Virginia Department of Forestry,Virginia Department of Forestry
+c),"Enter optional Map Title,",,,
+,"Subtitle, and Map",,,
+,Comments. Choose either to,Comments. Choose either to,,
+,Preserve the map window,Preserve the map window,,
+,extents or map window scale.,extents or map window scale.,,
+,Choose a map scale for the,Choose a map scale for the,,
+,Locator Map that will be,,,
+,"included on your output map,","included on your output map,",,
+,or choose to have none at all,or choose to have none at all,,
+,from the drop-down box.,You,,
+,can choose to decrease the,can choose to decrease the,,
+,Image Quality* to save time;,Image Quality* to save time;,,
+,by default it is set to 100%.,by default it is set to 100%.,,
+,By default the Date will be,By default the Date will be,,
+,printed on the map; you can,printed on the map; you can,,
+,turn this off by “un-checking”,turn this off by “un-checking”,,
+,the box. Click Publish Map,the box. Click Publish Map,,
+,to create your output image.,to create your output image.,,
+"*NOTE: if you chose to use AirZip to accelerate (and thus degrade) you map image, it","*NOTE: if you chose to use AirZip to accelerate (and thus degrade) you map image, it","*NOTE: if you chose to use AirZip to accelerate (and thus degrade) you map image, it","*NOTE: if you chose to use AirZip to accelerate (and thus degrade) you map image, it","*NOTE: if you chose to use AirZip to accelerate (and thus degrade) you map image, it"
+will not affect the image quality during map publishing.,will not affect the image quality during map publishing.,will not affect the image quality during map publishing.,will not affect the image quality during map publishing.,"Therefore, if you choose"
+"Maximum acceleration and then 100% image quality when printing, you will get 100%","Maximum acceleration and then 100% image quality when printing, you will get 100%","Maximum acceleration and then 100% image quality when printing, you will get 100%","Maximum acceleration and then 100% image quality when printing, you will get 100%","Maximum acceleration and then 100% image quality when printing, you will get 100%"
+image quality.,image quality.,,,
+d),"A warning message appears to inform you that map generation may take some time,","A warning message appears to inform you that map generation may take some time,","A warning message appears to inform you that map generation may take some time,","A warning message appears to inform you that map generation may take some time,"
+,and that you should not close the “print window” because that will cancel the request.,and that you should not close the “print window” because that will cancel the request.,and that you should not close the “print window” because that will cancel the request.,and that you should not close the “print window” because that will cancel the request.
+e),"If you chose PDF, Adobe Acrobat Reader (provided you have it installed) will","If you chose PDF, Adobe Acrobat Reader (provided you have it installed) will","If you chose PDF, Adobe Acrobat Reader (provided you have it installed) will","If you chose PDF, Adobe Acrobat Reader (provided you have it installed) will"
+,automatically launch with the map.,automatically launch with the map.,"You can save, print, or close the window to discard","You can save, print, or close the window to discard"
+,"the map. If you chose PNG or JPG, a window will prompt you where to save the file on","the map. If you chose PNG or JPG, a window will prompt you where to save the file on","the map. If you chose PNG or JPG, a window will prompt you where to save the file on","the map. If you chose PNG or JPG, a window will prompt you where to save the file on"
+,your computer.,,,
+f),"Alternatively, to create an 8.5 x 11 (landscape) map with limited map elements, click the","Alternatively, to create an 8.5 x 11 (landscape) map with limited map elements, click the","Alternatively, to create an 8.5 x 11 (landscape) map with limited map elements, click the","Alternatively, to create an 8.5 x 11 (landscape) map with limited map elements, click the"
+,Publish Large Map button after clicking the Print tool from the ForestRIM Map Toolbar.,Publish Large Map button after clicking the Print tool from the ForestRIM Map Toolbar.,Publish Large Map button after clicking the Print tool from the ForestRIM Map Toolbar.,Publish Large Map button after clicking the Print tool from the ForestRIM Map Toolbar.
+,Follow the instructions (similar to above) to produce the map.,Follow the instructions (similar to above) to produce the map.,Follow the instructions (similar to above) to produce the map.,Follow the instructions (similar to above) to produce the map.
+Adding Map Annotation,Adding Map Annotation,,,
+ForestRIM allows you to add your own annotation over the GIS layers in the map window.,ForestRIM allows you to add your own annotation over the GIS layers in the map window.,ForestRIM allows you to add your own annotation over the GIS layers in the map window.,ForestRIM allows you to add your own annotation over the GIS layers in the map window.,ForestRIM allows you to add your own annotation over the GIS layers in the map window.
+"Annotations can be text, points (symbols), lines, and polygon areas. For each of these","Annotations can be text, points (symbols), lines, and polygon areas. For each of these","Annotations can be text, points (symbols), lines, and polygon areas. For each of these","Annotations can be text, points (symbols), lines, and polygon areas. For each of these","Annotations can be text, points (symbols), lines, and polygon areas. For each of these"
+"annotations, ForestRIM allows you to choose color and other style elements to use in drawing","annotations, ForestRIM allows you to choose color and other style elements to use in drawing","annotations, ForestRIM allows you to choose color and other style elements to use in drawing","annotations, ForestRIM allows you to choose color and other style elements to use in drawing","annotations, ForestRIM allows you to choose color and other style elements to use in drawing"
+your annotation.,Your annotations will be saved so you can turn them on or off (like other GIS,Your annotations will be saved so you can turn them on or off (like other GIS,Your annotations will be saved so you can turn them on or off (like other GIS,Your annotations will be saved so you can turn them on or off (like other GIS
+"layers), change their symbology, zoom to them, or delete them.","layers), change their symbology, zoom to them, or delete them.","layers), change their symbology, zoom to them, or delete them.","layers), change their symbology, zoom to them, or delete them.","layers), change their symbology, zoom to them, or delete them."
+10) To add a text annotation click on the Add Text tool.,10) To add a text annotation click on the Add Text tool.,10) To add a text annotation click on the Add Text tool.,10) To add a text annotation click on the Add Text tool.,Move your cursor into your
+Map Window and click to signify the place you want your text to be anchored.,Map Window and click to signify the place you want your text to be anchored.,Map Window and click to signify the place you want your text to be anchored.,Map Window and click to signify the place you want your text to be anchored.,Map Window and click to signify the place you want your text to be anchored.
+Type the text you want added to the Map Window into the Map,Type the text you want added to the Map Window into the Map,Type the text you want added to the Map Window into the Map,Type the text you want added to the Map Window into the Map,Type the text you want added to the Map Window into the Map
+Text box.,,,,
+,,,- 9 -,

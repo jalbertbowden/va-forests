@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 54 of 84”,Name: “Table 1 of 1 on page 54 of 84”
+Table: 53,Table: 53
+,
+­­­­Appendix B,
+Introduction,
+"The goal of the Forests, Water, and People analysis is to evaluate current and projected future conditions","The goal of the Forests, Water, and People analysis is to evaluate current and projected future conditions"
+"across the Northeast and Midwest in order to maximize the protection and enhancement of forests, drinking","across the Northeast and Midwest in order to maximize the protection and enhancement of forests, drinking"
+"water supplies, public health, and aquatic ecosystems. The project involves compiling a GIS database using","water supplies, public health, and aquatic ecosystems. The project involves compiling a GIS database using"
+"existing and available data to quantify the key connections between forests, land use, water, and people in","existing and available data to quantify the key connections between forests, land use, water, and people in"
+the Northeastern United States. The database will permit evaluation and ranking of these connections and,the Northeastern United States. The database will permit evaluation and ranking of these connections and
+"characteristics, to identify priority areas for forest conservation and restoration. Results are intended to help","characteristics, to identify priority areas for forest conservation and restoration. Results are intended to help"
+managers determine where their investments will have the greatest benefits.,managers determine where their investments will have the greatest benefits.
+"This appendix is intended to serve as a technical guide to the Forests, Water, and People analysis for GIS","This appendix is intended to serve as a technical guide to the Forests, Water, and People analysis for GIS"
+professionals and researchers.,
+Definitions,
+Proclamation boundaries are identified in the,Exurban is defined for this project as private land with
+proclamation that establishes the outer boundary within,5 – 20 acres per housing unit in the east (the 12 states in
+which a national forest or grassland could be established.,"the study area that are east of but do not include Ohio,"
+Administrative boundaries identify the specific lands,and including the Big Sandy watershed) and land with 5 –
+actually owned by the Federal Government and managed,40 acres per housing unit in the west (the 8 states in the
+by the national forest. Proclamation boundaries were used,study area that are west of and include Ohio) . Forest lands
+for this study because these are the only Forest Service,in this level of housing density can support many types of
+boundary data available in a national-level database.,"wildlife; however, commercial timber management is less"
+,likely.
+"Private land was defined to include tribal, forest industry,",
+"and non-industrial private ownerships, excluding public",Suburban is defined for this project as private land with
+lands and other private lands identified as protected,0.6 – 5 acres per housing unit. These lands are less likely
+through conservation easements.,"to contribute to timber production, wildlife habitat,"
+,"or water quality because of increased road density,"
+Housing density is defined as the number of acres per,"infrastructure, and human population levels. Forest"
+housing unit.,"patches, however, are valued for their aesthetics, and"
+Increased housing density was defined to mean shifts,noise abatement properties.
+from rural to exurban or from rural or exurban to urban.,Urban is defined for this project as private land with less
+Rural is defined for this project as private land with,than 0.6 acre per housing unit. These lands are not likely
+greater than 20 acres per housing unit in the east (the 12,"to contribute to timber production, wildlife habitat, or"
+states in the study area that are east of but do not include,"water quality because of high road density, infrastructure,"
+"Ohio, and including the Big Sandy watershed) and greater",and human population levels.
+than 40 acres per housing unit in the west (the 8 states in,
+the study area that are west of and include Ohio). Forest,
+"lands in this housing density can support timber, most",
+"wildlife, and water quality.",
+"44 | Forests, Water, and People",

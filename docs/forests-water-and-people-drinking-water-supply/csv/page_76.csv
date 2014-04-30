@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 76 of 84”,Name: “Table 1 of 1 on page 76 of 84”,Name: “Table 1 of 1 on page 76 of 84”,Name: “Table 1 of 1 on page 76 of 84”,Name: “Table 1 of 1 on page 76 of 84”
+Table: 75,Table: 75,Table: 75,Table: 75,Table: 75
+,,,,
+­­­­Appendix B,,,,
+Step 4: Add Data on Change in,Step 4: Add Data on Change in,density in 2030. If housing density increased between,density in 2030. If housing density increased between,density in 2030. If housing density increased between
+Housing Density,Housing Density,"2000 and 2030, then development pressure was said","2000 and 2030, then development pressure was said","2000 and 2030, then development pressure was said"
+,,to occur. The total acreage of land under development,to occur. The total acreage of land under development,to occur. The total acreage of land under development
+Step 4 combines the results of Step 3 with the,Step 4 combines the results of Step 3 with the,"pressure in the watershed was divided by watershed area,","pressure in the watershed was divided by watershed area,","pressure in the watershed was divided by watershed area,"
+development pressure of future housing density change,development pressure of future housing density change,"divided into 10 quantiles, and then combined with the","divided into 10 quantiles, and then combined with the","divided into 10 quantiles, and then combined with the"
+on forests. Development pressure was calculated by,on forests. Development pressure was calculated by,results of Step 3 to yield a total score ranging from 4 to 40.,results of Step 3 to yield a total score ranging from 4 to 40.,results of Step 3 to yield a total score ranging from 4 to 40.
+subtracting the housing density in 2000 from the housing,subtracting the housing density in 2000 from the housing,,,
+Table B-4: Prioritization method for Step 4 for eight-digit HUC watersheds in the 20-State study area.,Table B-4: Prioritization method for Step 4 for eight-digit HUC watersheds in the 20-State study area.,Table B-4: Prioritization method for Step 4 for eight-digit HUC watersheds in the 20-State study area.,Table B-4: Prioritization method for Step 4 for eight-digit HUC watersheds in the 20-State study area.,
+,,,Score for 30-meter grid cell,
+Attribute,,Low,High/moderate,High
+,,(1 point),(2-9 points),(10 points)
+Step 3 = Importance of watersheds and,Step 3 = Importance of watersheds and,,,
+,,,See results from Step 3,
+private forest for drinking water supply,private forest for drinking water supply,,,
+DP = Development pressure per unit area,DP = Development pressure per unit area,10 th quantile,2nd – 9 th quantile,1st quantile
+(90 th percentile and higher = 1st quantile = 10; 80 th to 89 th percentile = 2nd quantile = 9;,(90 th percentile and higher = 1st quantile = 10; 80 th to 89 th percentile = 2nd quantile = 9;,(90 th percentile and higher = 1st quantile = 10; 80 th to 89 th percentile = 2nd quantile = 9;,(90 th percentile and higher = 1st quantile = 10; 80 th to 89 th percentile = 2nd quantile = 9;,
+70 th to 79 th percentile = 3rd quantile = 8; ...),70 th to 79 th percentile = 3rd quantile = 8; ...),,,
+Step 3 Composite Score,Step 3 Composite Score,,,
+See the results from Step 3.,See the results from Step 3.,,,
+Development pressure per unit area,Development pressure per unit area,,,
+"Data Source: Theobald, David M. 2004. Housing density","Data Source: Theobald, David M. 2004. Housing density",GIS Process:,,
+"in 2000 and 2030 [Digital Data]. Fort Collins, CO: Colorado","in 2000 and 2030 [Digital Data]. Fort Collins, CO: Colorado",1. The raw 2000 housing density data was clipped to the,1. The raw 2000 housing density data was clipped to the,1. The raw 2000 housing density data was clipped to the
+"State University, Natural Resource Ecology Lab.","State University, Natural Resource Ecology Lab.",analysis area and resampled from a 100 m grid to a 30,analysis area and resampled from a 100 m grid to a 30,analysis area and resampled from a 100 m grid to a 30
+Description: This raster data set shows housing density,Description: This raster data set shows housing density,m grid.,,
+"in 2000, based on 2000 U.S. Census Bureau block (SF1)","in 2000, based on 2000 U.S. Census Bureau block (SF1)",2. The raw grid values in units per hectare were converted,2. The raw grid values in units per hectare were converted,2. The raw grid values in units per hectare were converted
+data sets developed by the Natural Resource Ecology,data sets developed by the Natural Resource Ecology,to acres/unit using the following formula:,to acres/unit using the following formula:,to acres/unit using the following formula:
+Lab. Housing Density in 2030 was forecasted using the,Lab. Housing Density in 2030 was forecasted using the,,,
+Spatially Explicit Regional Growth Model (SERGoM v2).,Spatially Explicit Regional Growth Model (SERGoM v2).,"((units/ha)/1,000) * 1 ha/2.47 acres = units/acre (invert) =","((units/ha)/1,000) * 1 ha/2.47 acres = units/acre (invert) =","((units/ha)/1,000) * 1 ha/2.47 acres = units/acre (invert) ="
+,,"acres/unit, so the 15 classes equaled:","acres/unit, so the 15 classes equaled:",
+"To reduce the overall file size, the continuous values","To reduce the overall file size, the continuous values",,,
+"(in units per hectare * 1,000) were reclassified into the","(in units per hectare * 1,000) were reclassified into the",15 classes (acres/unit),15 classes (acres/unit),
+following: Code: Units per hectare,following: Code: Units per hectare,"1: 
+    ",9: 10 – 20,
+1: ≤1,9: 125 – 247,"2: 309 – 1,235",10: 5 – 10,
+2: 2 – 8,10: 248 – 494,3: 165 – 274,11: 1.7 – 5,
+3: 9 – 15,"11: 495 – 1,454",4: 80 – 154,12: 0.6 – 1.7,
+4: 16 – 31,"12: 1,455 – 4,118",5: 50 – 77,13: 0.25 – 0.6,
+5: 32 – 49,"13: 4,119 – 9,884",6: 40 – 50,14: 0.1 – 0.25,
+6: 50 – 62,"14: 9,885 – 24,711",7: 30 – 40,15: > 0.10,
+7: 63 – 82,"15: 24,712 – 9,999,999",8: 20 – 30,,
+8: 83 – 124,,,,
+"66 | Forests, Water, and People","66 | Forests, Water, and People",,,

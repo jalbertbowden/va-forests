@@ -1,0 +1,547 @@
+,Virginia Department of Forestry,
+Virginia ForestRIM User’s Guide Introduction,Virginia ForestRIM User’s Guide Introduction,
+Welcome to the Virginia Department of Forestry’s Virginia Forest Resource Information Mapper,Welcome to the Virginia Department of Forestry’s Virginia Forest Resource Information Mapper,Welcome to the Virginia Department of Forestry’s Virginia Forest Resource Information Mapper
+(ForestRIM). Our goal in sharing ForestRIM is to demonstrate the importance of the forest,(ForestRIM). Our goal in sharing ForestRIM is to demonstrate the importance of the forest,
+"resources, educate citizens about wildfire in Virginia and provide citizens with tools and","resources, educate citizens about wildfire in Virginia and provide citizens with tools and",
+information to make better-informed decisions.,information to make better-informed decisions.,
+"This User’s Guide is provided as a comprehensive reference document, and is designed to help","This User’s Guide is provided as a comprehensive reference document, and is designed to help","This User’s Guide is provided as a comprehensive reference document, and is designed to help"
+"you navigate the mapping application, including instruction on how to access map layers and add","you navigate the mapping application, including instruction on how to access map layers and add","you navigate the mapping application, including instruction on how to access map layers and add"
+your own features. Detailed information about each map layer is available as a link from within,your own features. Detailed information about each map layer is available as a link from within,your own features. Detailed information about each map layer is available as a link from within
+"ForestRIM, as described in the section about Layers.","ForestRIM, as described in the section about Layers.",
+ForestRIM is a web-based interactive mapping program built using ESRI ArcIMS technology.,ForestRIM is a web-based interactive mapping program built using ESRI ArcIMS technology.,It
+was designed and is maintained by the Virginia Department of Forestry.,was designed and is maintained by the Virginia Department of Forestry.,Development was made
+possible thanks to grants from the Potomac Watershed Partnership and the USDA Forest Service,possible thanks to grants from the Potomac Watershed Partnership and the USDA Forest Service,possible thanks to grants from the Potomac Watershed Partnership and the USDA Forest Service
+National Fire Plan.,,
+Questions and comments regarding the mapping application should be directed to,Questions and comments regarding the mapping application should be directed to,
+ForestRIM@dof.state.va.us.,,
+Virginia ForestRIM Home Page,,
+The ForestRIM Home Page,,
+(www.ForestRIM.org) contains links to,,
+"general information, to the mapping",,
+"application itself, and to this User’s Guide via",,
+"the “About ForestRIM”, “Enter ForestRIM”,",,
+"and “User’s Guide” buttons, respectively.",,
+The page also has a link to our contact email,,
+address in case you have questions or,,
+comments about ForestRIM.,The “System,
+Requirements” link at the bottom-right of the,,
+page details the minimum requirements for,,
+your computer system and the optional,,
+configurations that can help ForestRIM run,,
+more efficiently.,,
+If at any time you want to access the Virginia,,
+"Department of Forestry (VDOF) Home Page,",,
+please click on the VDOF shield icon on the,,
+"page. Similarly, if you are interested in",,
+obtaining more information about the,,
+organizations that helped make ForestRIM,,
+"through grant funding, please click on their",,
+organization icons.,,
+,- 1 -,
+,Virginia Department of Forestry,
+About ForestRIM,,
+What is ForestRIM?,,
+"The Virginia Forest Resource Information Mapper, or ForestRIM, is a web-based interactive","The Virginia Forest Resource Information Mapper, or ForestRIM, is a web-based interactive","The Virginia Forest Resource Information Mapper, or ForestRIM, is a web-based interactive"
+"mapping tool that allows users to view over 100 map layers, including forest resource information,","mapping tool that allows users to view over 100 map layers, including forest resource information,","mapping tool that allows users to view over 100 map layers, including forest resource information,"
+aerial photos and topographic maps. It was developed originally for Virginia Department of,aerial photos and topographic maps. It was developed originally for Virginia Department of,aerial photos and topographic maps. It was developed originally for Virginia Department of
+"Forestry’s staff to address their information needs; however, by making ForestRIM available to","Forestry’s staff to address their information needs; however, by making ForestRIM available to","Forestry’s staff to address their information needs; however, by making ForestRIM available to"
+"the public, Virginia Department of Forestry seizes an opportunity to share information and tools","the public, Virginia Department of Forestry seizes an opportunity to share information and tools","the public, Virginia Department of Forestry seizes an opportunity to share information and tools"
+with citizens interested in wildfire and the Commonwealth’s forest resources in general.,with citizens interested in wildfire and the Commonwealth’s forest resources in general.,with citizens interested in wildfire and the Commonwealth’s forest resources in general.
+What makes ForestRIM unique from most other Internet mapping applications is that it allows,What makes ForestRIM unique from most other Internet mapping applications is that it allows,What makes ForestRIM unique from most other Internet mapping applications is that it allows
+"users to create and save their own map features, like point symbols, lines and polygons. Once a","users to create and save their own map features, like point symbols, lines and polygons. Once a","users to create and save their own map features, like point symbols, lines and polygons. Once a"
+"map has been composed, users can print it or save it for later manipulations. Users can also","map has been composed, users can print it or save it for later manipulations. Users can also","map has been composed, users can print it or save it for later manipulations. Users can also"
+"measure distances and areas from the map window, as well as query most of the map layers.","measure distances and areas from the map window, as well as query most of the map layers.","measure distances and areas from the map window, as well as query most of the map layers."
+How do I access ForestRIM?,How do I access ForestRIM?,
+You can access ForestRIM by visiting http://www.ForestRIM.org.,You can access ForestRIM by visiting http://www.ForestRIM.org.,Click on “Enter ForestRIM”
+"when you are ready to start using the mapping application. During your first visit, you will be","when you are ready to start using the mapping application. During your first visit, you will be","when you are ready to start using the mapping application. During your first visit, you will be"
+"asked to create an account, which will be used to manage ForestRIM only and will not be shared","asked to create an account, which will be used to manage ForestRIM only and will not be shared","asked to create an account, which will be used to manage ForestRIM only and will not be shared"
+with any outside parties.,Please use the Username and Password established during this,Please use the Username and Password established during this
+session to re-enter ForestRIM when you return. If your account is inactive for more than 60 days,session to re-enter ForestRIM when you return. If your account is inactive for more than 60 days,session to re-enter ForestRIM when you return. If your account is inactive for more than 60 days
+it will be deleted and you will have to create a new account.,it will be deleted and you will have to create a new account.,
+Who created ForestRIM?,,
+"The Virginia Forest Resource Information Mapper, or ForestRIM, was designed and implemented","The Virginia Forest Resource Information Mapper, or ForestRIM, was designed and implemented","The Virginia Forest Resource Information Mapper, or ForestRIM, was designed and implemented"
+"by the Virginia Department of Forestry (VDOF). VDOF hired TerraLogic, Inc.","by the Virginia Department of Forestry (VDOF). VDOF hired TerraLogic, Inc.","by the Virginia Department of Forestry (VDOF). VDOF hired TerraLogic, Inc."
+"(http://www.gislogic.com) based in Staunton, VA to perform the application development and","(http://www.gislogic.com) based in Staunton, VA to perform the application development and","(http://www.gislogic.com) based in Staunton, VA to perform the application development and"
+hosting.,Major funding was made possible by the Potomac Watershed Partnership and the,Major funding was made possible by the Potomac Watershed Partnership and the
+USDA Forest Service National Fire Plan.,USDA Forest Service National Fire Plan.,
+Contact Information,,
+"ForestRIM is copyrighted by the Virginia Department of Forestry, 900 Natural Resources Drive,","ForestRIM is copyrighted by the Virginia Department of Forestry, 900 Natural Resources Drive,","ForestRIM is copyrighted by the Virginia Department of Forestry, 900 Natural Resources Drive,"
+"Charlottesville, VA 22911. For questions or comments, please send email to","Charlottesville, VA 22911. For questions or comments, please send email to","Charlottesville, VA 22911. For questions or comments, please send email to"
+ForestRIM@dof.state.va.us.,,
+Disclaimer,,
+While Virginia Department of Forestry (VDOF) has made every effort to provide accurate and,While Virginia Department of Forestry (VDOF) has made every effort to provide accurate and,While Virginia Department of Forestry (VDOF) has made every effort to provide accurate and
+"complete information, map layers were gathered from a variety of sources and may not always be","complete information, map layers were gathered from a variety of sources and may not always be","complete information, map layers were gathered from a variety of sources and may not always be"
+up-to-date.,Attribute and positional accuracies vary greatly given the wide variety of data,Attribute and positional accuracies vary greatly given the wide variety of data
+sources. This information is provided with the understanding that it is not guaranteed to be,sources. This information is provided with the understanding that it is not guaranteed to be,sources. This information is provided with the understanding that it is not guaranteed to be
+correct or complete and conclusions drawn from such information are the sole responsibility of,correct or complete and conclusions drawn from such information are the sole responsibility of,correct or complete and conclusions drawn from such information are the sole responsibility of
+the user. VDOF does not assume liability for any damages caused by inaccuracies in these data,the user. VDOF does not assume liability for any damages caused by inaccuracies in these data,the user. VDOF does not assume liability for any damages caused by inaccuracies in these data
+"or documentation, or as a result of the failure of the data or software to function in a particular","or documentation, or as a result of the failure of the data or software to function in a particular","or documentation, or as a result of the failure of the data or software to function in a particular"
+"manner. VDOF makes no warranty, express or implied, as to the accuracy, completeness, or","manner. VDOF makes no warranty, express or implied, as to the accuracy, completeness, or","manner. VDOF makes no warranty, express or implied, as to the accuracy, completeness, or"
+"utility of this information, nor does the fact of distribution constitute a warranty.","utility of this information, nor does the fact of distribution constitute a warranty.","utility of this information, nor does the fact of distribution constitute a warranty."
+,- 2 -,
+,Virginia Department of Forestry
+ForestRIM Environment,
+ForestRIM has several windows that make up its layout. There is a main Map Window where you,ForestRIM has several windows that make up its layout. There is a main Map Window where you
+will see the map layers. This window is surrounded by other elements that give you access to,will see the map layers. This window is surrounded by other elements that give you access to
+"tools and information. The following chapters will cover these in more depth, but generally","tools and information. The following chapters will cover these in more depth, but generally"
+"speaking, the Map Tools toolbar on the left and the Zoom and Locator Map windows along the","speaking, the Map Tools toolbar on the left and the Zoom and Locator Map windows along the"
+bottom will remain static throughout your session. The display inside the Tab Window on the,bottom will remain static throughout your session. The display inside the Tab Window on the
+"right is the main “work area” and will change depending on which Tab you choose, or whenever","right is the main “work area” and will change depending on which Tab you choose, or whenever"
+"you use tools like the Map Annotation, Measure Tool, etc.",
+"NOTE: When the cursor is in the Map Window, its latitude and longitude are displayed at the","NOTE: When the cursor is in the Map Window, its latitude and longitude are displayed at the"
+bottom of the browser window.,Lat/Lon is displayed in three formats:
+Decimal Degrees | Degrees Minutes Seconds | Degrees Decimal Minutes,Decimal Degrees | Degrees Minutes Seconds | Degrees Decimal Minutes
+MAP WINDOW,
+,TAB WINDOW
+ZOOM WINDOW,
+,- 3 -
+,,Virginia Department of Forestry,
+Using ForestRIM,Using ForestRIM,,
+Setting Up ForestRIM for your Computer,Setting Up ForestRIM for your Computer,Setting Up ForestRIM for your Computer,
+"ForestRIM has a Tab set aside for you to calibrate the application to your monitor size, and to","ForestRIM has a Tab set aside for you to calibrate the application to your monitor size, and to","ForestRIM has a Tab set aside for you to calibrate the application to your monitor size, and to","ForestRIM has a Tab set aside for you to calibrate the application to your monitor size, and to"
+customize the desired level of compression you want to use to receive the map images.,customize the desired level of compression you want to use to receive the map images.,customize the desired level of compression you want to use to receive the map images.,customize the desired level of compression you want to use to receive the map images.
+"Because monitors vary (in size, resolution, etc.), the screen calibration ensures that scales and","Because monitors vary (in size, resolution, etc.), the screen calibration ensures that scales and","Because monitors vary (in size, resolution, etc.), the screen calibration ensures that scales and","Because monitors vary (in size, resolution, etc.), the screen calibration ensures that scales and"
+measurements are accurate relative to your particular screen.,measurements are accurate relative to your particular screen.,measurements are accurate relative to your particular screen.,Note: ForestRIM displays best
+with minimum screen size of 17 inches and monitor resolution set to 1024 x 768.,with minimum screen size of 17 inches and monitor resolution set to 1024 x 768.,with minimum screen size of 17 inches and monitor resolution set to 1024 x 768.,You can still
+"use ForestRIM with other sizes and settings, but you may need to scroll the window to access the","use ForestRIM with other sizes and settings, but you may need to scroll the window to access the","use ForestRIM with other sizes and settings, but you may need to scroll the window to access the","use ForestRIM with other sizes and settings, but you may need to scroll the window to access the"
+parts of the screen.,parts of the screen.,,
+"ForestRIM uses compression software called AirZip Accelerator, which allows you to sacrifice","ForestRIM uses compression software called AirZip Accelerator, which allows you to sacrifice","ForestRIM uses compression software called AirZip Accelerator, which allows you to sacrifice","ForestRIM uses compression software called AirZip Accelerator, which allows you to sacrifice"
+image quality for download speed. At any time during your ForestRIM session you can alter the,image quality for download speed. At any time during your ForestRIM session you can alter the,image quality for download speed. At any time during your ForestRIM session you can alter the,image quality for download speed. At any time during your ForestRIM session you can alter the
+"speed with which you receive the image, giving you maximum flexibility.","speed with which you receive the image, giving you maximum flexibility.","speed with which you receive the image, giving you maximum flexibility.",AirZip Accelerator is
+very good at preserving quality for vector data and USGS topo quads. The map image will suffer,very good at preserving quality for vector data and USGS topo quads. The map image will suffer,very good at preserving quality for vector data and USGS topo quads. The map image will suffer,very good at preserving quality for vector data and USGS topo quads. The map image will suffer
+most with layers like Hillshade and aerial photos.,most with layers like Hillshade and aerial photos.,most with layers like Hillshade and aerial photos.,
+Calibrating ForestRIM to your Screen,Calibrating ForestRIM to your Screen,,
+1),Click on the Setup Tab from the ForestRIM Tab Window,Click on the Setup Tab from the ForestRIM Tab Window,
+,at the right.,,
+2),Click Calibrate.,,
+3),A pop-up window will appear. Take a ruler with,A pop-up window will appear. Take a ruler with,
+,centimeter divisions and measure the length of the line.,centimeter divisions and measure the length of the line.,
+,Type this number into the Length box.,,
+4),Click the Calibrate button.,,
+Using AirZip Accelerator,Using AirZip Accelerator,,
+1),To use this optional function you must download the plug-in,To use this optional function you must download the plug-in,
+,"from the System Requirements page, which you can access","from the System Requirements page, which you can access",
+,from www.ForestRIM.org.,,
+2),Click the Setup Tab from the ForestRIM Tab Window at the,Click the Setup Tab from the ForestRIM Tab Window at the,
+,right.,,
+3),Scroll down to the AirZip Configuration.,If you want to learn,
+,"more about this technology click the text that reads, Click","more about this technology click the text that reads, Click",
+,here to learn more.,,
+4),"When you first begin, the default is for ForestRIM to deliver the","When you first begin, the default is for ForestRIM to deliver the",
+,"maps without any compression (or acceleration), which is the","maps without any compression (or acceleration), which is the",
+,Pass-thru option. If and when you want to see the map un-,Pass-thru option. If and when you want to see the map un-,
+,"degraded, click Pass-thru.",,
+5),"To receive the image at the lowest level of acceleration, click","To receive the image at the lowest level of acceleration, click",
+,"Good Compression for 56k modems, or click Still More for","Good Compression for 56k modems, or click Still More for",
+,,- 4 -,
+,Virginia Department of Forestry
+,added acceleration on slower modems.
+6),"If you want maximum speed and are willing to sacrifice image quality, click Maximum."
+Map Layers in ForestRIM,Map Layers in ForestRIM
+Turning Layers On and Off,Turning Layers On and Off
+1),Click the Layers Tab from the ForestRIM Tab
+,Window.
+2),Click on Base Map or one of the other categories
+,to “open” the category and see the layers
+,available under that heading.
+3),Click the check box next to the layer (or layers) to
+,either turn them on or off (make visible or
+,invisible). Whenever you are ready to see layer
+,"changes in the Map Window, click the Update"
+,Layers button near the top of the Tab Window.
+4),"If you want to turn off all layers within a category,"
+,you can simply click Hide All next to that category
+,heading.
+5),"To close the category, click on Base Map (or whichever"
+,category you chose) again.
+6),Some layers will appear to be “grayed-out” and this is because
+,they are not visible at the current zoom scale. If there are
+,"minimum and/or maximum zoom scales, they are noted"
+,"underneath the layer name. For example, when you zoom to"
+,"a scale below 1:48k, Base Map layers will become visible, and"
+,the layer in the list will no longer be “grayed-out”.
+,- 5 -
+,Virginia Department of Forestry
+Accessing Information (Data Dictionary) about each layer,Accessing Information (Data Dictionary) about each layer
+1),To find out information about
+,"any layer in ForestRIM, such"
+,"as who created it, when it was"
+,"created, what the intended"
+,"scale of use is, etc., click the"
+,link “Learn more about each
+,map layer”.
+2),A separate window will
+,appear with links to each
+,layer.
+Map Legend in ForestRIM,Map Legend in ForestRIM
+The Legend Tab stores the Legend (or symbology key) for each visible layer. This allows you to,The Legend Tab stores the Legend (or symbology key) for each visible layer. This allows you to
+decipher what the features in the map represent. Legend items for ForestRIM layers are,decipher what the features in the map represent. Legend items for ForestRIM layers are
+available in a separate window from your Map Annotation,available in a separate window from your Map Annotation
+"symbology, but you can easily toggle between the two.","symbology, but you can easily toggle between the two."
+Using the Legend,
+1),Click on the Legend Tab from the ForestRIM Tab
+,Window.
+2),"To view the Annotation Legend, click on View"
+,Annotation Legend from the Layer Legend window.
+3),"To return to the Layer Legend view, click View Layer"
+,Legend.
+,- 6 -
+,,,Virginia Department of Forestry,,
+Map Tools in ForestRIM,Map Tools in ForestRIM,Map Tools in ForestRIM,,,
+"ForestRIM has various tools to help you navigate to your location of interest, get information from","ForestRIM has various tools to help you navigate to your location of interest, get information from","ForestRIM has various tools to help you navigate to your location of interest, get information from","ForestRIM has various tools to help you navigate to your location of interest, get information from","ForestRIM has various tools to help you navigate to your location of interest, get information from","ForestRIM has various tools to help you navigate to your location of interest, get information from"
+"the layers, measure distances, clear selected items, print your maps, and get help.","the layers, measure distances, clear selected items, print your maps, and get help.","the layers, measure distances, clear selected items, print your maps, and get help.","the layers, measure distances, clear selected items, print your maps, and get help.",These Map,These Map
+Tools are located along the left side of the ForestRIM screen.,Tools are located along the left side of the ForestRIM screen.,Tools are located along the left side of the ForestRIM screen.,Tools are located along the left side of the ForestRIM screen.,,
+Using Map Tools,Using Map Tools,Using Map Tools,,,
+1),Whenever you have a question and need a quick reminder of what a function is,Whenever you have a question and need a quick reminder of what a function is,Whenever you have a question and need a quick reminder of what a function is,,
+,"or does, click the Help tool and locate the information. A pop-up window will","or does, click the Help tool and locate the information. A pop-up window will","or does, click the Help tool and locate the information. A pop-up window will",,
+,appear with a list of Help items for ForestRIM.,appear with a list of Help items for ForestRIM.,appear with a list of Help items for ForestRIM.,,
+2),Click the Zoom In tool once and then bring your cursor into the Map Window.,Click the Zoom In tool once and then bring your cursor into the Map Window.,Click the Zoom In tool once and then bring your cursor into the Map Window.,,
+,"Click and drag a box around the area you want to zoom in to, and then let go of","Click and drag a box around the area you want to zoom in to, and then let go of","Click and drag a box around the area you want to zoom in to, and then let go of",,
+,the mouse button. The Map Window will refresh with the new map showing,the mouse button. The Map Window will refresh with the new map showing,the mouse button. The Map Window will refresh with the new map showing,,
+,where you zoomed in.,where you zoomed in.,,,
+3),Click the Zoom Out tool once and then click once in the Map Window at the,Click the Zoom Out tool once and then click once in the Map Window at the,Click the Zoom Out tool once and then click once in the Map Window at the,,
+,point in the map you would like as the center of your map once ForestRIM zooms,point in the map you would like as the center of your map once ForestRIM zooms,point in the map you would like as the center of your map once ForestRIM zooms,point in the map you would like as the center of your map once ForestRIM zooms,point in the map you would like as the center of your map once ForestRIM zooms
+,out. The Map Window will refresh showing the result of your Zoom Out request.,out. The Map Window will refresh showing the result of your Zoom Out request.,out. The Map Window will refresh showing the result of your Zoom Out request.,out. The Map Window will refresh showing the result of your Zoom Out request.,
+4),Click on the Zoom to Full Extent tool. This will automatically zoom the map to,Click on the Zoom to Full Extent tool. This will automatically zoom the map to,Click on the Zoom to Full Extent tool. This will automatically zoom the map to,,
+,the full extent of Virginia.,the full extent of Virginia.,,,
+5),"To maintain the same zoom scale and move the map extent, click the Re-Center","To maintain the same zoom scale and move the map extent, click the Re-Center","To maintain the same zoom scale and move the map extent, click the Re-Center","To maintain the same zoom scale and move the map extent, click the Re-Center","To maintain the same zoom scale and move the map extent, click the Re-Center"
+,tool and then click the point in the Map Window that signifies the new map,tool and then click the point in the Map Window that signifies the new map,tool and then click the point in the Map Window that signifies the new map,,
+,center.,(ForestRIM does not use a traditional “pan” function for the benefit of,(ForestRIM does not use a traditional “pan” function for the benefit of,,
+,modem users.),modem users.),,,
+6),"To get information about a particular map feature, click on the Identify tool and","To get information about a particular map feature, click on the Identify tool and","To get information about a particular map feature, click on the Identify tool and",,
+,then click on that feature in the map window.,then click on that feature in the map window.,then click on that feature in the map window.,This tool will return information on,
+,all features at that point within the visible and searchable layers. It will not return,all features at that point within the visible and searchable layers. It will not return,all features at that point within the visible and searchable layers. It will not return,all features at that point within the visible and searchable layers. It will not return,all features at that point within the visible and searchable layers. It will not return
+,information about layers with no tabular data. These include:,information about layers with no tabular data. These include:,information about layers with no tabular data. These include:,,
+,,·,"Railroads, Powerlines, Bridges, Tunnels",,
+,,·,"High and Medium Population Density (1990, 2000)",,
+,,·,"Shorelines, Bay and Ocean, Riverways",,
+,,·,"Raster layers: USGS Topo Quads, Aerial Photos, Hillshade, Slope, 1992","Raster layers: USGS Topo Quads, Aerial Photos, Hillshade, Slope, 1992","Raster layers: USGS Topo Quads, Aerial Photos, Hillshade, Slope, 1992"
+,,,National Land Cover Dataset,,
+,A pop-up window will appear showing the results of any features found using the Identify,A pop-up window will appear showing the results of any features found using the Identify,A pop-up window will appear showing the results of any features found using the Identify,A pop-up window will appear showing the results of any features found using the Identify,A pop-up window will appear showing the results of any features found using the Identify
+,tool.,You have several options with regard to what to do with the search results.,You have several options with regard to what to do with the search results.,You have several options with regard to what to do with the search results.,You can
+,"zoom to the records, view the records in detail, download them, or use them as the basis for","zoom to the records, view the records in detail, download them, or use them as the basis for","zoom to the records, view the records in detail, download them, or use them as the basis for","zoom to the records, view the records in detail, download them, or use them as the basis for","zoom to the records, view the records in detail, download them, or use them as the basis for"
+,a new search.,a new search.,Please refer to the section on Spatial Search for information on using your,Please refer to the section on Spatial Search for information on using your,Please refer to the section on Spatial Search for information on using your
+,search results.,search results.,,,
+7),"To determine distances on the map, click the Measure tool. Next move the","To determine distances on the map, click the Measure tool. Next move the","To determine distances on the map, click the Measure tool. Next move the",,
+,cursor into the Map Window and click at least two points to create a line.,cursor into the Map Window and click at least two points to create a line.,cursor into the Map Window and click at least two points to create a line.,,
+,"After you click you first point, instructions will appear in the Tab Window.","After you click you first point, instructions will appear in the Tab Window.","After you click you first point, instructions will appear in the Tab Window.",You can continue to,You can continue to
+,click to create multiple line segments to form a more complex line.,click to create multiple line segments to form a more complex line.,click to create multiple line segments to form a more complex line.,,
+,,,- 7 -,,
+,,,Virginia Department of Forestry
+,"When finished drawing the lines for which you want distance measured, choose the","When finished drawing the lines for which you want distance measured, choose the","When finished drawing the lines for which you want distance measured, choose the"
+,measurement units you want the results displayed in from the drop-down box.,measurement units you want the results displayed in from the drop-down box.,measurement units you want the results displayed in from the drop-down box.
+,Click the Measure button to see the distance measurements of you line segment(s),Click the Measure button to see the distance measurements of you line segment(s),Click the Measure button to see the distance measurements of you line segment(s)
+,"displayed in the Tab Window, and the line segments will be labeled and displayed in the Map","displayed in the Tab Window, and the line segments will be labeled and displayed in the Map","displayed in the Tab Window, and the line segments will be labeled and displayed in the Map"
+,Window.,Window.,
+"NOTE: To improve the accuracy of these measurements, make sure you have followed the","NOTE: To improve the accuracy of these measurements, make sure you have followed the","NOTE: To improve the accuracy of these measurements, make sure you have followed the","NOTE: To improve the accuracy of these measurements, make sure you have followed the"
+instructions for calibrating your monitor screen outlined in the Setup section.,instructions for calibrating your monitor screen outlined in the Setup section.,instructions for calibrating your monitor screen outlined in the Setup section.,instructions for calibrating your monitor screen outlined in the Setup section.
+8),"Whenever you perform a measurement, or find items using the ID tool (or other","Whenever you perform a measurement, or find items using the ID tool (or other","Whenever you perform a measurement, or find items using the ID tool (or other"
+,query functions) ForestRIM will highlight these things on the map. To clear their,query functions) ForestRIM will highlight these things on the map. To clear their,query functions) ForestRIM will highlight these things on the map. To clear their
+,"selection, click on the Clear Selection tool.","selection, click on the Clear Selection tool.","selection, click on the Clear Selection tool."
+Publishing your map,Publishing your map,Publishing your map,
+9),"Once you have chosen the layers you want to display in your map, zoomed to the","Once you have chosen the layers you want to display in your map, zoomed to the","Once you have chosen the layers you want to display in your map, zoomed to the"
+,"desired scale and extent, and have added your own annotation (see section below","desired scale and extent, and have added your own annotation (see section below","desired scale and extent, and have added your own annotation (see section below"
+,"on Adding Map Annotation) you can print, or publish, your map by clicking the","on Adding Map Annotation) you can print, or publish, your map by clicking the","on Adding Map Annotation) you can print, or publish, your map by clicking the"
+,Print tool. A pop-up Publish Map window will appear with the choices for creating a map,Print tool. A pop-up Publish Map window will appear with the choices for creating a map,Print tool. A pop-up Publish Map window will appear with the choices for creating a map
+,that you can save or print. The first map choice will create a map with a map template and,that you can save or print. The first map choice will create a map with a map template and,that you can save or print. The first map choice will create a map with a map template and
+,various basic map elements. The second lets you print your map to a full 8.5 x 11 page.,various basic map elements. The second lets you print your map to a full 8.5 x 11 page.,various basic map elements. The second lets you print your map to a full 8.5 x 11 page.
+,a),Click the Publish Generic Map button to put,Click the Publish Generic Map button to put
+,,the image you created in ForestRIM’s Map,the image you created in ForestRIM’s Map
+,,"Window into a map template with map title,","Window into a map template with map title,"
+,,"subtitle, VDOF shield, scale bar, north arrow,","subtitle, VDOF shield, scale bar, north arrow,"
+,,"legend, locator map, and date.","legend, locator map, and date."
+,b),The first pop-up window will be replaced by,The first pop-up window will be replaced by
+,,another window prompting you to choose,another window prompting you to choose
+,,various map elements. First click on the,various map elements. First click on the
+,,Output File Type you want your map to be.,Output File Type you want your map to be.
+,,The PDF is the default and your best choice,The PDF is the default and your best choice
+,,when you want the best output quality and,when you want the best output quality and
+,,smallest file size.,You will need a copy of the
+,,"Adobe Acrobat Reader, which is available as","Adobe Acrobat Reader, which is available as"
+,,a free download from Adobe’s website,a free download from Adobe’s website
+,,"(http://www.adobe.com/). JPG and PNG images can be produced as well, and will be","(http://www.adobe.com/). JPG and PNG images can be produced as well, and will be"
+,,produced as zip files and you will be asked where you want to save them on your,produced as zip files and you will be asked where you want to save them on your
+,,computer.,
+,,,- 8 -
+,,Virginia Department of Forestry,Virginia Department of Forestry,Virginia Department of Forestry
+c),"Enter optional Map Title,",,,
+,"Subtitle, and Map",,,
+,Comments. Choose either to,Comments. Choose either to,,
+,Preserve the map window,Preserve the map window,,
+,extents or map window scale.,extents or map window scale.,,
+,Choose a map scale for the,Choose a map scale for the,,
+,Locator Map that will be,,,
+,"included on your output map,","included on your output map,",,
+,or choose to have none at all,or choose to have none at all,,
+,from the drop-down box.,You,,
+,can choose to decrease the,can choose to decrease the,,
+,Image Quality* to save time;,Image Quality* to save time;,,
+,by default it is set to 100%.,by default it is set to 100%.,,
+,By default the Date will be,By default the Date will be,,
+,printed on the map; you can,printed on the map; you can,,
+,turn this off by “un-checking”,turn this off by “un-checking”,,
+,the box. Click Publish Map,the box. Click Publish Map,,
+,to create your output image.,to create your output image.,,
+"*NOTE: if you chose to use AirZip to accelerate (and thus degrade) you map image, it","*NOTE: if you chose to use AirZip to accelerate (and thus degrade) you map image, it","*NOTE: if you chose to use AirZip to accelerate (and thus degrade) you map image, it","*NOTE: if you chose to use AirZip to accelerate (and thus degrade) you map image, it","*NOTE: if you chose to use AirZip to accelerate (and thus degrade) you map image, it"
+will not affect the image quality during map publishing.,will not affect the image quality during map publishing.,will not affect the image quality during map publishing.,will not affect the image quality during map publishing.,"Therefore, if you choose"
+"Maximum acceleration and then 100% image quality when printing, you will get 100%","Maximum acceleration and then 100% image quality when printing, you will get 100%","Maximum acceleration and then 100% image quality when printing, you will get 100%","Maximum acceleration and then 100% image quality when printing, you will get 100%","Maximum acceleration and then 100% image quality when printing, you will get 100%"
+image quality.,image quality.,,,
+d),"A warning message appears to inform you that map generation may take some time,","A warning message appears to inform you that map generation may take some time,","A warning message appears to inform you that map generation may take some time,","A warning message appears to inform you that map generation may take some time,"
+,and that you should not close the “print window” because that will cancel the request.,and that you should not close the “print window” because that will cancel the request.,and that you should not close the “print window” because that will cancel the request.,and that you should not close the “print window” because that will cancel the request.
+e),"If you chose PDF, Adobe Acrobat Reader (provided you have it installed) will","If you chose PDF, Adobe Acrobat Reader (provided you have it installed) will","If you chose PDF, Adobe Acrobat Reader (provided you have it installed) will","If you chose PDF, Adobe Acrobat Reader (provided you have it installed) will"
+,automatically launch with the map.,automatically launch with the map.,"You can save, print, or close the window to discard","You can save, print, or close the window to discard"
+,"the map. If you chose PNG or JPG, a window will prompt you where to save the file on","the map. If you chose PNG or JPG, a window will prompt you where to save the file on","the map. If you chose PNG or JPG, a window will prompt you where to save the file on","the map. If you chose PNG or JPG, a window will prompt you where to save the file on"
+,your computer.,,,
+f),"Alternatively, to create an 8.5 x 11 (landscape) map with limited map elements, click the","Alternatively, to create an 8.5 x 11 (landscape) map with limited map elements, click the","Alternatively, to create an 8.5 x 11 (landscape) map with limited map elements, click the","Alternatively, to create an 8.5 x 11 (landscape) map with limited map elements, click the"
+,Publish Large Map button after clicking the Print tool from the ForestRIM Map Toolbar.,Publish Large Map button after clicking the Print tool from the ForestRIM Map Toolbar.,Publish Large Map button after clicking the Print tool from the ForestRIM Map Toolbar.,Publish Large Map button after clicking the Print tool from the ForestRIM Map Toolbar.
+,Follow the instructions (similar to above) to produce the map.,Follow the instructions (similar to above) to produce the map.,Follow the instructions (similar to above) to produce the map.,Follow the instructions (similar to above) to produce the map.
+Adding Map Annotation,Adding Map Annotation,,,
+ForestRIM allows you to add your own annotation over the GIS layers in the map window.,ForestRIM allows you to add your own annotation over the GIS layers in the map window.,ForestRIM allows you to add your own annotation over the GIS layers in the map window.,ForestRIM allows you to add your own annotation over the GIS layers in the map window.,ForestRIM allows you to add your own annotation over the GIS layers in the map window.
+"Annotations can be text, points (symbols), lines, and polygon areas. For each of these","Annotations can be text, points (symbols), lines, and polygon areas. For each of these","Annotations can be text, points (symbols), lines, and polygon areas. For each of these","Annotations can be text, points (symbols), lines, and polygon areas. For each of these","Annotations can be text, points (symbols), lines, and polygon areas. For each of these"
+"annotations, ForestRIM allows you to choose color and other style elements to use in drawing","annotations, ForestRIM allows you to choose color and other style elements to use in drawing","annotations, ForestRIM allows you to choose color and other style elements to use in drawing","annotations, ForestRIM allows you to choose color and other style elements to use in drawing","annotations, ForestRIM allows you to choose color and other style elements to use in drawing"
+your annotation.,Your annotations will be saved so you can turn them on or off (like other GIS,Your annotations will be saved so you can turn them on or off (like other GIS,Your annotations will be saved so you can turn them on or off (like other GIS,Your annotations will be saved so you can turn them on or off (like other GIS
+"layers), change their symbology, zoom to them, or delete them.","layers), change their symbology, zoom to them, or delete them.","layers), change their symbology, zoom to them, or delete them.","layers), change their symbology, zoom to them, or delete them.","layers), change their symbology, zoom to them, or delete them."
+10) To add a text annotation click on the Add Text tool.,10) To add a text annotation click on the Add Text tool.,10) To add a text annotation click on the Add Text tool.,10) To add a text annotation click on the Add Text tool.,Move your cursor into your
+Map Window and click to signify the place you want your text to be anchored.,Map Window and click to signify the place you want your text to be anchored.,Map Window and click to signify the place you want your text to be anchored.,Map Window and click to signify the place you want your text to be anchored.,Map Window and click to signify the place you want your text to be anchored.
+Type the text you want added to the Map Window into the Map,Type the text you want added to the Map Window into the Map,Type the text you want added to the Map Window into the Map,Type the text you want added to the Map Window into the Map,Type the text you want added to the Map Window into the Map
+Text box.,,,,
+,,,- 9 -,
+,Virginia Department of Forestry,
+Choose a Text Angle (if you enter no angle text will be displayed horizontally).,Choose a Text Angle (if you enter no angle text will be displayed horizontally).,Choose a Text Angle (if you enter no angle text will be displayed horizontally).
+Choose the Size and Color you want the text to be from the respective drop-down lists.,Choose the Size and Color you want the text to be from the respective drop-down lists.,Choose the Size and Color you want the text to be from the respective drop-down lists.
+You can optionally choose to have the text Glow or have it appear with a Shadow. Click the,You can optionally choose to have the text Glow or have it appear with a Shadow. Click the,You can optionally choose to have the text Glow or have it appear with a Shadow. Click the
+boxes next to these options if you want your text to have either (or both) of these effects.,boxes next to these options if you want your text to have either (or both) of these effects.,boxes next to these options if you want your text to have either (or both) of these effects.
+"Click Add Text button to see your text appear in the Map Window, or alternatively, click","Click Add Text button to see your text appear in the Map Window, or alternatively, click","Click Add Text button to see your text appear in the Map Window, or alternatively, click"
+Cancel to abandon your text addition.,,
+11) To add a point symbol annotation click on the Add Symbol tool.,11) To add a point symbol annotation click on the Add Symbol tool.,
+,"Once you have selected this tool, move your cursor into","Once you have selected this tool, move your cursor into"
+,your Map Window and click to indicate the place you want,your Map Window and click to indicate the place you want
+,your point symbol to be. Instructions will appear in the Tab,your point symbol to be. Instructions will appear in the Tab
+,Window.,
+,When the Add Symbol window appears in the Tab Window,When the Add Symbol window appears in the Tab Window
+,"as shown below, optionally type a Description into the box.","as shown below, optionally type a Description into the box."
+,Choose a symbol from the list by clicking the button to its left,Choose a symbol from the list by clicking the button to its left
+,(scroll down to find complete list). Click the Add Symbol,(scroll down to find complete list). Click the Add Symbol
+,button to see your symbol appear in the Map Window.,button to see your symbol appear in the Map Window.
+,"Alternatively, click Cancel.",
+,12) To add a line annotation click on the Add Line,12) To add a line annotation click on the Add Line
+,tool. Instructions will appear in the Tab Window.,tool. Instructions will appear in the Tab Window.
+,"Click at least 2 points in your Map Window, one at","Click at least 2 points in your Map Window, one at"
+,each vertex of the line you want to draw.,
+,Type in a name for your line feature in the Description,Type in a name for your line feature in the Description
+,"box. Note: this name will be used to keep track of the line,","box. Note: this name will be used to keep track of the line,"
+,so avoid using the same name for more than one line to,so avoid using the same name for more than one line to
+,avoid confusion.,
+,"If you want the name shown on the map, click Show","If you want the name shown on the map, click Show"
+,"Description. From the drop-down Line Type list, choose","Description. From the drop-down Line Type list, choose"
+"the type of line style you want your line to be on the map. At the Line Width box, type the","the type of line style you want your line to be on the map. At the Line Width box, type the","the type of line style you want your line to be on the map. At the Line Width box, type the"
+"width, in pixels, you want your line to be.","From the Color drop-down list, choose what color","From the Color drop-down list, choose what color"
+you want your line to be.,"Click the Add Line button to add the line to your map, or click the","Click the Add Line button to add the line to your map, or click the"
+Cancel button to discard.,,
+13) To add a polygon annotation click on the Add Polygon tool.,13) To add a polygon annotation click on the Add Polygon tool.,
+"Once you have selected this tool, move your cursor into your Map Window and draw","Once you have selected this tool, move your cursor into your Map Window and draw","Once you have selected this tool, move your cursor into your Map Window and draw"
+the polygon by clicking along the perimeter (corners) of your desired area.,the polygon by clicking along the perimeter (corners) of your desired area.,You will need to
+"click at least three corners to draw a polygon, however, after the","click at least three corners to draw a polygon, however, after the",
+"first click, instructions will appear at right to guide you through","first click, instructions will appear at right to guide you through",
+the process.,,
+When you have finished clicking the points that make up your,When you have finished clicking the points that make up your,
+"polygon, type in a name for the polygon in the Description box.","polygon, type in a name for the polygon in the Description box.",
+,- 10 -,
+,Virginia Department of Forestry,
+"Note: this name will be used to keep track of the polygon, so avoid using the same name for","Note: this name will be used to keep track of the polygon, so avoid using the same name for","Note: this name will be used to keep track of the polygon, so avoid using the same name for"
+more than one polygon.,more than one polygon.,
+"If you want to include the description you just entered as a label on the map, click the Show","If you want to include the description you just entered as a label on the map, click the Show","If you want to include the description you just entered as a label on the map, click the Show"
+Description box.,"If you want the polygon’s acreage displayed, make sure the Show","If you want the polygon’s acreage displayed, make sure the Show"
+Acreage box is checked (un-check it if you do not want acreage displayed).,Acreage box is checked (un-check it if you do not want acreage displayed).,Acreage box is checked (un-check it if you do not want acreage displayed).
+"Next choose whether you want your polygon to have an outline, or border.","Next choose whether you want your polygon to have an outline, or border.",The default is to
+"have one, but ForestRIM will draw your polygon without a border if you un-check the Show","have one, but ForestRIM will draw your polygon without a border if you un-check the Show","have one, but ForestRIM will draw your polygon without a border if you un-check the Show"
+"Border box. If using, type in a border width and choose border color and type from the drop-","Border box. If using, type in a border width and choose border color and type from the drop-","Border box. If using, type in a border width and choose border color and type from the drop-"
+down boxes. Next choose whether you want your polygon to be hollow or filled in with color,down boxes. Next choose whether you want your polygon to be hollow or filled in with color,down boxes. Next choose whether you want your polygon to be hollow or filled in with color
+"or patterns. If you want a hollow polygon, un-check the Fill Polygon box. If using, choose a","or patterns. If you want a hollow polygon, un-check the Fill Polygon box. If using, choose a","or patterns. If you want a hollow polygon, un-check the Fill Polygon box. If using, choose a"
+fill color and type.,"Choose the density of your fill pattern, and choose the transparency","Choose the density of your fill pattern, and choose the transparency"
+"(between 0 and 100%). Click Add Polygon to add your shape to the map, or click Cancel to","(between 0 and 100%). Click Add Polygon to add your shape to the map, or click Cancel to","(between 0 and 100%). Click Add Polygon to add your shape to the map, or click Cancel to"
+undo your addition.,undo your addition.,
+Editing Map Annotation,Editing Map Annotation,
+14) Once you have added map annotations to your map you have the option of,14) Once you have added map annotations to your map you have the option of,14) Once you have added map annotations to your map you have the option of
+"changing the symbology, hiding it for later use, zooming to it, or deleting it. To","changing the symbology, hiding it for later use, zooming to it, or deleting it. To","changing the symbology, hiding it for later use, zooming to it, or deleting it. To"
+"perform any of these edits at any time, click the Edit Annotation Tool.","perform any of these edits at any time, click the Edit Annotation Tool.",
+"The Tab Window will display the annotations you have drawn, categorized by Type.","The Tab Window will display the annotations you have drawn, categorized by Type.","The Tab Window will display the annotations you have drawn, categorized by Type."
+For each item there is a check box that indicates if the annotation is visible or not (check,For each item there is a check box that indicates if the annotation is visible or not (check,For each item there is a check box that indicates if the annotation is visible or not (check
+"means it is visible, no check means it is not visible).","means it is visible, no check means it is not visible).",
+Click the magnifying glass next to an annotation feature and ForestRIM will zoom,Click the magnifying glass next to an annotation feature and ForestRIM will zoom,Click the magnifying glass next to an annotation feature and ForestRIM will zoom
+the map to the extent of that annotation.,the map to the extent of that annotation.,
+Click the red X icon if you want to permanently delete the annotation feature (an,Click the red X icon if you want to permanently delete the annotation feature (an,Click the red X icon if you want to permanently delete the annotation feature (an
+additional warning pop-up window will ask you to confirm that you want to delete,additional warning pop-up window will ask you to confirm that you want to delete,additional warning pop-up window will ask you to confirm that you want to delete
+the item).,,
+Click the note-page icon to access the symbology page.,Click the note-page icon to access the symbology page.,This is where you can
+change any of the symbology attributes for that annotation.,change any of the symbology attributes for that annotation.,
+"The edit symbology pages will vary depending on whether you are altering a point, line,","The edit symbology pages will vary depending on whether you are altering a point, line,","The edit symbology pages will vary depending on whether you are altering a point, line,"
+"polygon or text. However, they are almost identical to the pages where you initially chose","polygon or text. However, they are almost identical to the pages where you initially chose","polygon or text. However, they are almost identical to the pages where you initially chose"
+symbology.,"Click the Update Polygon button (or Update Line, Point, Text, etc.) to make","Click the Update Polygon button (or Update Line, Point, Text, etc.) to make"
+the symbology changes.,the symbology changes.,
+Additional Zoom Functions,Additional Zoom Functions,
+ForestRIM offers multiple ways of navigating to your,ForestRIM offers multiple ways of navigating to your,
+place of interest.,The Zoom window at the bottom of the,
+ForestRIM application includes tools for you to 1) zoom,ForestRIM application includes tools for you to 1) zoom,
+"using an absolute scale, 2) zoom using a set of","using an absolute scale, 2) zoom using a set of",
+"predefined scales, or 3) zoom to the extent of a county.","predefined scales, or 3) zoom to the extent of a county.",
+,- 11 -,
+,,,Virginia Department of Forestry,Virginia Department of Forestry,Virginia Department of Forestry
+Using Quick Zoom,Using Quick Zoom,,,,
+1),Choose the county or city you want to zoom to from,Choose the county or city you want to zoom to from,Choose the county or city you want to zoom to from,Choose the county or city you want to zoom to from,
+,the drop-down list.,,,,
+2),Click the Go! button.,,,,
+3),ForestRIM will zoom to your requested county or city,ForestRIM will zoom to your requested county or city,ForestRIM will zoom to your requested county or city,ForestRIM will zoom to your requested county or city,
+,in the Map Window.,,,,
+Using Fixed Zoom,Using Fixed Zoom,,,,
+1),Click the desired zoom level from the Fixed Zoom list in the Zoom Window.,Click the desired zoom level from the Fixed Zoom list in the Zoom Window.,Click the desired zoom level from the Fixed Zoom list in the Zoom Window.,Click the desired zoom level from the Fixed Zoom list in the Zoom Window.,Click the desired zoom level from the Fixed Zoom list in the Zoom Window.
+2),"Using the center point of your initial map extent,","Using the center point of your initial map extent,","Using the center point of your initial map extent,",,
+,ForestRIM will zoom into (or out to) your requested,ForestRIM will zoom into (or out to) your requested,ForestRIM will zoom into (or out to) your requested,ForestRIM will zoom into (or out to) your requested,
+,zoom level.,,,,
+3),The list below describes how much area is shown in,The list below describes how much area is shown in,The list below describes how much area is shown in,The list below describes how much area is shown in,
+,the Map Window at each of the zoom scales in the,the Map Window at each of the zoom scales in the,the Map Window at each of the zoom scales in the,the Map Window at each of the zoom scales in the,
+,Fixed Zoom list.,,,,
+,,,Approximate “Footprint” on,Approximate “Footprint” on,Approximate “Footprint” on
+,,Zoom Level,ground represented in,ground represented in,ground represented in
+,,,,Map Window,Map Window
+,,1:100k,,"74,000 acres","74,000 acres"
+,,1:64k,,"30,300 acres","30,300 acres"
+,,1:24k,,"4,200 acres","4,200 acres"
+,,1:12k,,"1,050 acres","1,050 acres"
+,,1” = 1320’,,"1,850 acres","1,850 acres"
+,,1” = 660’,,465 acres,465 acres
+Using Set Scale,Using Set Scale,,,,
+1),You can choose any scale you want by using,You can choose any scale you want by using,,,
+,the Set Scale function in the Zoom Window.,the Set Scale function in the Zoom Window.,,,
+,Set Scale uses what is called “absolute scale”,Set Scale uses what is called “absolute scale”,,,
+,"where a ratio, like 1:24,000 means that 1","where a ratio, like 1:24,000 means that 1",,,
+,"measurement unit on the map equals 24,000","measurement unit on the map equals 24,000",,,
+,measurement units on the ground (e.g. 1 inch,measurement units on the ground (e.g. 1 inch,,,
+,"on the map = 24,000 inches on the ground, 1","on the map = 24,000 inches on the ground, 1",,,
+,"meter on the map = 24,000 meters on the","meter on the map = 24,000 meters on the",,,
+,"ground, etc.). This absolute scale can be converted to a “relative scale” if you prefer to think","ground, etc.). This absolute scale can be converted to a “relative scale” if you prefer to think","ground, etc.). This absolute scale can be converted to a “relative scale” if you prefer to think","ground, etc.). This absolute scale can be converted to a “relative scale” if you prefer to think","ground, etc.). This absolute scale can be converted to a “relative scale” if you prefer to think"
+,"of scale in different measurement units. Again, 1:24,000 is a ratio, so","of scale in different measurement units. Again, 1:24,000 is a ratio, so","of scale in different measurement units. Again, 1:24,000 is a ratio, so","of scale in different measurement units. Again, 1:24,000 is a ratio, so","of scale in different measurement units. Again, 1:24,000 is a ratio, so"
+,"1 inch / 24,000 inches",x,12 inches / 1 foot,or,1 inch = 2000 feet
+,"1 inch / 12,000 inches",x,12 inches / 1 foot,or,1 inch = 1000 feet
+2),"To zoom to a particular scale, just type in the desired absolute scale, and click the Go! button","To zoom to a particular scale, just type in the desired absolute scale, and click the Go! button","To zoom to a particular scale, just type in the desired absolute scale, and click the Go! button","To zoom to a particular scale, just type in the desired absolute scale, and click the Go! button","To zoom to a particular scale, just type in the desired absolute scale, and click the Go! button"
+,to its right.,"If you have a relative scale, you will have to first convert to an absolute scale. For","If you have a relative scale, you will have to first convert to an absolute scale. For","If you have a relative scale, you will have to first convert to an absolute scale. For","If you have a relative scale, you will have to first convert to an absolute scale. For"
+,"example, if you wanted the map scale to be 1” = 6,000’, then you would type 72000 into the","example, if you wanted the map scale to be 1” = 6,000’, then you would type 72000 into the","example, if you wanted the map scale to be 1” = 6,000’, then you would type 72000 into the","example, if you wanted the map scale to be 1” = 6,000’, then you would type 72000 into the","example, if you wanted the map scale to be 1” = 6,000’, then you would type 72000 into the"
+,Set Scale box before clicking the Go! button.,Set Scale box before clicking the Go! button.,,,
+,,,- 12 -,,
+,,Virginia Department of Forestry,
+Locator Map,Locator Map,,
+ForestRIM displays a “locator map” at the bottom of the ForestRIM,ForestRIM displays a “locator map” at the bottom of the ForestRIM,ForestRIM displays a “locator map” at the bottom of the ForestRIM,
+screen in order to show the Map Window location relative to the entire,screen in order to show the Map Window location relative to the entire,screen in order to show the Map Window location relative to the entire,
+"state, or relative to a more localized area.","state, or relative to a more localized area.",Toggle between State and,
+Local to see the difference. Note that sometimes you will be zoomed in,Local to see the difference. Note that sometimes you will be zoomed in,Local to see the difference. Note that sometimes you will be zoomed in,
+to such a small area that you will no longer be able to make out the red,to such a small area that you will no longer be able to make out the red,to such a small area that you will no longer be able to make out the red,
+location extent box on the Locator Map.,location extent box on the Locator Map.,,
+Saving Map Views,Saving Map Views,,
+ForestRIM has a Tab Window set aside for you to save your Map View.,ForestRIM has a Tab Window set aside for you to save your Map View.,ForestRIM has a Tab Window set aside for you to save your Map View.,"In other words, once you"
+"have chosen various layers to display in your map, and/or you have added any desired","have chosen various layers to display in your map, and/or you have added any desired","have chosen various layers to display in your map, and/or you have added any desired","have chosen various layers to display in your map, and/or you have added any desired"
+"annotation, you can save that map view and come back to it later. ForestRIM remembers the","annotation, you can save that map view and come back to it later. ForestRIM remembers the","annotation, you can save that map view and come back to it later. ForestRIM remembers the","annotation, you can save that map view and come back to it later. ForestRIM remembers the"
+"zoom extent of your map, and any of the layers/annotations that you had visible at the time you","zoom extent of your map, and any of the layers/annotations that you had visible at the time you","zoom extent of your map, and any of the layers/annotations that you had visible at the time you","zoom extent of your map, and any of the layers/annotations that you had visible at the time you"
+saved the map view.,saved the map view.,,
+Saving a Map View,Saving a Map View,,
+1),Create a map to save by choosing some layers and,Create a map to save by choosing some layers and,
+,optionally adding annotation.,,
+2),Click on the Views Tab from the ForestRIM Tab,Click on the Views Tab from the ForestRIM Tab,
+,Window at the right.,,
+3),Click Save Current View.,,
+4),The Tab Window will prompt you to give a name to the,The Tab Window will prompt you to give a name to the,
+,Map View you intend to save. Type this name into the,Map View you intend to save. Type this name into the,
+,Description box.,"Also, you have the option of saving",
+,the annotations visible at the time you choose to save,the annotations visible at the time you choose to save,
+,the map view.,Uncheck the Save Annotation,
+,Visibility box if you do not want annotations saved as,Visibility box if you do not want annotations saved as,
+,part of that Map View.,,
+5),CAUTION: you might have annotations ‘visible’ (i.e.,CAUTION: you might have annotations ‘visible’ (i.e.,
+,“on”) that are outside the zoom extent of the map you,“on”) that are outside the zoom extent of the map you,
+,are about to save. These other annotations will be,are about to save. These other annotations will be,
+,"saved if the Save Annotation Visibility box is checked, and the features will be represented in","saved if the Save Annotation Visibility box is checked, and the features will be represented in","saved if the Save Annotation Visibility box is checked, and the features will be represented in"
+,the legend of any exported maps you might make. You may want to go into the Edit Tool and,the legend of any exported maps you might make. You may want to go into the Edit Tool and,the legend of any exported maps you might make. You may want to go into the Edit Tool and
+,“turn off” all of the annotations not relevant to this map before saving the Map View.,“turn off” all of the annotations not relevant to this map before saving the Map View.,“turn off” all of the annotations not relevant to this map before saving the Map View.
+6),Click the Save View button,,
+7),The Saved Views box shows a list of all saved views.,The Saved Views box shows a list of all saved views.,"To delete this (or any) Map View,"
+,simply click on the red X icon under the Delete heading.,simply click on the red X icon under the Delete heading.,
+8),"To return to a saved map view, click on its name in the Saved Views box.","To return to a saved map view, click on its name in the Saved Views box.","To return to a saved map view, click on its name in the Saved Views box."
+,,- 13 -,
+,Virginia Department of Forestry
+Search Map Features,
+ForestRIM allows you to learn more about features within queryable layers by searching at a,ForestRIM allows you to learn more about features within queryable layers by searching at a
+"point, along a line, or within an area you define.",A queryable layer is one where the map features
+(like roads) have associated information stored in a table (like road name). A separate window,(like roads) have associated information stored in a table (like road name). A separate window
+will display the items found in the map and allow you to view the detailed data (from the table) for,will display the items found in the map and allow you to view the detailed data (from the table) for
+"each item, meanwhile the found items will be highlighted in the map window. You will also be able","each item, meanwhile the found items will be highlighted in the map window. You will also be able"
+"to zoom in on a single item, or zoom to all found items.","to zoom in on a single item, or zoom to all found items."
+"You can even use the results of your spatial search to perform another, secondary, spatial","You can even use the results of your spatial search to perform another, secondary, spatial"
+search. The geographic area defined by your initial search results can be used to find items in,search. The geographic area defined by your initial search results can be used to find items in
+"another layer, or you can buffer your initial search and find items in another layer within that","another layer, or you can buffer your initial search and find items in another layer within that"
+buffer.,
+Performing a Search,
+15) Click the Search tab in the ForestRIM window on,15) Click the Search tab in the ForestRIM window on
+the right.,
+16) Follow the instructions that appear in the box below,16) Follow the instructions that appear in the box below
+"the tab, shown at left.",
+"17) In Step 1, you will select one layer from the layers","17) In Step 1, you will select one layer from the layers"
+list by clicking on its name. (Use CNTRL + click to,list by clicking on its name. (Use CNTRL + click to
+select multiple layers).,
+"18) In Step 2, you will choose a tool to find items.",You
+"have four methods available: point, box, polygon, or","have four methods available: point, box, polygon, or"
+line.,"As you float your mouse over each icon, it will"
+tell you what tool you are looking at.,
+"19) Once you choose a tool, go into the map window and click a point, or draw a line, box, or","19) Once you choose a tool, go into the map window and click a point, or draw a line, box, or"
+polygon depending on your tool choice.,
+"20) The features that ForestRIM finds will be highlighted in the map window, and a pop-up","20) The features that ForestRIM finds will be highlighted in the map window, and a pop-up"
+window will display the data associated with each item or items found. (See figures.),window will display the data associated with each item or items found. (See figures.)
+,- 14 -
+,,Virginia Department of Forestry
+"21) You can get all of the associated detail information for each record by clicking on detail, or","21) You can get all of the associated detail information for each record by clicking on detail, or","21) You can get all of the associated detail information for each record by clicking on detail, or"
+,zoom to the record by,
+,clicking on the magnifying,clicking on the magnifying
+,glass associated with the,
+,record you want to see.,To
+,"return to the full list, click",
+,“Search Results” at the top,“Search Results” at the top
+,left part of the pop-up,
+,window.,
+"22) To zoom to the extent of all found items within a layer, click","22) To zoom to the extent of all found items within a layer, click","22) To zoom to the extent of all found items within a layer, click"
+,Zoom to All just under the layer header. To begin a new,Zoom to All just under the layer header. To begin a new
+,"search, click New Search under the layer header. To delete","search, click New Search under the layer header. To delete"
+,"these search results, click Discard Results.","these search results, click Discard Results."
+23) To download the tabular results to a comma-delimited file,23) To download the tabular results to a comma-delimited file,23) To download the tabular results to a comma-delimited file
+,(which you can bring into a spreadsheet program for,(which you can bring into a spreadsheet program for
+,"analysis), click Download. A pop-up window will prompt","analysis), click Download. A pop-up window will prompt"
+,you to save the file to your computer. Follow the instructions,you to save the file to your computer. Follow the instructions
+,and save the file in the desired location.,and save the file in the desired location.
+24) To use the geographic extent of your,24) To use the geographic extent of your,24) To use the geographic extent of your
+,"search result for another search, click","search result for another search, click"
+,on Secondary Search just under the,on Secondary Search just under the
+,layer header.,
+"25) Once you click on Secondary Search,","25) Once you click on Secondary Search,","25) Once you click on Secondary Search,"
+,the Tab Window in ForestRIM will,the Tab Window in ForestRIM will
+,display instructions for searching in the,display instructions for searching in the
+,area based on your initial search,area based on your initial search
+,"results, or by a buffer of those results.","results, or by a buffer of those results."
+,You will be prompted to choose a,You will be prompted to choose a
+,distance to buffer your previously,distance to buffer your previously
+,"selected features, but can leave it as 0 if","selected features, but can leave it as 0 if"
+,you want to use the exact geographic,you want to use the exact geographic
+,extent of the initial search results. If you,extent of the initial search results. If you
+,"choose a distance greater than 0, this function","choose a distance greater than 0, this function"
+,"will create a buffer, either for you to use visually","will create a buffer, either for you to use visually"
+,on the map or to increase the search area,on the map or to increase the search area
+,around the vicinity of your previous search.,around the vicinity of your previous search.
+26),"For Step 1, enter a distance, and enter the","For Step 1, enter a distance, and enter the"
+,units of distance from the drop-down menu. Do,units of distance from the drop-down menu. Do
+,not enter a distance if you do not want to buffer,not enter a distance if you do not want to buffer
+,the previous search extent.,the previous search extent.
+27) Step 2 asks you to choose a layer from which to find items. If you only want the selected,27) Step 2 asks you to choose a layer from which to find items. If you only want the selected,27) Step 2 asks you to choose a layer from which to find items. If you only want the selected
+,"features buffered on the map and do not need to search further, click the None box in Step 2,","features buffered on the map and do not need to search further, click the None box in Step 2,"
+,and click Buffer.,
+28),"If you want to use the buffer area to search for items in another later, choose the layer from","If you want to use the buffer area to search for items in another later, choose the layer from"
+,the drop-down box and click Buffer. Alternatively click Cancel.,the drop-down box and click Buffer. Alternatively click Cancel.
+,,- 15 -
+Virginia Department of Forestry
+29) A search results box appears showing you what ForestRIM found within your search buffer.
+- 16 -

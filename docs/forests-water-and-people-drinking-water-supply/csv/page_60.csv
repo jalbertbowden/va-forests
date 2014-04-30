@@ -1,0 +1,38 @@
+Name: “Table 1 of 1 on page 60 of 84”,Name: “Table 1 of 1 on page 60 of 84”,Name: “Table 1 of 1 on page 60 of 84”,Name: “Table 1 of 1 on page 60 of 84”,Name: “Table 1 of 1 on page 60 of 84”,Name: “Table 1 of 1 on page 60 of 84”
+Table: 59,Table: 59,Table: 59,Table: 59,Table: 59,Table: 59
+,,,,,
+Appendix B,,,,,
+Riparian forest cover,"4. Using the “Extract by Mask” command in ArcInfo, the","4. Using the “Extract by Mask” command in ArcInfo, the","4. Using the “Extract by Mask” command in ArcInfo, the","4. Using the “Extract by Mask” command in ArcInfo, the","4. Using the “Extract by Mask” command in ArcInfo, the"
+"Data Source: Hatfield, Mark. 2005. 30m Buffer of the",nlcd_for GRID was clipped to the 30-m NHD buffer,nlcd_for GRID was clipped to the 30-m NHD buffer,nlcd_for GRID was clipped to the 30-m NHD buffer,nlcd_for GRID was clipped to the 30-m NHD buffer,nlcd_for GRID was clipped to the 30-m NHD buffer
+"1999 National Hydrography Data set (NHD). St. Paul, MN:",nlcd_rip30.,,,,
+"U.S. Department of Agriculture, Forest Service, Northern","5. Using the “Tabulate Areas” function, the acreage","5. Using the “Tabulate Areas” function, the acreage","5. Using the “Tabulate Areas” function, the acreage","5. Using the “Tabulate Areas” function, the acreage","5. Using the “Tabulate Areas” function, the acreage"
+Research Station. [unpublished digital data],of forested land within the riparian buffer for each,of forested land within the riparian buffer for each,of forested land within the riparian buffer for each,of forested land within the riparian buffer for each,of forested land within the riparian buffer for each
+Description: The National Hydrography Data set (NHD;,watershed was computed using the nlcd_rip30,watershed was computed using the nlcd_rip30,watershed was computed using the nlcd_rip30,watershed was computed using the nlcd_rip30,watershed was computed using the nlcd_rip30
+USGS) comes with several different layers. Three are,GRID and HUC_NA polygon shapefile. The acreage,GRID and HUC_NA polygon shapefile. The acreage,GRID and HUC_NA polygon shapefile. The acreage,GRID and HUC_NA polygon shapefile. The acreage,GRID and HUC_NA polygon shapefile. The acreage
+"of interest to this project: the waterbodies, areas, and",of forested land was divided by the total acreage of,of forested land was divided by the total acreage of,of forested land was divided by the total acreage of,of forested land was divided by the total acreage of,of forested land was divided by the total acreage of
+flowlines. The waterbodies layer depicts any water that,riparian buffer in the watershed. The resulting table was,riparian buffer in the watershed. The resulting table was,riparian buffer in the watershed. The resulting table was,riparian buffer in the watershed. The resulting table was,riparian buffer in the watershed. The resulting table was
+"has area, such as lakes, swamps, and ocean. The area layer",then joined to the HUC_NA shapefile. The results were,then joined to the HUC_NA shapefile. The results were,then joined to the HUC_NA shapefile. The results were,then joined to the HUC_NA shapefile. The results were,then joined to the HUC_NA shapefile. The results were
+"shows features, such as rivers, that become too large",saved in the attribute field Per_RIP.,saved in the attribute field Per_RIP.,saved in the attribute field Per_RIP.,,
+to represent with only a line. The flowline layer shows,6. The percent riparian forest cover was reclassified into,6. The percent riparian forest cover was reclassified into,6. The percent riparian forest cover was reclassified into,6. The percent riparian forest cover was reclassified into,6. The percent riparian forest cover was reclassified into
+"all linear features, and includes information about the",the four categories summarized in Table 1. The results,the four categories summarized in Table 1. The results,the four categories summarized in Table 1. The results,the four categories summarized in Table 1. The results,the four categories summarized in Table 1. The results
+direction of flow through its topology. All three layers,were saved in the attribute field Per_RIP_R. See step 7.,were saved in the attribute field Per_RIP_R. See step 7.,were saved in the attribute field Per_RIP_R. See step 7.,were saved in the attribute field Per_RIP_R. See step 7.,were saved in the attribute field Per_RIP_R. See step 7.
+"include an FCode for each feature, to describe what the",Excerpt 3 from Table B-1,Excerpt 3 from Table B-1,Excerpt 3 from Table B-1,,
+feature is. Flowline features coded as “Pipeline” were,,,,,
+deleted because they were determined to be irrelevant,,Scoring for 30-meter grid cell,Scoring for 30-meter grid cell,Scoring for 30-meter grid cell,Scoring for 30-meter grid cell
+"to the project. Using the buffer tool, a 30-m buffer",Attribute,Low,Moderate,High,Very High
+was created around each feature in the Flowline and,,(1 point) (2 points) (3 points),(1 point) (2 points) (3 points),(1 point) (2 points) (3 points),(4 points)
+Waterbody/Area layers.,Percent,,,,
+Data Source: Same as for percent forested land.,riparian forest,0 – 29,30 – 50,51 – 70,>70
+GIS Process:,cover (R),,,,
+"1. The raw, downloaded NLCD GeoTiffs were converted to",7. The HUC_NA shapefile was converted to a raster data,7. The HUC_NA shapefile was converted to a raster data,7. The HUC_NA shapefile was converted to a raster data,7. The HUC_NA shapefile was converted to a raster data,7. The HUC_NA shapefile was converted to a raster data
+GRID using ArcInfo workstation.,set with a pixel size of 30 m and the value field set to,set with a pixel size of 30 m and the value field set to,set with a pixel size of 30 m and the value field set to,set with a pixel size of 30 m and the value field set to,set with a pixel size of 30 m and the value field set to
+"2. Once each state file was a GRID, all the GRIDs were",the attribute Per_RIP_R. See step 6.,the attribute Per_RIP_R. See step 6.,the attribute Per_RIP_R. See step 6.,,
+"merged to create a single GRID, nlcd92_huc.",,,,,
+,Result: See following map.,Result: See following map.,Result: See following map.,,
+3. Forested Land was summarized using NLCD grid values,,,,,
+33 Transitional; 41 Deciduous Forest; 42 Evergreen,,,,,
+Forest; 43 Mixed Forest; 51 Shrubland; 91 Woody,,,,,
+Wetlands. The GRID was reclassified so all forested grid,,,,,
+"codes equaled “1” and all other grid codes equaled “0,”",,,,,
+nlcd_for.,,,,,
+"50 | Forests, Water, and People",,,,,

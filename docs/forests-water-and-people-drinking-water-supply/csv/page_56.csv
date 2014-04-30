@@ -1,0 +1,51 @@
+Name: “Table 1 of 1 on page 56 of 84”,Name: “Table 1 of 1 on page 56 of 84”,Name: “Table 1 of 1 on page 56 of 84”,Name: “Table 1 of 1 on page 56 of 84”,Name: “Table 1 of 1 on page 56 of 84”
+Table: 55,Table: 55,Table: 55,Table: 55,Table: 55
+,,,,
+Appendix B,,,,
+Data projection,,Latitude of Projection Origin: 23.000000,Latitude of Projection Origin: 23.000000,Latitude of Projection Origin: 23.000000
+All data was projected into the following coordinate,All data was projected into the following coordinate,False Easting: 0.000000,False Easting: 0.000000,
+system prior to each of the four steps to maintain the best,system prior to each of the four steps to maintain the best,False Northing: 0.000000,False Northing: 0.000000,
+possible accuracy.,,Horizontal Datum Name: North American Datum of 1983,Horizontal Datum Name: North American Datum of 1983,Horizontal Datum Name: North American Datum of 1983
+Projection: Albers Conical Equal Area,Projection: Albers Conical Equal Area,Ellipsoid Name: Geodetic Reference System 80,Ellipsoid Name: Geodetic Reference System 80,Ellipsoid Name: Geodetic Reference System 80
+Standard Parallel: 29.500000,,Semi-major Axis: 6378137.000000,Semi-major Axis: 6378137.000000,
+Standard Parallel: 45.500000,,Denominator of Flattening Ratio: 298.257222,Denominator of Flattening Ratio: 298.257222,Denominator of Flattening Ratio: 298.257222
+Longitude of Central Meridian: −96.000000,Longitude of Central Meridian: −96.000000,,,
+Step 1: Calculate Ability to Produce Clean Water,Step 1: Calculate Ability to Produce Clean Water,Step 1: Calculate Ability to Produce Clean Water,,
+Step 1 characterized the biophysical conditions in each,Step 1 characterized the biophysical conditions in each,"The six attributes in step 1 were then summed, resulting in","The six attributes in step 1 were then summed, resulting in","The six attributes in step 1 were then summed, resulting in"
+"watershed. This characterization, the ability to produce","watershed. This characterization, the ability to produce",a value of 6 to 24 for each 30-m grid cell. To summarize the,a value of 6 to 24 for each 30-m grid cell. To summarize the,a value of 6 to 24 for each 30-m grid cell. To summarize the
+"clean water (APCW), is an index of water quality and","clean water (APCW), is an index of water quality and","data by watershed, the values for all 30-m pixels in each","data by watershed, the values for all 30-m pixels in each","data by watershed, the values for all 30-m pixels in each"
+"watershed integrity based on six attributes: forest land,","watershed integrity based on six attributes: forest land,","watershed were averaged to produce a single score, with a","watershed were averaged to produce a single score, with a","watershed were averaged to produce a single score, with a"
+"agricultural land, riparian forest cover, road density, soil","agricultural land, riparian forest cover, road density, soil",minimum score of 6 and a maximum score of 24.,minimum score of 6 and a maximum score of 24.,minimum score of 6 and a maximum score of 24.
+"erodibility, and housing density. The forest land, agricultural","erodibility, and housing density. The forest land, agricultural",The APCW values were averaged to create a mean APCW for,The APCW values were averaged to create a mean APCW for,The APCW values were averaged to create a mean APCW for
+"land, and riparian forest buffer data was summarized by","land, and riparian forest buffer data was summarized by","a watershed. This mean was divided into 10 quantiles, with","a watershed. This mean was divided into 10 quantiles, with","a watershed. This mean was divided into 10 quantiles, with"
+watershed and converted to a 30-meter (30-m) spatial,watershed and converted to a 30-meter (30-m) spatial,the 1st quantile receiving a score of 10 (very high) and the,the 1st quantile receiving a score of 10 (very high) and the,the 1st quantile receiving a score of 10 (very high) and the
+"grid. The road density, soil erodibility, and housing density","grid. The road density, soil erodibility, and housing density",10 th quantile receiving a score of 1 (low).,10 th quantile receiving a score of 1 (low).,10 th quantile receiving a score of 1 (low).
+data were kept in their original 30-m grid format and not,data were kept in their original 30-m grid format and not,,,
+summarized by watershed. Each of the six attributes was,summarized by watershed. Each of the six attributes was,This step will generate a defensible and understandable,This step will generate a defensible and understandable,This step will generate a defensible and understandable
+scored from 1 to 4 (see Table 4 of the main report for more,scored from 1 to 4 (see Table 4 of the main report for more,analysis of current conditions. It also will highlight the,analysis of current conditions. It also will highlight the,analysis of current conditions. It also will highlight the
+detail on the attribute scoring) based on scientifically,detail on the attribute scoring) based on scientifically,watershed management challenges and opportunities on,watershed management challenges and opportunities on,watershed management challenges and opportunities on
+accepted standards. Where standards or parameters were,accepted standards. Where standards or parameters were,each site and across the entire region.,each site and across the entire region.,
+"not available, the data was divided into quartiles.","not available, the data was divided into quartiles.",,,
+Table B-1: GIS overlay process to estimate ability to produce clean water (APCW) for eight-digit HUC watersheds in the,Table B-1: GIS overlay process to estimate ability to produce clean water (APCW) for eight-digit HUC watersheds in the,Table B-1: GIS overlay process to estimate ability to produce clean water (APCW) for eight-digit HUC watersheds in the,Table B-1: GIS overlay process to estimate ability to produce clean water (APCW) for eight-digit HUC watersheds in the,Table B-1: GIS overlay process to estimate ability to produce clean water (APCW) for eight-digit HUC watersheds in the
+20-State study area.,,,,
+,,Scoring for 30-meter grid cell,Scoring for 30-meter grid cell,
+Attribute,,,,
+,Low (1 point),Moderate (2 points),High (3 points),Very High (4 points)
+Percent forest land (F),0 – 24,25 – 49,50 – 75,>75
+Percent agricultural land (A),>30,21 – 30,10 – 20,"
+    "
+Percent riparian forest cover (R),0 – 29,30 – 50,51 – 70,>70
+"Road density (D, quartiles)",75 – 100 th percentile,50 – 74th percentile,25 – 49 th percentile,0 – 24th percentile
+"Soil erodibility (S, k factor)",>0.34,0.28 – 0.34,0.2 – 0.28,0 – 0.2
+"Housing density (H, acres per","
+    ",0.6 – 5.0 acres/unit,5.0 – 20.0 acres/unit,> 20.0 acres/unit
+housing unit in 2000),,,(east),(east)
+,,,5.0 – 40.0 acres/unit,> 40.0 acres/unit
+,,,(west),(west)
+Total APCW,,F + A + R + D + S + H = APCW,F + A + R + D + S + H = APCW,
+,,Potential score 6 – 24,Potential score 6 – 24,
+Attribute,,Watershed Scoring,Watershed Scoring,
+,Low,High/moderate,High/moderate,High
+,(1 point),(2-9 points),(2-9 points),(10 points)
+Step 1 = Mean APCW for Watersheds,10 th quantile,2nd – 9 th quantile,2nd – 9 th quantile,1st quantile
+"46 | Forests, Water, and People",,,,
