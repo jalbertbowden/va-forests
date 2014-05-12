@@ -1,0 +1,45 @@
+Name: “Table 1 of 1 on page 30 of 46”,Name: “Table 1 of 1 on page 30 of 46”,Name: “Table 1 of 1 on page 30 of 46”,Name: “Table 1 of 1 on page 30 of 46”,Name: “Table 1 of 1 on page 30 of 46”
+Table: 30,Table: 30,Table: 30,Table: 30,Table: 30
+,,,,
+quality indicators. The variable u is,quality indicators. The variable u is,ln TRIPS = β1 + β2 TC + β3 SUB +,ln TRIPS = β1 + β2 TC + β3 SUB +,
+included to account for random error.,included to account for random error.,β4 INC + β5 HIGH + β6 AGE +,β4 INC + β5 HIGH + β6 AGE +,(4)
+Data for the VCT empirical model,Data for the VCT empirical model,,,
+,,β7 ΝΥΜ,β8 BIKE + β9 SEX + u .,
+were obtained from the on-site,,,,
+questionnaires (Appendix A). Only on-,questionnaires (Appendix A). Only on-,,,
+site visitors listing the VCT as their,site visitors listing the VCT as their,Variables listed in Equation 4 are,Variables listed in Equation 4 are,Variables listed in Equation 4 are
+primary destination are included.,Under,defined in Table EB-1. Regression,defined in Table EB-1. Regression,defined in Table EB-1. Regression
+"these conditions, the data are zero-",,parameters are represented by the vector,parameters are represented by the vector,parameters are represented by the vector
+truncated and endogenously stratified.,truncated and endogenously stratified.,of β’s and are estimated using LIMDEP.,of β’s and are estimated using LIMDEP.,of β’s and are estimated using LIMDEP.
+Failure to account for zero-truncation,Failure to account for zero-truncation,Travel distances and times used to,Travel distances and times used to,Travel distances and times used to
+has been shown to have large effects on,has been shown to have large effects on,compute the travel cost variable TC were,compute the travel cost variable TC were,compute the travel cost variable TC were
+model estimates (Zawacki et al 2000),model estimates (Zawacki et al 2000),estimated using PCMiler software. Two,estimated using PCMiler software. Two,estimated using PCMiler software. Two
+while the effects of endogenous,,versions of the model are estimated,versions of the model are estimated,versions of the model are estimated
+stratification have been shown to be,stratification have been shown to be,based on alternative assumptions about,based on alternative assumptions about,based on alternative assumptions about
+"relatively minor (Ovaskainen, Mikkola,","relatively minor (Ovaskainen, Mikkola,",this variable. The first version omits the,this variable. The first version omits the,this variable. The first version omits the
+"& Pouta, 2001). For the VCT, a zero","& Pouta, 2001). For the VCT, a zero","opportunity cost of travel time, while the","opportunity cost of travel time, while the","opportunity cost of travel time, while the"
+truncated negative binomial regression,truncated negative binomial regression,second version assumes a cost of travel,second version assumes a cost of travel,second version assumes a cost of travel
+specification is used. A number of,specification is used. A number of,time equaling 1⁄4 the household wage,time equaling 1⁄4 the household wage,time equaling 1⁄4 the household wage
+preliminary specifications and,,rate.,"Finally, the for error term, exp(u)","Finally, the for error term, exp(u)"
+assumptions were explored with the final,assumptions were explored with the final,is assumed to follow a gamma,is assumed to follow a gamma,
+model parameterized as follows:,,distribution with a mean of 1.0 and,distribution with a mean of 1.0 and,distribution with a mean of 1.0 and
+,,constant variance σ.,constant variance σ.,
+Table EB-1 — Definition of variables included in the VCT trips model.-,Table EB-1 — Definition of variables included in the VCT trips model.-,Table EB-1 — Definition of variables included in the VCT trips model.-,Table EB-1 — Definition of variables included in the VCT trips model.-,
+______________________________________________________________________,______________________________________________________________________,______________________________________________________________________,______________________________________________________________________,______________________________________________________________________
+Variable Name,Definition,,,
+TRIPS,Annual VCT trips by the traveling unit (mean=71).,Annual VCT trips by the traveling unit (mean=71).,Annual VCT trips by the traveling unit (mean=71).,
+TC,Distance ($0.131/mile) and time (valued at 1⁄4 the household wage,Distance ($0.131/mile) and time (valued at 1⁄4 the household wage,Distance ($0.131/mile) and time (valued at 1⁄4 the household wage,Distance ($0.131/mile) and time (valued at 1⁄4 the household wage
+,rate) travel cost (dollars) per VCT trip.,rate) travel cost (dollars) per VCT trip.,rate) travel cost (dollars) per VCT trip.,
+SUB,Binary variable indicating whether or not the respondent felt there,Binary variable indicating whether or not the respondent felt there,Binary variable indicating whether or not the respondent felt there,Binary variable indicating whether or not the respondent felt there
+,was a viable substitute for the VCT.,was a viable substitute for the VCT.,was a viable substitute for the VCT.,
+INC,Annual household income (1000s),Annual household income (1000s),,
+NUM,Number of people living in the household that use the VCT,Number of people living in the household that use the VCT,Number of people living in the household that use the VCT,
+AGE,Age of respondent (years),Age of respondent (years),,
+SEX,"Gender variable (male=1, female=0)","Gender variable (male=1, female=0)","Gender variable (male=1, female=0)",
+BIKE,"Activity variable (1= biking, 0 =all other activities)","Activity variable (1= biking, 0 =all other activities)","Activity variable (1= biking, 0 =all other activities)",
+HIGH,"Avidity variable (1= annual trips >30, 0= annual trips 
+    ","Avidity variable (1= annual trips >30, 0= annual trips 
+    ","Avidity variable (1= annual trips >30, 0= annual trips 
+    ","Avidity variable (1= annual trips >30, 0= annual trips 
+    "
+,30,30,,

@@ -1,0 +1,37 @@
+Name: “Table 1 of 1 on page 131 of 154”,Name: “Table 1 of 1 on page 131 of 154”,Name: “Table 1 of 1 on page 131 of 154”,Name: “Table 1 of 1 on page 131 of 154”
+Table: 131,Table: 131,Table: 131,Table: 131
+,,,
+,Number in household using the Creeper,Number in household using the Creeper,Number in household using the Creeper
+HOUSECR,Frequency,Percent,Cum. Percent
+2,81,57.04,57.04
+4,21,14.79,71.83
+1,20,14.08,85.92
+3,13,9.15,95.07
+5,6,4.23,99.30
+6,1,0.70,100.00
+Total,142,100.00%,
+"Mean= 2.40, Median= 2, Standard Deviation= 1.07, Max= 6","Mean= 2.40, Median= 2, Standard Deviation= 1.07, Max= 6","Mean= 2.40, Median= 2, Standard Deviation= 1.07, Max= 6",
+,,Education Level,
+EDU,Frequency,Percent,Cum Percent
+College,98,69.50,69.50
+Other,34,24.11,93.62
+High School,9,6.38,100.00
+Total,141,100.00%,
+,,Respondents Age,
+AGE,Frequency,Percent,Cum. Percent
+46-55,51,35.42,35.42
+36-45,47,32.64,68.06
+56-65,18,12.50,80.56
+26-35,15,10.42,90.97
+>65,7,4.86,95.83
+16-25,6,4.17,100.00
+Total,144,100.00%,
+"Mean= 46, Median= 46",,,
+,,Employment Status,
+EMPLOY,Frequency,Percent,Cum. Percent
+Employed,121,83.45,83.45
+Retired,13,8.97,92.41
+Student,7,4.83,97.24
+Not Employed,4,2.76,100.00
+Total,145,100.00%,
+,,125,

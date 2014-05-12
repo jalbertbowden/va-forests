@@ -1,0 +1,33 @@
+Name: “Table 1 of 1 on page 152 of 154”,Name: “Table 1 of 1 on page 152 of 154”,Name: “Table 1 of 1 on page 152 of 154”
+Table: 152,Table: 152,Table: 152
+,,
+Appendix D – Significance Test,Appendix D – Significance Test,
+Local- Winter/Summer Trips,Local- Winter/Summer Trips,
+,11.45 – 12.20,
+tstat,=,
+,Sqrt ( 106.17/854 + 92.22/782),Sqrt ( 106.17/854 + 92.22/782)
+"t-stat = -1.52, t-crit = -1.96","t-stat = -1.52, t-crit = -1.96",
+Fail to reject the hypothesis that there is a significant difference between winter and summer trips,Fail to reject the hypothesis that there is a significant difference between winter and summer trips,Fail to reject the hypothesis that there is a significant difference between winter and summer trips
+made by locals.,,
+PPDU-Winter/Summer Expenditures,PPDU-Winter/Summer Expenditures,
+,37.22 -,62.39
+t-stat = Sqrt (1763.67/33 + 6844.49/136),t-stat = Sqrt (1763.67/33 + 6844.49/136),
+"t-stat = -2.47, t-crit = -1.96","t-stat = -2.47, t-crit = -1.96",
+Accept the hypothesis that there is a significant difference between winter and summer,Accept the hypothesis that there is a significant difference between winter and summer,Accept the hypothesis that there is a significant difference between winter and summer
+expenditures.,,
+PPON-Winter/Summer Expenditures,PPON-Winter/Summer Expenditures,
+,445.96 -,352.90
+t-stat = Sqrt (215935.48/26 + 163141.38/121),t-stat = Sqrt (215935.48/26 + 163141.38/121),
+"t-stat = .947, t-crit = 1.96","t-stat = .947, t-crit = 1.96",
+No significant difference.,No significant difference.,
+NPDU- Winter/Summer Expenditures,NPDU- Winter/Summer Expenditures,
+,24.39 – 61.36,
+t-stat = Sqrt (552.87/6 + 21261.65/17),t-stat = Sqrt (552.87/6 + 21261.65/17),
+"t-stat = -1.009, t-crit = -2.069","t-stat = -1.009, t-crit = -2.069",
+No significant difference,No significant difference,
+NPON - Winter/Summer Expenditures,NPON - Winter/Summer Expenditures,
+,27.85 – 22.47,
+t-stat = Sqrt (2277.02/24 + 668.94/70),t-stat = Sqrt (2277.02/24 + 668.94/70),
+"t-stat = .526, t-crit = 1.98","t-stat = .526, t-crit = 1.98",
+No significant difference,No significant difference,
+,,146

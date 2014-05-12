@@ -1,0 +1,36 @@
+Name: “Table 1 of 1 on page 135 of 154”,Name: “Table 1 of 1 on page 135 of 154”,Name: “Table 1 of 1 on page 135 of 154”,Name: “Table 1 of 1 on page 135 of 154”,Name: “Table 1 of 1 on page 135 of 154”,Name: “Table 1 of 1 on page 135 of 154”
+Table: 135,Table: 135,Table: 135,Table: 135,Table: 135,Table: 135
+,,,,,
+,,Number in group and Visits to VCT,Number in group and Visits to VCT,Number in group and Visits to VCT,
+,n,Mean,Median,Standard Deviation,Max
+NUM,23,4.52,4,3.92,17
+CRVISITIS,23,7.52,1,19.68,85
+Creeper visits represent number of annual trips.,Creeper visits represent number of annual trips.,Creeper visits represent number of annual trips.,Creeper visits represent number of annual trips.,,
+,,Travel time and Distance to VCT,Travel time and Distance to VCT,,
+,n,Mean,Median,Standard Deviation,Max
+DISTANCE,24,317.65,289,284.61,1125
+TIMETO,24,333.82,256,296.58,1237
+Distance is in miles and time in minutes.,Distance is in miles and time in minutes.,Distance is in miles and time in minutes.,,,
+Household Size,,,,,
+,HOUSE,Frequency,Percent,Cum. Percent,
+,2,8,34.78,34.78,
+,3,4,17.39,52.17,
+,4,4,17.39,69.57,
+,7,3,13.04,82.61,
+,5,2,8.70,91.30,
+,1,1,4.35,95.65,
+,6,1,4.35,100.00,
+,Total,23,100.00%,,
+"Mean= 3.56, Median= 3, Standard Deviation= 1.82, Max= 7","Mean= 3.56, Median= 3, Standard Deviation= 1.82, Max= 7","Mean= 3.56, Median= 3, Standard Deviation= 1.82, Max= 7","Mean= 3.56, Median= 3, Standard Deviation= 1.82, Max= 7",,
+,,Number in household using the Creeper,Number in household using the Creeper,Number in household using the Creeper,
+,HOUSECR,Frequency,Percent,Cum. Percent,
+,2,9,39.13,39.13,
+,1,4,17.39,56.52,
+,3,3,13.04,69.57,
+,4,3,13.04,82.61,
+,7,2,8.70,91.30,
+,5,1,4.35,95.65,
+,6,1,4.35,100.00,
+,Total,23,100.00%,,
+"Mean= 2.95, Median= 2, Standard Deviation= 1.82, Max= 7","Mean= 2.95, Median= 2, Standard Deviation= 1.82, Max= 7","Mean= 2.95, Median= 2, Standard Deviation= 1.82, Max= 7","Mean= 2.95, Median= 2, Standard Deviation= 1.82, Max= 7",,
+,,,129,,

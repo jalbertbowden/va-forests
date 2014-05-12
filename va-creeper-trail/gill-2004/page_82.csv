@@ -1,0 +1,26 @@
+Name: “Table 1 of 1 on page 82 of 154”,Name: “Table 1 of 1 on page 82 of 154”,Name: “Table 1 of 1 on page 82 of 154”,Name: “Table 1 of 1 on page 82 of 154”
+Table: 82,Table: 82,Table: 82,Table: 82
+,,,
+implications do not affect the parameter estimates.,implications do not affect the parameter estimates.,"In the presence of multicollinearity, the",
+parameter estimates can be unbiased estimators of the population.,parameter estimates can be unbiased estimators of the population.,,
+,"In this thesis, a pair-wise correlation matrix was used to determine if multicollinearity","In this thesis, a pair-wise correlation matrix was used to determine if multicollinearity","In this thesis, a pair-wise correlation matrix was used to determine if multicollinearity"
+was present in the model.,When using a correlation matrix a good “rule of thumb” to determine,When using a correlation matrix a good “rule of thumb” to determine,When using a correlation matrix a good “rule of thumb” to determine
+if multicollinearity is a problem is a Pearson’s r greater than 0.8.,if multicollinearity is a problem is a Pearson’s r greater than 0.8.,Values greater than 0.8 indicate,Values greater than 0.8 indicate
+that multicollinearity may be a serious problem.,It should be noted that when using a pair-wise,It should be noted that when using a pair-wise,It should be noted that when using a pair-wise
+"correlation matrix for more than two explanatory variables, correlation between variables might","correlation matrix for more than two explanatory variables, correlation between variables might","correlation matrix for more than two explanatory variables, correlation between variables might","correlation matrix for more than two explanatory variables, correlation between variables might"
+"be present even at low-order correlation values (Gujarati 1988, p.299).","be present even at low-order correlation values (Gujarati 1988, p.299).",,
+,One method to correct for multicollinearity is to simply drop one of the correlated,One method to correct for multicollinearity is to simply drop one of the correlated,
+explanatory variables from the model.,"However, dropping an explanatory variable can lead to","However, dropping an explanatory variable can lead to","However, dropping an explanatory variable can lead to"
+"biased and inconsistent parameter estimates (Gujarati 1988, p.303).","biased and inconsistent parameter estimates (Gujarati 1988, p.303).",This can be a big problem,This can be a big problem
+when the variable in question is a theoretically relevant variable.,when the variable in question is a theoretically relevant variable.,When a relevant variable is,When a relevant variable is
+"omitted from the regression model, that variables effect is captured by the error term.","omitted from the regression model, that variables effect is captured by the error term.",The,
+assumptions of the classic linear regression model state that this error term has a constant,assumptions of the classic linear regression model state that this error term has a constant,assumptions of the classic linear regression model state that this error term has a constant,
+"variance and the mean of the error term is zero (Gujarati 1988, p.279).","variance and the mean of the error term is zero (Gujarati 1988, p.279).",Omitting a relevant,
+variable can lead to violations of these assumptions and result in biased parameter estimates and,variable can lead to violations of these assumptions and result in biased parameter estimates and,variable can lead to violations of these assumptions and result in biased parameter estimates and,variable can lead to violations of these assumptions and result in biased parameter estimates and
+misleading conclusions related to confidence intervals and significance tests,misleading conclusions related to confidence intervals and significance tests,"(Gujarati 1988,",
+p.403).,,,
+,The data in this thesis did not show that multicollinearity was a significant problem.,The data in this thesis did not show that multicollinearity was a significant problem.,The
+"highest correlation was found between HIGHUSE, BIKE, and TC.","highest correlation was found between HIGHUSE, BIKE, and TC.",The Pearson’s r for these,
+variables was -.538 and -.52 respectively.,Since these values are well within the range suggested,Since these values are well within the range suggested,Since these values are well within the range suggested
+"by Gujarati, the model was not altered to account for multicollinearity.","by Gujarati, the model was not altered to account for multicollinearity.",,
+,76,,

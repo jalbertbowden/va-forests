@@ -1,0 +1,49 @@
+Name: “Table 1 of 1 on page 32 of 46”,Name: “Table 1 of 1 on page 32 of 46”,Name: “Table 1 of 1 on page 32 of 46”,Name: “Table 1 of 1 on page 32 of 46”
+Table: 32,Table: 32,Table: 32,Table: 32
+,,,
+Table EB-2. Truncated negative binomial regression parameter estimates and,Table EB-2. Truncated negative binomial regression parameter estimates and,Table EB-2. Truncated negative binomial regression parameter estimates and,Table EB-2. Truncated negative binomial regression parameter estimates and
+standard errors of alternative cost specification models for annual VCT trips.,standard errors of alternative cost specification models for annual VCT trips.,standard errors of alternative cost specification models for annual VCT trips.,standard errors of alternative cost specification models for annual VCT trips.
+Variable,$.131 per mile,$.131 per mile,Mean
+,No time cost,1⁄4 the wage rate,
+,N= 801,N= 800,
+Constant,2.173,2.1648,
+,(.157),(.1599),
+TC,-.0235***,-.0137***,#
+,(.0011),(.0006),
+SUB,.0546,.0236,.37
+,(.0684),(.0684),
+INC,-.000002**,-.0000018*,"70,300"
+,(.000001),(.0000011),
+HIGH,2.961***,3.0108***,.46
+,(.0855),(.0834),
+AGE,.0022,.00209,47
+,(.0023),(.0023),
+NUM,.0019,-.02705,2.39
+,(.0261),(.0271),
+BIKE,-.2909***,-.3137***,.55
+,(.0716),(.0719),
+SEX,.1115*,.0999*,.54
+,(.0608),(.0621),
+Overdispersion σ,.6360***,.6449***,
+,(.0567),(.0577),
+*** Significant at the .01 level. **Significant at the .05 level. *Significant at the .10,*** Significant at the .01 level. **Significant at the .05 level. *Significant at the .10,*** Significant at the .01 level. **Significant at the .05 level. *Significant at the .10,*** Significant at the .01 level. **Significant at the .05 level. *Significant at the .10
+level.,,,
+# Mean travel costs are $25.01 and $40.22 for no time cost and 1⁄4 the wage rate time cost,# Mean travel costs are $25.01 and $40.22 for no time cost and 1⁄4 the wage rate time cost,# Mean travel costs are $25.01 and $40.22 for no time cost and 1⁄4 the wage rate time cost,# Mean travel costs are $25.01 and $40.22 for no time cost and 1⁄4 the wage rate time cost
+respectively.,,,
+Moore (1995) for the Heritage Trail was,,elasticities calculated at the mean travel,elasticities calculated at the mean travel
+"about 135,000 annual visits.",,"costs are -0.605 and -0.567, respectively.","costs are -0.605 and -0.567, respectively."
+,,These values are within the ranges,These values are within the ranges
+Price Elasticity,,reported by Siderelis and Moore (1995),reported by Siderelis and Moore (1995)
+The results of the regression analysis,,and Betz et al (2003) of -0.207 to -0.430,and Betz et al (2003) of -0.207 to -0.430
+above can also be used to calculate the,,"and -0.681, respectively.",
+"price elasticity of demand, ε p . The price",,Price elasticity between 0 and -1,Price elasticity between 0 and -1
+elasticity of demand is a unit-less,,suggests that as price or travel cost,suggests that as price or travel cost
+measure representing the percentage,,"increases, visits will decrease. However,","increases, visits will decrease. However,"
+change in trips in response to a given,,"price response is considered inelastic,","price response is considered inelastic,"
+percentage change in price. For the,,"i.e., the percentage decrease in visits will","i.e., the percentage decrease in visits will"
+"models estimated above, the price",,be less than the percentage increase in,be less than the percentage increase in
+"elasticity can be estimated as, ε p =β 2*TC,",,"price. For example, consider εp = -0.605","price. For example, consider εp = -0.605"
+"where, β 2 and TC are as defined above.",,and an average per trip travel cost of,and an average per trip travel cost of
+For the no time cost and 1⁄4 wage rate,,$25.01 from the no time cost model,$25.01 from the no time cost model
+time cost models above the price,,above. Imposing a $5 use fee (per group,above. Imposing a $5 use fee (per group
+,32,,

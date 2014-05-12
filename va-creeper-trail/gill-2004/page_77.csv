@@ -1,0 +1,27 @@
+Name: “Table 1 of 1 on page 77 of 154”,Name: “Table 1 of 1 on page 77 of 154”,Name: “Table 1 of 1 on page 77 of 154”,Name: “Table 1 of 1 on page 77 of 154”
+Table: 77,Table: 77,Table: 77,Table: 77
+,,,
+Truncated Negative Binomial Model,Truncated Negative Binomial Model,,
+,Background,,
+,The original truncated negative binomial model included all respondents to the detailed,The original truncated negative binomial model included all respondents to the detailed,The original truncated negative binomial model included all respondents to the detailed
+survey questionnaire.,survey questionnaire.,"However, this model failed to converge.",The model was run using
+LIMDEP econometric software.,LIMDEP econometric software.,When the model was selected to run it consistently shutdown,When the model was selected to run it consistently shutdown
+the software and all information was lost.,the software and all information was lost.,To examine trip behavior a histogram of trips was,To examine trip behavior a histogram of trips was
+constructed.,This histogram is presented in Figure 4.1.,This histogram is presented in Figure 4.1.,Annual local trips were constrained to
+365.,"As discussed in Chapter 3, local users may be introducing avidity bias into the model.","As discussed in Chapter 3, local users may be introducing avidity bias into the model.","As discussed in Chapter 3, local users may be introducing avidity bias into the model."
+Avidity bias occurs when the response of more frequent users over represent survey results,Avidity bias occurs when the response of more frequent users over represent survey results,Avidity bias occurs when the response of more frequent users over represent survey results,Avidity bias occurs when the response of more frequent users over represent survey results
+"(Johnson, Bowker, and Cordell 2001).","(Johnson, Bowker, and Cordell 2001).",While it is beyond the scope of this research to determine,While it is beyond the scope of this research to determine
+"if avidity bias is present among local and some nonlocal users, it is suspected that the number of","if avidity bias is present among local and some nonlocal users, it is suspected that the number of","if avidity bias is present among local and some nonlocal users, it is suspected that the number of","if avidity bias is present among local and some nonlocal users, it is suspected that the number of"
+trips taken by locals adversely effects the econometric model.,trips taken by locals adversely effects the econometric model.,trips taken by locals adversely effects the econometric model.,"In this case, locals living nearby"
+"use the trail so often, the econometric model cannot adequately construct a regression accounting","use the trail so often, the econometric model cannot adequately construct a regression accounting","use the trail so often, the econometric model cannot adequately construct a regression accounting","use the trail so often, the econometric model cannot adequately construct a regression accounting"
+for this behavior.,,,
+,Figure 4.1 shows a downward slope for the number of trips taken up to 30 annual trips.,Figure 4.1 shows a downward slope for the number of trips taken up to 30 annual trips.,Figure 4.1 shows a downward slope for the number of trips taken up to 30 annual trips.
+After this the histogram becomes erratic.,After this the histogram becomes erratic.,Users taking more than 30 annual trips do not follow,Users taking more than 30 annual trips do not follow
+the same behavior patterns as users taking less than 30 annual trips.,the same behavior patterns as users taking less than 30 annual trips.,the same behavior patterns as users taking less than 30 annual trips.,A binary variable was
+created to account for the difference in use patterns. This binary variable represents a taste and,created to account for the difference in use patterns. This binary variable represents a taste and,created to account for the difference in use patterns. This binary variable represents a taste and,created to account for the difference in use patterns. This binary variable represents a taste and
+preference variable.,Individuals who take more than 30 annual trips could have a preference for,Individuals who take more than 30 annual trips could have a preference for,Individuals who take more than 30 annual trips could have a preference for
+the trail not seen in users taking less than 30 annual trips.,the trail not seen in users taking less than 30 annual trips.,the trail not seen in users taking less than 30 annual trips.,
+,The travel cost model used in this thesis does not include nonprimary trips.,The travel cost model used in this thesis does not include nonprimary trips.,A
+fundamental assumption of the travel cost model is that each trip to the site is for the primary,fundamental assumption of the travel cost model is that each trip to the site is for the primary,fundamental assumption of the travel cost model is that each trip to the site is for the primary,fundamental assumption of the travel cost model is that each trip to the site is for the primary
+purpose of site use.,,,
+,,71,

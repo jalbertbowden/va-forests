@@ -1,0 +1,35 @@
+Name: “Table 1 of 1 on page 124 of 154”,Name: “Table 1 of 1 on page 124 of 154”,Name: “Table 1 of 1 on page 124 of 154”,Name: “Table 1 of 1 on page 124 of 154”,Name: “Table 1 of 1 on page 124 of 154”,Name: “Table 1 of 1 on page 124 of 154”
+Table: 124,Table: 124,Table: 124,Table: 124,Table: 124,Table: 124
+,,,,,
+,,,Per Trip VCT Use,,
+,CRUSE,Frequency,Percent,Cum. Percent,
+,1,158,95.18,95.18,
+,2,2,1.20,96.39,
+,4,2,1.20,97.59,
+,5,2,1.20,98.80,
+,6,1,0.60,99.40,
+,10,1,0.60,100.00,
+,Total,166,100.00%,,
+"Mean= 1.18, Median= 1, Standard Deviation= 0.96, Max= 10","Mean= 1.18, Median= 1, Standard Deviation= 0.96, Max= 10","Mean= 1.18, Median= 1, Standard Deviation= 0.96, Max= 10","Mean= 1.18, Median= 1, Standard Deviation= 0.96, Max= 10",,
+,,Number in group and Visits to VCT,Number in group and Visits to VCT,,
+,n,Mean,Median,Standard Deviation,Max
+NUM,167,3.46,3,2.73,15
+CRVISITIS,168,6.80,2.5,14.63,150
+Creeper visits represent number of annual trips.,Creeper visits represent number of annual trips.,Creeper visits represent number of annual trips.,Creeper visits represent number of annual trips.,,
+,,Travel time and Distance to VCT,Travel time and Distance to VCT,,
+,n,Mean,Median,Standard Deviation,Max
+DISTANCE,165,121.15,91.2,121.94,987
+TIMETO,165,142.58,125,125.37,1042
+Distance is in miles and time in minutes.,Distance is in miles and time in minutes.,Distance is in miles and time in minutes.,,,
+,,,Household Size,,
+,HOUSE,Frequency,Percent,Cum. Percent,
+,2,68,41.21,41.21,
+,4,37,22.42,63.64,
+,3,34,20.61,84.24,
+,1,11,6.67,90.91,
+,5,9,5.45,96.36,
+,6,5,3.03,99.39,
+,8,1,0.61,100.00,
+,Total,165,100.00%,,
+"Mean= 2.90, Median= 3, Standard Deviation= 1.24, Max= 8","Mean= 2.90, Median= 3, Standard Deviation= 1.24, Max= 8","Mean= 2.90, Median= 3, Standard Deviation= 1.24, Max= 8","Mean= 2.90, Median= 3, Standard Deviation= 1.24, Max= 8",,
+,,,118,,

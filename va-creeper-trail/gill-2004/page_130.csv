@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 130 of 154”,Name: “Table 1 of 1 on page 130 of 154”,Name: “Table 1 of 1 on page 130 of 154”,Name: “Table 1 of 1 on page 130 of 154”
+Table: 130,Table: 130,Table: 130,Table: 130
+,,,
+,Lodging Type,Lodging Type,
+LODG,Frequency,Percent,Cum. Percent
+Motel/Hotel,50,34.72,34.72
+Gov. Camp,36,25.00,59.72
+B&B,22,15.28,75.00
+Cottages,16,11.11,86.11
+Private Camp,14,9.72,95.83
+Private Home,4,2.78,98.61
+Trail Camp,1,0.69,99.31
+Other,1,0.69,100.00
+Total,144,100.00%,
+,Nights away from home,Nights away from home,
+NIGHTS,Frequency,Percent,Cum. Percent
+2,55,37.67,37.67
+1,28,19.18,56.85
+3,28,19.18,76.03
+4,15,10.27,86.30
+5,6,4.11,90.41
+8,4,2.74,93.15
+0,2,1.37,94.52
+7,2,1.37,95.89
+14,2,1.37,97.26
+6,1,0.68,97.95
+10,1,0.68,98.63
+13,1,0.68,99.32
+15,1,0.68,100.00
+Total,146,100.00%,
+"Mean= 2.94, Median= 2, Standard Deviation= 2.49, Max= 15","Mean= 2.94, Median= 2, Standard Deviation= 2.49, Max= 15","Mean= 2.94, Median= 2, Standard Deviation= 2.49, Max= 15",
+,Household Size,Household Size,
+HOUSE,Frequency,Percent,Cum. Percent
+2,56,39.44,39.44
+4,35,24.65,64.08
+3,23,16.20,80.28
+5,13,9.15,89.44
+1,11,7.75,97.18
+6,4,2.82,100.00
+Total,142,100.00%,
+"Mean= 2.96, Median= 3, Standard Deviation= 1.25, Max= 6","Mean= 2.96, Median= 3, Standard Deviation= 1.25, Max= 6","Mean= 2.96, Median= 3, Standard Deviation= 1.25, Max= 6",
+,,124,

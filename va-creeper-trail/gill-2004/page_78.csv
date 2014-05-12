@@ -1,0 +1,27 @@
+Name: “Table 1 of 1 on page 78 of 154”,Name: “Table 1 of 1 on page 78 of 154”,Name: “Table 1 of 1 on page 78 of 154”,Name: “Table 1 of 1 on page 78 of 154”,Name: “Table 1 of 1 on page 78 of 154”,Name: “Table 1 of 1 on page 78 of 154”,Name: “Table 1 of 1 on page 78 of 154”,Name: “Table 1 of 1 on page 78 of 154”,Name: “Table 1 of 1 on page 78 of 154”
+Table: 78,Table: 78,Table: 78,Table: 78,Table: 78,Table: 78,Table: 78,Table: 78,Table: 78
+,,,,,,,,
+,Figure 4.1 – Histogram of Annual Trips to the Virginia Creeper Trail,Figure 4.1 – Histogram of Annual Trips to the Virginia Creeper Trail,Figure 4.1 – Histogram of Annual Trips to the Virginia Creeper Trail,Figure 4.1 – Histogram of Annual Trips to the Virginia Creeper Trail,Figure 4.1 – Histogram of Annual Trips to the Virginia Creeper Trail,Figure 4.1 – Histogram of Annual Trips to the Virginia Creeper Trail,Figure 4.1 – Histogram of Annual Trips to the Virginia Creeper Trail,Figure 4.1 – Histogram of Annual Trips to the Virginia Creeper Trail
+,Histogram,for,Variable,Variable,TRIPS,,,
+,600,,,,,,,
+,450,,,,,,,
+,300,,,,,,,
+,150,,,,,,,
+,0,,,,,,,
+,1.000,58.000,115.000,172.000,229.000,286.000,343.000,400.000
+,,,,,TRIPS,,,
+Bin,Lower limit,Upper limit,,Frequency,Frequency,Cumulative Frequency,Cumulative Frequency,Cumulative Frequency
+========================================================================,========================================================================,========================================================================,========================================================================,========================================================================,========================================================================,========================================================================,========================================================================,========================================================================
+0,1.000,10.000,,,542 (.5257),,542(.5257),542(.5257)
+1,10.000,20.000,,,82 (.0795),,624(.6052),624(.6052)
+2,20.000,30.000,,,16 (.0155),,640(.6208),640(.6208)
+3,30.000,50.000,,,124 (.1203),,764(.7410),764(.7410)
+4,50.000,75.000,,,6 (.0058),,770(.7468),770(.7468)
+5,75.000,100.000,,,67 (.0650),,837(.8118),837(.8118)
+6,100.000,150.000,,,1 (.0010),,838(.8128),838(.8128)
+7,150.000,200.000,,,65 (.0630),,903(.8758),903(.8758)
+8,200.000,250.000,,,73 (.0708),,976(.9467),976(.9467)
+9,250.000,300.000,,,1 (.0010),,977(.9476),977(.9476)
+10,300.000,350.000,,,1 (.0010),,978(.9486),978(.9486)
+11,350.000**************,350.000**************,,,53 (.0514),,1031(1.0000),1031(1.0000)
+,,,,72,,,,

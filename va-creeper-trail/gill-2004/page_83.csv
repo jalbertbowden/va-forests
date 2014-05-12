@@ -1,0 +1,33 @@
+Name: “Table 1 of 1 on page 83 of 154”,Name: “Table 1 of 1 on page 83 of 154”,Name: “Table 1 of 1 on page 83 of 154”,Name: “Table 1 of 1 on page 83 of 154”
+Table: 83,Table: 83,Table: 83,Table: 83
+,,,
+Table 4.6 – Maximum likelihood parameter estimates and standard errors of alternative,Table 4.6 – Maximum likelihood parameter estimates and standard errors of alternative,Table 4.6 – Maximum likelihood parameter estimates and standard errors of alternative,Table 4.6 – Maximum likelihood parameter estimates and standard errors of alternative
+,cost specification models for annual VCT trips,cost specification models for annual VCT trips,
+Variable,$.131 per mile,$.131 per mile,Mean
+,No time cost,1⁄4 the wage rate,
+,N= 801,N= 800,
+Constant,2.173,2.1648,
+,(.157),(.1599),
+TC,-.0235***,-.0137***,#
+,(.0011),(.0006),
+SUB,.0546,.0236,.37
+,(.0684),(.0684),
+INCOME,-.000002**,-.0000018*,"70,300"
+,(.000001),(.0000011),
+HIGHUSE,2.961***,3.0108***,.46
+,(.0855),(.0834),
+AGE,.0022,.00209,47
+,(.0023),(.0023),
+NUM,.0019,-.02705,2.39
+,(.0261),(.0271),
+BIKE,-.2909***,-.3137***,.55
+,(.0716),(.0719),
+MALE,.1115*,.0999*,.54
+,(.0608),(.0621),
+Overdispersion Parameter,.6360***,.6449***,
+,(.0567),(.0577),
+Restricted log likelihood,"-15,909.1",-15971.1,
+*** Significant at the .01 level.,**Significant at the .05 level.,*Significant at the .10 level.,
+# Mean travel cost for at zero time cost is $25.01 and the mean travel cost at 1⁄4 the wage rate is,# Mean travel cost for at zero time cost is $25.01 and the mean travel cost at 1⁄4 the wage rate is,# Mean travel cost for at zero time cost is $25.01 and the mean travel cost at 1⁄4 the wage rate is,# Mean travel cost for at zero time cost is $25.01 and the mean travel cost at 1⁄4 the wage rate is
+$40.22.,,,
+,77,,

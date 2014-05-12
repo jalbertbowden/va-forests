@@ -1,0 +1,38 @@
+Name: “Table 1 of 1 on page 139 of 154”,Name: “Table 1 of 1 on page 139 of 154”,Name: “Table 1 of 1 on page 139 of 154”,Name: “Table 1 of 1 on page 139 of 154”,Name: “Table 1 of 1 on page 139 of 154”,Name: “Table 1 of 1 on page 139 of 154”,Name: “Table 1 of 1 on page 139 of 154”,Name: “Table 1 of 1 on page 139 of 154”
+Table: 139,Table: 139,Table: 139,Table: 139,Table: 139,Table: 139,Table: 139,Table: 139
+,,,,,,,
+,,,Per Trip VCT Use,Per Trip VCT Use,Per Trip VCT Use,,
+,CRUSE,Frequency,,Percent,Percent,Cum. Percent,
+,1,,55,58.51,58.51,58.51,
+,2,,24,25.53,25.53,84.04,
+,4,,4,4.26,4.26,88.30,
+,3,,3,3.19,3.19,91.49,
+,10,,3,3.19,3.19,94.68,
+,6,,2,2.13,2.13,96.81,
+,7,,1,1.06,1.06,97.87,
+,11,,1,1.06,1.06,98.94,
+,20,,1,1.06,1.06,100.00,
+,Total,,94,100.00%,100.00%,,
+"Mean= 2.21, Median= 1, Standard Deviation= 2.78, Max= 20","Mean= 2.21, Median= 1, Standard Deviation= 2.78, Max= 20","Mean= 2.21, Median= 1, Standard Deviation= 2.78, Max= 20","Mean= 2.21, Median= 1, Standard Deviation= 2.78, Max= 20","Mean= 2.21, Median= 1, Standard Deviation= 2.78, Max= 20","Mean= 2.21, Median= 1, Standard Deviation= 2.78, Max= 20",,
+,,Number in group and Visits to VCT,Number in group and Visits to VCT,Number in group and Visits to VCT,Number in group and Visits to VCT,,
+,n,,Mean,Median,Median,Standard Deviation,Max
+NUM,94,,3.23,2,,3.36,20
+CRVISITIS,94,,2.08,1,,2.69,15
+Creeper visits represent number of annual trips.,Creeper visits represent number of annual trips.,Creeper visits represent number of annual trips.,Creeper visits represent number of annual trips.,Creeper visits represent number of annual trips.,Creeper visits represent number of annual trips.,,
+,,Travel time and Distance to VCT,Travel time and Distance to VCT,Travel time and Distance to VCT,Travel time and Distance to VCT,,
+,n,,Mean,Median,Median,Standard Deviation,Max
+DISTANCE,93,484.7,,309,309,542.53,2690.0
+TIMETO,93,495.3,,325,325,523.88,3048
+Distance is in miles and time in minutes.,Distance is in miles and time in minutes.,Distance is in miles and time in minutes.,,,,,
+,,,,Lodging Type,Lodging Type,,
+,LODG,Frequency,Frequency,Frequency,Percent,Cum. Percent,
+,Private Home,,29,,31.18,31.18,
+,Motel/Hotel,,25,,26.88,58.06,
+,Gov. Camp,,13,,13.98,72.04,
+,B&B,,7,,7.53,79.57,
+,Trail Camp,,7,,7.53,87.10,
+,Other,,5,,5.38,92.47,
+,Cottages,,4,,4.30,96.77,
+,Private Camp,,3,,3.23,100.00,
+,Total,,93,93,100.00%,,
+,,,,,133,,

@@ -1,0 +1,38 @@
+Name: “Table 1 of 1 on page 125 of 154”,Name: “Table 1 of 1 on page 125 of 154”,Name: “Table 1 of 1 on page 125 of 154”,Name: “Table 1 of 1 on page 125 of 154”
+Table: 125,Table: 125,Table: 125,Table: 125
+,,,
+,Number in household using the Creeper,Number in household using the Creeper,Number in household using the Creeper
+HOUSECR,Frequency,Percent,Cum. Percent
+2,80,48.78,48.78
+3,29,17.68,66.46
+1,24,14.63,81.10
+4,21,12.80,93.90
+5,6,3.66,97.56
+6,4,2.44,100.00
+Total,164,100.00%,
+"Mean= 2.49, Median= 2, Standard Deviation= 1.14, Max= 6","Mean= 2.49, Median= 2, Standard Deviation= 1.14, Max= 6","Mean= 2.49, Median= 2, Standard Deviation= 1.14, Max= 6",
+,,Education Level,
+EDU,Frequency,Percent,Cum. Percent
+College,119,71.26,71.26
+Other,35,20.96,92.22
+High School,13,7.78,100.00
+Total,167,,100.00%
+,,Respondents Age,
+AGE,Frequency,Percent,Cum. Percent
+46-55,54,32.73,32.73
+36-45,42,25.45,58.18
+56-65,29,17.58,75.76
+26-35,22,13.33,89.09
+16-25,10,6.06,95.15
+over 65,8,4.85,100.00
+Total,165,100.00%,
+"Mean= 46.19, Median= 50.5",,,
+,,Employment Status,
+EMPLOY,Frequency,Percent,Cum. Percent
+Employed,131,78.44,78.44
+Retired,21,12.57,91.02
+Student,8,4.79,95.81
+Not working,4,2.40,98.20
+Part time,3,1.80,100.00
+Total,167,100.00%,
+,,119,

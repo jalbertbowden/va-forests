@@ -1,0 +1,20 @@
+Name: “Table 1 of 1 on page 59 of 154”,Name: “Table 1 of 1 on page 59 of 154”
+Table: 59,Table: 59
+,
+Table 3.1 — Definition of Variables Used to Estimate Demand and Value for VCT Trips,Table 3.1 — Definition of Variables Used to Estimate Demand and Value for VCT Trips
+Variable Name,Definition
+TRIPS,The annual number of trips taken to the VCT
+TC,"Distance costs and the opportunity cost of time, valued at 1⁄4 the wage rate,"
+,for VCT trips.
+SUB,Binary variable indicating whether or not the respondent felt there was a
+,viable substitute for the VCT.
+INCOME,Annual household income (1000s)
+NUM,Number of people living in the household that use the VCT
+AGE,Age of respondent
+MALE,Binary variable where male=1 and female=0
+BIKE,"Binary variable for primary activity on the VCT, 1= biking and 0 = other"
+,activities
+HIGHUSE,"Binary variable for more than 30 annual VCT trips, 1= trips >30 and 0="
+,"trips 
+    "
+,53

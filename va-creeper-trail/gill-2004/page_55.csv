@@ -1,0 +1,26 @@
+Name: “Table 1 of 1 on page 55 of 154”,Name: “Table 1 of 1 on page 55 of 154”,Name: “Table 1 of 1 on page 55 of 154”
+Table: 55,Table: 55,Table: 55
+,,
+aThe substitute rail trail question as it appeared in the local survey.,aThe substitute rail trail question as it appeared in the local survey.,
+bThe substitute rail trail question as it appeared in the nonlocal survey.,bThe substitute rail trail question as it appeared in the nonlocal survey.,
+cThe follow up question asking nonlocals the name and state where the substitute rail trail is located.,cThe follow up question asking nonlocals the name and state where the substitute rail trail is located.,cThe follow up question asking nonlocals the name and state where the substitute rail trail is located.
+Eighty-seven percent of the local population felt there was no available substitute rail,Eighty-seven percent of the local population felt there was no available substitute rail,Eighty-seven percent of the local population felt there was no available substitute rail
+trail for the VCT.,Sixty two percent of the nonlocal population felt they had a viable alternative,Sixty two percent of the nonlocal population felt they had a viable alternative
+"to the VCT, but less than forty percent of these respondents actually gave the name of that","to the VCT, but less than forty percent of these respondents actually gave the name of that","to the VCT, but less than forty percent of these respondents actually gave the name of that"
+recreation alternative.,Since the substitute question was asked in a different manner to locals and,Since the substitute question was asked in a different manner to locals and
+"nonlocals, the substitute variable needed to be changed for use in the model.","nonlocals, the substitute variable needed to be changed for use in the model.","In this case, the"
+variables where changed into binary responses.,"For ease of entry, local responses where entered","For ease of entry, local responses where entered"
+by recording each letter as a single digit number starting at one.,by recording each letter as a single digit number starting at one.,"Therefore, locals who reported"
+no trips to other rail trails were changed to zero and locals who reported at least one trip to,no trips to other rail trails were changed to zero and locals who reported at least one trip to,no trips to other rail trails were changed to zero and locals who reported at least one trip to
+another rail trail were changed to one.,For the nonlocals the respondent indicated the number of,For the nonlocals the respondent indicated the number of
+times they visited another rail trail.,A nonlocal response of zero was not changed.,Nonlocal
+responses greater than zero were changed to one. These changes were incorporated into a single,responses greater than zero were changed to one. These changes were incorporated into a single,responses greater than zero were changed to one. These changes were incorporated into a single
+binary substitute variable.,,
+Socioeconomic Characteristics,,
+Socioeconomic variables help to explain the differences in trips demanded by individuals.,Socioeconomic variables help to explain the differences in trips demanded by individuals.,Socioeconomic variables help to explain the differences in trips demanded by individuals.
+"Important determinants of demand include income, age, education, race, gender, occupation,","Important determinants of demand include income, age, education, race, gender, occupation,","Important determinants of demand include income, age, education, race, gender, occupation,"
+"vacation days, hours worked, and region of residence (Loomis and Walsh 1997, p.87-88). The","vacation days, hours worked, and region of residence (Loomis and Walsh 1997, p.87-88). The","vacation days, hours worked, and region of residence (Loomis and Walsh 1997, p.87-88). The"
+literature indicates no standard of what should be included in every travel cost model.,literature indicates no standard of what should be included in every travel cost model.,Englin
+"and Shonkwiler (1995) used household income, age, gender, and education variables to describe","and Shonkwiler (1995) used household income, age, gender, and education variables to describe","and Shonkwiler (1995) used household income, age, gender, and education variables to describe"
+hikers on Pacific Northwestern trails.,Fix and Loomis (1997) only used an age variable in their,Fix and Loomis (1997) only used an age variable in their
+,49,
